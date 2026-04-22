@@ -1,0 +1,115 @@
+ID,Prompt,Topic,Raw 1,Error
+161,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_check_out"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+check out time",good_check_out,"- check out
+- no evident not check out
+- time
+- no evident not time",
+310,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_check_out"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+hotel allowed us to check out later prior to our flight.",good_check_out,"- hotel allowed
+- no evident not allowed
+- check out later
+- no evident not check out later
+- prior to flight
+- no evident not flight",
+314,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_check_out"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+super fast checkin/checkout",good_check_out,"- fast checkin
+- no evident not fast checkin
+- fast checkout
+- no evident not fast checkout",
+542,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_check_out"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+We left at night with no problems.",good_check_out,"- no problems
+- no evident not problems
+- left at night
+- no evident not left",
+639,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_check_out"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+They accommodated us with an earlier check-in and earlier check-out.",good_check_out,"- accommodated earlier check-in
+- no evident not accommodated earlier check-in
+- accommodated earlier check-out
+- no evident not accommodated earlier check-out",
+660,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_check_out"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The hotel allowed us, at no extra cost, a late arrival and a late departure (at 1:30 p.m.).",good_check_out,"- hotel allowed late departure
+- no evident not late departure
+- no extra cost
+- no evident not no extra cost
+- hotel allowed late arrival
+- no evident not late arrival",
+711,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_check_out"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+possibility for late check out",good_check_out,"- possibility for late check out
+- no evident not possibility for late check out",
+769,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_check_out"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+4. the hotel did not allow to turn over a couple of hours before the delayed plane;",bad_check_out,"- hotel not allow turn over hours
+- have evident allow turn over hours
+- have delayed plane
+- have evident not delayed plane",

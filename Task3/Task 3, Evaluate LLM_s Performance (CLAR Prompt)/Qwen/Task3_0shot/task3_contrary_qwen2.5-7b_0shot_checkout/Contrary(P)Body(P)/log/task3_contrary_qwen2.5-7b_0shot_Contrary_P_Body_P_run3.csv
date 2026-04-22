@@ -1,0 +1,193 @@
+Timestamp,Run,ID,PhraseA,PhraseB,Prompt,RawOutput
+2026-01-18 01:11:07,3,1,no_evident_not_good_check-out_time,good_check-out_time,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is good_check-out_time. Phrase A is no_evident_not_good_check-out_time.",Yes
+2026-01-18 01:11:07,3,2,no_evident_not_good_check-out_time,allow_to_check-out_later,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is allow_to_check-out_later. Phrase A is no_evident_not_good_check-out_time.",No
+2026-01-18 01:11:08,3,3,no_evident_not_good_check-out_time,fast_check-out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is fast_check-out. Phrase A is no_evident_not_good_check-out_time.",No
+2026-01-18 01:11:08,3,4,no_evident_not_good_check-out_time,no_problem_left_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_problem_left_at_night. Phrase A is no_evident_not_good_check-out_time.",No
+2026-01-18 01:11:09,3,5,no_evident_not_good_check-out_time,staff_give_early_check-out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_give_early_check-out. Phrase A is no_evident_not_good_check-out_time.",No
+2026-01-18 01:11:10,3,6,no_evident_not_good_check-out_time,late_departure_no_extra_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is late_departure_no_extra_cost. Phrase A is no_evident_not_good_check-out_time.",No
+2026-01-18 01:11:10,3,7,no_evident_not_good_check-out_time,hotel_allow_late_departure,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is hotel_allow_late_departure. Phrase A is no_evident_not_good_check-out_time.",No
+2026-01-18 01:11:11,3,8,no_evident_not_good_check-out_time,possibility_for_late_check_out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is possibility_for_late_check_out. Phrase A is no_evident_not_good_check-out_time.",No
+2026-01-18 01:11:12,3,9,no_evident_not_allow_to_check-out_later,good_check-out_time,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is good_check-out_time. Phrase A is no_evident_not_allow_to_check-out_later.",Yes
+2026-01-18 01:11:12,3,10,no_evident_not_allow_to_check-out_later,allow_to_check-out_later,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is allow_to_check-out_later. Phrase A is no_evident_not_allow_to_check-out_later.",Yes
+2026-01-18 01:11:13,3,11,no_evident_not_allow_to_check-out_later,fast_check-out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is fast_check-out. Phrase A is no_evident_not_allow_to_check-out_later.",Yes
+2026-01-18 01:11:13,3,12,no_evident_not_allow_to_check-out_later,no_problem_left_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_problem_left_at_night. Phrase A is no_evident_not_allow_to_check-out_later.",No
+2026-01-18 01:11:14,3,13,no_evident_not_allow_to_check-out_later,staff_give_early_check-out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_give_early_check-out. Phrase A is no_evident_not_allow_to_check-out_later.",Yes
+2026-01-18 01:11:15,3,14,no_evident_not_allow_to_check-out_later,late_departure_no_extra_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is late_departure_no_extra_cost. Phrase A is no_evident_not_allow_to_check-out_later.",No
+2026-01-18 01:11:16,3,15,no_evident_not_allow_to_check-out_later,hotel_allow_late_departure,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is hotel_allow_late_departure. Phrase A is no_evident_not_allow_to_check-out_later.",Yes
+2026-01-18 01:11:16,3,16,no_evident_not_allow_to_check-out_later,possibility_for_late_check_out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is possibility_for_late_check_out. Phrase A is no_evident_not_allow_to_check-out_later.",Yes
+2026-01-18 01:11:17,3,17,no_evident_not_fast_check-out,good_check-out_time,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is good_check-out_time. Phrase A is no_evident_not_fast_check-out.",No
+2026-01-18 01:11:18,3,18,no_evident_not_fast_check-out,allow_to_check-out_later,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is allow_to_check-out_later. Phrase A is no_evident_not_fast_check-out.",No
+2026-01-18 01:11:18,3,19,no_evident_not_fast_check-out,fast_check-out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is fast_check-out. Phrase A is no_evident_not_fast_check-out.",Yes
+2026-01-18 01:11:19,3,20,no_evident_not_fast_check-out,no_problem_left_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_problem_left_at_night. Phrase A is no_evident_not_fast_check-out.",No
+2026-01-18 01:11:20,3,21,no_evident_not_fast_check-out,staff_give_early_check-out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_give_early_check-out. Phrase A is no_evident_not_fast_check-out.",No
+2026-01-18 01:11:21,3,22,no_evident_not_fast_check-out,late_departure_no_extra_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is late_departure_no_extra_cost. Phrase A is no_evident_not_fast_check-out.",No
+2026-01-18 01:11:21,3,23,no_evident_not_fast_check-out,hotel_allow_late_departure,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is hotel_allow_late_departure. Phrase A is no_evident_not_fast_check-out.",No
+2026-01-18 01:11:22,3,24,no_evident_not_fast_check-out,possibility_for_late_check_out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is possibility_for_late_check_out. Phrase A is no_evident_not_fast_check-out.",No
+2026-01-18 01:11:22,3,25,no_evident_not_no_problem_left_at_night,good_check-out_time,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is good_check-out_time. Phrase A is no_evident_not_no_problem_left_at_night.",No
+2026-01-18 01:11:23,3,26,no_evident_not_no_problem_left_at_night,allow_to_check-out_later,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is allow_to_check-out_later. Phrase A is no_evident_not_no_problem_left_at_night.",No
+2026-01-18 01:11:24,3,27,no_evident_not_no_problem_left_at_night,fast_check-out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is fast_check-out. Phrase A is no_evident_not_no_problem_left_at_night.",No
+2026-01-18 01:11:24,3,28,no_evident_not_no_problem_left_at_night,no_problem_left_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_problem_left_at_night. Phrase A is no_evident_not_no_problem_left_at_night.",No
+2026-01-18 01:11:25,3,29,no_evident_not_no_problem_left_at_night,staff_give_early_check-out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_give_early_check-out. Phrase A is no_evident_not_no_problem_left_at_night.",No
+2026-01-18 01:11:25,3,30,no_evident_not_no_problem_left_at_night,late_departure_no_extra_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is late_departure_no_extra_cost. Phrase A is no_evident_not_no_problem_left_at_night.",No
+2026-01-18 01:11:26,3,31,no_evident_not_no_problem_left_at_night,hotel_allow_late_departure,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is hotel_allow_late_departure. Phrase A is no_evident_not_no_problem_left_at_night.",No
+2026-01-18 01:11:27,3,32,no_evident_not_no_problem_left_at_night,possibility_for_late_check_out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is possibility_for_late_check_out. Phrase A is no_evident_not_no_problem_left_at_night.",No
+2026-01-18 01:11:27,3,33,no_evident_not_staff_give_early_check-out,good_check-out_time,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is good_check-out_time. Phrase A is no_evident_not_staff_give_early_check-out.",No
+2026-01-18 01:11:28,3,34,no_evident_not_staff_give_early_check-out,allow_to_check-out_later,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is allow_to_check-out_later. Phrase A is no_evident_not_staff_give_early_check-out.",No
+2026-01-18 01:11:29,3,35,no_evident_not_staff_give_early_check-out,fast_check-out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is fast_check-out. Phrase A is no_evident_not_staff_give_early_check-out.",No
+2026-01-18 01:11:29,3,36,no_evident_not_staff_give_early_check-out,no_problem_left_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_problem_left_at_night. Phrase A is no_evident_not_staff_give_early_check-out.",No
+2026-01-18 01:11:30,3,37,no_evident_not_staff_give_early_check-out,staff_give_early_check-out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_give_early_check-out. Phrase A is no_evident_not_staff_give_early_check-out.",Yes
+2026-01-18 01:11:30,3,38,no_evident_not_staff_give_early_check-out,late_departure_no_extra_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is late_departure_no_extra_cost. Phrase A is no_evident_not_staff_give_early_check-out.",No
+2026-01-18 01:11:31,3,39,no_evident_not_staff_give_early_check-out,hotel_allow_late_departure,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is hotel_allow_late_departure. Phrase A is no_evident_not_staff_give_early_check-out.",No
+2026-01-18 01:11:32,3,40,no_evident_not_staff_give_early_check-out,possibility_for_late_check_out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is possibility_for_late_check_out. Phrase A is no_evident_not_staff_give_early_check-out.",No
+2026-01-18 01:11:32,3,41,no_evident_not_late_departure_no_extra_cost,good_check-out_time,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is good_check-out_time. Phrase A is no_evident_not_late_departure_no_extra_cost.",No
+2026-01-18 01:11:33,3,42,no_evident_not_late_departure_no_extra_cost,allow_to_check-out_later,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is allow_to_check-out_later. Phrase A is no_evident_not_late_departure_no_extra_cost.",No
+2026-01-18 01:11:34,3,43,no_evident_not_late_departure_no_extra_cost,fast_check-out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is fast_check-out. Phrase A is no_evident_not_late_departure_no_extra_cost.",No
+2026-01-18 01:11:34,3,44,no_evident_not_late_departure_no_extra_cost,no_problem_left_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_problem_left_at_night. Phrase A is no_evident_not_late_departure_no_extra_cost.",No
+2026-01-18 01:11:35,3,45,no_evident_not_late_departure_no_extra_cost,staff_give_early_check-out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_give_early_check-out. Phrase A is no_evident_not_late_departure_no_extra_cost.",No
+2026-01-18 01:11:35,3,46,no_evident_not_late_departure_no_extra_cost,late_departure_no_extra_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is late_departure_no_extra_cost. Phrase A is no_evident_not_late_departure_no_extra_cost.",No
+2026-01-18 01:11:36,3,47,no_evident_not_late_departure_no_extra_cost,hotel_allow_late_departure,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is hotel_allow_late_departure. Phrase A is no_evident_not_late_departure_no_extra_cost.",No
+2026-01-18 01:11:37,3,48,no_evident_not_late_departure_no_extra_cost,possibility_for_late_check_out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is possibility_for_late_check_out. Phrase A is no_evident_not_late_departure_no_extra_cost.",No
+2026-01-18 01:11:37,3,49,no_evident_not_hotel_allow_late_departure,good_check-out_time,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is good_check-out_time. Phrase A is no_evident_not_hotel_allow_late_departure.",Yes
+2026-01-18 01:11:38,3,50,no_evident_not_hotel_allow_late_departure,allow_to_check-out_later,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is allow_to_check-out_later. Phrase A is no_evident_not_hotel_allow_late_departure.",Yes
+2026-01-18 01:11:39,3,51,no_evident_not_hotel_allow_late_departure,fast_check-out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is fast_check-out. Phrase A is no_evident_not_hotel_allow_late_departure.",No
+2026-01-18 01:11:39,3,52,no_evident_not_hotel_allow_late_departure,no_problem_left_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_problem_left_at_night. Phrase A is no_evident_not_hotel_allow_late_departure.",No
+2026-01-18 01:11:40,3,53,no_evident_not_hotel_allow_late_departure,staff_give_early_check-out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_give_early_check-out. Phrase A is no_evident_not_hotel_allow_late_departure.",No
+2026-01-18 01:11:41,3,54,no_evident_not_hotel_allow_late_departure,late_departure_no_extra_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is late_departure_no_extra_cost. Phrase A is no_evident_not_hotel_allow_late_departure.",No
+2026-01-18 01:11:41,3,55,no_evident_not_hotel_allow_late_departure,hotel_allow_late_departure,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is hotel_allow_late_departure. Phrase A is no_evident_not_hotel_allow_late_departure.",Yes
+2026-01-18 01:11:42,3,56,no_evident_not_hotel_allow_late_departure,possibility_for_late_check_out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is possibility_for_late_check_out. Phrase A is no_evident_not_hotel_allow_late_departure.",No
+2026-01-18 01:11:43,3,57,no_evident_not_possibility_for_late_check_out,good_check-out_time,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is good_check-out_time. Phrase A is no_evident_not_possibility_for_late_check_out.",Yes
+2026-01-18 01:11:43,3,58,no_evident_not_possibility_for_late_check_out,allow_to_check-out_later,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is allow_to_check-out_later. Phrase A is no_evident_not_possibility_for_late_check_out.",Yes
+2026-01-18 01:11:44,3,59,no_evident_not_possibility_for_late_check_out,fast_check-out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is fast_check-out. Phrase A is no_evident_not_possibility_for_late_check_out.",Yes
+2026-01-18 01:11:45,3,60,no_evident_not_possibility_for_late_check_out,no_problem_left_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_problem_left_at_night. Phrase A is no_evident_not_possibility_for_late_check_out.",No
+2026-01-18 01:11:45,3,61,no_evident_not_possibility_for_late_check_out,staff_give_early_check-out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_give_early_check-out. Phrase A is no_evident_not_possibility_for_late_check_out.",No
+2026-01-18 01:11:46,3,62,no_evident_not_possibility_for_late_check_out,late_departure_no_extra_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is late_departure_no_extra_cost. Phrase A is no_evident_not_possibility_for_late_check_out.",No
+2026-01-18 01:11:47,3,63,no_evident_not_possibility_for_late_check_out,hotel_allow_late_departure,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is hotel_allow_late_departure. Phrase A is no_evident_not_possibility_for_late_check_out.",Yes
+2026-01-18 01:11:47,3,64,no_evident_not_possibility_for_late_check_out,possibility_for_late_check_out,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is possibility_for_late_check_out. Phrase A is no_evident_not_possibility_for_late_check_out.",Yes

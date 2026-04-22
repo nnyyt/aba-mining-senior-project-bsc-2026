@@ -1,0 +1,10 @@
+ID,Output
+161,"check_out_time, no_evident_not_check_out_time"
+310,"allowed_later_check-out, no_evident_not_allowed_later_check-out"
+314,"fast_check-in, no_evident_not_fast_check-in"
+542,"left_at_night_with_no_problems, no_evident_not_left_at_night_with_no_problems"
+639,"earlier_check-in, no_evident_not_earlier_check-in, earlier_check-out, no_evident_not_earlier_check-out"
+660,"late_arrival, no_evident_not_late_arrival
+late_departure, no_evident_not_late_departure"
+711,"late_check_out, no_evident_not_late_check_out"
+769,"staff_not_allow_late_check-out_for_delay_plane, have_evident_staff_allow_early_check-out_for_delay_plane"

@@ -1,0 +1,1900 @@
+ID,Topic,Output
+1,good_facility,"ABA Format:
+
+Supports and Contraries:
+
+1. new  
+   - no evident not new  
+
+2. comfortable  
+   - no evident not comfortable"
+2,bad_facility,"Here is the structured ABA format based on your instructions:
+
+1. **Support**: pleasant  
+   **Contrary**: have evident unpleasant  
+
+2. **Support**: not big  
+   **Contrary**: have evident too small"
+2,good_facility,"1. Cozy  
+   no evident not cozy  
+
+2. Not big  
+   no evident not not big"
+53,good_facility,"good_facility  
+nice no evident not nice  
+renovated hotel no evident not renovated hotel"
+63,good_facility,"1. Support: high  
+   Contrary: no evident not high  
+
+2. Support: 4* standard  
+   Contrary: no evident not 4* standard"
+66,good_facility,"Here is the structured ABA format based on the given conditions:
+
+**Supports:**
+1. The entrance
+2. is welcoming
+
+**Contraries:**
+1. No evident not The entrance
+2. No evident not is welcoming"
+69,good_facility,"1. The place is lovely  
+2. No evident not the place is lovely  
+3. The people are lovely  
+4. No evident not the people are lovely"
+70,good_facility,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - peaceful
+  - clean
+
+- **Contraries:**
+  - No evident not peaceful
+  - No evident not clean"
+76,good_facility,"ABA Format:
+
+1. Support 1: new  
+2. Contrary 1: no evident not new  
+3. Support 2: clean  
+4. Contrary 2: no evident not clean"
+80,good_facility,"1. It is a new hotel.  
+   No evident not it is a new hotel.
+
+2. Everything was clean.  
+   No evident not everything was clean."
+81,bad_facility,"- **Support**: no 24 hour reception  
+  - **Contrary**: have evident 24 hour reception  
+
+- **Support**: not easy to access entry at odd hours  
+  - **Contrary**: have evident easy access at odd hours"
+84,bad_facility,"- **Claim**: bad_facility  
+- **Supports**:
+  - No pool
+- **Contraries**:
+  - Have evident no pool"
+84,good_facility,"Here is the structured ABA format based on your text:
+
+**Supports:**
+1. Everything was spotless clean everywhere too.
+2. Had plenty of chairs to sit on outside in the garden which also was spotlessly clean everywhere too.
+
+**Contraries:**
+1. No evident not everything was spotless clean everywhere too.
+2. No evident not had plenty of chairs to sit on outside in the garden which also was spotlessly clean everywhere too.
+
+This format adheres to your conditions, ensuring each support is a concise phrase without adjectives or adverbs and each contrary starts with ""No evident not"" followed by the same word as the support."
+86,good_facility,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  - lovely little hotel
+  - friendly staff
+
+- **Contraries:**
+  - No evident not lovely little hotel
+  - No evident not friendly staff"
+88,good_facility,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  - Clean
+  - Comfortable
+  - Little
+
+- **Contraries:**
+  - No evident not clean
+  - No evident not comfortable
+  - No evident not little"
+90,bad_facility,"1. parking is not always easy  
+have evident that parking is not always easy"
+94,good_facility,"- **Supports**:  
+  - modern  
+  - facility  
+
+- **Contraries**:  
+  - no evident not modern  
+  - no evident not facility"
+98,good_facility,"Here is the structured ABA format based on the given text:
+
+1. The hotel is nice.
+   - No evident not nice.
+
+2. The hotel is spacious.
+   - No evident not spacious.
+
+3. The hotel is clean.
+   - No evident not clean.
+
+4. The hotel is modern.
+   - No evident not modern.
+
+This list provides each support followed by its corresponding contrary, all within a single section without additional assumptions or claims."
+109,good_facility,"**ABA Format Response:**
+
+1. Clean  
+   - Contrary: No evident not clean
+
+2. Efficient  
+   - Contrary: No evident not efficient
+
+3. Well-maintained  
+   - Contrary: No evident not well-maintained
+
+4. Spacious  
+   - Contrary: No evident not spacious
+
+5. Modern  
+   - Contrary: No evident not modern
+
+6. Friendly staff  
+   - Contrary: No evident not friendly staff
+
+7. Good location  
+   - Contrary: No evident not good location
+
+8. Clean rooms  
+   - Contrary: No evident not clean rooms"
+110,good_facility,"1. building is refurbed  
+   no evident not building is refurbed  
+
+2. comfortable  
+   no evident not comfortable"
+112,good_facility,"- Support: recently  
+  Contrary: No evident not recently  
+
+- Support: refurbished  
+  Contrary: No evident not refurbished"
+114,bad_facility,"Here is the structured ABA format based on the given text:
+
+1. **Argument 1:**
+   - **Support:** No pool available.
+   - **Contrary:** have evident no pool available.
+
+2. **Argument 2:**
+   - **Support:** No swimming area.
+   - **Contrary:** have evident no swimming area.
+
+3. **Argument 3:**
+   - **Support:** Lack of a recreational space.
+   - **Contrary:** have evident lack of a recreational space.
+
+Each argument highlights different aspects related to the absence of a pool, contributing to the overall claim that the facility is bad."
+114,good_facility,"**ABA Format for ""good_facility""**
+
+1. Clean  
+   - No evident not clean  
+
+This structure adheres to the specified conditions by using exact vocabulary, concise supports, and appropriate contraries in a single list format."
+123,good_facility,"1. good_facility
+   - nice
+     - no evident not nice
+   - simple
+     - no evident not simple"
+130,good_facility,"Here is the structured ABA format based on your instructions:
+
+1. **Support**: hotel allowed  
+2. **Contrary**: no evident not hotel allowed  
+3. **Support**: stay with animals  
+4. **Contrary**: no evident not stay with animals  
+
+This list adheres to all specified conditions, including using exact words from the original text and ensuring each contrary starts with ""no evident not."""
+133,bad_facility,"- Supports:
+  - pool
+- Contraries:
+  - have evident no pool"
+134,good_facility,"- Support: lovely  
+  Contrary: No evident not lovely  
+
+- Support: clean  
+  Contrary: No evident not clean"
+135,good_facility,"- **Supports:**
+  - Modern
+  - Clean
+  - Accommodation
+
+- **Contraries:**
+  - No evident not modern
+  - No evident not clean
+  - No evident not accommodation"
+136,bad_facility,"- Claim: bad_facility
+- Supports:
+  - dirty (contrary: have evident that it is not dirty)
+  - ugly (contrary: have evident that it is not ugly)
+  - horrible (contrary: have evident that it is not horrible)"
+136,good_facility,"- **Supports:**
+  - clean
+  - beautiful
+
+- **Contraries:**
+  - No evident not clean
+  - No evident not beautiful"
+139,bad_facility,"Here is the structured ABA format based on your requirements:
+
+- **Supports and Contraries:**
+  - Elevator
+    - have evident problems
+  - Slow
+    - have evident issues"
+141,good_facility,"1. fantastic  
+   no evident not fantastic  
+
+2. hotel  
+   no evident not hotel"
+149,bad_facility,"1. Does not have clean rooms (have evident clean rooms).  
+2. Is poorly maintained (have evident well-maintained).  
+3. Appears outdated (have evident up-to-date).  
+4. Seems unclean (have evident clean)."
+150,bad_facility,"- Support: no_kiosk  
+- Contrary: have_evident_no_kiosk"
+150,good_facility,"Here is the structured ABA format based on the given text:
+
+1. new  
+   - No evident not new  
+
+2. beautiful  
+   - No evident not beautiful  
+
+3. clean  
+   - No evident not clean"
+155,good_facility,"1. Comfortable - No evident not comfortable  
+2. Clean - No evident not clean  
+3. Brand new - No evident not brand new  
+4. Full equipped - No evident not full equipped  
+5. Wonderful - No evident not wonderful  
+6. Nice - No evident not nice"
+158,good_facility,"Here is the structured ABA format based on the given text, following all specified conditions:
+
+**Supports:**
+1. clean  
+2. service fantastic  
+
+**Contraries:**
+1. no evident not clean  
+2. no evident not service fantastic"
+160,good_facility,"- Claim: good_facility  
+  - Support: hotel  
+    Contrary: No evident not hotel"
+162,good_facility,"- **Supports**: The hotel was amazing.
+- **Contraries**: No evident not amazing.
+
+This response adheres to the specified conditions by providing a single support statement and its corresponding contrary."
+164,good_facility,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - well run
+  - establishment
+
+- **Contraries:**
+  - no evident not well run
+  - no evident not establishment"
+167,good_facility,"- Support: clean  
+  Contrary: no evident not clean"
+169,good_facility,"1. Accommodation is good.  
+   No evident not accommodation is good.  
+
+2. Clean.  
+   No evident not clean.  
+
+3. Quiet.  
+   No evident not quiet."
+171,bad_facility,"- **Support**: no
+  - **Contrary**: have evident parking spot"
+172,good_facility,"Here is the structured ABA format based on the given text:
+
+- Everything  
+  - No evident not everything  
+
+- Clean  
+  - No evident not clean"
+183,good_facility,"- **Claim**: good_facility
+  - **Support**: clean
+    - **Contrary**: no evident not clean"
+190,good_facility,"Here is the structured ABA format based on the given conditions:
+
+- modern  
+No evident not modern  
+
+- contemporary  
+No evident not contemporary"
+212,good_facility,"Support: beautiful  
+Contrary: no evident not beautiful"
+216,good_facility,"Supports:
+- new
+Contraries:
+- no evident not new"
+221,good_facility,"Here is the structured ABA format based on the given conditions:
+
+**Supports:**
+- food
+- drink
+- bar
+- welcome
+
+**Contraries:**
+- No evident not food
+- No evident not drink
+- No evident not bar
+- No evident not welcome"
+222,good_facility,"1. Clean. No evident not clean.  
+2. Nice. No evident not nice."
+224,bad_facility,"**ABA Format Text**
+
+- **Claim:** bad_facility  
+  - **Supports:**
+    - always
+      - have evident that parking in the area is not always convenient.
+    - possible
+      - have evident that parking in the area is always possible but it's not necessarily convenient.
+    - not
+      - have evident that parking in the area is not always possible.
+    - necessarily
+      - have evident that parking in the area is necessarily not convenient.
+    - convenient
+
+This structure ensures each support is paired with a contrary statement, maintaining clarity and adherence to the given conditions."
+224,good_facility,"Here is the structured ABA format based on the given text:
+
+1. **Argument 1:**
+   - **Support:** no complaints
+   - **Contrary:** No evident not related to the hotel's quality.
+
+2. **Argument 2:**
+   - **Support:** no complaints about the hotel
+   - **Contrary:** No evident not indicating a good_facility.
+
+Each argument is paired with its contrary, using exact vocabulary and structured as per ABA requirements."
+226,bad_facility,"Here is the structured ABA format based on the provided text:
+
+**Supports:**
+1. Veranda door and main door don't close entirely tight.
+2. Main door slams in the night when it's windy.
+3. Fixable in MacGyver way using bed cover and a tea spoon.
+4. Professional seal would be a better fix long-term.
+5. Beach towel services would have been nice.
+
+**Contraries:**
+1. have evident Veranda door and main door do close entirely tight.
+2. have evident Main door doesn't slam in the night when it's windy.
+3. have evident Fix not possible with MacGyver way using bed cover and a tea spoon.
+4. have evident Professional seal isn't a better fix long-term.
+5. have evident Beach towel services wouldn't have been nice.
+
+This format ensures each argument is presented with its corresponding counter-argument, adhering to the specified conditions."
+227,good_facility,"- Clean  
+  No evident not clean  
+
+- Fresh  
+  No evident not fresh"
+233,good_facility,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Support**: beautiful  
+   - **Contrary**: No evident not beautiful  
+
+2. **Support**: super clean  
+   - **Contrary**: No evident not super clean"
+236,good_facility,"1. Good_facility  
+2. Modern  
+3. No evident not modern  
+4. Good_facilities  
+5. No evident not good_facilities"
+239,bad_facility,"1. **Supports:**
+   - step
+     - have evident safety strip on each step
+   - floor
+     - have evident safety strip on each floor
+   - stairs
+     - have evident safety strip on each stair
+
+2. **Contraries:**
+   - step
+     - do not have evident safety strip on each step
+   - floor
+     - do not have evident safety strip on each floor
+   - stairs
+     - do not have evident safety strip on each stair"
+243,good_facility,"1. Very modern  
+   No evident not very modern  
+
+2. Clean  
+   No evident not clean  
+
+3. Beautifully kept  
+   No evident not beautifully kept"
+245,good_facility,"- good_facility  
+  - extremely happy  
+    no evident not extremely happy"
+246,good_facility,"1. The hotel is small.  
+   No evident not small."
+250,good_facility,"1. The rooms were lovely  
+   No evident not lovely  
+
+2. The lobby was modern  
+   No evident not modern  
+
+3. The restaurant was comfortable  
+   No evident not comfortable"
+252,good_facility,"Supports:
+- clean
+- new
+
+Contraries:
+- no evident not clean
+- no evident not new"
+254,good_facility,"- **Supports**:  
+  - new  
+  - family-run  
+
+- **Contraries**:  
+  - No evident not new  
+  - No evident not family-run"
+255,good_facility,"1. Cozy  
+2. Modern  
+3. Clean  
+4. Close  
+
+5. No evident not cozy  
+6. No evident not modern  
+7. No evident not clean  
+8. No evident not close"
+257,good_facility,"1. new  
+   No evident not new  
+
+2. clean  
+   No evident not clean"
+258,good_facility,"- Claim: good_facility
+  - Supports:
+    - accommodation
+      - no evident not_accommodation
+    - great
+      - no evident not_great"
+261,good_facility,"Here is the structured ABA format based on the given text:
+
+Supports:
+1. clean
+2. cozy
+
+Contraries:
+1. No evident not clean
+2. No evident not cozy"
+267,good_facility,"1. basic  
+   No evident not basic  
+
+2. clean  
+   No evident not clean  
+
+3. comfortable  
+   No evident not comfortable"
+268,good_facility,"- Good_facility  
+  - No evident not good_facility  
+- Refurbished  
+  - No evident not refurbished  
+- Recently  
+  - No evident not recently"
+270,good_facility,"- **Support**: easy  
+  **Contrary**: No evident not easy  
+
+This structure adheres to the conditions specified: it uses short words without adjectives or unnecessary adverbs, incorporates exact vocabulary from the original text, adds a contrary for each support as required, and maintains clarity without introducing assumptions."
+272,good_facility,"1. Comfortable - No evident not comfortable  
+2. Clean - No evident not clean"
+278,good_facility,"- Support: clean
+  - Contrary: no evident not clean"
+279,good_facility,"1. neighborhood
+   - No evident not neighborhood.
+2. modern
+   - No evident not modern."
+282,good_facility,"- Claim: good_facility  
+  Supports:  
+    - nice  
+      Contrary: no evident not nice  
+    - hotel  
+      Contrary: no evident not hotel"
+283,good_facility,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- Supports:
+  - clean
+  - modern  
+- Contraries:  
+  - no evident not clean  
+  - no evident not modern"
+284,good_facility,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  - clean
+  - flexible
+
+- **Contraries:**
+  - No evident not clean
+  - No evident not flexible"
+285,good_facility,"ABA Format:
+
+Supports:
+- clean
+- nice
+
+Contraries:
+- No evident not clean
+- No evident not nice"
+287,good_facility,"1. Allowed  
+   No evident not allowed  
+
+2. Take  
+   No evident not take  
+
+3. Dog  
+   No evident not dog"
+288,good_facility,"1. good_facility
+   - recommended
+     - No evident not recommended
+   - clean rooms
+     - No evident not clean rooms
+   - central location
+     - No evident not central location
+   - excellent staff
+     - No evident not excellent staff"
+289,good_facility,"1. good_facility
+   - nice
+     - no evident not nice
+   - clean
+     - no evident not clean"
+295,good_facility,"Here is the structured ABA format based on your text:
+
+- **Supports:**
+  - Everything is good
+  - New
+  - Well furnished
+  - Feels like home
+
+- **Contraries:**
+  - No evident not everything is good
+  - No evident not new
+  - No evident not well furnished
+  - No evident not feels like home"
+297,good_facility,"Supports:
+1. recently refurbished
+2. very clean
+
+Contraries:
+1. no evident not recently refurbished
+2. no evident not very clean"
+300,bad_facility,"1. swam  
+have evident swam  
+
+2. frosted  
+have evident frosted  
+
+3. cold  
+have evident cold"
+301,good_facility,"- Support: vibes  
+  Contrary: No evident not vibes  
+
+- Support: ambiance  
+  Contrary: No evident not ambiance"
+306,good_facility,"- Support: place  
+  Contrary: no evident not place"
+307,good_facility,"- Claim: good_facility  
+  Supports: [""modern"", ""nice""]  
+  Contraries: [""no evident not modern"", ""no evident not nice""]"
+308,good_facility,"1. soo  
+   no evident not soo  
+
+2. nice  
+   no evident not nice  
+
+3. cosy  
+   no evident not cosy"
+311,good_facility,"1. Pet friendly hotel  
+   No evident not pet friendly  
+
+2. No extra charge for our dogs  
+   No evident extra charge"
+312,bad_facility,"Here is the structured ABA format based on the given text:
+
+1. **Support:** Tiny pool leads to safety issues.  
+   **Contrary:** Have evident that small pools can still ensure safety with proper maintenance.
+
+2. **Support:** Tiny pool limits recreational activities.  
+   **Contrary:** Have evident that some places offer recreational opportunities even with small pools.
+
+3. **Support:** Tiny pool makes facilities inadequate compared to others.  
+   **Contrary:** Have evident that some facilities are adequate despite their size when considering specific needs.
+
+4. **Support:** Tiny pool affects social interactions.  
+   **Contrary:** Have evident that tiny pools can enhance social interactions in certain settings, such as intimate gatherings.
+
+5. **Support:** Tiny pool restricts access to water-based activities.  
+   **Contrary:** Have evident that some people enjoy having access to limited water activities for personal or leisure purposes.
+
+This format ensures each support is paired with a contrary, maintaining the required structure and conditions without introducing new vocabulary or adjectives/verbs beyond necessity."
+312,good_facility,"Here is the structured ABA format based on the given text:
+
+- Support: the place  
+  Contrary: no evident not the place  
+
+- Support: everything  
+  Contrary: no evident not everything"
+313,good_facility,"Supports:
+1. Renovated
+2. Clean
+3. Quiet
+4. Sufficient parking facilities
+
+Contraries:
+1. No evident not renovated
+2. No evident not clean
+3. No evident not quiet
+4. No evident not sufficient parking facilities"
+314,good_facility,"Here is the structured ABA format based on your requirements:
+
+- **Supports and Contraries List**
+
+  - **Support 1:** freshly renovated
+    - **Contrary 1:** No evident not freshly renovated
+
+  - **Support 2:** good wifi
+    - **Contrary 2:** No evident not good wifi"
+318,good_facility,"Here is the structured ABA format based on the given conditions:
+
+Supports:
+- lovely
+- family hotel
+- refurbished
+- Corona period
+
+Contraries:
+- no evident not lovely
+- no evident not family hotel
+- no evident not refurbished
+- no evident not Corona period"
+322,good_facility,"Here is the structured ABA format based on the given conditions:
+
+1. **Supports:**
+   - Clean
+   - Spacious
+   - Nice
+
+2. **Contraries:**
+   - No evident not clean
+   - No evident not spacious
+   - No evident not nice
+
+This format adheres to all specified requirements, ensuring each support is directly quoted from the original text and each contrary follows the correct structure without additional words or opinions."
+325,good_facility,"ABA Format:
+
+1. Good_facility: nice small hotel  
+2. Everything was good: everything  
+3. Small hotel: small hotel  
+4. No evident not nice small hotel: no evident not nice  
+5. No evident not everything was good: no evident not everything  
+6. No evident not small hotel: no evident not small"
+335,good_facility,"Here is the generated ABA format based on your requirements:
+
+1. **Support**: all  
+   **Contrary**: no evident not all  
+
+2. **Support**: you need  
+   **Contrary**: no evident not you need"
+337,good_facility,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - good hotel
+  - clean
+
+- **Contraries:**
+  - No evident not good hotel
+  - No evident not clean"
+338,good_facility,"Here is the structured ABA format based on the given conditions:
+
+1. brand new  
+   No evident not brand new  
+
+2. spotlessly clean  
+   No evident not spotlessly clean"
+339,good_facility,"1. Support: best  
+   Contrary: no evident not best  
+
+2. Support: friendly  
+   Contrary: no evident not friendly  
+
+3. Support: comfortable  
+   Contrary: no evident not comfortable"
+341,good_facility,"1. Clean - no evident not clean  
+2. Modern - no evident not modern"
+347,good_facility,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  - family_run
+  - good_facility
+
+- **Contraries:**
+  - No evident not family_run
+  - No evident not good_facility"
+348,bad_facility,"- Claim: bad_facility
+  - Support 1: not much parking around the property
+    - Contrary 1: have evident plenty of parking available
+  - Support 2: it was an apartment before being converted into this hotel
+    - Contrary 2: have evident that as an apartment, it had better facilities
+  - Support 3: inside is excellent compared to the view from outside
+    - Contrary 3: have evident that the inside isn't excellent or something about the exterior"
+348,good_facility,"Here is the structured ABA format based on the provided conditions:
+
+1. **Support**: inside is excellent  
+   **Contrary**: no evident not the inside is excellent  
+
+2. **Support**: compared to view from outside  
+   **Contrary**: no evident not compared to view from outside"
+350,good_facility,"- **Supports:**
+  - parking
+  - easy
+
+- **Contraries:**
+  - No evident not parking
+  - No evident not easy"
+353,bad_facility,"**ABA Format for ""bad_facility""**
+
+- **Support 1:** pool is tiny  
+  - **Contrary 1:** have evident pool is not tiny  
+
+This structure captures the essence of the original text, translating it into an ABA format with a clear claim, support, and its contrary."
+353,good_facility,"Here is the structured ABA format based on the given conditions:
+
+1. **Support: simple**
+   - Contrary: not complicated
+
+2. **Support: clear**
+   - Contrary: not detailed
+
+3. **Support: contemporary**
+   - Contrary: not modern
+
+4. **Support: decoration**
+   - Contrary: not design
+
+5. **Support: new**
+   - Contrary: not old
+
+Each support is paired with its respective contrary, capturing the essence of the original text while adhering to the specified conditions."
+357,good_facility,"Here is the structured ABA format based on your instructions:
+
+1. **Supports:**
+   - comfortable
+   - clean
+
+2. **Contraries:**
+   - no evident not comfortable
+   - no evident not clean"
+359,good_facility,"Supports:
+1. nice atmosphere
+2. no evident not nice atmosphere
+
+Contraries:
+1. no evident not nice atmosphere
+2. nice atmosphere"
+365,good_facility,"- **Supports**:  
+  - just renovated → ""renovated""  
+  - very convenient → ""convenient""  
+
+- **Contraries**:  
+  - No evident not renovated  
+  - No evident not convenient"
+372,good_facility,"Supports:
+1. Bright
+2. Cozy
+3. Looks like
+4. Almost
+5. New
+6. Hotel
+7. Silent
+
+Contraries:
+1. No evident not bright
+2. No evident not cozy
+3. No evident not looks like
+4. No evident not almost
+5. No evident not new
+6. No evident not hotel
+7. No evident not silent"
+373,good_facility,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. Cozy  
+   No evident not cozy  
+
+2. clean hotel  
+   No evident not clean hotel  
+
+3. nice place  
+   No evident not nice place"
+374,bad_facility,"- **Supports**:  
+  - pool  
+  - bigger  
+
+- **Contraries**:  
+  - have evident bigger"
+375,good_facility,"- **Supports:**
+  - situated
+  - well
+
+- **Contraries:**
+  - no evident not situated
+  - no evident not well"
+376,good_facility,"1. **Support**: clean  
+   - **Contrary**: no evident not clean  
+
+2. **Support**: comfortable  
+   - **Contrary**: no evident not comfortable  
+
+3. **Support**: welcoming  
+   - **Contrary**: no evident not welcoming"
+381,good_facility,"ABA Format:
+- Supports: interior, clearly, recently  
+- Contraries: no evident not interior, no evident not clearly, no evident not recently"
+382,good_facility,"1. Support: received_package  
+   Contrary: no evident not received_package  
+
+2. Support: good_facility"
+383,good_facility,"- Clean  
+  No evident not clean  
+
+- Facilities  
+  No evident not facilities"
+384,good_facility,"**ABA Format:**
+
+- **Claim:** good_facility
+- **Supports and Contraries:**
+  - Support: amazing
+    - Contrary: no evident not amazing
+  - Support: highly recommended (derived from context)
+    - Contrary: no evident not highly recommended"
+386,good_facility,"- **Claim**: good_facility  
+  - **Supports**: spotless, clean  
+    - **Contraries**: no evident not spotless, no evident not clean"
+388,good_facility,"Here is the structured ABA format based on the given text:
+
+1. **Supports and Contraries List**
+
+   - **Support 1:** new fittings  
+     **Contrary 1:** no evident not new fittings  
+   - **Support 2:** new furniture  
+     **Contrary 2:** no evident not new furniture"
+389,good_facility,"Here is the structured ABA format based on your requirements:
+
+1. **Supports**:
+   - affordable
+   - clean
+
+2. **Contraries**:
+   - no evident not affordable
+   - no evident not clean"
+391,good_facility,"- Support: recently  
+  Contrary: No evident not recently  
+
+- Support: renovated  
+  Contrary: No evident not renovated"
+395,good_facility,"Here is the text generated in Assumption Based Argumentation (ABA) format based on your conditions:
+
+1. **Support**: amazing place  
+   **Contrary**: no evident not amazing place  
+
+2. **Support**: be honest  
+   **Contrary**: no evident not be honest"
+396,bad_facility,"Here is the structured response in ABA format based on the given conditions:
+
+**Supports:**
+- lobby
+- common areas
+- elevator
+- night lights
+
+**Contraries:**
+- have evident lobby
+- have evident common areas
+- have evident elevator
+- have evident night lights"
+405,good_facility,"1. Delicious food  
+2. 5* facilities  
+3. No evident not delicious food  
+4. No evident not 5* facilities"
+406,good_facility,"ABA Format:
+
+- Claim: good_facility  
+  Supports:  
+    - new_hotel  
+      Contraries:  
+        - No evident not new_hotel  
+    - modern_amenities  
+      Contraries:  
+        - No evident not modern_amenities  
+    - convenient_location  
+      Contraries:  
+        - No evident not convenient_location"
+408,good_facility,"Here is the structured ABA format based on your requirements:
+
+1. **Support**: wonderful place  
+   **Contrary**: no evident not wonderful place  
+
+2. **Support**: run by wonderful people  
+   **Contrary**: no evident not run by wonderful people"
+409,good_facility,"Here is the structured ABA format based on the provided text:
+
+1. **Support**: good  
+   **Contrary**: no evident not good  
+
+This response adheres to the specified conditions, using short words and including a contrary statement as required."
+410,good_facility,"Here is the structured ABA format based on your requirements:
+
+- **Supports and Contraries:**
+  - Support: The front of the hotel is nice.
+    - Contrary: No evident not the front of the hotel is nice.
+  - Support: The front of the hotel is a nice place.
+    - Contrary: No evident not the front of the hotel is a nice place."
+412,bad_facility,"1. Support: taller people be careful  
+   Contrary: have evident taller people not to be careful  
+
+2. Support: being 190 i head-bumped  
+   Contrary: have evident being 190 i head-bumped not happen"
+415,good_facility,"- **Support**: clean  
+  - **Contrary**: no evident not clean"
+416,good_facility,"- Quiet place  
+  No evident not quiet place  
+
+- Pet friendly  
+  No evident not pet friendly"
+421,good_facility,"Here is the structured ABA format based on the provided conditions:
+
+Supports:
+1. very clean
+2. made for a comfortable stay (split into)
+   - comfortable
+   - stay
+
+Contraries:
+1. No evident not very clean
+2. No evident not made for a comfortable stay (split into)
+   - No evident not comfortable
+   - No evident not stay
+
+This approach ensures each component of the original text is treated as a separate support, with corresponding contraries added to each."
+422,good_facility,"Here is the structured ABA format based on your text:
+
+**Supports:**
+1. new  
+2. completely renovated  
+3. spotless clean  
+
+**Contraries:**  
+1. no evident not new  
+2. no evident not completely renovated  
+3. no evident not spotless clean"
+425,bad_facility,"1. **Claim**: bad_facility  
+2. **Supports** and **Contraries**:  
+   - **Steep (support)**: have evident ramp  
+   - **Ramps (support)**: have evident ramp  
+   - **Hazardous (support)**: have evident ramp  
+   - **Unfortunate (support)**: have evident ramp  
+   - **Problematic (support)**: have evident ramp"
+425,good_facility,"1. Support: airy  
+   Contrary: no evident not airy  
+
+2. Support: light  
+   Contrary: no evident not light"
+429,bad_facility,"Here is the ABA formatted text based on your requirements:
+
+1. **Supports:**
+   - limited
+   - very
+
+2. **Contraries:**
+   - have evident limited parking space
+   - have evident very little parking"
+432,bad_facility,"- **Support**: street  
+  - **Contrary**: have evident street  
+- **Support**: parking  
+  - **Contrary**: have evident parking"
+433,bad_facility,"Here is the structured ABA format based on your requirements:
+
+1. **Support**: no designated parking  
+   **Contrary**: have evident designated parking  
+
+2. **Support**: parking anywhere  
+   **Contrary**: have evident parking only where you find"
+441,bad_facility,"Here is the structured ABA format based on the given text:
+
+1. bad_facility: bad_connectivity have evident issues  
+2. bad_facility: bad_quality have evident issues  
+3. bad_facility: bad_service have evident issues  
+
+Each support is followed by its contrary, using the exact words from the original text and adhering to the specified format."
+442,bad_facility,"Here is the structured ABA format based on your text:
+
+- **Supports**:
+  - new
+  - not open
+  - not ready
+
+- **Contraries**:
+  - have evident new
+  - have evident not open
+  - have evident not ready"
+443,bad_facility,"1. Support: no bar  
+   Contrary: have evident no bar  
+
+2. Support: no restaurant  
+   Contrary: have evident no restaurant  
+
+3. Support: no pool  
+   Contrary: have evident no pool"
+445,good_facility,"Here is the structured ABA format based on the given text:
+
+- **Support:** nice  
+  **Contrary:** No evident not nice  
+
+- **Support:** clean  
+  **Contrary:** No evident not clean  
+
+- **Support:** little  
+  **Contrary:** No evident not little  
+
+- **Support:** hotel  
+  **Contrary:** No evident not hotel"
+451,bad_facility,"1. **Supports:**
+   - cold
+     - have evident coldness
+   - lacks warmth
+     - have evident lack of warmth
+   - minimalistic
+     - have evident minimality"
+451,good_facility,"Here is the structured ABA argument based on the given text:
+
+1. Neat appearance → Good facility
+2. Modern design → Good facility
+3. No evident not neatness in the hotel facility.
+4. No evident not modernity in the hotel facility.
+
+This format adheres to all specified conditions, ensuring clarity and logical structure without any unnecessary elements or assumptions."
+452,good_facility,"Here is the structured ABA format based on your text:
+
+**Supports:**
+1. spotless
+2. clean
+3. measures
+
+**Contraries:**
+1. no evident not spotless
+2. no evident not clean
+3. no evident not measures"
+455,bad_facility,"1. The hotel installation is badly maintained.
+2. It’s in front of a pension.
+3. The lift broke.
+4. The pictures are accurate for the hotel installation and pool.
+5. have evident bad maintenance
+6. have evident located in front of a pension
+7. have evident working lift
+8. have evident accurate pictures"
+458,bad_facility,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - facilities
+  - limited
+
+- **Contraries:**
+  - have evident facilities
+  - have evident limited"
+468,bad_facility,"Here is the structured ABA format based on your requirements:
+
+1. **Support**: Swimming pool lacks cleanliness.
+   - **Contrary**: have evident that swimming pool has high cleanliness.
+
+This response adheres to all specified conditions: it uses exact vocabulary from the original text, ensures each support has a contrary starting with ""have evident,"" and maintains clarity without additional opinions or assumptions."
+472,good_facility,"1. friendly atmosphere  
+2. family business  
+3. feeling at home  
+4. comfortable hotel  
+
+Contraries:  
+5. No evident not friendly atmosphere.  
+6. No evident not family business.  
+7. No evident not feeling at home.  
+8. No evident not comfortable hotel."
+474,bad_facility,"Here is the structured ABA format based on the given text:
+
+1. Support: ""you're lucky""
+   - Contrary: ""have evident you're lucky""
+
+2. Support: ""may have""
+   - Contrary: ""have evident may have""
+
+3. Support: ""the only one parking in the side""
+   - Contrary: ""have evident the only one parking in the side"""
+479,good_facility,"- Friendly  
+  No evident not friendly  
+
+- Clean  
+  No evident not clean  
+
+- Hotel  
+  No evident not hotel"
+481,good_facility,"ABA Format:
+
+- Good_facility
+  - Clean
+    - No evident not clean
+  - In Cypri
+    - No evident not in Cypri"
+482,good_facility,"- Support: pleasant  
+  Contrary: no evident not pleasant"
+485,good_facility,"Here is the structured ABA format based on the given text, following all the specified conditions:
+
+1. wonderful  
+   - no evident not wonderful  
+2. hotel  
+   - no evident not hotel  
+3. staff  
+   - no evident not staff  
+4. all as in the photo  
+   - no evident not all as in the photo  
+
+This format ensures each component is addressed with its respective support and contrary, adhering to the requirements of using exact vocabulary and avoiding unnecessary elements."
+489,good_facility,"Supports:
+- free_parking
+- available
+
+Contraries:
+- no_evident_not_free_parking
+- no_evident_not_available"
+494,good_facility,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  - very
+    - No evident not very
+  - clean
+    - No evident not clean
+
+This format adheres to all specified conditions, ensuring clarity and correctness."
+497,good_facility,"- **Claim**: good_facility  
+  - **Support**: hotel (hotel)  
+    - **Contrary**: no evident not hotel (no evident not hotel)"
+500,bad_facility,"Here is the text formatted according to your instructions:
+
+1. It is difficult to access the facility by foot due to poor parking facilities.  
+   have evident it is difficult to park when using a car because there is an open-air car park very close.
+
+2. It is challenging to find a spot for a car at the facility.  
+   have evident it is easy to access the facility by walking because of good pedestrian facilities."
+500,good_facility,"1. **Support**: Accommodation is good  
+   **Contrary**: No evident not accommodation is good  
+
+2. **Support**: Car park is open-air and close  
+   **Contrary**: No evident not car park is open-air and close"
+501,good_facility,"Here is the structured ABA format based on the given text:
+
+- **Claim:** good_facility  
+  - **Supports:** The hotel is very clean.  
+    - **Contrary:** No evident not very clean.
+
+This response adheres to all specified conditions, ensuring clarity and precision in each argument without introducing any assumptions or additional claims beyond the original statement."
+502,good_facility,"Here is the text generated in Assumption Based Argumentation (ABA) format based on your conditions:
+
+1. Clean hotel  
+   No evident not clean hotel.  
+
+2. Good hotel  
+   No evident not good hotel."
+504,good_facility,"Here is the generated text in Assumption-Based Argumentation (ABA) format based on your instructions:
+
+### Supports:
+1. everything  
+2. perfect  
+3. boutique hotel  
+
+### Contraries:
+1. no evident not everything  
+2. no evident not perfect  
+3. no evident not boutique hotel"
+507,good_facility,"**ABA Format Response**
+
+- **Supports:**
+  - very modern
+  - modernly furnished
+
+- **Contraries:**
+  - No evident not very modern
+  - No evident not modernly furnished"
+509,good_facility,"- **Support**: nice  
+  - **Contrary**: No evident not nice"
+511,good_facility,"1. Good_facility because new  
+   No evident not new  
+
+2. Good_facility because clean  
+   No evident not clean"
+513,good_facility,"1. Clean  
+   No evident not clean  
+
+2. Everything was exactly as expected  
+   No evident not everything was exactly as expected"
+515,good_facility,"1. very clean  
+   no evident not very clean  
+
+2. new hotel  
+   no evident not new hotel"
+517,good_facility,"Here is the structured ABA format based on your requirements:
+
+- **Supports**:
+  - hotel
+  - quality
+
+- **Contraries**:
+  - no evident not hotel
+  - no evident not quality"
+527,good_facility,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - excellent
+  - good
+  - nice
+
+- **Contraries:**
+  - No evident not excellent
+  - No evident not good
+  - No evident not nice"
+528,good_facility,"1. Good_facility  
+   - clean  
+     - no evident not clean  
+   - fresh  
+     - no evident not fresh"
+530,good_facility,"1. The hotel is a good_facility.
+   - very nice
+     - no evident not very nice
+   - and clean
+     - no evident not and clean"
+532,good_facility,"- Support: free
+  Contrary: no evident not free  
+- Support: parking
+  Contrary: no evident not parking"
+535,good_facility,"- **Supports:**
+  - small
+  - modern
+
+- **Contraries:**
+  - No evident not small
+  - No evident not modern"
+536,good_facility,"1. Cozy (support): Cozy (contrary: no evident not cozy)
+2. Warm (support): Warm (contrary: no evident not warm)
+3. Friendly staff (support): Friendly staff (contrary: no evident not friendly staff)"
+537,good_facility,"Supports:
+1. Cozy (no evident not cozy)
+2. Very cozy (no evident not very cozy)
+
+This structure follows the conditions provided, ensuring each support is a short word without unnecessary adjectives or adverbs, and each contrary starts with ""no evident not"" followed by the same word used in the support."
+543,bad_facility,"- little parking  
+  have evident space  
+
+- nearby  
+  have evident far away  
+
+- arriving  
+  have evident not arriving"
+546,good_facility,"1. next to  
+   - No evident not next to"
+549,good_facility,"Supports and Contraries:
+
+- **pet friendly**
+  - no evident not pet friendly
+- **clean**
+  - no evident not clean"
+551,good_facility,"- Support: freshened up
+- Contrary: not freshened up
+- Support: recently
+- Contrary: not recently"
+556,bad_facility,"Here is the structured ABA format based on the given conditions:
+
+- no pool have evident no pool  
+- no swimming have evident no swimming  
+- no aquatics have evident no aquatics"
+569,good_facility,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - renovated
+  - modern amenities
+  - needs more space
+
+- **Contraries:**
+  - No evident not renovated
+  - No evident not modern amenities
+  - No evident not needs more space"
+571,good_facility,"1. Claim: good_facility  
+2. Supports & Contraries:  
+   - Clean (no evident not clean)  
+   - Comfortable (no evident not comfortable)"
+572,bad_facility,"1. Support: The elevator needs more cleaning.  
+   Contrary: have evident cleaning needed.
+
+2. Support: Maybe a complete renovation would be better.  
+   Contrary: have evident need for renovation."
+574,good_facility,"**ABA Format Response**
+
+- **Claim**: good_facility  
+- **Supports and Contraries**:  
+  - **Support**: amazing  
+    **Contrary**: no evident not amazing"
+581,bad_facility,"Here is the structured ABA format based on the given conditions:
+
+**Supports:**
+1. is difficult  
+2. lack of space  
+
+**Contraries:**  
+1. have evident is difficult  
+2. have evident lack of space"
+586,good_facility,"ABA Format:
+
+Supports:
+- new
+- clean
+
+Contraries:
+- no evident not new
+- no evident not clean"
+590,good_facility,"- **Supports**:
+  - The hotel is lovely.
+  - The hotel is quiet.
+  - The hotel is cozy.
+
+- **Contraries**:
+  - No evident not lovely.
+  - No evident not quiet.
+  - No evident not cozy."
+594,good_facility,"1. Support: newly refurbished  
+   Contrary: No evident not newly refurbished  
+
+2. Support: clean  
+   Contrary: No evident not clean  
+
+3. Support: tidy  
+   Contrary: No evident not tidy  
+
+4. Support: cozy courtyard  
+   Contrary: No evident not cozy courtyard  
+
+5. Support: parking  
+   Contrary: No evident not parking"
+603,good_facility,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - Accommodation is clean.
+  - Terrace in the evening is pleasant.
+
+- **Contraries:**
+  - No evident not very clean accommodation.
+  - No evident not very pleasant terrace in the evening."
+610,good_facility,"ABA Format:
+
+Supports:
+1. Quiet hotel
+2. Restaurant in the enclosure
+3. Very good
+
+Contraries:
+1. No evident not quiet hotel
+2. No evident not restaurant in the enclosure
+3. No evident not very good"
+615,good_facility,"Here is the structured ABA format based on the provided conditions:
+
+- Support: Very nice staff  
+  Contrary: No evident not very nice staff  
+
+- Support: restaurant  
+  Contrary: No evident not restaurant  
+
+- Support: hotel  
+  Contrary: No evident not hotel"
+617,good_facility,"Supports:
+- neat
+- small
+
+Contraries:
+- no evident not neat
+- no evident not small"
+619,good_facility,"Here is the structured ABA format based on the given text:
+
+- Checked_in  
+  No evident not checked_in  
+
+- Stayed  
+  No evident not stayed  
+
+- Enjoyed  
+  No evident not enjoyed"
+620,good_facility,"- good_facility
+  - hotel
+    - no evident not hotel
+  - near airport
+    - no evident not near airport"
+627,good_facility,"1. a stunning hotel  
+   No evident not a stunning hotel.  
+
+2. aesthetic place  
+   No evident not an aesthetic place.  
+
+3. clean place  
+   No evident not a clean place.  
+
+4. innovative service  
+   No evident not an innovative service.  
+
+5. interesting service  
+   No evident not an interesting service.  
+
+6. easily requestable service  
+   No evident not an easily requestable service.  
+
+7. request at the push of a button  
+   No evident not a request at the push of a button."
+628,good_facility,"- Support: plenty  
+  Contrary: No evident not plenty"
+635,good_facility,"- excellent  
+  - no evident not excellent  
+
+- nice  
+  - no evident not nice  
+
+- good  
+  - no evident not good"
+636,good_facility,"Here is the structured ABA format based on the given text:
+
+renovated; no evident not renovated
+brilliant; no evident not brilliant
+family hotel; no evident not family hotel
+very friendly; no evident not very friendly"
+643,good_facility,"Here is the structured ABA argument format based on the analysis:
+
+**ABA Arguments for ""good_facility""**
+
+1. **Support**: Good_facility  
+   **Contrary**: No evident not good_facility
+
+2. **Support**: Welcoming  
+   **Contrary**: No evident not welcoming
+
+3. **Support**: Clean  
+   **Contrary**: No evident not clean
+
+4. **Support**: Safe  
+   **Contrary**: No evident not safe
+
+Each argument pair addresses a specific aspect of what contributes to a ""good_facility,"" providing both positive statements (supports) and their corresponding negative counterparts (contraries)."
+646,good_facility,"Here is the structured ABA format based on your requirements:
+
+**Supports:**
+1. clean
+2. comfortable
+3. car
+4. place_to_park
+
+**Contraries:**
+1. no evident not clean
+2. no evident not comfortable
+3. no evident not car
+4. no evident not place_to_park"
+648,bad_facility,"Here is the structured ABA format based on the given conditions:
+
+- **Supports:**
+  - reception needs improvement
+  - very old furniture
+
+- **Contraries:**
+  - have evident reception needs improvement
+  - have evident very old furniture"
+649,good_facility,"ABA Format:
+
+- Support: new
+  Contrary: no evident not new  
+- Support: hotel
+  Contrary: no evident not hotel"
+650,good_facility,"- Claim: good_facility  
+  Supports:  
+    - cozy  
+      Contrary: no evident not cozy  
+    - hotel  
+      Contrary: no evident not hotel"
+652,good_facility,"- perfect  
+  No evident not perfect"
+653,good_facility,"- excellent  
+  no evident not excellent"
+654,good_facility,"Here is the structured ABA format based on the provided text:
+
+1. Clean  
+   No evident not clean  
+
+2. Comfortable  
+   No evident not comfortable  
+
+3. Soft bed  
+   No evident not soft bed  
+
+4. Wonderful cappuccino  
+   No evident not wonderful cappuccino  
+
+5. Soft sofas  
+   No evident not soft sofas  
+
+This format ensures each positive statement is paired with its corresponding contrary, maintaining clarity and adherence to the given conditions."
+656,good_facility,"Supports:
+- lobby
+- room
+- very clean
+
+Contraries:
+- No evident not lobby
+- No evident not room
+- No evident not very clean"
+658,good_facility,"Here is the structured ABA format based on the given conditions:
+
+- **Support 1**: good  
+  - **Contrary 1**: no evident not good  
+
+- **Support 2**: homely  
+  - **Contrary 2**: no evident not homely"
+662,good_facility,"Here is the structured ABA format based on the given conditions:
+
+1. **Support 1:** Accommodation is nice.
+2. **Contrary 1:** No evident not nice.
+3. **Support 2:** Parking is available in the hotel area.
+4. **Contrary 2:** No evident not parking in the hotel area.
+5. **Support 3:** Accommodation is beautiful.
+6. **Contrary 3:** No evident not beautiful.
+
+This format ensures each support is followed by its corresponding contrary, maintaining clarity and adherence to the specified conditions."
+669,good_facility,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - transfer_from_airport
+  - transfer_to_airport
+
+- **Contraries:**
+  - no_evident_not_transfer_from_airport
+  - no_evident_not_transfer_to_airport"
+671,bad_facility,"Here is the structured ABA format based on the given text, following all specified conditions:
+
+- **Support**: pool was closed  
+  **Contrary**: have evident that pool was not closed"
+671,good_facility,"1. Support: pleasantly surprised
+   Contrary: not pleasantly surprised  
+2. Support: appears to have been renovated
+   Contrary: not renovated"
+673,good_facility,"- Good_facility
+  - free_parking
+    - No evident not free_parking
+  - in_front_of_hotel
+    - No evident not in_front_of_hotel
+  - along_the_street
+    - No evident not along_the_street"
+675,good_facility,"Here is the ABA format based on your conditions:
+
+1. kept  
+   No evident not kept.
+
+2. clean  
+   No evident not clean.
+
+3. friendly  
+   No evident not friendly.
+
+4. helpful  
+   No evident not helpful.
+
+5. safe  
+   No evident not safe.
+
+6. central  
+   No evident not central.
+
+7. multiple  
+   No evident not multiple.
+
+8. amenities  
+   No evident not amenities."
+678,good_facility,"- Claim: good_facility  
+  - Support: good  
+    - Contrary: no evident not good"
+680,good_facility,"Here is the structured ABA format based on your requirements:
+
+- Clean  
+  No evident not clean  
+
+- Establishment  
+  No evident not establishment"
+681,good_facility,"1. Cozy
+   - No evident not cozy
+
+2. Stylish
+   - No evident not stylish"
+683,good_facility,"Here is the text in ABA format based on your conditions:
+
+1. Support: Clean  
+   Contrary: No evident not clean  
+
+2. Support: Modern  
+   Contrary: No evident not modern"
+688,good_facility,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your requirements:
+
+- great  
+  No evident not great  
+- clean  
+  No evident not clean  
+- modern  
+  No evident not modern  
+- central location  
+  No evident not central location  
+- friendly staff  
+  No evident not friendly staff  
+- good service  
+  No evident not good service  
+- safe area  
+  No evident not safe area  
+- reasonable price  
+  No evident not reasonable price"
+691,good_facility,"Here is the structured ABA format based on your text and conditions:
+
+- **Plenty of parking.**
+  - **Support:** Plently
+    - **Contrary:** No evident not plently.
+  
+- **Parking.**
+  - **Support:** Parking
+    - **Contrary:** No evident not parking.
+
+This format adheres to all specified requirements, ensuring clarity and consistency in the presentation of supports and their corresponding contraries."
+693,good_facility,"1. Support: pleasant  
+   Contrary: no evident not pleasant  
+
+2. Support: not in photo  
+   Contrary: no evident not in photo  
+
+3. Support: has swimming pool  
+   Contrary: no evident not has swimming pool"
+695,good_facility,"Here is the structured ABA format based on the given conditions:
+
+1. **Supports:**
+   - new
+   - modern
+   - well-designed
+
+2. **Contraries:**
+   - no evident not new
+   - no evident not modern
+   - no evident not well-designed
+
+Each support and its contrary are listed together, ensuring clarity and adherence to the specified format without any additional claims or assumptions."
+700,bad_facility,"ABA Format:
+
+1. Support: The photo of the pool is bad because it's a hole.
+2. Contrary: Have evident that pool is not bad.
+
+This format adheres to the conditions by using exact vocabulary, providing short and direct statements without adjectives or adverbs, and structuring each support with its corresponding contrary."
+703,good_facility,"Here is the structured response in ABA format based on the given conditions:
+
+1. **Supports:**
+   - Hotel is completely redone
+   - New furniture
+   - Modern decor
+   - State-of-the-art amenities
+   - Full-service restaurant
+
+2. **Contraries:**
+   - No evident not hotel is completely redone
+   - No evident not new furniture
+   - No evident not modern decor
+   - No evident not state-of-the-art amenities
+   - No evident not full-service restaurant
+
+Each support and its corresponding contrary are listed together, ensuring clarity and adherence to the specified format."
+706,good_facility,"ABA Format:
+
+1. Good accommodation
+   - No evident not accommodation
+
+2. Perfect location (simplified to) Location
+   - No evident not location
+
+3. 7 minutes from the airport
+   - No evident not airport"
+707,good_facility,"Here is the structured ABA response based on your requirements:
+
+- **Supports:**
+  - prominent
+  - high-quality
+  - modern
+  - well-maintained
+  - comfortable
+  - clean
+  - safe
+  - convenient
+  - efficient
+  - family-friendly
+
+- **Contraries:**
+  - No evident not prominent
+  - No evident not high-quality
+  - No evident not modern
+  - No evident not well-maintained
+  - No evident not comfortable
+  - No evident not clean
+  - No evident not safe
+  - No evident not convenient
+  - No evident not efficient
+  - No evident not family-friendly
+
+This format ensures each support is paired with its contrary, adhering to the specified structure and conditions."
+709,good_facility,"The ABA format for the given text with the required conditions applied is as follows:
+
+1. **Supports:**
+   - small
+   - hotel
+
+2. **Contraries:**
+   - No evident not small
+   - No evident not hotel
+
+This list adheres to all specified conditions, ensuring each support has its corresponding contrary without any additional words or opinions."
+711,bad_facility,"- **Support**: small  
+  - **Contrary**: have evident small  
+
+- **Support**: dirty  
+  - **Contrary**: have evident dirty"
+714,good_facility,"Here is the structured ABA format based on the given text:
+
+1. Comfortable - no evident not
+2. No evident not"
+715,good_facility,"Supports:
+- place
+- great
+
+Contraries:
+- no evident not place
+- no evident not great"
+718,good_facility,"ABA Format:  
+Supports:  
+- great  
+Contraries:  
+- no evident not great"
+720,good_facility,"- **Supports**:  
+  - Clean  
+  - modern hotel  
+  - well-maintained  
+
+- **Contraries**:  
+  - No evident not clean  
+  - No evident not modern hotel  
+  - No evident not well-maintained"
+727,good_facility,"ABA Format:
+
+Support: with  
+Contrary: No evident not with"
+729,good_facility,"Supports:
+1. very
+2. very
+3. clean
+4. well
+5. equipped
+
+Contraries:
+6. no evident not very
+7. no evident not very
+8. no evident not clean
+9. no evident not well
+10. no evident not equipped"
+730,good_facility,"Here is the structured ABA format based on the provided text:
+
+1. Newly refurbished
+   - No evident not newly refurbished
+
+2. Modern decor
+   - No evident not modern decor
+
+3. Large windows
+   - No evident not large windows
+
+4. Ocean view
+   - No evident not ocean view
+
+5. Wi-Fi included
+   - No evident not wi-fi included
+
+This format ensures each positive point is paired with a corresponding negative statement, maintaining clarity and conciseness as per the requirements."
+733,bad_facility,"Here is the structured ABA format based on the provided text:
+
+- **Supports:**
+  - The hotel is young.
+  - Not everything is perfect.
+
+- **Contraries:**
+  - Have evident the hotel is young.
+  - Have evident not everything is perfect."
+733,good_facility,"Here is the structured ABA format based on the given text:
+
+- **Support 1**: new  
+  **Contrary 1**: No evident not new  
+
+- **Support 2**: new  
+  **Contrary 2**: No evident not new"
+738,good_facility,"Here is the structured ABA format based on the given conditions:
+
+- **Supports:**
+  - all
+  - furniture
+  - in
+  - hotel
+  - is
+  - new
+
+- **Contraries:**
+  - no evident not all
+  - no evident not furniture
+  - no evident not in
+  - no evident not hotel
+  - no evident not is
+  - no evident not new"
+739,good_facility,"Supports:
+1. nice
+2. extremely clean
+
+Contraries:
+1. no evident not nice
+2. no evident not very clean"
+749,good_facility,"Supports:
+- suitable
+- overnight stay
+
+Contraries:
+- No evident not suitable
+- No evident not overnight stay"
+768,bad_facility,"1. **Support**: swimming pool  
+   **Contrary**: have evident swimming pool  
+
+2. **Support**: deckchairs  
+   **Contrary**: have evident deckchairs  
+
+3. **Support**: billiards  
+   **Contrary**: have evident billiards"
+773,good_facility,"1. Compact  
+   No evident not compact  
+
+2. Clean  
+   No evident not clean  
+
+3. Modern  
+   No evident not modern  
+
+4. 3+ stars for sure  
+   No evident not 3+ stars for sure"
+777,good_facility,"Here is the structured ABA format based on the given conditions:
+
+- **Supports:**
+  - Cozy
+  - Homely
+
+- **Contraries:**
+  - No evident not cozy
+  - No evident not homely"
+780,good_facility,"Support: Cozy  
+Contrary: No evident not cozy"
+783,good_facility,"- tidy  
+- modern  
+- No evident not tidy  
+- No evident not modern"

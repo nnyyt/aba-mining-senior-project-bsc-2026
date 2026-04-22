@@ -1,0 +1,41 @@
+Timestamp,Run,ID,PhraseA,PhraseB,Prompt,RawOutput
+2026-01-26 12:16:16,1,1,have_evident_staff_not_allow_late_check-out_for_delay_plane,staff_not_allow_late_check-out_for_delay_plane,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is staff_not_allow_late_check-out_for_delay_plane. Phrase A is have_evident_staff_not_allow_late_check-out_for_delay_plane.",No
+2026-01-26 12:16:51,1,2,have_evident_staff_not_allow_late_check-out_for_delay_plane,staff_not_allow_late_check-out_for_delay_plane,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is staff_not_allow_late_check-out_for_delay_plane. Phrase A is have_evident_staff_not_allow_late_check-out_for_delay_plane.",No
+2026-01-26 12:17:26,1,3,have_evident_staff_not_allow_late_check-out_for_delay_plane,staff_not_allow_late_check-out_for_delay_plane,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is staff_not_allow_late_check-out_for_delay_plane. Phrase A is have_evident_staff_not_allow_late_check-out_for_delay_plane.",No
+2026-01-26 12:18:17,1,4,have_evident_staff_not_allow_late_check-out_for_delay_plane,staff_not_allow_late_check-out_for_delay_plane,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is staff_not_allow_late_check-out_for_delay_plane. Phrase A is have_evident_staff_not_allow_late_check-out_for_delay_plane.",No
+2026-01-26 12:19:00,1,5,have_evident_staff_not_allow_late_check-out_for_delay_plane,staff_not_allow_late_check-out_for_delay_plane,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is staff_not_allow_late_check-out_for_delay_plane. Phrase A is have_evident_staff_not_allow_late_check-out_for_delay_plane.",No
+2026-01-26 12:19:33,1,6,have_evident_staff_not_allow_late_check-out_for_delay_plane,staff_not_allow_late_check-out_for_delay_plane,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is staff_not_allow_late_check-out_for_delay_plane. Phrase A is have_evident_staff_not_allow_late_check-out_for_delay_plane.",No
+2026-01-26 12:20:13,1,7,have_evident_staff_not_allow_late_check-out_for_delay_plane,staff_not_allow_late_check-out_for_delay_plane,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is staff_not_allow_late_check-out_for_delay_plane. Phrase A is have_evident_staff_not_allow_late_check-out_for_delay_plane.",No
+2026-01-26 12:20:45,1,8,have_evident_staff_not_allow_late_check-out_for_delay_plane,staff_not_allow_late_check-out_for_delay_plane,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is staff_not_allow_late_check-out_for_delay_plane. Phrase A is have_evident_staff_not_allow_late_check-out_for_delay_plane.",No

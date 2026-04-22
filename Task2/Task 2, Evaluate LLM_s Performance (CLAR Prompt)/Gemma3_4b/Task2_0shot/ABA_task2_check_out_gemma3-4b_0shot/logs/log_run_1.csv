@@ -1,0 +1,29 @@
+ID,Output
+161,"check out time
+supports: check out time
+contraries: no evident not check out time"
+310,"hotel allowed us to check out later
+prior to our flight
+no evident not later
+no evident not prior"
+314,"super fast checkin
+no evident not fast checkin
+super fast checkout
+no evident not fast checkout"
+542,"We left at night with no problems.
+no problems
+no evident not problems"
+639,"They accommodated us with an earlier check-in. No evident not check-in.
+They accommodated us with an earlier check-out. No evident not check-out."
+660,"allowed, late, late, no, extra, cost, late, no"
+711,"possibility for late check out
+support: late check out
+contrary: no evident not late check out
+support: late check out
+contrary: no evident not late check out
+support: late check out
+contrary: no evident not late check out"
+769,"hotel did not allow turn over hours before delayed plane
+have evident turn over hours before delayed plane
+hotel did not allow turn over hours before delayed plane
+have evident turn over hours before delayed plane"

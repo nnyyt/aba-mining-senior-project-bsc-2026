@@ -1,0 +1,2084 @@
+ID,Prompt,Test 1,Topic
+1,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Tasty food on the first floor, comfortable restaurant for both cozy evenings and calm work to escape the heat in the midday","tasty_food , no_evident_not_tasty_food , comfortable_restaurant , no_evident_not_comfortable_restaurant , cozy_evenings , no_evident_not_cozy_evenings , calm_work , no_evident_not_calm_work , escape_heat , no_evident_not_escape_heat",good_food
+2,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Also, the breakfast was amazing, fresh and handmade! Especially vegetarian version with humus. The cook is great, and all staff was very kind and helpful.","breakfast_good_food , fresh_good_food , handmade_good_food , vegetarian_good_food , humus_good_food , cook_good_food , staff_good_food , no_evident_not_breakfast_good_food , no_evident_not_fresh_good_food , no_evident_not_handmade_good_food , no_evident_not_vegetarian_good_food , no_evident_not_humus_good_food , no_evident_not_cook_good_food , no_evident_not_staff_good_food",good_food
+11,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Oh yeah the food is great to and very reasonable prices ..","good_food , no_evident_not_good_food , good_food , no_evident_not_reasonable_prices",good_food
+12,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The breakfast was lovely with room service too.","good_food , room_service , no_evident_not_room_service , lovely_breakfast , no_evident_not_lovely_breakfast",good_food
+16,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The restaurant downstairs is amazing- the food there is very very tasty and made with a lot of care- they care a lot about the details: olive oil galore, herbs- absolutely delicious!","good_food , food_tasty , food_care , details_care , olive_oil_galore , herbs_present , no_evident_not_food_tasty , no_evident_not_food_care , no_evident_not_details_care , no_evident_not.olive_oil_galore , no_evident_not.herbs_present",good_food
+18,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Meals well prepared and good value.","well_prepared_no_evident_not_well_prepared , good_value_no_evident_good_value",good_food
+21,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Everything from breakfast to dinner is absolutely delicious.","breakfast_delicious , dinner_delicious , no_evident_not_breakfast_delicious , no_evident_not_dinner_delicious",good_food
+22,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The restaurant area is nice","nice_no_evident_not_nice , nice_no_evident_not_nice",good_food
+26,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+There is a great restaurant inside where the food is good and not to pricey.","good_food , no_evident_not_good_food , not_to_pricey , no_evident_not_not_to_pricey",good_food
+31,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Great restaurant beneath the hotel - food excellent & reasonably priced.","food_excellent , food_reasonably_priced , no_evident_not_food_excellent , no_evident_not_food_reasonably_priced",good_food
+33,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Option to have a good breakfast within the hotel save your time.","good_food , no_evident_not_good_food , save_time , no_evident_not_save_time , hotel , no_evident_not_hotel , breakfast , no_evident_not_breakfast",good_food
+36,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+We may have missed it but there was no opening and closing times of the bar on display.","bad_food , have_evident_no_opening_times , have_evident_no_closing_times , bad_food , have_evident_no_opening_hours , have_evident_no_closing_hours",bad_food
+41,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+very nice breakfast.","nice_breakfast , no_evident_not_nice_breakfast",good_food
+45,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Restaurant was a surprise hit: good food, very reasonably priced, so an easy choice to eat at the hotel when we wouldn't usually.","good_food , no_evident_not_good_food , reasonably_priced , no_evident_not_reasonably_priced",good_food
+53,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+delicious breakfasts in the hotel restaurant,","good_food , delicious_no_evident_not_delicious , breakfasts_no_evident_not_breakfasts , in_the_hotel_restaurant_no_evident_not_in_the_hotel_restaurant",good_food
+56,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+it would’ve been great if breakfast started at 7 rather than 8.","bad_food_have_evident_later_time , bad_food_have_evident_earlier_time",bad_food
+61,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Excellent range of food offered","good_food , range , no_evident_not_range , food , no_evident_not_food",good_food
+62,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Restaurant on site","on_site , not_on_site",good_food
+64,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Even though the kitchen was closing, they made us a pizza which was really nice.","kitchen_closing , no_evident_not_kitchen_closing , made_pizza , no_evident_not_made_pizza , nice_pizza , no_evident_not_nice_pizza",good_food
+66,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+the bar and coffee shop chic","chic , no_evident_not_chic",good_food
+74,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Furthermore, there is a restaurant in the hotel with delicious food.","good_food , no_evident_not_good_food",good_food
+80,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+We had dinner. It was delicious and inexpensive.","dinner , no_evident_not_dinner , delicious , no_evident_not_tasty , inexpensive , no_evident_not_costly",good_food
+84,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The breakfast was very good plenty of selection.  Every thing was spotless clean in the breakfast room","good_food , no_evident_not_good_food , plenty_of_selection , no_evident_not_plenty_of_selection , clean , no_evident_not_clean",good_food
+86,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Breakfast was excellent.","good_food , no_evident_not_good_food",good_food
+87,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+nice restaurant.","good_food , no_evident_not_good_food",good_food
+93,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Nice restaurant in the same building very welcoming with nice offer.","good_food , nice_offer , welcoming , no_evident_not_nice_offer , no_evident_not_welcoming",good_food
+94,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+very tasty food with a super service at the restaurant by the hotel.","tasty , no_evident_not_tasty , super , no_evident_not_super , service , no_evident_not_service , at_the_restaurant , no_evident_not_at_the_restaurant , by_the_hotel , no_evident_not_by_the_hotel",good_food
+97,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The food we had was excellent","good_food , no_evident_not_good_food , bad_food , no_evident_not_bad_food",good_food
+107,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Breakfast was excellent.","good_food , no_evident_not_good_food",good_food
+112,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+very nice restaurant, good food and service","good_food , no_evident_not_good_food , good_service , no_evident_not_good_service",good_food
+118,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+hotel restaurant delicious! 10/10","delicious , no_evident_not_delicious , 10/10 , no_evident_not_10/10",good_food
+126,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The food was very tasty","good_food , tasty , no_evident_not_tasty",good_food
+132,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The breakfast prepared by Richard was delicious and freshly prepared. As well there are many choices from Cyprus to English breakfast.","good_food , breakfast_delicious , breakfast_freshly_prepared , many_choices , no_evident_not_breakfast_delicious , no_evident_not_breakfast_freshly_prepared , no_evident_not_many_choices",good_food
+134,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+great chef.","good_food , no_evident_not_good_food",good_food
+139,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+nice restaurant at the hotel with a external balcony",good_food_nice_food_no_evident_not_nice_food_good_food_tasty_food_no_evident_not_tasty_food,good_food
+140,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+great breakfast.","good_food , no_evident_not_good_food",good_food
+145,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Rich breakfast with various local food. Also we ate dinner a couple of times at the terrace and everything was very tasty.","good_food , local_food , terrace_dining , tasty_no_evident_not_local_food , tasty_no_evident_terrace_dining",good_food
+153,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+beautiful fresh breakfast which was very reasonably priced.","fresh , no_evident_not_fresh , reasonably_priced , no_evident_not_reasonably_priced",good_food
+155,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+We really enjoyed the dinner in the restaurant. Everything was freshmade and prepare by the cheff...","good_food , freshmade , no_evident_not_freshmade , prepare_by_cheff , no_evident_not_prepare_by_cheff",good_food
+158,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The breakfasts were amazing.","good_food , no_evident_not_good_food",good_food
+162,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+and the breakfast was really delicious.","good_food , no_evident_not_good_food",good_food
+167,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+And on top of everything is the food , the food is SUPER EXCELLENT","good_food , food , no_evident_not_food",good_food
+168,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The food at the restaurant is a must try, pretty delicious.","good_food , no_evident_not_good_food , pretty_delicious , no_evident_not_pretty_delicious , must_try , no_evident_not_must_try",good_food
+169,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+We ate 2 meals at the onsite small restaurant, both were delish and the service was great.","-_ate , -_meals , -_onsite , -_small , -_restaurant , -_delish , -_great , no_evident_not_ate , no_evident_not_meals , no_evident_not_onsite , no_evident_not_small , no_evident_not_restaurant , no_evident_not_delish , no_evident_not_great",good_food
+170,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The food was excellent. Richard, the chef prepared the fish, which was the best that I ever tasted.","good_food , no_evident_not_good_food , richard_prepared_fish , no_evident_not_richard_prepared_fish , fish_best_tasted , no_evident_not_fish_best_tasted",good_food
+180,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+delicious breakfast (great freshly made croissants)","good_food , freshly_made , no_evident_not_freshly_made , croissants , no_evident_not_croissants",good_food
+183,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+and the food is terrific.","good_food , no_evident_not_good_food",good_food
+184,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The chef was very kind and friendly, also the food was delicious, especially the jasmine burger.","good_food , food_delicious , jasmine_burger_delicious , no_evident_not_food_delicious , no_evident_not_food_tasty , no_evident_not_jasmine_burger_delicious , no_evident_not_jasmine_burger_tasty",good_food
+185,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+And breakfast was served until noon!","breakfast , no_evident_not_breakfast , served , no_evident_not_served , until , no_evident_not_until , noon , no_evident_not_noon",good_food
+190,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Excellent breakfast.","good_food , no_evident_not_good_food",good_food
+198,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The food at the restaurant was amazing. Richard as the head of Hotel's restaurant, cooks with passion and almost everything from scratch. So fresh and good looking. He makes a simple breakfast amazing and his lunch table, looks like a feast.","good_food , no_evident_not_good_food , fresh , no_evident_not_fresh , good_look , no_evident_not_good_look , amazing , no_evident_not_amazing , feast , no_evident_not_feast",good_food
+200,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+food was 5 star! The best club sandwich ever!!","good_food , no_evident_not_good_food , good_food , no_evident_not_good_food",good_food
+209,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+we loved the breakfast","loved , no_evident_not_loved , good_food , no_evident_not_good_food",good_food
+211,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Breakfast for charge same as anywhere else was enormous size and very delicious.","good_food , breakfast , no_evident_not_breakfast , enormous_size , no_evident_not_enormous_size , very_delicious , no_evident_not_very_delicious",good_food
+213,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The food was very good,the chef is kind.","good_food , no_evident_not_good_food , kind_chef , no_evident_not_kind_chef",good_food
+221,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Breakfast was outstanding.","good_food , no_evident_not_good_food",good_food
+226,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Except excellent staff/owners and an ok restaurant,","staff/owners_ok , no_evident_not_ok , restaurant_ok , no_evident_not_ok",good_food
+232,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Terrific late breakfast at the café downstairs, the manager catered to our every need","good_food , late_breakfast , café_downstairs , manager_catered , every_need , no_evident_not_good_food , no_evident_not_late_breakfast , no_evident_not_café_downstairs , no_evident_not_manager_catered , no_evident_not_every_need",good_food
+233,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Breakfast was amazing in a beautiful setting and the management are wonderful. a little far from local shop but have everything we need in the cafe.","good_food , beautiful_setting , wonderful_management , a_little_far_from_local_shop , have_everything_we_need_in_the_cafe , no_evident_not_beautiful_setting , no_evident_wonderful_management , no_evident_a_little_far_from_local_shop , no_evident_have_everything_we_need_in_the_cafe",good_food
+236,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Breakfast as an extra was good.","good_food , no_evident_not_good_food",good_food
+245,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+and the restaurant at floor level is awesome - Richard is a great chef and his friendliness will make you want to extend your vacation for sure. We felt like we were part of their community and this is due to their opennes.","good_food , richard_cooking , no_evident_not_richard_cooking , good_food , openness , no_evident_not_openness",good_food
+246,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+We also had dinner there, and the food was very good and the chef was very friendly.","good_food , no_evident_not_good_food , friendly_chef , no_evident_not_friendly_chef",good_food
+250,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The rooms, lobby and restaurant were lovely; exceedlingly modern, and comfortable.  We ate dinner at the hotel because we were so impressed with ""chef Richard"" and the food was fabulous.","rooms_lovely , lobby_lovely , restaurant_lovely , dinner_eaten , impressed_chef_richard , food_fabulous , no_evident_not_rooms_lovely , no_evident_not_lobby_lovely , no_evident_not_restaurant_lovely , no_evident_not_dinner_eaten , no_evident_not_impressed_chef_richard , no_evident_not_food_fabulous",good_food
+252,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Breakfast was freshly made and delicious.","freshly_made , delicious , no_evident_not_freshly_made , no_evident_not_delicious",good_food
+258,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+delicious food, tranquility!","good_food , delicious , no_evident_not_delicious , tranquility , no_evident_not_tranquility",good_food
+260,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+delicious breakfast.","good_food , no_evident_not_good_food",good_food
+262,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+and had a terrific breakfast on the terrace","good_food , terrace , no_evident_not_terrace , had_breakfast , no_evident_not_had_breakfast",good_food
+268,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Good breakfast available if required,","good_food , no_evident_not_good_food",good_food
+272,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The Breakfast is so delicious","good_food , no_evident_not_good_food",good_food
+278,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+and the food was superb.","good_food , no_evident_not_good_food",good_food
+279,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+However, there is small restaurant within the hotel lobby that charged $10 euros for a very nice hot breakfast","good_food , no_evident_not_good_food , good_breakfast , no_evident_not_good_breakfast , nice_hot_breakfast , no_evident_not_nice_hot_breakfast , charged_10_euros , no_evident_not_charged_10_euros , within_hotel_lobby , no_evident_not_within_hotel_lobby",good_food
+282,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Tasty breakfast.","tasty , not_tasty",good_food
+288,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Good, tasty breakfest.","good_food , good_food_no_evident_not_good , tasty_food , tasty_food_no_evident_not_tasty , breakfast , breakfast_no_evident_not_breakfast",good_food
+290,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The breakfast was good.","good_food , good_food_no_evident_not_good",good_food
+295,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+the Garnish restaurant downstairs is a very warm and cosy place with tasty breakfasts every morning. Mr. Richard and Sendi are awesome, it’s such a pleasure to start a day with their smiles.","downstairs_no_evident_not_warm , downstairs_no_evident_not_cosy , tasty_no_evident_not_tasty , smiles_no_evident_not_smiles",good_food
+300,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+even breakfast was presentable and tasty!","breakfast_presentable , breakfast_tasty , no_evident_not_breakfast_presentable , no_evident_not_breakfast_tasty",good_food
+305,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+all the restaurants were closed. Richard was amazing and whipped us up an excellent pizza even though they were long since closed.","restaurants_closed , no_evident_not_restaurants_closed , richard_amazing , no_evident_not_richard_not_amazing , whipped_up , no_evident_not_did_not_whip_up , excellent_pizza , no_evident_not_poor_pizza",good_food
+310,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+breakfasts were nice. very clean.","nice_breakfasts_no_evident_not_nice_breakfasts , very_clean_no_evident_not_very_clean",good_food
+312,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+food was delicious","good_food , delicious , no_evident_not_delicious",good_food
+322,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+More restaurants.","more_restaurants , have_evident_fewer_restaurants",bad_food
+330,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The breakfast was really delicious too 😊","good_food , no_evident_not_good_food",good_food
+333,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Breakfast was exceptional","good_food , no_evident_not_good_food",good_food
+336,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Dinner and breakfast were freshly made and very tasty.","freshly_made_no_evident_not_freshly_made , very_tasty_no_evident_not_very_tasty",good_food
+339,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Garnish restaurant on the ground is amazing! The owner is a very kind person and creative chef.","ground_good_food , ground_no_evident_not_good_food , kind_person_good_food , kind_person_no_evident_not_good_food , creative_chef_good_food , creative_chef_no_evident_not_good_food",good_food
+348,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+breakfast was a typical Cypriot one,","typical , no_evident_not_typical , cypriot , no_evident_not_cypriot",good_food
+353,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Healthy breakfast.","healthy_breakfast , no_evident_not_healthy_breakfast",good_food
+355,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Breakfast in the hotel was great,","good_food , no_evident_not_good_food",good_food
+362,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+I recommend the breakfasts, which are really delicious.","good_food , no_evident_not_delicious",good_food
+366,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Especially,the chef of La Vernada Hotel is perfest,he made delicious breakfast,lunch and dinner and his food is better than a 5star hotel. and the prices of the food are very good and are not expensive.Absolutely fantastic hotel with an excellent chef that make this hotel perfect.","chef , made , breakfast , lunch , dinner , better , prices , not_expensive , fantastic , excellent , no_evident_not_chef , no_evident_not_made , no_evident_not_breakfast , no_evident_not_lunch , no_evident_not_dinner , no_evident_not_better , no_evident_not_prices , no_evident_not_not_expensive , no_evident_not_fantastic , no_evident_not_excellent",good_food
+369,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The food was amazing at the restaurant","good_food , no_evident_not_good_food",good_food
+373,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Can also enjoy delicious breakfast, if desired.","good_food , delicious_breakfast , no_evident_not_delicious_breakfast",good_food
+375,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The food he creates is outstanding and delicious. Even the simplest of food ie. chicken burger and salad was made to taste exceptional. Richard cooks from the heart.","good_food , chicken_burger , no_evident_not_chicken_burger , salad , no_evident_not_salad , cooked_from_heart , no_evident_not_cooked_from_heart",good_food
+376,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The chef is incredible and very friendly, the kind of person who loves nothing more than you enjoying his food!","chef_incredible , chef_friendly , loves_enjoyment , no_evident_not_incredible , no_evident_not_friendly , no_evident_not_loves_enjoyment",good_food
+377,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Breakfast was delicious.","good_food , no_evident_not_good_food",good_food
+378,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The food was delicious.","good_food , no_evident_not_delicious",good_food
+379,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+and got early breakfast as well as had nice evening in bar.","got_early_breakfast_no_evident_not_got_early_breakfast , had_nice_evening_no_evident_not_had_nice_evening",good_food
+380,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+More options for breakfast.","bad_food_have_evident_fewer_choices , bad_food_have_evident_more_unhealthy_options",bad_food
+383,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Good breakfast","good_food , no_evident_not_good_food",good_food
+386,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+friendly, welcoming and accommodating as was Richard at the bar/restaurant.","friendly,_welcoming_and_accommodating_as_was_richard_at_the_bar/restaurant , no_evident_not_friendly,_welcoming_and_accommodating_as_was_richard_at_the_bar/restaurant",good_food
+393,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+and restaurant/bar very reasonably priced and quality","-_restaurant/bar_reasonably_priced , -_restaurant/bar_quality , -_no_evident_not_restaurant/bar_reasonably_priced , -_no_evident_not_restaurant/bar_quality",good_food
+394,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Great service by Richard (bar manager).","service_good , service_bad , evidence_good , no_evident_not_evidence_good",good_food
+400,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+the personnel, especially the Chief. He is real professional, was always trying to prepare for us traditional vegan dishes of local cuisine (always delicious!).","good_food , -_prepares_dishes , -_no_evident_not_prepares_dishes , good_food , -_traditional_vegetarian_dishes , -_no_evident_not_traditional_vegetarian_dishes , good_food , -_local_cuisine , -_no_evident_not_local_cuisine",good_food
+405,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Furthermore, i can speak about richard the chef of the hotel! He makes you feel like you know each other years before..!he is kind polite ready to help you with whatever you want to eat and drink! Delicious food","richard_knows_customers , no_evident_not_richard_knows_customers , richard_kind , no_evident_not_richard_kind , richard_polite , no_evident_not_richard_polite , richard_ready_to_help , no_evident_not_richard_ready_to_help , delicious_food , no_evident_not_delicious_food",good_food
+407,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+nice greek breakfast","good_food , no_evident_not_good_food",good_food
+409,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The restaurant had delicious food, the service was incredible,","good_food , no_evident_not_delicious_food , good_food , no_evident_not_incredible_service",good_food
+415,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+and breakfast was awesome.","breakfast , no_evident_not_breakfast , good_food , no_evident_not_good_food",good_food
+424,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Fantastic breakfast.","good_food , no_evident_not_good_food",good_food
+425,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The breakfast could have had more variety. They had no cereal on offer at all. They had no ordinary tea on offer. It was al Earl Grey. No proper plan tea.","bad_food , no_cereal , have_evident_cereal , no_ordinary_tea , have_evident_ordinary_tea , no_proper_plan_tea , have_evident_proper_plan_tea",bad_food
+431,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The restaurant was decent.","decent , no_evident_not_decent",good_food
+437,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+No breakfast included. We tried it one time at their restaurant and it was low quality compared to an original greek breakfast.","no_breakfast , have_evident_breakfast , low_quality , have_evident_high_quality , original_greek_breakfast , have_evident_non_original_greek_breakfast",bad_food
+439,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Restaurant was offering a rather narrow set of choices compared to what was listed on the menu.","bad_food , have_evident_narrow_set_of_choices , have_evident_listed_on_menu",bad_food
+441,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Break fast was PERFECT,","good_food , no_evident_not_good_food",good_food
+442,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Breakfast was very filling. It was located on the table in front of us (funny question).","-_breakfast , -_filling , -_located , -_table , -_front , -_us , -_funny , -_question , -_no_evident_not_breakfast , -_no_evident_not_filling , -_no_evident_not_located , -_no_evident_not_table , -_no_evident_not_front , -_no_evident_not_us , -_no_evident_not_funny , -_no_evident_not_question",good_food
+445,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Breakfast was below average","bad_food , have_evident_tastelessness , have_evident_lack_of_nutrition",bad_food
+446,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+didn't have breakfast but the evening meal was poor as it isn't really a bar or a restaurant.","bad_food_didn't_have_breakfast , bad_food_have_evident_breakfast , bad_food_evening_meal_was_poor , bad_food_have_evident_poor",bad_food
+456,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+-The sandwiches and hummus by the chef were delicious.","-sandwiches_delicious , -hummus_delicious , -no_evident_not_sandwiches_delicious , -no_evident_not_hummus_delicious",good_food
+458,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Limited food options","bad_food , have_evident_few_choices , have_evident_narrow_range , bad_food , have_evident_insufficient_variety , have_evident_limited_diversity",bad_food
+465,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Breakfast above expectations.","good_food , no_evident_not_good_food",good_food
+472,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Huge and delicious breakfast.","huge_and_delicious_no_evident_not_huge , delicious_no_evident_not_delicious",good_food
+474,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Very poor lunch (breakfast)","bad_food , have_evident_poor_lunch , have_evident_breakfast",bad_food
+477,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Delicious food,","good_food , no_evident_not_delicious_food",good_food
+479,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Good breakfast directly in the hotel, to be paid separately (various options up to 10 EUR).","good_food , no_evident_not_good_food , good_options , no_evident_not_good_options , various_prices , no_evident_not_various_prices , up_to_10_eur , no_evident_not_up_to_10_eur",good_food
+484,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+We had dinner in the evening, it was very good.","good_food , no_evident_not_good_food",good_food
+490,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+and excellent cuisine","good_food , excellent_cuisine , no_evident_not_excellent_cuisine",good_food
+496,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+and delicious breakfasts.","delicious , no_evident_not_delicious , breakfasts , no_evident_not_breakfasts",good_food
+497,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+the restaurant is very varied.","varied , no_evident_not_varied , good_food , no_evident_not_good_food",good_food
+501,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+although it took a relatively long time for our food to be ready.","took_long_have_evident_short , cooked_poorly_have_evident_bad , ingredients_poor_have_evident_bad , service_slow_have_evident_long",bad_food
+505,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Nice restaurant in the house, great coffee!","house , restaurant , coffee , no_evident_not_house , no_evident_not_restaurant , no_evident_not_coffee",good_food
+519,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Very good breakfast,","good_food , no_evident_not_good_food",good_food
+524,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Excellent food","good_food , no_evident_not_good_food",good_food
+533,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+however the restaurant in the evening was perfect. The cook particularly affable fast and delicious irreproachable service.","good_food , no_evident_not_good_food , good_food , no_evident_not_good_food",good_food
+534,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Very good homemade breakfast.","good_food , no_evident_not_good_food",good_food
+536,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The cuisine is simple but tasty.","simple_tasty , simple_not_tasty , tasty_simple , tasty_not_simple",good_food
+545,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+We had dinner and it was perfect","good_food , no_evident_not_good_food",good_food
+548,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Have to pay for breakfast","pay_for_breakfast , have_evident_to_pay_for_breakfast",bad_food
+556,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The restaurant in the hotel is also great.","good_food , no_evident_not_good_food",good_food
+557,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The breakfast offered by an independent service does not correspond quantitatively and qualitatively to the known levels of Cypriot hospitality and gastronomy,
+ and the price of €12 for breakfast is much more expensive than the reasonable value (in terms of quality and quantity) of the offered product!","bad_food , have_evident_poor_quality , have_evident_high_price , have_evident_insufficient_quantity , have_evident_lack_of_gastronomic_value , have_evident_overpriced , have_evident_substandard_service , have_evident_inadequate_portion_sizes , have_evident_unappetizing_dishes , have_evident_no_value_for_money , have_evident_not_meeting_expectations",bad_food
+565,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Delicious breakfasts,","good_food , no_evident_not_good_food",good_food
+571,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+delicious breakfast.","good_food , no_evident_not_good_food",good_food
+572,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Friendly people both at the reception and in the restaurant, willing to serve","friendly_people_no_evident_not_friendly_people , willing_to_serve_no_evident_not_willing_to_serve",good_food
+576,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The restaurant service is very good, varied and with good prices,","good_food , no_evident_not_good_food , good_food , no_evident_not_varied_food , good_food , no_evident_not_good_prices",good_food
+578,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+they were very nice and prepared a fantastic breakfast for us!","nice_no_evident_not_nice , prepared_no_evident_not_prepared , fantastic_no_evident_not_fantastic",good_food
+591,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Very varied breakfasts to choose from in the hotel restaurant.","good_food , breakfasts_varied , no_evident_not_breakfasts_varied , many_choices , no_evident_not_many_choices",good_food
+593,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The dishes cooked to order are delicious, I recommend eating at Jasmine Garden.","dishes_cooked_to_order , no_evident_not_dishes_cooked_to_order , delicious , no_evident_not_delicious , recommend , no_evident_not_recommend , eating_at_jasmine_garden , no_evident_not_eating_at_jasmine_garden",good_food
+594,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+We had a delicious dinner at the hotel restaurant.","good_food , delicious , no_evident_not_delicious , dinner , no_evident_not_dinner , hotel , no_evident_not_hotel , restaurant , no_evident_not_restaurant",good_food
+595,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The meal is not included in the price","bad_food_have_evident_cost , bad_food_have_evident_extra_charge",bad_food
+597,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Excellent breakfast and meals in the restaurant, all freshly made.","good_food , freshly_made , no_evident_not_freshly_made , excellent_breakfast , no_evident_not_excellent_breakfast , meals , no_evident_not_meals",good_food
+599,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Delicious breakfast in cafe,","good_food , no_evident_not_good_food",good_food
+610,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The breakfast on the terrace is very nice too!","good_food , no_evident_not_good_food",good_food
+611,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+the restaurant offering a good quality of dishes.","good_food , good_quality , no_evident_not_good_quality",good_food
+613,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Very good breakfast!","good_food , no_evident_not_good_food",good_food
+615,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Very nice staff, restaurant and hotel very good.","staff_good , staff_no_evident_not_good , restaurant_good , restaurant_no_evident_not_good , hotel_good , hotel_no_evident_not_good",good_food
+619,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Perfect and good dinner and lovely waiter.","good_food , no_evident_not_good_food , perfect_dinner , no_evident_not_perfect_dinner , good_dinner , no_evident_not_good_dinner , lovely_waiter , no_evident_not_lovely_waiter",good_food
+621,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+There are breakfasts, not a big variety but tasty","bad_food_have_evident_little_variety , bad_food_have_evident_tasty",bad_food
+626,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Definitely recommend trying the food in the restaurant. We took pasta, pizza, salads and burgers and everything was piping hot and very tasty and homemade.","pasta_hot , pasta_tasty , pasta_homemade , pizza_hot , pizza_tasty , pizza_homemade , salads_hot , salads_tasty , salads_homemade , burgers_hot , burgers_tasty , burgers_homemade , no_evident_not_pasta_hot , no_evident_not_pasta_tasty , no_evident_not_pasta_homemade , no_evident_not_pizza_hot , no_evident_not_pizza_tasty , no_evident_not_pizza_homemade , no_evident_not_salads_hot , no_evident_not_salads_tasty , no_evident_not_salads_homemade , no_evident_not_burgers_hot , no_evident_not_burgers_tasty , no_evident_not_burgers_homemade",good_food
+636,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+We had dinner at the hotel restaurant and it was excellent! The chef gave a personal touch to understand exactly what we want.","good_food , chef_knows_customers , no_evident_not_chef_knows_customers , personal_service , no_evidient_not_personal_service",good_food
+639,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+We had a small lunch here and it was delicious.","good_food , no_evident_not_delicious",good_food
+642,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Delicious homemade breakfast,","good_food , no_evident_not_good_food",good_food
+643,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+I would like more variety at breakfast.
+ The price to food ratio was disproportionate.","bad_food , price_to_food_ratio_was_disproportionate , have_evident_price_to_food_ratio_was_proportionate",bad_food
+646,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Breakfast can be bought directly at the hotel for only 8 euros.","breakfast_directly_hotel , no_evident_not_breakfast_directly_hotel , breakfast_8_euros , no_evident_not_breakfast_8_euros",good_food
+650,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+We took breakfast once. I liked it.","liked_no_evident_not_liked , took_no_evident_not_taken",good_food
+654,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+At any time, you can go down to the veranda at the tables and just drink their wonderful cappuccino on soft sofas,","good_food , tables , soft_sofas , wonderful_cappuccino , no_evident_not_tables , no_evident_not_soft_sofas , no_evident_not_wonderful_cappuccino",good_food
+658,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+delicious food,","good_food , no_evident_not_delicious_food",good_food
+660,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+and the breakfast very good and plentiful.","good_food , no_evident_not_good_food , plentiful , no_evident_not_plentiful",good_food
+663,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+3. Breakfast
+ Served on site, on the ground floor in the dining room with access to the front terrace, delicious, homemade Greek taste.","served_on_site , no_evident_not_served_on_site , homemade , no_evident_not_homemade , delicious , no_evident_not_delicious",good_food
+665,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Breakfast was good, but not lavish. Had to ask for bread.","good,_have_evident_bad_food , not_lavish,_have_evident_bad_food , had_to_ask_for_bread,_have_evident_bad_food",bad_food
+669,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Delicious breakfast for a fee","good_food , breakfast , fee , no_evident_not_breakfast , no_evident_not_fee",good_food
+672,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Breakfast was good","good_food , no_evident_not_good_food",good_food
+673,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+We can highly recommend the breakfast offered.","good_food , no_evident_not_good_food",good_food
+685,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+excellent breakfasts for only 8€,","good_food , no_evident_not_good_food",good_food
+687,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Of the shortcomings, I would note the monotonous breakfast. Every day is the same.","bad_food , have_evident_same , have_evident_different",bad_food
+696,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Liked the food at the cafe in the lobby.","liked_food_no_evident_not_liked_food , good_food_no_evident_not_good_food",good_food
+702,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+good cook","good_food , no_evident_not_good_food",good_food
+703,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Full breakfast and served without time limit, to good understanding :)","full_breakfast , served_without_time_limit , no_evident_not_full_breakfast , no_evident_served_without_time_limit",good_food
+710,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+but we had dinner in the restaurant and it was very good.","good_food , no_evident_not_good_food",good_food
+722,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+delicious breakfast on the veranda.","good_food , delicious , no_evident_not_delicious , breakfast , no_evident_not_breakfast , veranda , no_evident_not_veranda",good_food
+729,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+excellent breakfast.","good_food , no_evident_not_good_food",good_food
+735,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+BREAKFAST WONDERFUL.","good_food , no_evident_not_good_food",good_food
+737,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Pleasant breakfast.","good_food , no_evident_not_good_food",good_food
+738,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+and the breakfast is excellent.","good_food , no_evident_not_good_food",good_food
+756,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+it would be nice if there was a breakfast buffet","bad_food_have_evident_ingredients , bad_food_have_evident_calories , bad_food_have_evident_sugar , bad_food_have_evident_fat",bad_food
+757,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+After 20 minutes of waiting bad and half raw croissant
+ Watery cappuccino","bad_food , wait_long , have_evident_wait_short , watery_cappuccino , have_evident_non_watery_cappuccino , bad_croissant , have_evident_good_croissant , half_raw_croissant , have_evident_well_done_croissant",bad_food
+764,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Breakfast ok.","breakfast , ok , no_evident_not_breakfast , no_evident_not_ok",good_food
+768,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+monotonous breakfasts (everyday the same set:","bad_food_have_evident_monotony , bad_food_have_evident_same_set",bad_food
+771,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The breakfast is delicious but the same. Eat what they bring you.","bad_food , have_evident_taste , have_evident_variety , bad_food , have_evident_taste , have_evident_no_variety , bad_food , have_evident_delicious , have_evident_same , bad_food , have_evident_eat , have_evident_do_not_eat , bad_food , have_evident_bring_you , have_evident_do_not_bring_you",bad_food
+777,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Delicious inexpensive breakfast options","good_food , breakfast , inexpensive , no_evident_not_breakfast , no_evident_expensive",good_food
+779,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Nothing except the breakfast served at the bar next door (too frugal for the price and very slow service!).","bad_food , have_evident_frugal , have_evident_slow_service",bad_food
+781,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+A friendly, nice and sympathetic man serving breakfast.","friendly_no_evident_not_friendly , nice_no_evident_not_nice , sympathetic_no_evident_not_sympathetic , serving_no_evident_not_serving , breakfast_no_evident_not_breakfast",good_food
+782,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_food"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Delicious breakfast","good_food , no_evident_not_good_food",good_food

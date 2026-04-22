@@ -1,0 +1,1438 @@
+ID,Output
+1,"new apartments
+comfortable apartments
+no evident not new apartments
+no evident not comfortable apartments"
+2,"bad_facility
+have evident poor
+have evident small"
+2,"good_facility small
+good_facility warm
+no evident not small
+no evident not warm"
+53,"nice no evident not nice  
+renovated no evident not renovated"
+63,"good_facility
+renovated
+no evident not renovated
+well_up_to_4_star_standard
+no evident not well_up_to_4_star_standard"
+66,"good_facility
+entrance welcoming
+no evident not entrance welcoming
+
+good_facility
+welcoming entrance
+no evident not welcoming entrance"
+69,"good_facility
+place
+no_evident_not_place
+people
+no_evident_not_people"
+70,"good_facility peaceful no_evident_not peaceful
+good_facility clean no_evident_not clean"
+76,"new
+clean
+no evident not new
+no evident not clean"
+80,"new hotel  
+clean  
+no evident not new hotel  
+no evident not clean"
+81,"no_24_hour_reception
+have_evident_24_hour_reception
+
+bad_facility"
+84,"- everything_clean
+- no_evident_not_everything_clean
+- plenty_chairs
+- no_evident_not_plenty_chairs
+- garden_clean
+- no_evident_not_garden_clean"
+84,"- did not have pool
+- have evident pool"
+86,"good_facility
+friendly_staff
+no_evident_not_friendly_staff
+
+nice_hotel
+no_evident_not_nice_hotel"
+88,"clean
+comfortable
+little
+no evident not clean
+no evident not comfortable
+no evident not little"
+90,"parking not always easy
+have evident parking often difficult
+have evident parking sometimes available"
+94,"modern facility
+no evident not modern facility"
+98,"good_facility
+nice
+no evident not nice
+spacious
+no evident not spacious
+clean
+no evident not clean
+modern
+no evident not modern"
+109,"clean no evident not clean
+good_facility no evident not good_facility"
+110,"completely refurbished
+no evident not completely refurbished
+
+comfortable
+no evident not comfortable"
+112,"recently refurbished
+not recently refurbished"
+114,"didn't have pool
+have evident pool"
+114,"clean
+no evident not clean
+
+immaculately clean
+no evident not immaculately clean"
+123,"good_facility nice_simple_hotel
+no_evident_not_nice_simple_hotel"
+130,"allowed
+not allowed"
+133,"no swimming pool
+have evident no swimming pool"
+134,"good_facility
+veranda_clean
+no_evident_not_veranda_clean
+
+veranda_lovely
+no_evident_not_veranda_lovely"
+135,"modern no evident not modern
+clean no evident not clean"
+136,"bad_facility
+have evident dirt
+have evident filth
+
+bad_facility
+have evident decay
+have evident ruin"
+136,"clean no evident not clean
+beautiful no evident not beautiful"
+139,"slow elevators
+have evident slow speed
+have evident delay
+
+fast elevators
+have evident fast speed
+have evident no delay"
+141,"good_facility
+bad_facility
+clean
+unclean
+comfortable
+uncomfortable
+convenient
+inconvenient
+well-maintained
+poorly-maintained"
+149,"bad_facility
+have evident poor facilities
+have evident insufficient activities
+have evident inadequate maintenance
+have evident subpar cleanliness
+have evident limited amenities
+
+bad_facility
+have evident good facilities
+have evident abundant activities
+have evident excellent maintenance
+have evident superior cleanliness
+have evident extensive amenities"
+150,"new
+no evident not new
+
+beautiful
+no evident not beautiful
+
+clean
+no evident not clean"
+150,"no_kiosk_open_24_hours
+have_evident_kiosk_open_24_hours
+
+no_proximity_to_kiosk
+have_evident_proximity_to_kiosk"
+155,"good_facility
+facilities_wonderful
+facilities_brand_new
+facilities_full_equiped
+no_evident_not_facilities_wonderful
+no_evident_not_facilities_brand_new
+no_evident_not_facilities_full_equiped"
+158,"clean
+no evident not clean
+fantastic
+no evident not fantastic"
+160,"good_facility
+perfect_hotel
+no_evident_not_perfect_hotel"
+162,"good_facility
+bad_facility
+clean_room
+unclean_room
+comfortable_bed
+uncomfortable_bed
+convenient_location
+inconvenient_location
+friendly_staff
+rude_staff"
+164,"good_facility
+run
+no evident not run
+family
+no evident not family"
+167,"good_facility
+no_evident_not_good_facility
+
+superb_location
+no_evident_not_superb_location
+
+well_maintained_equipment
+no_evident_not_well_maintained_equipment"
+169,"great_accommodation
+clean
+quiet
+no_evident_not_great_accommodation
+no_evident_not_clean
+no_evident_not_quiet"
+171,"- bad_facility
+- have evident lack of parking
+- have evident difficulty finding spots
+- have evident no private parking lot
+- have evident limited space for cars
+- have evident no designated parking area
+- have evident frequent parking issues
+- have evident need to park elsewhere
+- have evident potential for traffic congestion
+- have evident risk of missing the spot"
+172,"clean
+no evident not clean"
+183,"clean hotel
+no evident not clean hotel"
+190,"modern  
+contemporary  
+no evident not modern  
+no evident not contemporary"
+212,"good_facility
+no_evident_not_good_facility"
+216,"new
+no evident not new"
+221,"food  
+drink  
+late  
+no evident not food  
+no evident not drink"
+222,"- good_facility
+- no_evident_not_clean
+- good_facility
+- no_evident_not_nice"
+224,"good_facility
+no_complaints
+no_evident_not_no_complaints"
+224,"- parking
+- have evident no_parking
+
+- convenient
+- have evident inconvenient"
+226,"bad_facility
+- veranda_door_and_main_door_have_evident_gap
+- main_door_slams_in_night
+- beach_towel_services_missing
+- fixable_with_bed_cover_and_teaspoon
+- professional_seal_needed_for_long_term_fix
+- gap_exist_between_veranda_and_main_doors
+- no_beach_towels_provided"
+227,"clean
+not clean
+
+fresh
+not fresh"
+233,"super_clean
+no_evident_not_super_clean"
+236,"good_facility
+facilities
+no_evident_not_facilities"
+239,"bad_facility
+have evident safety strip
+have evident unawareness
+have evident tripping"
+243,"modern
+clean
+kept
+no evident not modern
+no evident not clean
+no evident not kept"
+245,"good_facility
+booked_last_minute
+no_evident_not_booked_last_minute
+extremely_happy_service
+no_evident_extremely_happy_service"
+246,"small
+no evident not small"
+250,"rooms lovely
+lobby lovely
+restaurant lovely
+rooms exceeding modern
+lobby exceeding modern
+restaurant exceeding modern
+rooms comfortable
+lobby comfortable
+restaurant comfortable
+no evident not rooms lovely
+no evident not lobby lovely
+no evident not restaurant lovely
+no evident not rooms exceeding modern
+no evident not lobby exceeding modern
+no evident not restaurant exceeding modern
+no evident not rooms comfortable
+no evident not lobby comfortable
+no evident not restaurant comfortable"
+252,"clean
+not clean
+
+brand new
+not brand new"
+254,"good_facility
+modern
+small
+family_run
+
+no_evident_not_modern
+no_evident_not_small
+no_evident_not_family_run"
+255,"good_facility
+close
+no evident not close
+modern
+no evident not modern
+clean
+no evident not clean
+cozy
+no evident not cozy"
+257,"modern
+clean
+no evident not modern
+no evident not clean"
+258,"good_facility
+no_evident_not_good_facility"
+261,"clean
+no evident not clean
+
+cozy
+no evident not cozy"
+267,"basic
+clean
+comfortable
+no evident not basic
+no evident not clean
+no evident not comfortable"
+268,"recently_refurbished
+no_evident_not_recently_refurbished
+
+good_facility
+no_evident_not_good_facility"
+270,"park_car_easy
+no_evident_not_park_car_easy"
+272,"good_facility
+comfortable
+no evident not comfortable
+
+clean
+no evident not clean"
+278,"clean
+no evident not clean"
+279,"modern
+no evident not modern
+
+apartments
+no evident not apartments"
+282,"good_facility no evident not very nice hotel
+good_facility no evident not very nice hotel"
+283,"clean
+not clean
+
+modern
+not modern"
+284,"clean
+no evident not clean
+
+flexible
+no evident not flexible"
+285,"clean
+nice
+place
+no evident not clean
+no evident not nice
+no evident not place"
+287,"allowed
+not allowed
+no evident not allowed"
+288,"good_facility
+bathroom
+no evident not bathroom
+
+bed
+no evident not bed
+
+restaurant
+no evident not restaurant
+
+bar
+no evident not bar"
+289,"good_facility
+nice
+no_evident_not_nice
+clean
+no_evident_not_clean
+boutique
+no_evident_not_boutique"
+295,"good_facility
+new
+well_furnished
+comfortable
+atmosphere
+feels_like_home
+
+no_evident_not_new
+no_evident_not_well_furnished
+no_evident_not_comfortable
+no_evident_not_atmosphere
+no_evident_not_feels_like_home"
+297,"recently refurbished
+very clean
+no evident not recently refurbished
+no evident not very clean"
+300,"bad_facility have evident cold
+bad_facility have evident swim"
+301,"nice ambiance
+no evident not nice ambiance"
+306,"good_facility
+place
+no_evident_not_place
+
+good_transportation
+transportation
+no_evident_not_transportation"
+307,"modern hotel
+nice hotel
+good_facility
+no evident not modern hotel
+no evident not nice hotel"
+308,"good_facility
+nice
+no evident not nice
+
+cosy
+no evident not cosy
+
+welcome
+no evident not welcome
+
+first moment
+no evident not first moment
+
+arrival
+no evident not arrival"
+311,"good_facility
+pet_friendly
+no_evident_not_pet_friendly
+
+highly_recommended
+no_evident_not_highly_recommended
+
+extra_charge_free
+no_evident_not_extra_charge_free"
+312,"clean  
+no evident not clean  
+everything  
+no evident not everything"
+312,"tiny have evident large
+tiny have evident spacious"
+313,"renovated
+clean
+quiet
+sufficient parking
+
+no evident not renovated
+no evident not clean
+no evident not quiet
+no evident not sufficient parking"
+314,"fresh
+just renovated
+with good wifi
+no evident not fresh
+no evident not just renovated
+no evident not good wifi"
+318,"good_facility
+refurbished
+no evident not refurbished
+
+family
+no evident not family
+
+hotel
+no evident not hotel"
+322,"clean
+no evident not clean
+spacious
+no evident not spacious
+nice
+no evident not nice"
+325,"small hotel  
+good  
+no evident not small hotel  
+everything  
+no evident not everything"
+335,"good_facility
+Holiday
+no_evident_not_Holiday
+
+good_facility
+great
+no_evident_not_great"
+337,"good_facility clean  
+good_facility no evident not clean"
+338,"building_new
+no_evident_not_building_new
+
+hotel_new
+no_evident_not_hotel_new
+
+clean
+no_evident_not_clean"
+339,"good_facility
+friendly
+no evident not friendly
+comfortable
+no evident not comfortable"
+341,"clean
+modern
+no evident not clean
+no evident not modern"
+347,"good_facility
+family_run
+no_evident_not_family_run
+
+hotel
+no_evident_not_hotel"
+348,"inside excellent
+inside excellent no evident not excellent
+
+view outside good
+view outside good no evident not good
+
+facility good
+facility good no evident not good"
+348,"bad_facility
+- no_parking
+- have_evident_parking
+
+-insufficient_parking
+- have_evident_insufficient_parking
+
+-excellent_inside
+- have_evident_excellent_inside
+
+-better_view_outside
+- have_evident_better_view_outside"
+350,"easy Parking
+no evident not easy Parking"
+353,"simple clear contemporary decoration, no evident not simple clear contemporary decoration  
+new, no evident not new"
+353,"tiny
+have evident large"
+357,"comfortable no evident not comfortable
+clean no evident not clean"
+359,"nice atmosphere
+no evident not nice atmosphere"
+365,"good_facility
+renovated
+no evident not renovated
+
+convenient
+no evident not convenient"
+372,"good_facility
+bright
+no_evident_not_bright
+cozy
+no_evident_not_cozy
+looks_like_almost_new
+no_evident_not_looks_like_almost_new
+in_silent_part_of_town
+no_evident_not_in_silent_part_of_town"
+373,"good_facility
+cozy
+no evident not cozy
+nice
+no evident not nice"
+374,"- pool could of been bigger
+- have evident smaller pool
+- pool could of been deeper
+- have evident shallower pool
+- pool could of had more features
+- have evident fewer features"
+375,"well situated
+not well situated"
+376,"clean no evident not clean
+comfortable no evident not comfortable
+welcoming no evident not welcoming"
+381,"recently renovated
+not recently renovated"
+382,"received_package
+no_evident_not_received_package
+
+good_facility"
+383,"clean_facility
+no evident not cleanfacility"
+384,"good_facility
+bad_facility
+no_evident_not_bad_facility
+no_evident_not_good_facility"
+386,"clean
+no evident not clean
+
+good_facility
+no evident not good_facility"
+388,"brand_new_fittings  
+brand_new_furniture  
+no_evident_not_brand_new_fittings  
+no_evident_not_brand_new_furniture"
+389,"good_facility
+cheap
+no evident not cheap
+
+clean
+no evident not clean"
+391,"recently renovated building
+no evident not recently renovated building"
+395,"good_facility
+place
+no_evident_not_place
+amazing
+no_evident_not_amazing"
+396,"need renovation have evident poor condition
+common areas need renovation have evident lack of maintenance
+elevator needs repair have evident malfunction
+lights not working have evident insufficient lighting
+lights not working have evident inadequate maintenance"
+405,"good_facility
+facilities
+no evident not facilities
+
+delicious_food
+no evident not delicious_food"
+406,"good_facility
+facilities
+no evident not facilities
+
+clean
+no evident not clean
+
+convenient_location
+no evident not convenient_location
+
+modern_design
+no evident not modern_design
+
+comfortable_rooms
+no evident not comfortable_rooms"
+408,"good_facility
+wonderful_place
+no_evident_not_wonderful_place
+
+wonderful_people
+no_evident_not_wonderful_people"
+409,"good_facility
+no_evident_not_good_facility
+
+good_service
+no_evident_not_good_service
+
+exceeded_expectations
+no_evident_not_exceeded_expectations"
+410,"good_facility
+front
+no_evident_not_front
+nice
+no_evident_not_nice"
+412,"- taller
+- doorway
+- elevator
+- head-bumped
+- have evident shorter
+- have evident wider"
+415,"clean
+no evident not clean"
+416,"quiet_place
+pet_friendly
+no_evident_not_quiet_place
+no_evident_not_pet_friendly"
+421,"clean
+no evident not clean
+
+made_for_comfortable_stay
+no evident not made_for_comfortable_stay"
+422,"new
+no evident not new
+
+completely renovated
+no evident not completely renovated
+
+spotless clean
+no evident not spotless clean
+
+comfortable
+no evident not comfortable
+
+free parking
+no evident not free parking"
+425,"airy no evident not airy
+light no evident not light
+nice no evident not nice
+clean no evident not clean"
+425,"accessible_to_wheelchairs have_evident_inaccessible_to_wheelchairs
+not_to_EU_regulations have_evident_to_EU_regulations
+VERY_STEEP have_evident_flattened
+really_need_to_sort_this have_evident_no_needs_sorting
+ramp_right_outside_is_very_dangerous have_evident_safe_ramp
+I_am_surprised_I_wasnt_wheeled_of_this_ramp have_evident_i_was_wheelchair_of_this_ramp"
+429,"Parking was limited.
+have evident parking was ample."
+432,"street parking
+have evident difficulty
+street parking
+have evident shortage"
+433,"no designated parking, have evident parking
+no designated parking, have evident space"
+441,"bad_facility have evident slow speeds
+bad_facility have evident frequent outages
+bad_facility have evident poor connectivity
+bad_facility have evident high latency
+bad_facility have evident weak signal strength
+bad_facility have evident high packet loss
+bad_facility have evident unreliable service
+bad_facility have evident limited bandwidth"
+442,"bad_facility
+have evident poor facilities
+have evident unopened facilities"
+443,"no bar
+have evident bar
+
+no restaurant
+have evident restaurant
+
+no pool
+have evident pool"
+445,"clean
+not clean
+
+little
+big
+
+hotel
+motel"
+451,"good_facility
+neat
+no evident not neat
+
+modern
+no evident not modern"
+451,"bad_facility
+have evident minimalistic design
+have evident lack of warmth
+have evident uninviting environment
+have evident insufficient heating
+
+have evident maximalistic design
+have evident abundant warmth
+have evident inviting environment
+have evident excessive heating
+have evident overly decorated space"
+452,"clean
+no evident not clean
+
+prevention
+no evident not prevention"
+455,"pool not even to be considered
+have evident consideration
+
+overall hotel installation is badly maintained
+have evident good maintenance
+
+lift broke
+have evident works well
+
+pictures of the room are accurate
+have evident inaccuracy
+
+hotel installation and pool have a look to 'Pasithea Apartments'
+have evident look at 'Pasithea Apartments'"
+458,"facilities  
+have evident limitations  
+limited  
+have evident inadequacies"
+468,"cleaner have evident dirt
+cleaner have evident debris
+cleaner have evident algae
+cleaner have evident filth"
+472,"friendly atmosphere
+family business
+hotel comfortable
+
+no evident not friendly atmosphere
+no evident not family business
+no evident not hotel comfortable"
+474,"bad_facility
+have evident only
+have evident none"
+479,"friendly no evident not friendly
+clean no evident not clean"
+481,"clean
+dirty
+good_facility
+badfacility"
+482,"good_facility
+pleasant
+no_evident_not_pleasant
+
+comfortable bedding
+no_evident_not_comfortable_bedding
+
+clean rooms
+no_evident_not_clean_rooms
+
+quiet environment
+no_evident_not_quiet_environment"
+485,"good_facility
+hotel
+no_evident_not_hotel
+staff
+no_evident_not_staff
+all_as_in_photo
+no_evident_not_all_as_in_photo"
+489,"good_facility
+availability
+no_evident_not_availability
+
+free
+no_evident_not_free
+
+parking_spaces
+no_evident_not_parking_spaces
+
+at_the_bottom_of_the_hotel
+no_evident_not_at_the_bottom_of_the_hotel"
+494,"clean
+not clean
+
+good_facility
+no evident not good_facility"
+497,"good_facility
+perfect
+no evident not perfect
+
+good_location
+perfect
+no evident not perfect
+
+good_service
+perfect
+no evident not perfect"
+500,"good_facility
+close_park
+no_evident_not_close_park
+good_accommodation
+no_evident_not_good_accommodation"
+500,"park far  
+have evident park near  
+
+close carpark  
+have evident close carpark distant  
+
+odyssey parking  
+have evident straightforward parking  
+
+far away  
+have evident nearby"
+501,"clean
+no evident not clean
+
+good_facility
+no evident not good_facility"
+502,"clean  
+good  
+no evident not clean  
+no evident not good"
+504,"good_facility
+perfect
+no evident not perfect
+
+good_facility
+boutique
+no evident not boutique
+
+good_facility
+hotel
+no evident not hotel"
+507,"modernly furnished
+no evident not modernly furnished"
+509,"nicefacility
+noinvidentnotnicefacility"
+511,"new no evident not new
+clean no evident not clean
+reception no evident not reception"
+513,"clean
+not_clean
+exactly
+not_exactly"
+515,"clean
+not clean
+
+new
+old
+
+hotel
+building"
+517,"good_facility
+quality
+no_evident_not_quality
+
+good_facility
+price
+no_evident_not_price"
+527,"good_facility
+facilities
+no_evident_not_facilities
+
+clean
+no_evident_not_clean
+
+comfortable
+no_evident_not_comfortable
+
+convenient
+no_evident_not_convenient"
+528,"clean  
+fresh  
+no evident not clean  
+no evident not fresh"
+530,"good_facility nice no_evident_not_nice
+good_facility clean no_evident_not_clean"
+532,"free parking
+no evident not free parking"
+535,"small no evident not small
+modern no evident not modern"
+536,"good_facility
+intimate
+no evident not intimate
+
+clean
+no evident not clean
+
+convenient_location
+no evident not convenient_location
+
+comfortable_bed
+no evident not comfortable_bed"
+537,"good_facility
+ Terrace
+ no evident not Terrace
+
+good_facility
+ cozy
+ no evident not cozy"
+543,"bad_facility
+nearby have evident far
+evening have evident insufficient"
+546,"Parking next to the hotel.
+no evident not parking next to the hotel."
+549,"pet friendly  
+no evident not pet friendly
+
+clean  
+no evident not clean"
+551,"freshened
+no evident not freshened
+
+recently
+no evident not recently"
+556,"bad_facility
+lack
+have evident presence
+
+bad_facility
+lack
+have evident availability"
+569,"recently_renovated
+not_recently_renovated
+
+was_recently_renovated
+no_evident_not_was_recently_renovated"
+571,"clean no evident not clean
+comfortable no evident not comfortable"
+572,"needs more cleaning have evident less dirt
+needs more cleaning have evident more grime
+complete renovation is needed have evident no improvement
+complete renovation is needed have evident excessive cost"
+574,"good_facility
+no_evident_not_good_facility"
+581,"bad_facility
+have evident difficulty
+have evident ease
+
+bad_facility
+have evident hard
+have evident easy"
+586,"good_facility
+new
+clean
+no evident not new
+no evident not clean"
+590,"good_facility
+quiet
+no_evident_not_quiet
+
+cozy
+no_evident_not_cozy"
+594,"newly refurbished
+clean
+tidy
+cozy courtyard
+parking
+no evident not newly refurbished
+no evident not clean
+no evident not tidy
+no evident not cozy courtyard
+no evident not parking"
+603,"clean accommodation
+pleasant terrace
+no evident not clean accommodation
+no evident not pleasant terrace"
+610,"quiet hotel
+restaurant
+enclosure
+good
+no evident not quiet hotel
+no evident not restaurant
+no evident not enclosure
+no evident not good"
+615,"staff good
+staff no evident not good
+restaurant good
+restaurant no evident not good
+hotel good
+hotel no evident not good"
+617,"small hotel  
+hotel  
+neat  
+not neat  
+no evident not neat  
+not small  
+no evident not small  
+small"
+619,"quiet facility
+no evident not quiet facility
+
+good_facility
+no evident not good_facility"
+620,"nice_clean_hotel
+near_airport
+no_evident_not_nice_clean_hotel
+no_evident_not_near_airport"
+627,"good_facility
+stunning
+no evident not stunning
+
+clean
+no evident not clean
+
+innovative
+no evident not innovative
+
+interesting
+no evident not interesting
+
+push_of_a_button
+no evident not push_of_a_button
+
+quiet
+no evident not quiet"
+628,"plenty_of_parking
+no_evident_not_plenty_of_parking"
+635,"good_facility
+no_evident_not_good_facility"
+636,"good_facility
+renovated
+no evident not renovated
+
+brilliant
+no evident not brilliant
+
+family
+no evident not family
+
+hotel
+no evident not hotel
+
+friendly
+no evident not friendly
+
+staff
+no evident not staff"
+643,"good_facility welcoming_environment
+good_facility no_evident_not_welcoming_environment"
+646,"clean
+no evident not clean
+comfortable
+no evident not comfortable
+park
+no evident not park"
+648,"bad_facility
+old_furniture
+have_evident_new_furniture
+
+bad_facility
+very_old_furniture
+have_evident_recent_furniture"
+649,"good_facility
+new
+no evident not new
+
+hotel
+no evident not hotel"
+650,"good_facility
+no_evident_not_cozy
+
+good_facility
+no_evident_not_hotel"
+652,"good_facility
+perfect
+no_evident_not_perfect
+
+good_facility
+perfect
+no_evident_not_perfect"
+653,"excellent  
+no evident not excellent"
+654,"clean
+no evident not clean
+comfortable
+no evident not comfortable
+soft bed
+no evident not soft bed
+wonderful cappuccino
+no evident not wonderful cappuccino
+soft sofas
+no evident not soft sofas"
+656,"clean
+not clean"
+658,"homely  
+no evident not homely  
+
+atmosphere  
+no evident not atmosphere"
+662,"accommodation  
+parking  
+beautiful  
+no evident not accommodation  
+no evident not parking"
+669,"good_facility
+transfer
+no_evident_not_transfer
+
+good_facility
+airport
+no_evident_not_airport"
+671,"good_facility
+renovated
+no evident not renovated
+
+clean
+no evident not clean
+
+comfortable
+no evident not comfortable
+
+modern
+no evident not modern
+
+well-maintained
+no evident not well-maintained"
+671,"pool closed
+pool open"
+673,"free_parking
+no evident not free_parking
+
+good_facility
+no evident not good_facility"
+675,"good_facility
+well-kept
+no evident not well-kept
+
+good_location
+no evident not good_location"
+678,"good_facility
+facilities
+no evident not facilities
+clean
+no evident not clean
+convenient_location
+no evident not convenient_location
+comfortable_bed
+no evident not comfortable_bed
+quiet_environment
+no evident not quiet_environment"
+680,"clean
+not clean"
+681,"good_facility
+cozy
+not_cozy
+stylish
+not_stylish"
+683,"clean
+modern
+not clean
+not modern"
+688,"good_facility
+bad_facility
+
+clean_room
+unclean_room
+
+comfortable_bed
+uncomfortable_bed
+
+friendly_staff
+unfriendly_staff
+
+convenient_location
+inconvenient_location
+
+efficient_check_in
+inefficient_check_in"
+691,"plenty_of_parking
+no_evident_not_plenty_of_parking"
+693,"good_facility
+pool
+no_evident_not_pool
+
+good_facility
+swimming_pool
+no_evident_not_swimming_pool"
+695,"good_facility
+new
+no_evident_not_new
+
+clean
+no_evident_not_clean
+
+convenient_location
+no_evident_not_convenient_location
+
+modern
+no_evident_not_modern
+
+comfortable_bed
+no_evident_not_comfortable_bed"
+700,"bad_facility
+pool
+have evident no_pool
+
+bad_facility
+hole
+have evident filled"
+703,"completely_redone
+no_evident_not_completely_redone"
+706,"good_facility
+close_to_airport
+no_evident_not_close_to_airport
+convenient_transport_access
+no_evident_not_convenient_transport_access
+comfortable_accommodation
+no_evident_not_comfortable_accommodation
+perfect_location
+no_evident_not_perfect_location"
+707,"good_facility
+new
+no_evident_not_new
+
+clean
+no_evident_not_clean
+
+convenient_location
+no_evident_not_convenient_location
+
+modern
+no_evident_not_modern
+
+comfortable_bed
+no_evident_not_comfortable_bed"
+709,"good_facility
+well-kept
+small
+no evident not well-kept
+no evident not small"
+711,"small
+dirty
+have evident large
+have evident clean"
+714,"good_facility
+comfortable_place
+no_evident_not_comfortable_place"
+715,"good_facility
+bad_facility no_evident_not_bad_facility"
+718,"good_facility
+no_evident_not_good_facility"
+720,"clean no evident not clean
+modern no evident not modern"
+727,"good_facility
+animals
+no_evident_not_animals
+
+good_facility
+possible
+no_evident_not_possible"
+729,"clean
+well_equipped
+no_evident_not_clean
+no_evident_not_well_equipped"
+730,"good_facility
+new
+not_new
+refurbished
+not_refurbished
+hotel
+not_hotel"
+733,"new
+no evident not new"
+733,"young have evident age  
+perfect have evident flaws"
+738,"new
+no evident not new"
+739,"nice_accommodation
+extremely_clean
+no_evident_not_nice_accommodation
+no_evident_extremely_clean"
+749,"good_facility
+no evident not suitable
+good_facility
+no evident not appropriate
+good_facility
+no evident not convenient
+good_facility
+no evident not adequate"
+768,"bad_facility
+- have evident lack of appeal
+- have evident disinterest
+- have evident unpopularity
+- have evident neglect
+- have evident underutilization
+- have evident poor maintenance
+- have evident lack of amenities
+- have evident outdated facilities
+- have evident lack of cleanliness
+- have evident lack of security"
+773,"good_facility
+room_compact
+no_evident_not_room_compact
+hotel_great
+no_evident_not_hotel_great
+clean
+no_evident_not_clean
+modern
+no_evident_not_modern
+3_stars
+no_evident_not_3_stars"
+777,"good_facility
+cozy
+no evident not cozy
+
+homely
+no evident not homely"
+780,"good_facility no evident not cozy
+good_facility no evident not hotel"
+783,"tidy no evident not tidy
+modern no evident not modern"
+2,bad_facility,"bad_facility
+have evident poor
+have evident small"
+84,good_facility,"good_facility
+- clean
+- no evident not clean
+- enough chairs
+- no evident not enough chairs
+- clean garden
+- no evident not clean garden"
+114,bad_facility,"didn't have pool
+have evident pool"
+136,bad_facility,"bad_facility
+have evident dirt
+have evident filth
+
+bad_facility
+have evident decay
+have evident ruin"
+150,good_facility,"new
+no evident not new
+
+beautiful
+no evident not beautiful
+
+clean
+no evident not clean"
+224,good_facility,"good_facility
+no_complaints
+no_evident_not_no_complaints"
+312,good_facility,"clean  
+no evident not clean  
+everything  
+no evident not everything"
+348,good_facility,"inside excellent
+inside excellent no evident not excellent
+
+view outside good
+view outside good no evident not good
+
+facility good
+facility good no evident not good"
+353,good_facility,"simple clear contemporary decoration, no evident not simple clear contemporary decoration  
+new, no evident not new"
+425,good_facility,"airy no evident not airy
+light no evident not light
+nice no evident not nice
+clean no evident not clean"
+451,good_facility,"good_facility
+neat
+no evident not neat
+
+modern
+no evident not modern"
+500,good_facility,"good_facility
+close_park
+no_evident_not_close_park
+good_accommodation
+no_evident_not_good_accommodation"
+671,good_facility,"good_facility
+renovated
+no evident not renovated
+
+clean
+no evident not clean
+
+comfortable
+no evident not comfortable
+
+modern
+no evident not modern
+
+well-maintained
+no evident not well-maintained"
+733,good_facility,"new
+no evident not new"

@@ -1,0 +1,3653 @@
+ID,Output
+2,"room was clean
+no evident not dirty
+room was decorated
+no evident not undecorated
+room was modern
+no evident not outdated
+room was not big
+no evident not large"
+4,"Clean, room is good.
+No evident not room is clean."
+5,"good_room
+Clean
+Modern
+Very comfortable beds
+No evident not clean
+No evident not modern
+No evident not very comfortable beds"
+6,"room was clean
+bed was comfortable
+room was clean
+bed was comfortable
+no evident not room was clean
+no evident not bed was comfortable"
+10,"great
+modern
+comfortable
+bed
+no evident not great
+no evident not modern
+no evident not comfortable
+no evident not bed"
+11,"good_room
+rooms are spacious
+rooms are clean
+upgrade is good
+rooms are spacious
+no evident not rooms are clean
+upgrade is good
+no evident not upgrade is good"
+12,"good_room
+clean
+comfortable
+no evident not clean
+no evident not comfortable"
+13,"lovely
+new
+clean
+comfortable
+mattress
+to taste
+no evident not lovely
+no evident not new
+no evident not clean
+no evident not comfortable
+no evident not mattress
+no evident not to taste"
+14,"airplanes
+have evident noise
+airport
+have evident activity"
+16,"good_room
+spacious
+clean
+window view
+nice
+spacious
+clean
+window view
+no evident not spacious
+no evident not clean
+no evident not window view
+no evident not nice"
+17,"room, balcony, view, sea, surrounding, area
+no evident not room, no evident not balcony, no evident not view, no evident not sea, no evident not surrounding, no evident not area"
+20,"clean
+no evident not clean
+no evident not clean"
+21,"good_room
+nice
+no evident not nice
+clean
+no evident not clean
+comfortable
+no evident not comfortable"
+22,"room was perfect
+looked new
+clean shiny tiled floors
+bathroom tiles
+every inch perfect
+clean
+bed was comfortable
+lots room
+no evident not looked new
+no evident not clean shiny tiled floors
+no evident not bathroom tiles
+no evident not every inch perfect
+no evident not clean
+no evident not bed was comfortable
+no evident not lots room"
+22,"might have needed another set of drawers
+have evident need
+Fridge could have been put on beforehand
+have evident preparation
+the shower took a while to get hot
+have evident delay"
+23,"beds were comfortable
+no evident not beds were comfortable
+beds were comfortable
+no evident not beds were comfortable"
+24,"good_room
+mattress
+no evident not mattress"
+25,"clean
+quiet
+no evident not clean
+no evident not quiet"
+26,"good size
+no evident not good size
+great sized
+no evident not great sized"
+27,"good_room
+clean
+no evident not clean
+comfortable"
+29,"very clean
+functional rooms
+no evident not functional rooms
+rooms"
+30,"room was spotless
+no evident not clean
+no evident not dirty"
+31,"clean, comfortable
+no evident not clean
+no evident not comfortable"
+32,"bed was great
+rooms clean
+no evident not rooms clean
+no evident not bed was great"
+33,"super clean room
+modern furniture
+stay comfortable
+no evident not super clean room
+no evident not modern furniture
+no evident not stay comfortable"
+33,"bad_room
+street
+noise
+have evident street
+have evident noise"
+34,"more hooks on walls for towels etc.
+have evident hooks.
+have evident walls."
+35,"problem heating water
+eventually couldn't manage shower
+eventually couldn't manage shower
+have evident problem heating water"
+36,"room was smaller
+acceptable
+beds
+fussy
+have evident beds
+have evident acceptable
+have evident beds"
+36,"room was good
+bed was comfortable
+no evident not bed was comfortable
+room was clean"
+37,"really clean
+no evident not clean
+no evident not clean"
+38,"great rooms
+nice
+cool
+no evident not nice
+no evident not cool"
+39,"clean
+spacious
+no evident not clean
+no evident not spacious"
+40,"no net curtain
+have evident net curtain
+no blind
+have evident blind
+so one needed to ensure that the curtain was closed
+have evident curtain"
+41,"good_room
+Clean
+Modern
+Clean
+Modern
+no evident not Clean
+no evident not Modern"
+42,"clean
+no evident not clean
+no evident not clean"
+43,"clean, spacious, practical, no evident not clean, no evident not spacious, no evident not practical"
+45,"everything was me, recently updated, clean, everything was me, no evident not clean, everything was me, no evident not recently updated."
+48,"good_room
+Clean rooms
+Clean rooms
+no evident not clean rooms
+comfortable rooms
+comfortable rooms
+no evident not comfortable rooms"
+49,"rooms were big
+rooms were big
+no evident not rooms were big
+rooms were big
+no evident not rooms were big"
+50,"Not very Soundproof.
+Have evident not.
+Have evident proof."
+51,"nice
+clean
+room
+very
+well
+kept
+no evident not nice
+no evident not clean
+no evident not room
+no evident not very
+no evident not well
+no evident not kept"
+53,"comfortable bed
+no evident not bed
+no evident not bed"
+54,"good_room
+clean room
+no evident not clean room
+clean room
+no evident not clean room"
+55,"A lot of mosquitos
+have evident many
+mosquitoes exist
+have evident many
+mosquitoes are present"
+56,"beds are extremely comfortable
+beds are comfortable
+no evident not beds are comfortable
+beds are comfortable
+no evident not beds are comfortable"
+57,"room is good
+room is comfortable
+no evident not room is comfortable
+room is clean
+no evident not room is clean"
+58,"room wasn't soundproof
+planes hear
+room wasn't soundproof
+have evident planes hear"
+62,"good_room
+Clean
+no evident not clean
+best linen
+no evident not best linen
+duvets
+no evident not duvets
+mini bar
+no evident not mini bar
+tea
+no evident not tea
+coffee
+no evident not coffee
+bathroom
+no evident not bathroom
+AC
+no evident not AC"
+62,"bad_room
+folding bed
+regular beds
+have evident folding bed
+have evident regular beds"
+64,"room was new
+room was clean
+room was new
+no evident not room was clean
+room was new
+no evident not room was clean"
+65,"property
+clean
+bed
+comfortable
+no evident not clean
+no evident not comfortable"
+66,"good_room
+spotless
+no evident not comfortable
+spotless
+no evident not comfortable"
+68,"clean
+no evident not clean
+no evident not clean"
+70,"good_room
+peaceful
+no evident not clean
+clean"
+73,"wonderful room
+it is good
+no evident not it
+it is good
+no evident not it"
+74,"good_room
+clean
+no evident not clean
+cozy
+no evident not cozy
+comfortable
+no evident not comfortable
+beds
+no evident not beds"
+75,"bad_room
+disappointed
+have evident disappointment
+disappointed
+have evident disappointment"
+76,"feels new
+feels clean
+no evident not feels new
+no evident not feels clean"
+78,"clean,
+nice,
+big,
+clean,
+nice,
+big,
+no evident not clean,
+no evident not nice,
+no evident not big."
+79,"new
+clean
+setup
+no evident not new
+no evident not clean
+no evident not setup"
+81,"good_room
+clean
+rooms
+clean
+rooms
+no evident not clean
+no evident not rooms"
+82,"super clean
+modern
+no evident not super clean
+no evident not modern"
+83,"room
+was
+clean
+was
+comfortable
+no evident not clean
+no evident not comfortable"
+85,"room wasn’t clean
+have evident room wasn’t clean"
+89,"good_room
+minutes arrival
+no evident not minutes arrival
+clean
+no evident not clean
+comfortable
+no evident not comfortable
+bed
+no evident not bed
+within
+no evident not within"
+90,"very clean
+no evident not clean
+no evident not clean"
+91,"good_room
+rooms were clean
+no evident not rooms were clean
+rooms were clean
+no evident not rooms were clean"
+92,"badly soundproofed
+have evident badly soundproofed
+have evident badly soundproofed"
+93,"new room
+comfortable
+no evident not comfortable"
+95,"clean
+quiet
+no evident not clean
+no evident not quiet"
+96,"room is comfortable
+no evident not room is uncomfortable
+room is comfortable
+no evident not room is uncomfortable"
+96,"some were dirty
+have evident dirty
+were dirty
+have evident dirty"
+98,"blankets
+have evident blankets
+hot
+have evident hot"
+99,"very clean
+no evident not clean
+no evident not clean"
+100,"really clean,
+clean,
+no evident not clean,
+clean,
+no evident not clean,
+clean,
+no evident not clean."
+101,"doors
+have evident doors
+drawers
+have evident drawers
+tidy
+have evident tidy"
+102,"good_room
+rooms are nice
+rooms are modern
+rooms are clean
+rooms are nice
+no evident not rooms are modern
+no evident not rooms are clean"
+103,"room was refurbished
+view of salt lake
+sinks toilette separated
+view not salt lake
+sinks not toilette separated"
+103,"bad_room
+There was hand soap
+have evident hand soap
+No soap or shampoo in the shower.
+have evident shower"
+105,"rooms were clean
+bathroom was spacious
+no evident not rooms were clean
+no evident not bathroom was spacious"
+106,"very comfortable beds.
+no evident not comfortable beds.
+no evident not beds."
+107,"good_room
+Bed very comfortable
+no evident not bed very comfortable"
+109,"lovely rooms
+comfortable beds
+no evident not comfortable beds
+no evident not rooms"
+111,"spotlessly clean.
+clean
+no evident not dirty"
+113,"good_room
+clean rooms
+no evident not clean rooms
+clean rooms"
+114,"good_room
+bottle of water
+fridge
+air con
+no evident not bottle of water
+no evident not fridge
+no evident not air con"
+116,"clean, air conditioned, close to the airport, no evident not clean,
+air conditioned, no evident not air conditioned,
+close to the airport, no evident not close to the airport."
+118,"room perfect
+no evident not room
+no evident not room"
+119,"room was clean
+room was comfortable
+fridge was included
+kettle was included
+shower was great
+air con worked"
+120,"room was small
+have evident room was small
+adequate
+have evident room was adequate"
+122,"very clean
+no evident not clean
+very clean
+no evident not clean"
+125,"super comfy, hospital
+no evident not super comfy
+hospital"
+126,"room was well equipped
+no evident not room was well equipped
+bathroom was nice
+no evident not bathroom was nice"
+127,"very clean
+modern
+no evident not very clean
+no evident not modern"
+128,"very clean, comfortable
+no evident not comfortable
+clean, comfortable
+no evident not comfortable"
+129,"good size
+no evident not size
+clean
+no evident not clean
+comfortable
+no evident not comfortable"
+131,"room was clean
+no evident not room was dirty"
+132,"very comfortable bed, no evident not comfortable bed, no evident not comfortable bed, no evident not comfortable bed."
+133,"room was clean
+bed were comfortable
+no evident not bed were comfortable
+room was clean
+no evident not bed were comfortable"
+134,"lovely, clean, no evident not lovely, no evident not clean"
+137,"room was clean
+bed was comfortable
+no evident not room was clean
+no evident not bed was comfortable"
+137,"The smell in the bathroom
+It was bad.
+Have evident it was bad.
+It was unpleasant.
+Have evident it was unpleasant."
+138,"very clean room,
+no evident not clean room,
+very clean bathroom,
+no evident not clean bathroom."
+140,"very clean, comfy bed
+no evident not very clean
+no evident not comfy bed"
+144,"nice
+clean
+no evident not nice
+no evident not clean"
+145,"room, clean, everything, new, cosy, bathroom, spacious, cabin, shower, bed, pillows, comfy, no evident not clean, no evident not new, no evident not cosy, no evident not spacious, no evident not cabin, no evident not shower, no evident not bed, no evident not pillows, no evident not comfy"
+146,"good rooms, clean, smart, comfortable, no evident not clean, no evident not smart, no evident not comfortable."
+148,"very comfortable bed
+no evident not comfortable bed"
+149,"super clean,
+no evident not dirty,
+modern,
+no evident not old,
+comfortable,
+no evident not uncomfortable."
+152,"clean rooms
+rooms are clean
+no evident not rooms are clean"
+153,"good_room
+comfortable nights sleep
+no evident not comfortable nights sleep
+great shower
+no evident not great shower"
+154,"RT Russia Today
+have evident channels
+have evident RT
+have evident Russia
+have evident Today"
+155,"good_room
+nice shower
+nice bed
+no evident not nice shower
+no evident not nice bed"
+156,"good_room
+comfy
+no evident not comfy
+clean
+no evident not clean"
+157,"good_room
+very clean
+no evident not very clean"
+159,"Clean rooms, rooms are good rooms. Rooms are clean. Rooms are good rooms. No evident not rooms are clean. No evident not rooms are good rooms."
+161,"cleanness,
+no evident not cleanness,"
+165,"good_room
+Clean
+no evident not clean
+modern
+no evident not modern"
+166,"good_room
+clean
+homely
+no evident not clean
+no evident not homely"
+167,"super clean place, no evident not super clean place."
+168,"room is clean
+no evident not room
+no evident not clean"
+171,"electronic system, clean-up, disturbed, no evident not clean-up, no evident not disturbed"
+173,"bedding floors clean
+no evident not bedding floors clean
+bed linens comfy
+no evident not bed linens comfy
+everything smelled good
+no evident not everything smelled good"
+176,"room spacious
+room clean
+room spacious
+room clean
+no evident not room spacious
+no evident not room clean"
+178,"good_room
+Relaxing
+no evident not comfortable"
+179,"very clean
+no evident not clean"
+179,"bad_room
+better
+selection
+would
+good
+evening
+have evident
+selection
+have evident
+good
+have evident
+evening"
+180,"sparkling clean, comfy bed, no evident not sparkling clean, no evident not comfy bed"
+180,"bad_room
+AC was loud.
+AC was loud. Have evident AC was quiet.
+People were loud.
+People were loud. Have evident people were quiet."
+181,"big
+clean
+rooms
+no evident not big
+no evident not clean
+no evident not rooms"
+189,"clean
+modern
+ideal
+large
+family
+no evident not clean
+no evident not modern
+no evident not ideal
+no evident not large
+no evident not family"
+190,"room was small
+lacked balcony
+room was small
+have evident lack balcony"
+191,"very clean
+no evident not clean
+very clean
+no evident not clean"
+192,"good_room
+cleanliness
+no evident not cleanliness
+cleanliness
+no evident not cleanliness"
+193,"room clean
+no evident not clean
+spacious
+no evident not spacious"
+194,"good a/c
+support: a/c
+contrary: no evident not a/c
+support: a/c
+contrary: no evident not a/c"
+195,"good_room
+spacious
+no evident not spacious
+friendly
+no evident not friendly
+new
+no evident not new
+modern
+no evident not modern"
+196,"hard
+have evident hard
+hard
+have evident hard"
+198,"good_room
+clean
+no evident not clean
+well
+no evident not well
+organized
+no evident not organized"
+199,"clean
+no evident not clean
+beautiful
+no evident not beautiful"
+200,"very clean, new
+no evident not clean
+no evident not new"
+202,"super clean, rooms are good rooms.
+no evident not rooms are super clean."
+203,"room was clean
+no evident not room was clean
+ac worked well
+no evident not ac worked well"
+208,"hair floor visitors cleaner
+have evident floor
+have evident visitors
+have evident cleaner"
+209,"nice room
+no evident not nice room"
+209,"it was a bit noisy
+we could here everything
+have evident we could here everything"
+210,"clean
+comfortable
+friendly
+no evident not clean
+no evident not comfortable
+no evident not friendly"
+213,"bad_room
+smelled bad
+have evident smelled bad
+smelled bad
+have evident smelled bad"
+215,"clean
+simple
+no evident not clean
+no evident not simple"
+216,"room is clean
+bed is comfortable
+no evident not room is clean
+no evident not bed is comfortable"
+218,"nice
+clean
+comfortable
+bed
+no evident not nice
+no evident not clean
+no evident not comfortable
+no evident not bed"
+219,"very clean
+no evident not clean
+comfy
+no evident not comfy
+beds
+no evident not beds
+very nice
+no evident not nice
+showers
+no evident not showers
+freshly renovated
+no evident not renovated"
+220,"airy, comfortable, room, super, fast, wifi, room, comfortable, room, super, fast, wifi, room, comfortable, room, super, fast, wifi. no evident not airy, no evident not comfortable, no evident not room, no evident not super, no evident not fast, no evident not wifi."
+220,"bad_room
+choice only
+have evident choice only
+news channel
+have evident news channel"
+221,"room was clean
+no evident not room was clean
+room was adequate size
+no evident not room was adequate size
+room had balcony
+no evident not room had balcony"
+221,"bad_room
+mini fridge
+could not
+turn on
+cool
+water bottles
+overnight
+ready
+following day
+have evident
+mini fridge
+could not
+turn on
+cool
+water bottles
+overnight
+ready
+following day"
+222,"room was nice
+no evident not room
+no evident not was"
+224,"good_room
+sleep
+no evident not sleep
+comfortable"
+226,"good_room
+Plenty electricity outlets
+no evident not outlets
+Double bed best
+no evident not bed"
+226,"bad_room
+small fridge was warm empty
+have evident small fridge was warm empty
+small bottle was poor
+have evident small bottle was poor
+bathroom floor gets wet
+have evident bathroom floor gets wet
+bed frame has sharp corners
+have evident bed frame has sharp corners"
+227,"good_room
+family
+no evident not family"
+228,"room had balcony
+no evident not room
+no evident not balcony"
+230,"clean
+no evident not clean
+no evident not clean"
+231,"rooms were clean
+rooms were clean
+no evident not rooms"
+232,"everything was clean
+no evident not nice
+everything was nice
+no evident not clean"
+233,"good_room
+really spacious
+really spacious
+no evident not really spacious
+fresh
+fresh
+no evident not fresh
+clean
+clean
+no evident not clean"
+235,"very clean, no evident not clean"
+236,"good_room
+bathroom size
+no evident not bathroom size
+well appointed
+no evident not well appointed"
+237,"clean
+comfortable
+no evident not clean
+no evident not comfortable"
+238,"stingy smell bathroom
+quite small room
+have evident small room
+have evident stingy smell bathroom"
+239,"good_room
+Light
+airy
+clean
+Light
+no evident not airy
+no evident not clean"
+240,"welcome
+warm
+stay
+clean
+welcome
+warm
+stay
+clean
+no evident not welcome
+no evident not warm
+no evident not stay
+no evident not clean"
+241,"room, minifridge, bathroom, clean, bed, balcony
+no evident not room
+no evident not minifridge
+no evident not bathroom
+no evident not clean
+no evident not bed
+no evident not balcony"
+241,"random dispenser
+have evident dispenser
+unlabeled shampoo
+have evident unlabeled shampoo"
+242,"good_room
+clean
+comfortable
+pleasant
+no evident not clean
+no evident not comfortable
+no evident not pleasant"
+245,"room was clean
+their service keeps it
+room was dirty
+their service keeps it"
+246,"rooms were nice size
+rooms were clean
+rooms were modern
+rooms were perfect
+rooms were quick
+rooms were not evident not clean
+rooms were not evident not modern
+rooms were not evident not perfect
+rooms were not evident not quick"
+247,"cleanliness, dirt, mess, hygiene, sanitation, order, purity, health, germs, bacteria, disease, infection, prevention, maintenance, upkeep, repair, investment, value, cost, benefit, risk, damage, deterioration, neglect, waste, decline, ruin, destruction, chaos, disorder, confusion, disruption, instability, vulnerability, weakness, fragility, breakdown, failure, collapse, ruin, devastation, loss, detriment, harm, injury, sickness, illness, corruption, decay, rot, decomposition, disintegration, dissolution, fragmentation, dissolution, collapse, ruin, devastation, loss, detriment, harm, injury, sickness, illness. no evident not cleanliness, no evident not dirt, no evident not mess, no evident not hygiene, no evident not sanitation, no evident not order, no evident not purity, no evident not health, no evident not germs, no evident not bacteria, no evident not disease, no evident not infection, no evident not prevention, no evident not maintenance, no evident not upkeep, no evident not repair, no evident not investment, no evident not cost, no evident not benefit, no evident not risk, no evident not damage, no evident not deterioration, no evident not neglect, no evident not waste, no evident not decline, no evident not ruin, no evident not destruction, no evident not chaos, no evident not disorder, no evident not confusion, no evident not disruption, no evident not instability, no evident not vulnerability, no evident not weakness, no evident not fragility, no evident not breakdown, no evident not failure, no evident not collapse, no evident not ruin, no evident not devastation, no evident not loss, no evident not detriment, no evident not harm, no evident not injury, no evident not sickness, no evident not illness, no evident not corruption, no evident not decay, no evident not rot, no evident not decomposition, no evident not disintegration, no evident not dissolution, no evident not fragmentation, no evident not dissolution, no evident not collapse, no evident not ruin, no evident not devastation, no evident not loss, no evident not detriment, no evident not harm, no evident not injury, no evident not sickness, no evident not illness."
+248,"Bed was comfortable.
+No evident not bed was comfortable."
+248,"Lack of decent TV channels
+have evident limited selection
+have evident language barrier
+have evident time restriction"
+250,"good_room
+lobby
+restaurant
+rooms
+modern
+comfortable
+no evident not lobby
+no evident not restaurant
+no evident not rooms
+no evident not modern
+no evident not comfortable"
+252,"good_room
+Exceptionally clean
+Exceptionally clean
+no evident not exceptionally clean
+brand new
+brand new
+no evident not brand new"
+253,"cleanliness
+no evident not quietness"
+254,"rooms spotless
+no evident not spotless
+shower fantastic
+no evident not fantastic
+pictures true life
+no evident not true life"
+255,"room spacious new
+no evident not spacious
+no evident not new"
+256,"clean
+modern
+no evident not clean
+no evident not modern"
+259,"bathroom floor got wet
+have evident shower
+need foot towels
+have evident one towel"
+260,"very comfortable beds
+no evident not comfortable beds"
+261,"good_room
+clean
+no evident not clean
+cozy
+no evident not cozy"
+262,"clean,
+we slept,
+well,
+bed,
+no evident not we slept,
+no evident not we slept."
+263,"room was big enough
+liked having balcony
+liked having outdoor space
+no evident not room was big enough
+no evident not liked having balcony
+no evident not liked having outdoor space"
+264,"clean
+comfortable
+beds
+no evident not clean
+no evident not comfortable
+no evident not beds"
+265,"good_room
+clean
+no evident not clean
+comfortable
+no evident not comfortable"
+266,"it’s clean
+no evident not dirty
+no evident not messy
+no evident not tidy"
+268,"good_room
+balcony
+sea view
+modern
+bathroom
+comfortable
+no evident not balcony
+no evident not sea
+no evident not modern
+no evident not bathroom
+no evident not comfortable"
+269,"clean, room, good_room, room, no evident not clean, room"
+270,"Clean rooms, rooms are good rooms. Rooms are clean. Rooms are good rooms. No evident not rooms are clean. No evident not rooms are good rooms."
+275,"rooms were clean
+rooms were comfortable
+rooms were clean
+rooms were comfortable
+no evident not rooms were clean
+no evident not rooms were comfortable"
+276,"locks on windows didn’t seem secure
+have evident locks
+have evident windows"
+277,"Wanted shampoo.
+Have evident dispancer.
+Wanted body soap.
+Have evident dispancer.
+Wanted hair conditioner.
+Have evident dispancer.
+Really.
+Have evident dispancer."
+279,"good_room
+bed linens
+wonderful
+mattress
+neither too hard or soft
+no evident not wonderful
+no evident not neither too hard or soft"
+280,"good_room
+Family feel
+no evident not family feel
+big bonus
+no evident not big bonus
+lots of space
+no evident not lots of space"
+283,"good_room
+everything was clean
+everything was modern
+no evident not everything was clean
+no evident not everything was modern"
+284,"provided everything needed
+no evident not bottle water
+provided everything needed
+no evident not bottle water"
+284,"The view from the rooms.
+Have evident view.
+Have evident rooms."
+285,"bad_room
+hot water
+have evident
+tap/shower
+have evident
+room"
+287,"good_room
+nice bed
+linen
+no evident not nice bed
+no evident not linen"
+287,"bad_room
+some smell
+some smell have evident
+bathroom
+bathroom have evident
+water
+water have evident"
+289,"room does not maintain noise insulation.
+have evident room does not maintain noise insulation.
+but is typical area.
+have evident but is typical area."
+290,"room was excellent value
+no evident not room was excellent value
+location was excellent value
+no evident not location was excellent value"
+291,"good_room
+clean
+no evident not clean
+cozy
+no evident not cozy"
+292,"bad_room
+Smart television
+did not work
+have evident Smart television
+did not work
+have evident Smart television"
+294,"clean, basic, no evident not basic, no evident not clean"
+295,"room was cleaned every day
+no evident not room was cleaned every day
+wifi is strong all the time
+no evident not wifi is strong all the time"
+296,"TV channels to be fixed :)
+Channels need fixing.
+Have evident fixing.
+Channels need fixing.
+Have evident fixing."
+297,"good_room
+recently refurbished
+recently refurbished
+no evident not recently refurbished
+very clean
+no evident not very clean"
+298,"room is spacious
+bed is comfy
+bed is not uncomfortable
+room is not cramped"
+299,"room is pictures
+room is renovated
+room is functional
+room is comfortable
+room is clean
+room is pictures
+room is renovated
+room is functional
+room is comfortable
+room is clean
+no evident not room is comfortable
+no evident not room is clean"
+300,"room was clean
+room was spacious
+mini bar was rich
+mini bar was well priced
+room was clean
+room was spacious
+mini bar was rich
+mini bar was well priced"
+302,"good_room
+It was very clean. no evident not clean"
+304,"room, bed sheets, toilet are super clean, bed is very comfortable, no evident not room, no evident not bed sheets, no evident not toilet are super clean, no evident not bed is very comfortable"
+310,"good_room
+very clean
+no evident not very clean
+very clean
+no evident not very clean"
+311,"good_room
+Nice rooms
+Nice rooms
+no evident not Nice rooms
+freshly decorated rooms
+no evident not freshly decorated rooms"
+312,"bad plumbing
+have evident smell
+have evident plumbing"
+315,"it’s was exceptionally clean
+no evident not clean
+no evident not clean"
+316,"Netflix.
+no evident not clean.
+no evident not tidy."
+318,"refurbishment not complete, safety box wasn’t working, could do with one more double hook in bathroom for towels, have evident refurbishment not complete, have evident safety box wasn’t working, have evident could do with one more double hook in bathroom for towels"
+319,"room was clean
+bathroom was spacious
+bed was comfortable
+bathroom was spacious
+no evident not bathroom was spacious
+bed was comfortable
+no evident not bed was comfortable"
+319,"room was clean
+have evident room was clean
+room was small
+have evident room was small"
+321,"well organised
+no evident not well organised
+clean
+no evident not clean"
+323,"room clean
+room modern
+room comfortable
+amenities fridge
+amenities coffee making
+amenities AC
+amenities balcony
+room spotless
+room comfortable
+no evident not room clean
+no evident not room modern
+no evident not room comfortable
+no evident not amenities fridge
+no evident not amenities coffee making
+no evident not amenities AC
+no evident not amenities balcony
+no evident not room spotless
+no evident not room comfortable"
+323,"rooms are small
+have evident rooms are small"
+324,"room was excellent
+everything seems new
+everything seems new
+no evident not everything seems new
+room was excellent
+no evident not everything seems new"
+324,"noise was loud
+doors are not sound proofed
+couldn't sleep
+noise coming
+have evident noise coming"
+325,"clean rooms
+fresh rooms
+no evident not clean rooms
+no evident not fresh rooms"
+326,"good_room
+Clean
+no evident not clean
+freshly
+no evident not freshly
+renovated
+no evident not renovated 
+room
+no evident not room"
+328,"good_room
+clean
+no evident not clean
+comfortable
+no evident not comfortable
+spacious
+no evident not spacious"
+328,"room was cramped
+we could fit
+odor was disturbing
+odors came out
+we could fit
+odor was disturbing
+have evident odors came out"
+331,"good_room
+clean
+fresh
+nice
+peaceful
+no evident not clean
+no evident not fresh
+no evident not nice
+no evident not peaceful"
+332,"room was clean
+bed was comfortable
+no evident not room was clean
+no evident not bed was comfortable"
+332,"wifi wasn't great
+we needed strong wifi
+have evident wifi wasn't great
+have evident we needed strong wifi"
+333,Size was small. Have evident small.
+334,"good_room
+Ultimate hygiene
+Very clean
+no evident not Ultimate hygiene
+no evident not Very clean"
+335,"good_room
+friendly
+no evident not clean
+clean"
+336,"good_room
+super comfy bed
+no evident not super comfy bed
+tastefully decorated room
+no evident not tastefully decorated room"
+338,"good_room
+coffee
+tea-making facilities
+no evident not coffee
+no evident not tea-making facilities"
+338,"bad_room
+outside noise
+have evident outside noise
+locked
+have evident locked"
+339,"good
+Clean rooms
+cleaning every day
+Strong wi-fi
+no evident not Clean rooms
+no evident not cleaning every day
+no evident not Strong wi-fi"
+340,"room was nice
+no evident not room was nice
+balcony was big
+no evident not balcony was big"
+344,"rooms were comfortable
+no evident not clean
+no evident not comfortable"
+345,"good_room
+very modern
+very clean
+no evident not very modern
+no evident not very clean"
+346,"Clean, room is good.
+No evident not room is clean."
+347,"good_room
+cleanliness
+compact
+everything
+need
+stay
+no evident not cleanliness
+no evident not compact
+no evident not everything
+no evident not need
+no evident not stay"
+347,Rooms were also exceptional in their cleanliness. Rooms were compact. Rooms were compact. Have evident rooms were compact. Rooms were exceptional in their cleanliness. Have evident rooms were exceptional in their cleanliness.
+349,Clean rooms. Comfortable bed. no evident not clean rooms. no evident not comfortable bed.
+349,"bad_room
+smell from toilet
+have evident smell from toilet
+night
+have evident night"
+350,"lovely
+clean
+room
+comfortable
+bed
+no evident not lovely
+no evident not clean
+no evident not room
+no evident not comfortable
+no evident not bed"
+351,"good_room
+comfy bed
+great air conditioning
+no evident not comfy bed
+no evident not great air conditioning"
+352,"good beds
+no evident not clean
+no evident not beds"
+353,"room, clean, comfy, balcony
+no evident not room
+no evident not clean
+no evident not comfy
+no evident not balcony"
+353,"Weak WiFi
+have evident weak WiFi
+have evident strong WiFi
+have evident poor signal"
+354,"good_room
+home-experience
+no evident not home-experience"
+356,"too, clean, no evident not clean, no evident not too"
+362,"room balcony Makenzy Salt Lake amazing impression
+no evident not room balcony Makenzy Salt Lake amazing impression"
+367,"good_room
+comfortable beds
+no evident not comfortable beds
+nice bathroom
+no evident not nice bathroom"
+368,"Clean, room is good.
+No evident not room is clean."
+369,"bad_room
+sink was closed
+have evident sink was open
+bugs under it
+have evident bugs were absent"
+370,"efficiently run, no evident not efficiently run,
+newly renovated, no evident not newly renovated,
+extremely clean, no evident not extremely clean."
+372,"bad_room
+TV.
+Have evident TV.
+Channels.
+Have evident channels."
+374,"good_room
+Rooms were a great size. Rooms were clean. Rooms were modern. Rooms were comfy. Rooms were a great size. Rooms were clean. Rooms were modern. Rooms were comfy. No evident not rooms were clean. No evident not rooms were modern. No evident not rooms were comfy."
+375,"rooms are stylish
+rooms are stylish
+no evident not rooms are stylish
+beds are very comfortable
+no evident not beds are very comfortable"
+377,"good_room
+Rooms are clean.
+no evident not Rooms are clean."
+378,"room was clean
+room was comfortable
+no evident not room was clean
+no evident not room was comfortable"
+379,"clean rooms, comfortable beds"
+380,"good_room
+spacy
+quiet
+tidy
+modern design
+no evident not spacy
+no evident not quiet
+no evident not tidy
+no evident not modern design"
+382,"room was clean
+no evident not clean
+no evident not clean"
+384,"new, clean
+no evident not new
+no evident not clean"
+386,"rooms renovated
+systems chilled
+suite rented
+systems chilled
+no evident not rooms renovated
+no evident not systems chilled
+no evident not suite rented"
+388,"good_room
+quite
+no evident not clean
+quite
+no evident not quite"
+391,"rooms were nice
+rooms were clean
+rooms were nice
+no evident not rooms were clean
+rooms were nice
+no evident not rooms were clean"
+392,"excellent rooms, rooms, no evident not rooms, rooms, no evident not rooms."
+393,"very clean, modern"
+394,"good_room
+clean
+rooms
+clean
+bed linen
+towels
+A/C
+flat screen tv
+no evident not clean
+no evident not rooms
+no evident not clean
+no evident not bed linen
+no evident not towels
+no evident not A/C
+no evident not flat screen tv"
+396,"very clean,
+nice renovated,
+no evident not very clean,
+no evident not nice renovated."
+398,"good_room
+Netflix in room
+no views
+no evident not Netflix in room
+no evident not no views"
+398,"difficult to sign back out of your account! have evident difficult
+Room small have evident small"
+399,"room was clean
+room was ready
+check in
+no evident not room was clean
+no evident not room was ready
+no evident not check in"
+400,"bad_room
+nowhere
+dry
+wet
+clothes
+towels
+have evident
+nowhere
+dry
+wet
+clothes
+towels"
+401,"room was fresh
+room was clean
+no evident not room was fresh
+no evident not room was clean"
+402,"clean
+spacious
+clean
+no evident not spacious"
+404,"bad_room
+rooms small
+rooms small have evident"
+405,"good_room
+bedding
+no evident not bedding"
+406,"good bed linen
+no evident not furniture"
+406,"bad_room
+lock broken
+have evident lock broken
+noise entering
+have evident noise entering
+shower door touches
+have evident shower door touches"
+407,"good_room
+modern bedroom
+no evident not modern bedroom"
+409,"rooms were to a very high standard
+no evident not standard
+rooms were clean
+no evident not clean"
+410,"room is clean
+no evident not clean
+facilities are modern
+no evident not modern
+shower is amazing
+no evident not amazing
+balcony is nice
+no evident not nice
+bed is comfortable
+no evident not comfortable
+bedding was delight
+no evident not delight
+minibar is priced
+no evident not priced
+aircon is perfect
+no evident not perfect
+wifi is great
+no evident not great"
+410,"bar
+have evident bar"
+412,"good_room
+clean
+no evident not clean
+DnD
+no evident not DnD"
+414,"very clean, modern rooms, no evident not modern rooms.
+very clean, no evident not clean rooms."
+415,"room was clean
+no evident not room"
+417,"good_room
+fresh rooms
+clean rooms
+fresh rooms
+no evident not clean rooms
+no evident not fresh rooms"
+418,"bottle empty
+aircon uncontrolled
+sockets missing
+blanket warm
+aircon have evident uncontrolled
+sockets have evident missing
+blanket have evident warm"
+419,"comfortable rooms, rooms are comfortable, rooms are good, rooms are good rooms, rooms are good rooms, rooms are comfortable, no evident not comfortable rooms, no evident not rooms are good, no evident not rooms are good rooms, no evident not rooms are comfortable."
+422,"room is new
+mini bar was equipped
+mini bar was cheap
+mini bar was not evident not equipped
+mini bar was not evident not cheap"
+423,"good_room
+clean
+comfortable
+variety
+snacks
+affordable
+price
+no evident not clean
+no evident not comfortable
+no evident not variety
+no evident not snacks
+no evident not affordable
+no evident not price"
+424,"good_room
+fits family
+no evident not fits family"
+425,"room sizes were excellent
+wheelchair was accommodated
+no evident not wheelchair was accommodated
+room sizes were excellent
+wheelchair was accommodated
+no evident not wheelchair was accommodated"
+426,"comfortable bed
+no evident not comfortable bed
+lovely soft duvet
+no evident not lovely soft duvet
+and pillows
+no evident not and pillows
+good shower
+no evident not good shower"
+427,"spotlessly clean
+no evident not clean
+no evident not clean"
+428,"very clean
+no evident not clean
+no evident not clean"
+428,"not enough pillows
+have evident lack
+have evident comfort"
+429,"Bed was soft.
+Bed was uncomfortable.
+Bed was soft. Have evident bed was soft.
+Bed was uncomfortable. Have evident bed was uncomfortable."
+430,"Windows should be closed.
+Front building looks right.
+Front building looks right. Have evident right.
+Building looks right. Have evident right."
+431,"room large
+balcony nice
+room large
+balcony nice
+no evident not room large
+no evident not balcony nice"
+432,"good_room
+Clean. Comfortable. Cute. Balconies. Clean. Comfortable. Cute. Balconies. No evident not clean. No evident not comfortable. No evident not cute. No evident not balconies."
+433,"size room
+no evident not size room
+bed
+no evident not bed"
+433,"bad_room
+shower is inconviniently placed
+shower is inconviniently placed have evident problems
+bin is rusty
+bin is rusty have evident corrosion
+mirror is weirdly placed
+mirror is weirdly placed have evident misalignment
+curtains get light
+curtains get light have evident illumination"
+434,"unpleasant smell
+have evident bathroom
+unpleasant smell
+have evident bathroom"
+436,"room was clean
+no evident not room was dirty"
+436,"room small
+have evident room small
+suitcase
+have evident suitcase
+wardrobe
+have evident wardrobe
+sitting area
+have evident sitting area
+terrace
+have evident terrace
+Sun
+have evident Sun"
+437,"good_room
+clean
+beds
+comfortable
+no evident not clean
+no evident not beds
+no evident not comfortable"
+437,"rooms were small suite
+rooms were small suite have evident"
+438,"good_room
+room is spacious
+no evident not room is clean
+no evident not room is spacious"
+438,"duvet was unbearable
+winter was bad
+noise was too much
+plugs did not fit
+adaptors were not provided"
+439,"Room quite small.
+Have evident small.
+Have evident large."
+440,"very modern rooms
+no evident not modern rooms
+no evident not modern rooms"
+440,"bath room
+was cleaned
+superficially
+hair
+not being removed
+have evident
+hair"
+441,"room was perfect
+no evident not room was perfect
+room was perfect
+no evident not room was perfect"
+441,"Cold floor in the room :-)
+Cold. Floor. Room.
+Cold. Have evident. Floor.
+Have evident. Floor."
+442,"Room was cold.
+Have evident room was cold."
+443,"clean room
+no evident not clean"
+444,"good_room
+nice
+no evident not clean
+nice
+no evident not clean"
+447,"bad_room
+bed
+pillows
+telly
+bed
+pillows
+telly
+have evident
+bed
+pillows
+telly"
+448,"Clean room.
+Comfortable bed.
+No evident not clean room.
+No evident not comfortable bed."
+448,"bad_room
+coffee not replenished
+have evident coffee not replenished
+thin curtains not present
+have evident thin curtains not present"
+450,"good_room
+Clean
+no evident not clean"
+451,Rooms are a nice size. Have evident wet floor. Twin beds are provided. Have evident uncomfortable pillows. The shower in the bathroom is open-front. Have evident wet floor. Property have a great potential. Have evident care.
+453,"safe didn’t work
+have evident safe didn’t work
+back door balcony other bedroom wouldn’t lock
+have evident back door balcony other bedroom wouldn’t lock
+do not disturb sign didn’t work
+have evident do not disturb sign didn’t work
+very noisy guests
+have evident very noisy guests"
+455,"clean
+accurate
+no evident not clean
+no evident not accurate"
+455,"bad_room
+noisy
+have evident noisy
+quiet
+have evident quiet"
+456,"bathroom, lock, shower, glass, door, messy
+have evident bathroom, lock, shower, glass, door, messy"
+456,"rooms are very well maintained
+no evident not rooms are maintained
+no evident not rooms are maintained"
+457,"room are uncomfortable
+have evident room are uncomfortable"
+458,"Noisy
+Probably renovation
+Have evident renovation"
+459,"good_room
+room new
+room comfortable
+room new
+no evident not room new
+room comfortable
+no evident not room comfortable"
+459,"TV did not work.
+Have evident TV worked.
+TV did not work.
+Have evident TV worked."
+460,"Room was very clean upon arrival.
+no evident not clean.
+no evident not arrival."
+460,"[ERROR] ReadTimeout: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)"
+461,"plumbing complications twice
+have evident complications twice
+plumbing complications twice"
+462,"good_room
+clean
+no evident not clean
+modern
+no evident not modern"
+463,"cleanliness, dirt, mess, hygiene, sanitation, order, purity, health, germs, bacteria, disease, infection, prevention, maintenance, upkeep, repair, investment, value, cost, benefit, risk, damage, deterioration, neglect, waste, decline, ruin, destruction, chaos, disorder, confusion, disruption, instability, vulnerability, weakness, fragility, breakdown, failure, collapse, ruin, devastation, loss, detriment, harm, injury, sickness, illness, corruption, decay, rot, decomposition, disintegration, dissolution, fragmentation, dissolution, collapse, ruin, devastation, loss, detriment, harm, injury, sickness, illness. no evident not cleanliness, no evident not dirt, no evident not mess, no evident not hygiene, no evident not sanitation, no evident not order, no evident not purity, no evident not health, no evident not germs, no evident not bacteria, no evident not disease, no evident not infection, no evident not prevention, no evident not maintenance, no evident not upkeep, no evident not repair, no evident not investment, no evident not cost, no evident not benefit, no evident not risk, no evident not damage, no evident not deterioration, no evident not neglect, no evident not waste, no evident not decline, no evident not ruin, no evident not destruction, no evident not chaos, no evident not disorder, no evident not confusion, no evident not disruption, no evident not instability, no evident not vulnerability, no evident not weakness, no evident not fragility, no evident not breakdown, no evident not failure, no evident not collapse, no evident not ruin, no evident not devastation, no evident not loss, no evident not detriment, no evident not harm, no evident not injury, no evident not sickness, no evident not illness, no evident not corruption, no evident not decay, no evident not rot, no evident not decomposition, no evident not disintegration, no evident not dissolution, no evident not fragmentation, no evident not dissolution, no evident not collapse, no evident not ruin, no evident not devastation, no evident not loss, no evident not detriment, no evident not harm, no evident not injury, no evident not sickness, no evident not illness."
+464,"room was nice
+beds were set up
+request was made
+room was nice
+no evident not beds were set up
+no evident not request was made"
+464,"bad_room
+opening window was required
+have evident opening window was required"
+465,"room fresh
+no evident not room fresh
+clean
+no evident not clean
+modern
+no evident not modern"
+468,"room very nice
+no evident not room very nice
+room very clean
+no evident not room very clean"
+469,"good_room
+Rooms are updated.
+Rooms are clean.
+no evident not Rooms are updated.
+no evident not Rooms are clean."
+470,"good_room
+clean
+no evident not clean
+clean
+no evident not clean"
+471,"good_room
+clean
+modern
+comfortable
+bed
+shower
+clean
+modern
+comfortable
+bed
+shower
+no evident not clean
+no evident not modern
+no evident not comfortable
+no evident not bed
+no evident not shower"
+473,"good_room
+Clean
+no evident not clean
+Clean
+no evident not clean"
+474,"clean
+smart
+clean
+smart
+no evident not clean
+no evident not smart"
+475,"floor, not cleaned, full dust, water drains, floods room
+have evident floor, have evident not cleaned, have evident full dust, have evident water drains, have evident floods room"
+476,"size room
+no evident not size room"
+477,"impeccable cleanliness.
+cleanliness.
+no evident not cleanliness."
+478,"cleanliness room
+no evident not cleanliness room"
+479,"functionally furnished.
+Balcony with courtyard.
+no evident not balcony.
+Balcony with street view.
+no evident not courtyard."
+482,"cleanliness, dirt, mess, hygiene, sanitation, order, purity, health, germs, bacteria, disease, infection, prevention, maintenance, upkeep, repair, investment, value, cost, benefit, risk, damage, deterioration, neglect, waste, decline, ruin, destruction, chaos, disorder, confusion, disruption, instability, vulnerability, weakness, fragility, breakdown, failure, collapse, ruin, devastation, loss, detriment, harm, injury, sickness, illness, corruption, decay, rot, decomposition, disintegration, dissolution, fragmentation, dissolution, collapse, ruin, devastation, loss, detriment, harm, injury, sickness, illness. no evident not cleanliness, no evident not dirt, no evident not mess, no evident not hygiene, no evident not sanitation, no evident not order, no evident not purity, no evident not health, no evident not germs, no evident not bacteria, no evident not disease, no evident not infection, no evident not prevention, no evident not maintenance, no evident not upkeep, no evident not repair, no evident not investment, no evident not cost, no evident not benefit, no evident not risk, no evident not damage, no evident not deterioration, no evident not neglect, no evident not waste, no evident not decline, no evident not ruin, no evident not destruction, no evident not chaos, no evident not disorder, no evident not confusion, no evident not disruption, no evident not instability, no evident not vulnerability, no evident not weakness, no evident not fragility, no evident not breakdown, no evident not failure, no evident not collapse, no evident not ruin, no evident not devastation, no evident not loss, no evident not detriment, no evident not harm, no evident not injury, no evident not sickness, no evident not illness, no evident not corruption, no evident not decay, no evident not rot, no evident not decomposition, no evident not disintegration, no evident not dissolution, no evident not fragmentation, no evident not dissolution, no evident not collapse, no evident not ruin, no evident not devastation, no evident not loss, no evident not detriment, no evident not harm, no evident not injury, no evident not sickness, no evident not illness."
+482,"rooms were not soundproofed
+rooms were not soundproofed
+have evident rooms were not soundproofed
+rooms were not soundproofed
+have evident rooms were not soundproofed"
+483,"noise
+have evident sealing
+window
+have evident noise"
+484,"good_room
+very clean
+no evident not very clean"
+484,"Room a bit small
+have evident small
+have evident room"
+486,"room was clean
+mattresses were excellent
+no evident not mattresses were excellent
+room was spacious
+mattresses were excellent
+no evident not mattresses were excellent"
+486,"bad_room
+water
+have evident water
+shower
+have evident shower
+evening
+have evident evening
+lukewarm
+have evident lukewarm"
+489,"good_room
+comfortable room
+no evident not comfortable room
+small room
+no evident not small room"
+491,"practical rooms
+balconies each room
+no evident not practical rooms
+no evident not balconies each room"
+491,"The noise.
+Rooms are poorly soundproofed.
+Have evident rooms are poorly soundproofed.
+The neighbors moving.
+Have evident the neighbors moving."
+492,"bed too thick
+suffocate underneath
+heavy use tiling
+have evident suffocate underneath
+have evident heavy use tiling"
+493,"good_room
+nice,
+no evident not clean,
+no evident not neat."
+497,"room was spacious
+no evident not clean
+room was spacious
+no evident not clean"
+499,"room had everything need
+no evident not need
+room was clean
+no evident not clean
+room was cozy
+no evident not cozy
+room had bathroom
+no evident not bathroom"
+500,"bad_room
+guests didn't stop making noise
+guests didn't stop making noise have evident"
+501,"simple
+comfortable
+rooms
+care
+place
+no evident not simple
+no evident not comfortable
+no evident not rooms
+no evident not care
+no evident not place"
+503,"room is restful
+bed is comfortable
+shower is clean
+bed is comfortable
+shower is clean
+no evident not bed is comfortable
+no evident not shower is clean"
+505,"room
+clean
+no evident not clean
+furnished
+no evident not furnished"
+506,"cleanliness, simple, modern, furnishings, new, structure, no evident not cleanliness, no evident not simple, no evident not modern, no evident not furnishings, no evident not new, no evident not structure."
+507,"room is spacious
+bathroom is large
+bathroom is above-standard
+bathroom is large
+no evident not bathroom is above-standard"
+510,"clean
+no evident not clean
+no evident not clean"
+510,"bad_room
+baby, minimalist, room, accessories
+baby, have evident minimalist, have evident room, have evident accessories"
+512,"good_room
+very clean
+no evident not very clean
+very clean
+no evident not very clean"
+513,"room was tight
+suitable for one night
+no more
+room was tight
+have evident room was tight
+no more
+have evident room was tight"
+514,"[ERROR] ReadTimeout: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)"
+521,"good_room
+nothing missing
+no evident not pleasant
+comfortable mattress
+no evident not nothing"
+521,"bad_room
+air conditioner
+does not cool
+enough
+air conditioner
+have evident
+does not cool
+enough"
+524,"good_room
+Excellent cleanliness.
+no evident not excellent cleanliness.
+no evident not excellent cleanliness."
+525,"clean, quiet, well organized, no evident not clean, no evident not quiet, no evident not well organized"
+529,"Cleanliness/Towels: 10/10; no evident not cleanliness; no evident not towels
+Design/Furniture: 10/10; no evident not design; no evident not furniture"
+529,"bad_room
+Soundproofing, separated rooms, plasterboards
+Soundproofing, have evident separated rooms
+Rooms, have evident plasterboards"
+531,"room is good
+room is tidy
+room is comfortable
+room is beautiful
+no evident not room is tidy
+no evident not room is comfortable
+no evident not room is beautiful"
+532,"large rooms! very clean
+no evident not rooms
+no evident not clean"
+538,"Rooms may be a bit small for a longer stay.
+Have evident rooms may be a bit small.
+Have evident rooms may be a bit small."
+540,"good_room
+bed
+pillows
+bathroom
+shower
+no evident not bed
+no evident not pillows
+no evident not bathroom
+no evident not shower"
+540,"Room a little smaller than average
+have evident smaller
+have evident average"
+541,"maximum cleanliness, excellent upholstery, modern furnishings, no evident not maximum cleanliness, no evident not excellent upholstery, no evident not modern furnishings."
+543,"recently refurbished rooms.
+rooms, refurbished
+no evident not rooms
+rooms, refurbished
+no evident not rooms"
+547,"large
+comfortable bed
+clean linen
+cozy
+no evident not large
+no evident not comfortable bed
+no evident not clean linen
+no evident not cozy"
+550,"rooms big
+rooms clean
+balcony
+rooms big
+rooms clean
+balcony
+no evident not rooms big
+no evident not rooms clean
+no evident not balcony"
+552,"good_room
+clean
+clean
+new
+clean
+no evident not clean
+no evident not new
+no evident not clean"
+553,"clean rooms
+no evident not rooms
+comfortable bed
+no evident not bed"
+554,"very clean, very comfortable, brand new!
+no evident not very clean,
+no evident not very comfortable,
+no evident not brand new."
+555,"good_room
+pleasant bedding
+no evident not pleasant bedding
+kettle
+no evident not kettle
+fridge
+no evident not fridge"
+555,"bed could be opened
+toilet is together
+shower is together"
+556,"lovely
+clean room
+enough family
+three children
+two rooms
+no evident not lovely
+no evident not clean room
+no evident not enough family
+no evident not three children
+no evident not two rooms"
+556,"bad_room
+children’s bed
+was problematic
+have evident bed
+was stable"
+557,"Cleanliness first, it is good room. No evident not room. No evident not room."
+558,"cleanliness, dirt, mess, hygiene, sanitation, order, purity, health, germs, bacteria, disease, infection, prevention, maintenance, upkeep, repair, investment, value, cost, benefit, risk, damage, deterioration, neglect, waste, decline, ruin, destruction, chaos, disorder, confusion, disruption, instability, vulnerability, weakness, fragility, breakdown, failure, collapse, ruin, devastation, loss, detriment, harm, injury, sickness, illness, corruption, decay, rot, decomposition, disintegration, dissolution, fragmentation, dissolution, collapse, ruin, devastation, loss, detriment, harm, injury, sickness, illness. no evident not cleanliness, no evident not dirt, no evident not mess, no evident not hygiene, no evident not sanitation, no evident not order, no evident not purity, no evident not health, no evident not germs, no evident not bacteria, no evident not disease, no evident not infection, no evident not prevention, no evident not maintenance, no evident not upkeep, no evident not repair, no evident not investment, no evident not cost, no evident not benefit, no evident not risk, no evident not damage, no evident not deterioration, no evident not neglect, no evident not waste, no evident not decline, no evident not ruin, no evident not destruction, no evident not chaos, no evident not disorder, no evident not confusion, no evident not disruption, no evident not instability, no evident not vulnerability, no evident not weakness, no evident not fragility, no evident not breakdown, no evident not failure, no evident not collapse, no evident not ruin, no evident not devastation, no evident not loss, no evident not detriment, no evident not harm, no evident not injury, no evident not sickness, no evident not illness, no evident not corruption, no evident not decay, no evident not rot, no evident not decomposition, no evident not disintegration, no evident not dissolution, no evident not fragmentation, no evident not dissolution, no evident not collapse, no evident not ruin, no evident not devastation, no evident not loss, no evident not detriment, no evident not harm, no evident not injury, no evident not sickness, no evident not illness."
+560,"bad_room
+no water
+have evident no water
+no water
+have evident no water"
+561,"cleanliness, dirt, mess, hygiene, sanitation, order, purity, health, germs, bacteria, disease, infection, prevention, maintenance, upkeep, repair, investment, value, cost, benefit, risk, damage, deterioration, neglect, waste, decline, ruin, destruction, chaos, disorder, confusion, disruption, instability, vulnerability, weakness, fragility, breakdown, failure, collapse, ruin, devastation, loss, detriment, harm, injury, sickness, illness, corruption, decay, rot, decomposition, disintegration, dissolution, fragmentation, dissolution, collapse, ruin, devastation, loss, detriment, harm, injury, sickness, illness. no evident not cleanliness, no evident not dirt, no evident not mess, no evident not hygiene, no evident not sanitation, no evident not order, no evident not purity, no evident not health, no evident not germs, no evident not bacteria, no evident not disease, no evident not infection, no evident not prevention, no evident not maintenance, no evident not upkeep, no evident not repair, no evident not investment, no evident not cost, no evident not benefit, no evident not risk, no evident not damage, no evident not deterioration, no evident not neglect, no evident not waste, no evident not decline, no evident not ruin, no evident not destruction, no evident not chaos, no evident not disorder, no evident not confusion, no evident not disruption, no evident not instability, no evident not vulnerability, no evident not weakness, no evident not fragility, no evident not breakdown, no evident not failure, no evident not collapse, no evident not ruin, no evident not devastation, no evident not loss, no evident not detriment, no evident not harm, no evident not injury, no evident not sickness, no evident not illness, no evident not corruption, no evident not decay, no evident not rot, no evident not decomposition, no evident not disintegration, no evident not dissolution, no evident not fragmentation, no evident not dissolution, no evident not collapse, no evident not ruin, no evident not devastation, no evident not loss, no evident not detriment, no evident not harm, no evident not injury, no evident not sickness, no evident not illness."
+562,"room clean
+no evident not room clean"
+562,"bad_room
+water is cold
+water is cold have evident"
+564,"room spotless
+sheets musky
+room double
+rooms two
+happy 
+no evident not room spotless
+no evident not sheets musky
+no evident not room double
+no evident not rooms two"
+565,"Homer comfortable.
+No evident not Homer comfortable.
+Homer clean.
+No evident not Homer clean.
+Homer cleaned.
+No evident not Homer cleaned."
+569,"rooms are in new condition
+there is smart technology
+there are electronic buttons
+there is a bell
+there is a remote control
+no evident not technology
+no evident not buttons
+no evident not bell
+no evident not remote control"
+570,"good_room
+Everything is clean
+Everything is perfect
+no evident not everything is clean
+no evident not everything is perfect"
+573,"good_room
+balcony
+spacious room
+no evident not balcony
+no evident not spacious room"
+573,"bad_room
+open window
+have evident open window
+blue light
+have evident blue light"
+576,"bad_room
+air
+regulation
+poor
+cold
+have evident regulation
+have evident cold"
+578,"good room
+firm beds
+nice air conditioning
+room
+no evident not firm beds
+no evident not nice air conditioning
+no evident not room"
+578,"bottle
+water
+ready
+two
+six
+people
+have evident
+bottle
+water
+ready
+two
+six
+people"
+581,"super clean
+no evident not clean
+no evident not clean"
+582,"room, layout
+no evident not room
+no evident not layout"
+583,"good_room
+comfort
+no evident not comfort"
+585,"good_room
+Clean
+chic
+Clean
+no evident not chic"
+587,"clean, no evident not clean"
+589,"good_room
+Cleanliness
+quality bedding
+size room
+quality bedding
+no evident not cleanliness
+quality bedding
+no evident not quality bedding
+size room
+no evident not size room"
+590,"good_room
+small
+cozy
+clean
+small
+cozy
+clean
+no evident not small
+no evident not cozy
+no evident not clean"
+590,"bad_room
+small
+have evident small
+clean
+have evident clean
+room
+have evident room"
+594,"bad_room
+child could not fall asleep
+child could not fall asleep have evident
+folding bed uncomfortable
+folding bed uncomfortable have evident"
+596,"very clean, cheap, modern
+no evident not clean
+no evident not cheap
+no evident not modern"
+597,"good_room
+renovated rooms
+very comfortable beds
+no evident not renovated rooms
+no evident not very comfortable beds"
+597,"bad_room
+still ok
+have evident still ok"
+599,"room is small
+everything is new
+room is clean
+bed is comfortable
+linen is white
+view is sea
+room is small
+everything is new
+room is clean
+bed is comfortable
+linen is white
+view is sea
+no evident not room is small
+no evident not everything is new
+no evident not room is clean
+no evident not bed is comfortable
+no evident not linen is white
+no evident not view is sea"
+599,"room small
+everything new
+room clean
+cot uncomfortable
+child cramped
+have evident cramped"
+600,"bad_room
+clean
+have evident clean
+modern
+have evident modern
+small
+have evident small
+cozy
+have evident cozy"
+600,"good_room
+small
+clean
+cozy
+modern
+small
+clean
+cozy
+modern
+small
+clean
+cozy
+modern
+no evident not small
+no evident not clean
+no evident not cozy
+no evident not modern"
+602,"good_room
+clean
+no evident not quiet
+clean
+no evident not quiet"
+603,"bad_room
+image quality poor
+have evident image quality poor"
+605,"good_room
+clean
+no evident not clean
+modern
+no evident not modern
+pleasant
+no evident not pleasant"
+607,"good_room
+Clean
+Somewhat small
+sterile
+Clean
+Somewhat small
+sterile
+no evident not Clean
+no evident not Somewhat small
+no evident not sterile"
+607,"room is not sealed
+corridor is heard
+rooms are small
+rooms are sterile
+corridor is heard have evident
+rooms are sterile have evident"
+608,"clean
+comfortable
+no evident not clean
+no evident not comfortable"
+608,"view.
+have evident view."
+609,"room was modern
+bed was large
+shower was good
+quiet was great
+room was easy
+everything was clean
+bed was large
+quiet was great
+room was easy
+everything was clean
+no evident not bed was large
+no evident not quiet was great
+no evident not room was easy
+no evident not everything was clean"
+609,"room was enough
+space was lacking
+space was lacking have evident"
+611,room was very comfortable. The room was clean. The room was calm. No evident not room was comfortable. No evident not room was clean. No evident not room was calm.
+612,"room is nice
+no evident not room is nice
+room is well
+no evident not room is well
+room is furnished
+no evident not room is furnished"
+613,"comfortable bed.
+no evident not purely."
+613,"room, balcony, not, towel, swimsuit, have, evident."
+614,"rooms are spacious
+rooms are comfortable
+no evident not rooms are spacious
+no evident not rooms are comfortable"
+614,"room
+appreciated
+bottles
+water
+have evident
+appreciated
+have evident
+bottles
+have evident
+water"
+615,"good_room
+quiet
+no evident not clean
+clean"
+618,"cleanliness, space, no evident not cleanliness, space, no evident not cleanliness, space"
+620,"room has everything
+no evident not room"
+622,"good_room
+clean
+modern
+clean
+no evident not clean
+modern
+no evident not modern"
+622,"we didn't have a balcony
+have evident lack
+have evident space"
+623,"noisy
+have evident noisy
+air
+have evident noisy
+conditioning
+have evident noisy"
+624,"good_room
+modern room
+no evident not modern room"
+626,"good_room
+clean
+air-conditioned
+balcony
+mini-bar
+no evident not clean
+no evident not air-conditioned
+no evident not balcony
+no evident not mini-bar"
+628,"rooms were clean
+no evident not rooms were clean
+rooms were clean
+no evident not rooms were clean"
+630,"Wifi was weak at times.
+Have evident Wifi was weak at times.
+Have evident Wifi was weak at times."
+631,"good_room
+clean
+no evident not clean
+modern
+no evident not modern"
+632,"room was nice
+room was clean
+no evident not room was nice
+no evident not room was clean"
+633,"good_room
+very clean
+no evident not very clean
+very clean
+no evident not very clean"
+637,"very clean
+no evident not clean"
+638,"room comfort
+support: comfort
+contrary: no evident not comfort
+support: room
+contrary: no evident not room"
+639,"good_room
+clean room
+no evident not small room
+no evident not beautiful room"
+640,"good_room
+It was very clean. no evident not clean"
+640,"the humid air
+it didn't work properly
+it didn't work properly
+have evident it didn't work properly"
+641,"good_room
+very clean
+very clean
+no evident not very clean
+nice room
+no evident not nice room
+nice balcony
+no evident not nice balcony"
+643,"cleanliness, modern room
+no evident not cleanliness
+no evident not modern room"
+644,"good_room
+comfortable bed
+no evident not comfortable bed
+tea and coffee
+no evident not tea and coffee"
+644,"no hair dryer
+have evident no hair dryer
+no hair dryer
+have evident no hair dryer"
+646,"wonderful
+shower
+wonderful
+air
+conditioner
+works
+white
+bed
+no evident not shower
+no evident not air
+no evident not conditioner
+no evident not works
+no evident not white
+no evident not bed"
+647,"cleanliness, comfort
+no evident not cleanliness
+comfort, no evident not comfort"
+649,"good_room
+Clean
+Comfortable
+Clean
+No evident not comfortable
+Comfortable
+No evident not clean"
+649,"room, small, spacious
+have evident room, small
+have evident room, spacious"
+650,"room is clean
+no evident not room is clean
+mattresses are comfortable
+no evident not mattresses are comfortable
+bedding is excellent
+no evident not bedding is excellent
+bedding is clean
+no evident not bedding is clean"
+650,"soap
+have evident soap
+shower
+have evident shower"
+652,"good_room
+everything is white
+no evident not everything is white
+bright
+no evident not bright
+cozy
+no evident not cozy"
+653,"good_room
+comfortable beds
+no evident not comfortable beds
+great shower
+no evident not great shower"
+654,"room clean
+no evident not room clean
+comfortable bed
+no evident not comfortable bed
+room soft
+no evident not room soft"
+654,"mirrors
+have evident mirrors
+distorted
+have evident distorted"
+655,"room was well equipped
+no evident not room was well equipped
+room was clean
+no evident not room was clean
+room was comfortable
+no evident not room was comfortable"
+656,"room clean
+no evident not room clean"
+657,"cleanliness, nice rooms
+no evident not cleanliness
+no evident not nice rooms"
+659,"cleanliness, top notch, cleaned, every day, down, taps, towels, bedding.
+no evident not cleanliness, no evident not top notch, no evident not cleaned, no evident not every day, no evident not down, no evident not taps, no evident not towels, no evident not bedding."
+660,"rooms are well equipped
+no evident not rooms are well equipped
+rooms are well equipped
+no evident not rooms are well equipped"
+661,"small
+but
+modern
+rooms
+have evident
+small
+have evident
+but
+have evident
+modern
+have evident
+rooms"
+661,"good_room
+bed
+bathroom
+no evident not bed
+no evident not bathroom"
+663,"great, modern design, comfortable bed, clean, large with a balcony, no evident not clean, no evident not comfortable bed, no evident not large with a balcony."
+664,"cleanliness
+quality
+no evident not cleanliness
+no evident not quality"
+665,Beds are soft. Beds have plastic. Beds are sweaty. Beds have evident plastic. Beds have evident sweaty.
+666,"bed, bit, uncomfortable
+have evident bed, bit, uncomfortable"
+667,"new room,
+perfect bed,
+towels,
+no evident not new room,
+no evident not perfect bed,
+no evident not towels."
+669,"nice room
+there was kettle
+there was microwave
+there was bath
+there was view
+there was houses
+no evident not there was kettle
+no evident not there was microwave
+no evident not there was bath
+no evident not there was view
+no evident not there was houses"
+670,"street side
+rooms are noisier
+back rooms
+have evident back rooms"
+670,"cleanliness
+design
+cleanliness
+no evident not cleanliness
+design
+no evident not design"
+675,"good_room
+fridge
+kettle
+equipment
+no evident not fridge
+no evident not kettle
+no evident not equipment"
+676,"room has refrigerator
+no evident not room has refrigerator
+room has kettle
+no evident not room has kettle
+room has mugs
+no evident not room has mugs
+room has TV
+no evident not room has TV"
+676,"shower has no door
+shower has no curtain
+wi-fi is enough
+wi-fi is not enough
+have evident wi-fi is enough
+have evident wi-fi is not enough"
+679,"superb room
+bathroom
+balcony
+comfortable
+no evident not bathroom
+no evident not balcony
+no evident not comfortable"
+679,"hallway
+have evident noise"
+682,"no other means
+have evident shampoos
+shampoos
+have evident gels
+gels
+have evident soaps
+soaps
+have evident etc
+etc"
+685,"perfect cleanliness,
+clean room,
+no evident not clean room,
+perfect cleanliness,
+clean room,
+no evident not clean room,"
+686,"good_room
+quiet room
+no evident not quiet room
+room"
+690,"very thin walls
+have evident walls
+everything is heard
+have evident heard"
+691,"very clean
+no evident not clean
+no evident not clean"
+693,"Fridge filled with drinks.
+No evident not filled with drinks.
+Delicacies available.
+No evident not delicacies available.
+It's nice.
+No evident not it's nice."
+694,"room is small
+beds at 18 meters
+have evident beds at 18 meters"
+694,"clean
+tidy
+no evident not clean
+no evident not tidy"
+695,"super clean rooms
+comfortable beds
+no evident not super clean rooms
+no evident not comfortable beds"
+697,"good_room
+Cleaning every day
+no evident not cleaning every day"
+698,"bad_room
+didn't work
+have evident didn't work"
+700,"great bed,
+no evident not great bed,
+excellent cleaning,
+no evident not excellent cleaning."
+700,"small room
+only one nescafe bag
+no curtain bathroom
+have evident small room
+have evident one nescafe bag
+have evident no curtain bathroom"
+702,"room small
+have evident room small"
+703,"rooms are clean
+rooms are comfortable
+no evident not rooms are clean
+no evident not rooms are comfortable"
+705,"good_room
+clean
+no evident not tidy"
+707,"good_room
+soft blankets
+no evident not soft blankets
+renovated"
+707,"bad_room
+small room
+family
+small room
+have evident family
+room"
+712,"comfortable room
+no evident not comfortable room
+no evident not comfortable room"
+714,"good_room
+spacious
+no evident not quiet
+spacious
+no evident not quiet
+spacious"
+716,"good_room
+clean rooms
+no evident not clean rooms
+clean rooms
+no evident not clean rooms"
+716,"Lack of adapters for sockets in the rooms.
+Have evident lack.
+Have evident rooms."
+718,"No trash can in the room
+have evident no trash
+have evident no trash"
+719,"room clean modern
+no evident not room clean modern
+bathroom clean
+no evident not bathroom clean
+balcony
+no evident not balcony
+air conditioning
+no evident not air conditioning"
+720,"comfortable rooms.
+rooms are comfortable.
+no evident not rooms.
+comfortable rooms.
+no evident not rooms."
+721,"clean
+nice atmosphere
+no evident not clean
+no evident not nice atmosphere"
+722,"clean
+comfortable
+room
+new
+furniture
+comfortable
+room
+new
+furniture
+no evident not clean
+no evident not comfortable
+no evident not room
+no evident not new
+no evident not furniture"
+722,Shower water overflowed bathroom. Drain not working. Drain have evident not working.
+723,"There were no TV channels.
+Have evident channels.
+There were no TV channels.
+Have evident channels."
+724,"Clean, room is good.
+No evident not room is clean."
+725,"bad_room
+thick bedding
+have evident thick bedding
+have evident thick bedding"
+726,"room is clean
+bed is comfortable
+no evident not room is clean
+no evident not bed is comfortable"
+727,"good_room
+very clean
+no evident not very clean
+very clean
+no evident not very clean"
+730,"good_room
+balconies
+clean
+balconies
+no evident not balconies
+clean
+no evident not clean"
+732,"everything is clean
+everything is white
+everything is freshly renovated
+no evident not everything is clean
+no evident not everything is white
+no evident not everything is freshly renovated"
+733,"very clean
+no evident not clean"
+738,"bed comfortable
+no evident not bed comfortable"
+739,"rooms offer pleasant atmosphere
+no evident not relaxing
+rooms offer pleasant atmosphere
+no evident not relaxing
+rooms offer pleasant atmosphere
+no evident not relaxing
+rooms offer pleasant atmosphere
+no evident not relaxing"
+741,"Noise
+Uncomfortable beds
+have evident discomfort
+have evident sleep problems"
+742,"comfortable bed
+no evident not bed
+no evident not bed"
+742,"not clean
+have evident dirt
+have evident mess"
+743,"good_room
+nice room
+no evident not nice room
+clean room"
+745,"clean
+functional
+no evident not clean
+no evident not functional"
+746,"room was satisfactory
+room was satisfactory
+no evident not room
+no evident not room"
+747,"clean room
+serves purpose
+no evident not serves purpose
+clean room
+serves purpose
+no evident not serves purpose"
+747,"bad_room
+frozen water
+bath
+have evident frozen water
+have evident bath"
+748,"clean
+no evident not clean
+no evident not clean"
+748,"Minibar was empty.
+Have evident Minibar was empty.
+Not working.
+Have evident Not working."
+749,"room is clean
+room is clean
+no evident not room is clean
+room is clean
+no evident not room is clean"
+749,Small rooms. There is no view. Have evident small rooms. Have evident no view.
+752,"comfortable room, one night, before departure, no evident not comfortable room, no evident not one night, no evident not before departure"
+752,"extremely
+noisy
+have evident
+extremely
+noisy"
+753,"Cleanliness
+Spacious
+no evident not cleanliness
+no evident not spacious"
+755,"very clean
+no evident not clean
+very clean
+no evident not clean"
+757,"[ERROR] ReadTimeout: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)"
+758,Big room. Room is big. Room is large. Room is spacious. Room is expansive. Room is vast. Room is enormous. Room is huge. Room is considerable. Room is substantial. Room is ample. Room is wide. Room is long. Room is tall. Room is large. Room is wide. Room is long. Room is tall. No evident not room is big. No evident not room is large. No evident not room is spacious. No evident not room is expansive. No evident not room is vast. No evident not room is enormous. No evident not room is huge. No evident not not room is considerable. No evident not not room is substantial. No evident not not room is ample. No evident not not room is wide. No evident not not room is long. No evident not not room is tall.
+759,"lack adapters
+sockets
+have evident lack
+sockets
+have evident lack"
+761,"good_room
+Large
+spacious
+comfortable
+beds
+Light
+interior
+Large
+spacious
+comfortable
+beds
+Light
+interior
+no evident not Large
+no evident not spacious
+no evident not comfortable
+no evident not beds
+no evident not Light
+no evident not interior"
+761,"bad_room
+Warm. Blankets.
+Have evident warm.
+Slightly. Untidy.
+Have evident slightly untidy.
+Smelled. Little.
+Have evident little smelled.
+Sewage.
+Have evident sewage."
+762,"room smelled sewage
+have evident room smelled sewage"
+763,"comfort of beds
+no evident not comfort
+cleanliness
+no evident not cleanliness"
+763,"bad_room
+noise emanating
+noise emanating
+have evident noise emanating
+noise emanating
+have evident noise emanating"
+764,"good_room
+comfortable bed
+no evident not comfortable bed
+clean room"
+764,"small room
+thin walls
+travelers checked in
+adapter
+phone chargers"
+765,"very comfortable bed
+no evident not comfortable bed
+very good shower
+no evident not good shower
+the furniture and bathroom are new
+no evident not new furniture
+the furniture and bathroom are impeccable
+no evident not impeccable furniture
+very good WiFi connection
+no evident not good WiFi connection"
+765,"room
+can’t see column
+have evident column
+balcony low
+have evident balcony
+safe does not make sense
+have evident safe"
+766,"Cleanliness is good_room.
+Bacteria is support.
+No evident not bacteria.
+Dust is support.
+No evident not dust.
+No evident not bacteria.
+No evident not dust."
+766,"room given was not the one booked.
+have evident small corner."
+767,"good_room
+spacious room
+no evident not clean room
+no evident not spacious room"
+767,"bad_room
+windows overlooked courtyard
+windows overlooked courtyard have evident silence
+it was noisy
+it was noisy have evident quiet"
+768,"terrace, room, bathroom
+no evident not terrace
+no evident not room
+no evident not bathroom"
+769,"cleanliness
+no evident not cleanliness
+cleaning
+no evident not cleaning
+change
+no evident not change
+towels
+no evident not towels
+daily
+no evident not daily"
+769,"bed linen was never changed
+have evident bed linen was changed
+refrigerator is full
+have evident refrigerator is empty"
+770,"Clean.
+Daily change.
+Towels.
+Clean.
+Daily change.
+Towels.
+No evident not clean.
+No evident not daily change.
+No evident not towels."
+770,"lack of storage spaces
+have evident small rooms
+have evident limited space"
+771,"clean, comfortable
+no evident not clean
+no evident not comfortable"
+771,"bad_room
+Poor soundproofing from corridor. Have evident noise.
+Poor soundproofing from corridor. Have evident noise. Have evident silence."
+772,"new equipment,
+equipment improves,
+equipment is useful,
+equipment is expensive,
+equipment is complex,
+equipment is fragile,
+equipment is outdated,
+equipment is broken,
+equipment is difficult,
+equipment is noisy,
+equipment is heavy,
+equipment is dangerous,
+equipment is unreliable,
+equipment is inefficient,
+equipment is obsolete,
+no evident not equipment improves,
+no evident not equipment is useful,
+no evident not equipment is expensive,
+no evident not equipment is complex,
+no evident not equipment is fragile,
+no evident not equipment is outdated,
+no evident not equipment is broken,
+no evident not equipment is difficult,
+no evident not equipment is noisy,
+no evident not equipment is heavy,
+no evident not equipment is dangerous,
+no evident not equipment is unreliable,
+no evident not equipment is inefficient,
+no evident not equipment is obsolete."
+772,"bad_room
+couldn't close one window
+have evident couldn't close one window"
+773,"room, compact, hotel, clean, modern, stars, sure
+no evident not clean, no evident not modern, no evident not stars, no evident not sure"
+774,"comfortable
+no evident not comfortable
+clean
+no evident not clean"
+774,"difficulties with the different sockets
+have evident devices without adapters
+different sockets
+have evident devices without adapters"
+776,"Cleanliness is good_room.
+Bacteria is support.
+No evident not bacteria.
+Dust is support.
+No evident not dust.
+No evident not bacteria.
+No evident not dust."
+779,"room clean
+recent
+room clean
+no evident not recent
+balcony plus"
+780,"nice room
+large room size
+no evident not large room size
+no evident not nice room"
+781,"bad_room
+structure dangerous
+have evident structure dangerous
+corners sharp
+have evident corners sharp"
+782,"clean room
+excellent renovation
+taste
+stylish
+beautiful
+no evident not clean room
+no evident not excellent renovation
+no evident not taste
+no evident not stylish
+no evident not beautiful"
+784,"very clean, new rooms. no evident not new rooms."
+785,"bad_room
+Inside is dirty.
+Have evident inside is dirty.
+Misleading.
+Have evident misleading."
+2,bad_room,"bad_room
+room was clean
+room was decorated
+room was modern
+room was not big
+have evident room was clean
+have evident room was decorated
+have evident room was modern
+have evident room was not big"
+22,good_room,"good_room
+looked new
+no evident not looked new
+clean
+no evident not clean
+shiny tiled floors
+no evident not shiny tiled floors
+bathroom tiles
+no evident not bathroom tiles
+every inch perfect
+no evident not every inch perfect
+clean
+no evident not clean
+Bed was really comfortable
+no evident not Bed was really comfortable
+lots of room for me to put my things
+no evident not lots of room for me to put my things"
+33,good_room,"good_room
+clean room
+modern furniture
+all together
+max comfortable
+
+no evident not clean room
+no evident not modern furniture
+no evident not all together
+no evident not max comfortable"
+36,bad_room,"bad_room
+it was smaller
+it was acceptable
+we were there few days
+I am fussy
+have evident it was smaller
+have evident it was acceptable
+have evident we were there few days
+have evident I am fussy"
+62,good_room,"good_room
+beds
+linen
+duvets
+bathroom
+AC
+no evident not beds
+no evident not linen
+no evident not duvets
+no evident not bathroom
+no evident not AC"
+96,good_room,"room
+is
+comfortable
+no evident not room
+is
+comfortable"
+103,good_room,"good_room
+spacious
+no evident not spacious
+nice
+no evident not nice
+view
+no evident not view
+lake
+no evident not lake
+terrace
+no evident not terrace
+sinks
+no evident not sinks
+toilette
+no evident not toilette
+door
+no evident not door
+bathroom
+no evident not bathroom"
+137,good_room,"good_room
+clean
+no evident not clean
+bed
+comfortable
+no evident not comfortable"
+179,good_room,"good_room
+Very clean
+no evident not clean"
+180,good_room,"good_room
+comfy
+no evident not comfy
+sparkling
+no evident not sparkling
+clean
+no evident not clean
+bed
+no evident not bed"
+209,good_room,"good_room
+it was nice
+no evident not it was nice"
+220,good_room,"good_room
+super fast wifi
+no evident not super fast wifi
+airy
+no evident not airy
+comfortable
+no evident not comfortable
+room
+no evident not room
+wifi
+no evident not wifi"
+221,good_room,"good_room
+clean
+no evident not clean
+adequate
+no evident not adequate
+nice
+no evident not nice
+balcony
+no evident not balcony"
+226,good_room,"good_room
+Plenty of electricity outlets in the room,
+no evident not electricity outlets
+The double bed, although nothing fancy, was probably the best hotel bed,
+no evident not bed"
+241,good_room,"room
+bathroom
+bed
+balcony
+room
+bathroom
+bed
+balcony"
+248,good_room,"Bed was soooooooo comfortable.
+no evident not bed
+Bed was soooooooo comfortable.
+no evident not comfortable"
+284,good_room,"good_room
+provided everything needed
+no evident not everything needed
+provided bottle
+no evident not bottle"
+287,good_room,"good_room
+nice
+no evident not nice
+clean
+no evident not clean
+bed
+no evident not bed
+linen
+no evident not linen"
+319,good_room,"good_room
+room was clean
+no evident not room was small
+room was spacious
+no evident not room was comfortable"
+323,good_room,"good_room
+clean
+no evident not clean
+modern
+no evident not modern
+comfortable
+no evident not comfortable
+nice amenities
+no evident not nice amenities
+spotless
+no evident not spotless
+comfortable
+no evident not comfortable
+nice balcony
+no evident not nice balcony"
+324,good_room,"good_room
+everything seems new
+no evident not everything seems new
+very clean
+no evident not very clean"
+328,good_room,"good_room
+clean
+no evident not clean
+bed
+no evident not bed
+comfortable
+no evident not comfortable
+bathroom
+no evident not bathroom
+spacious
+no evident not spacious"
+332,good_room,"room
+clean
+bed
+comfortable
+no evident not room
+no evident not clean
+no evident not bed
+no evident not comfortable"
+338,good_room,"good_room
+coffee
+no evident not coffee
+tea
+no evident not tea
+facilities
+no evident not facilities"
+347,good_room,"good_room
+Rooms were exceptional.
+no evident not rooms were exceptional.
+cleanliness was present.
+no evident not cleanliness was present.
+compact rooms.
+no evident not compact rooms.
+everything was needed.
+no evident not everything was needed.
+stay was for you.
+no evident not stay was for you."
+349,good_room,"good_room
+Clean
+no evident not clean
+Comfortable
+no evident not comfortable
+bed
+no evident not bed"
+353,good_room,"good_room
+clean
+no evident not clean
+comfy
+no evident not comfy
+balcony
+no evident not balcony"
+398,good_room,"good_room
+Netflix in room
+no views
+no evident not Netflix in room
+no evident not views"
+406,good_room,"good_room
+clean
+no evident not clean
+bed linen
+no evident not bed linen
+furniture
+no evident not furniture"
+410,good_room,"room
+facilities
+shower
+balcony
+bed
+bedding
+minibar
+aircon
+wifi 
+
+no evident not clean
+no evident not modern
+no evident not amazing
+no evident not nice
+no evident not comfortable
+no evident not delight
+no evident not reasonably priced
+no evident not well stocked
+no evident not perfect
+no evident not great"
+428,good_room,"very clean
+no evident not clean
+very clean
+no evident not clean"
+433,good_room,"size
+no evident not size
+bed
+no evident not bed"
+436,good_room,"room
+no evident not room
+clean"
+437,good_room,"good_room
+clean
+no evident not clean
+beds
+no evident not beds
+comfortable
+no evident not comfortable"
+438,good_room,"good_room
+spacious
+clean
+no evident not spacious
+no evident not clean"
+440,good_room,"good_room
+very modern
+no evident not modern"
+441,good_room,"good_room
+room
+no evident not room
+perfect"
+448,good_room,"good_room
+Clean
+no evident not clean
+comfortable
+no evident not comfortable
+bed
+no evident not bed"
+455,good_room,"clean
+no evident not clean
+accurate
+no evident not accurate"
+456,bad_room,"bad_room
+wifi is not good
+have evident wifi is not good"
+459,good_room,"good_room
+bed
+no evident not bed
+room
+no evident not room"
+460,good_room,"room
+no evident not room
+clean
+no evident not clean
+arrival
+no evident not arrival"
+464,good_room,"good_room
+beds
+set up
+clean
+no evident not beds
+no evident not set up
+no evident not clean"
+482,good_room,"cleanliness
+no evident not cleanliness"
+484,good_room,"good_room
+very clean
+no evident not very clean"
+486,good_room,"good_room
+clean
+no evident not clean
+spacious
+no evident not spacious
+mattresses
+no evident not mattresses
+pillows
+no evident not pillows
+excellent
+no evident not excellent"
+491,good_room,"good_room
+balconies
+no evident not balconies
+practical
+no evident not practical
+rooms
+no evident not rooms"
+510,good_room,"clean
+no evident not clean"
+521,good_room,"good_room
+nothing missing
+no evident not pleasant
+comfortable mattress
+no evident not comfortable"
+529,good_room,"Cleanliness/Towels: 10/10, no evident not cleanliness
+Design/Furniture: 10/10, no evident not design"
+540,good_room,"good_room
+bed
+pillows
+bathroom
+shower
+no evident not bed
+no evident not pillows
+no evident not bathroom
+no evident not shower"
+555,good_room,"good_room
+Clean room
+no evident not clean room
+pleasant bedding
+no evident not pleasant bedding
+comfortable bedding
+no evident not comfortable bedding
+kettle
+no evident not kettle
+fridge
+no evident not fridge"
+556,good_room,"good_room
+enough for family
+no evident not enough for family
+two rooms
+no evident not one room"
+562,good_room,"room
+clean
+no evident not room
+clean"
+573,good_room,"good_room
+bedding
+balcony
+room
+no evident not bedding
+no evident not balcony
+no evident not room"
+578,good_room,"good
+room
+firm
+beds
+nice
+air
+conditioning
+no evident not firm
+no evident not beds
+no evident not air
+no evident not conditioning"
+590,good_room,"good_room
+small
+no evident not small
+but
+no evident not but
+cozy
+no evident not cozy
+very
+no evident not very
+clean
+no evident not clean
+room
+no evident not room"
+597,good_room,"good_room
+renovated
+no evident not renovated
+comfortable
+no evident not comfortable
+beds
+no evident not beds"
+599,good_room,"good_room
+everything is new
+no evident not everything is new
+comfortable bed
+no evident not comfortable bed
+crisp linen
+no evident not crisp linen
+sea view
+no evident not sea view"
+600,bad_room,"bad_room
+clean
+have evident dirt
+cozy
+have evident discomfort
+modern
+have evident obsolescence 
+hotel
+have evident structure"
+607,good_room,"good_room
+Clean
+no evident not clean
+Somewhat
+no evident not somewhat
+small
+no evident not small
+sterile
+no evident not sterile"
+608,good_room,"good_room
+clean
+no evident not clean
+comfortable
+no evident not comfortable"
+609,good_room,"room was modern
+bed was large
+shower was good
+quiet was great
+room was easy
+everything was clean
+bed was comfortable
+shower was not good
+quiet was not great
+room was not easy
+everything was not clean"
+613,good_room,"good_room
+Comfortable bed.
+no evident not comfortable bed.
+Purely.
+no evident not purely."
+614,good_room,"good_room
+rooms
+are
+spacious
+no evident not spacious
+are
+comfortable
+no evident not comfortable"
+622,good_room,"good_room
+clean
+no evident not clean
+modern
+no evident not modern
+room
+no evident not room"
+640,good_room,"good_room
+It was very clean.
+no evident not clean"
+644,good_room,"good_room
+clean
+no evident not clean
+comfortable
+no evident not comfortable
+bed
+no evident not bed
+tea
+no evident not tea
+coffee
+no evident not coffee
+room
+no evident not room"
+649,good_room,"good_room
+Clean
+no evident not clean
+comfortable
+no evident not comfortable
+room
+no evident not room"
+650,good_room,"good_room
+clean
+no evident not clean
+comfortable
+no evident not comfortable
+mattresses
+no evident not mattresses
+excellent
+no evident not excellent
+bedding
+no evident not bedding
+clean
+no evident not clean"
+654,good_room,"good_room
+street
+terrace
+hall
+room
+clean
+comfortable
+bed
+street
+terrace
+hall
+room
+no evident not clean
+no evident not comfortable
+no evident not bed"
+661,bad_room,"bad_room
+small
+have evident small
+but
+have evident but
+modern
+have evident modern
+rooms
+have evident rooms"
+670,bad_room,"street side
+have evident noise
+back
+have evident quiet"
+676,good_room,"good_room
+refrigerator
+no evident not refrigerator
+kettle
+no evident not kettle
+mugs
+no evident not mugs
+TV
+no evident not TV"
+679,good_room,"good_room
+bathroom
+balcony
+comfortable
+no evident not bathroom
+no evident not balcony
+no evident not comfortable"
+694,bad_room,"room
+small
+3 beds
+18 meters
+have evident small
+have evident 3 beds
+have evident 18 meters"
+700,good_room,"good_room
+excellent cleaning
+no evident not cleaning
+excellent bed
+no evident not bed"
+707,good_room,"good_room
+renovated
+no evident not renovated
+soft
+no evident not soft
+blankets
+no evident not blankets"
+716,good_room,"good_room
+New
+no evident not new
+clean
+no evident not clean"
+722,good_room,"good
+no evident not good
+comfortable
+no evident not comfortable
+room
+no evident not room
+new
+no evident not new
+furniture
+no evident not furniture"
+742,good_room,"comfortable bed
+no evident not bed"
+747,good_room,"good_room
+serves purpose
+no evident not serves purpose
+clean room
+no evident not clean room"
+748,good_room,"clean
+no evident not clean"
+749,good_room,"room
+clean
+no evident not clean"
+752,good_room,"good_room
+comfortable room
+no evident not comfortable room
+one night
+no evident not one night
+before departure
+no evident not before departure"
+761,good_room,"good_room
+Large
+spacious
+comfortable
+beds
+Light
+interior
+no evident not large
+no evident not spacious
+no evident not comfortable
+no evident not beds
+no evident not Light
+no evident not interior"
+763,good_room,"good_room
+beds
+cleanliness
+no evident not beds
+no evident not cleanliness"
+764,good_room,"good_room
+Clean
+no evident not clean
+comfortable
+no evident not comfortable
+bed
+no evident not bed"
+765,good_room,"good_room
+Very comfortable bed
+no evident not comfortable bed
+Very good shower
+no evident not good shower
+The furniture and bathroom are all new
+no evident not new furniture
+no evident not new bathroom
+Very good WiFi connection
+no evident not good WiFi connection"
+766,good_room,"good_room
+Cleanliness
+no evident not cleanliness"
+767,good_room,"good_room
+spacious
+no evident not spacious
+clean
+no evident not clean"
+769,good_room,"good_room
+cleanliness
+no evident not cleanliness
+cleaning
+no evident not cleaning
+change
+no evident not change
+towels
+no evident not towels
+daily
+no evident not daily"
+770,good_room,"good_room
+Clean
+no evident not clean
+daily
+no evident not daily
+change
+no evident not change
+of
+no evident not of
+towels
+no evident not towels"
+771,good_room,"good_room
+Clean
+no evident not clean
+comfortable
+no evident not comfortable"
+772,good_room,"new equipment
+no evident not equipment"
+774,good_room,"good_room
+comfortable
+no evident not comfortable
+clean
+no evident not clean"

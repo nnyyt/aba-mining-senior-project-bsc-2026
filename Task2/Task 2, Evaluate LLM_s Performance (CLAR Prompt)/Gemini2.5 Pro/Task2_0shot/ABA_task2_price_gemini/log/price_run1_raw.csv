@@ -1,0 +1,788 @@
+ID,Prompt,Topic,Raw 1,Error
+4,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Great Quality/price",good_price,"- has quality
+- no evident not quality
+- has price
+- no evident not price",
+34,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+value for money",good_price,"- value
+- no evident not value
+- money
+- no evident not money",
+44,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The facilities were really good, particularly for the tariff charged.",good_price,"- good_facilities
+- no evident not good_facilities
+- tariff_charged
+- no evident not tariff_charged",
+46,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Great value for money",good_price,"- value
+- no evident not value
+- money
+- no evident not money",
+47,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Good value for money.",good_price,"- has value
+- no evident not has value
+- value for money
+- no evident not value for money",
+49,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Great value for money.",good_price,"- value for money
+- no evident not value for money",
+63,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Exceptional value .",good_price,"- value
+- no evident not value",
+68,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+good value,",good_price,"- value
+- no evident not value",
+125,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+all that with quite reasonable price.",good_price,"reasonable price
+no evident not reasonable price",
+133,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+good value for money",good_price,"- value for money
+- no evident not value for money",
+136,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+I did not expect such a beautiful hotel for such a cheap price",good_price,"- hotel beautiful
+- no evident not hotel beautiful
+- price cheap
+- no evident not price cheap",
+149,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Great for the price.",good_price,"- great
+- no evident not great
+- price
+- no evident not price",
+155,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Excellent value for money",good_price,"- value
+- no evident not value
+- money
+- no evident not money",
+156,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+very good value for money",good_price,"- good value
+- no evident not value
+- value for money
+- no evident not value",
+203,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Definitely worth the price.",good_price,"- worth price
+- no evident not worth price",
+206,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Good value.",good_price,"- value
+- no evident not value",
+212,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+and very cheap",good_price,"- price is cheap
+- no evident not cheap",
+230,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+and very good value",good_price,"- good value
+- no evident not good value",
+232,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Great for the price and our purpose of a late night flight arrival",good_price,"- great for price
+- no evident not great for price
+- late night flight arrival
+- no evident not late night flight arrival",
+234,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+at a very good rate for the excellent standard of accommodation",good_price,"* good rate
+* no evident not good rate
+* excellent standard of accommodation
+* no evident not excellent standard of accommodation",
+241,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+for the price that it was, it only had some random unlabeled shampoo dispenser attached to the shower wall. dont know if it was body or hair shampoo but it wasnt very nice at all, and seemed a little cheap considering the hotel cost.",bad_price,"- dispenser was unlabeled
+- have evident dispenser was unlabeled
+- dispenser was attached to wall
+- have evident dispenser was attached to wall
+- shampoo was not nice
+- have evident shampoo was not nice
+- dispenser seemed cheap
+- have evident dispenser seemed cheap",
+265,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+as good a hotel as I’ve stayed at for £50 a night.",good_price,"- hotel is good
+- no evident not hotel is good
+- price is £50 a night
+- no evident not price is £50 a night",
+287,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Good value.",good_price,"- value
+- no evident not value",
+290,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The room and location were excellent value for money- I was also upgraded a room free of charge, Lovely balcony view of the ocean.",good_price,"- value for money
+- no evident not value for money
+- upgraded room free
+- no evident not upgraded room free
+- balcony view ocean
+- no evident not balcony view ocean",
+295,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Worth every Euro you spend.",good_price,"- worth euro
+- no evident not worth euro",
+313,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Fantastic value for money.",good_price,"- value for money
+- no evident not value for money",
+323,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+and great value for money.",good_price,"- value for money
+- no evident not value for money",
+334,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Very economic .",good_price,"- economic
+- no evident not economic",
+338,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Value for money.",good_price,"- value for money
+- no evident not value for money
+- has value
+- no evident not value",
+340,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Very good value for money,",good_price,"- value for money
+- no evident not value for money",
+366,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Moreover,the price of his hotel and the prices of the food are very good and are not expensive.",good_price,"- price of hotel is good
+- no evident not price of hotel is good
+- prices of food are good
+- no evident not prices of food are good
+- price of hotel is not expensive
+- no evident not price of hotel is not expensive
+- prices of food are not expensive
+- no evident not prices of food are not expensive",
+396,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+and price was great",good_price,"- price great
+- no evident not price great",
+414,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+great value",good_price,"- value
+- no evident not value",
+416,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Value for money!",good_price,"- value for money
+- no evident not value for money",
+435,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+this is a guesthouse that is priced like a hotel",bad_price,"- is guesthouse
+- have evident guesthouse
+- priced like hotel
+- have evident hotel",
+436,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+For that money for which I used to pay better hotels in Valencia you get one small water bottle.",bad_price,"- get one small water bottle
+- have evident water
+- money pay better hotels
+- have evident money",
+437,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+For what you get it was a bit expensive.",bad_price,"- is expensive
+- have evident not expensive",
+460,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Rate was very expensive for what it offered.",bad_price,"- rate is expensive
+- have evident expensive",
+471,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Exceptional value for money",good_price,"- value for money
+- no evident not value for money",
+474,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Overpriced for its facilities,",bad_price,"- is overpriced
+- have evident not overpriced",
+505,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Price/performance is totally right.",good_price,"- price is right
+- no evident not price is right
+- performance is right
+- no evident not performance is right",
+510,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+cheap",good_price,"- price is cheap
+- no evident not cheap",
+524,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+A place that gives full value for the price.",good_price,[ERROR] DeadlineExceeded: 504 Deadline Exceeded,DeadlineExceeded: 504 Deadline Exceeded
+527,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+with excellent value for money.",good_price,"- value for money
+- no evident not value for money",
+556,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+but overall a good value for the price we paid.",good_price,"- value for price
+- no evident not value for price",
+580,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Super establishment undervalued in my opinion",good_price,"- undervalued
+- no evident not undervalued
+- establishment
+- no evident not establishment",
+590,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+For a reasonable price,",good_price,"- reasonable price
+- no evident not reasonable price",
+595,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The meal is not included in the price",bad_price,"- meal not included
+- have evident meal included",
+596,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+very clean cheap, modern room",good_price,"- room is cheap
+- no evident not cheap
+- room is clean
+- no evident not clean
+- room is modern
+- no evident not modern",
+600,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+In general, we were satisfied, corresponds to the price,",good_price,"- satisfied
+- no evident not satisfied
+- corresponds to price
+- no evident not corresponds to price",
+609,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The price is perhaps a little high for the comfort that a room gives you that is small as soon as you enter.",bad_price,"- price is high
+- have evident price
+- room is small
+- have evident room",
+611,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Very good value for money",good_price,"value
+no evident not value",
+619,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Unbeatable value for money I think.",good_price,"- value for money
+- no evident not value for money
+- unbeatable value
+- no evident not unbeatable value",
+631,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Excellent price/quality ratio",good_price,"- has price quality ratio
+- no evident not has price quality ratio",
+715,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+worth the price",good_price,"- worth price
+- no evident not worth price",
+737,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Excellent value for money!",good_price,"- value for money
+- no evident not value",
+767,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+The hotel is average (3 stars) 400 euros for 3 nights a bit expensive.",bad_price,"- hotel is average
+- have evident average
+- hotel has 3 stars
+- have evident stars
+- price is 400 euros for 3 nights
+- have evident price",
+770,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+value for money",good_price,"- has value
+- no evident not has value
+- worth money
+- no evident not worth money",
+775,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+what we expect for this perfect price!",good_price,"- perfect price
+- no evident not perfect
+- expect price
+- no evident not expect",
+778,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+Excellent value.",good_price,"- value
+- no evident not value",

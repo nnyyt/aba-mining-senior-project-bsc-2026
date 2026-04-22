@@ -1,0 +1,64 @@
+ID,Topic,Output
+161,good_check_out,"Here is the structured ABA format based on the given text:
+
+1. **Assumption**: The checkout process is efficient.
+   - **Support**: check out time
+   - **Contrary**: No evident not (checkout time)
+
+This structure adheres to all specified conditions, providing a clear and concise argument with an assumption, support, and contrary."
+310,good_check_out,"ABA Format:
+
+- Claim: good_check_out  
+- Supports:  
+  - allowed  
+  - later  
+- Contraries:  
+  - no evident not allowed  
+  - no evident not later"
+314,good_check_out,"1. **Support**: fast  
+   **Contrary**: no evident not fast  
+
+2. **Support**: super  
+   **Contrary**: no evident not super"
+542,good_check_out,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  - left at night
+  - no problems
+
+- **Contraries:**
+  - No evident not left at night
+  - No evident not no problems"
+639,good_check_out,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  - The earlier check-in.
+  - The earlier check-out.
+
+- **Contraries:**
+  - No evident not the earlier check-in.
+  - No evident not the earlier check-out."
+660,good_check_out,"Here is the ABA format based on your conditions:
+
+1. **Support**: allowed us  
+   **Contrary**: no evident not allowed us  
+
+2. **Support**: at no extra cost  
+   **Contrary**: no evident not at no extra cost  
+
+3. **Support**: late arrival  
+   **Contrary**: no evident not late arrival  
+
+4. **Support**: departure (at 1:30 p.m.)  
+   **Contrary**: no evident not departure (at 1:30 p.m.)"
+711,good_check_out,"Here is the structured ABA format based on the given conditions:
+
+- Supports: 
+  - late
+  - check_out
+
+- Contraries:
+  - no evident not late
+  - no evident not check_out"
+769,bad_check_out,"1. Support: did_not_allow_turn_over_a_couple_of_hours  
+2. Contrary: have_evidentdid_not_allow_turn_over_a_couple_of_hours"

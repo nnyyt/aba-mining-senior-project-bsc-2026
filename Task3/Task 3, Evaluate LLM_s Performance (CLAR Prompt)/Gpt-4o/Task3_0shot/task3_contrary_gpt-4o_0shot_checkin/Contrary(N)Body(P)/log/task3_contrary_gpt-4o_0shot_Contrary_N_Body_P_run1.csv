@@ -1,0 +1,1009 @@
+Timestamp,Run,ID,PhraseA,PhraseB,Prompt,RawOutput
+2026-02-07 22:38:30,1,1,have_evident_no_one_give_key_on_late_check-in,easy_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_check-in. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:38:31,1,2,have_evident_no_one_give_key_on_late_check-in,clear_instruction_to_access_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_instruction_to_access_room. Phrase A is have_evident_no_one_give_key_on_late_check-in.",No
+2026-02-07 22:38:32,1,3,have_evident_no_one_give_key_on_late_check-in,clear_instruction_to_enter_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_instruction_to_enter_hotel. Phrase A is have_evident_no_one_give_key_on_late_check-in.",No
+2026-02-07 22:38:33,1,4,have_evident_no_one_give_key_on_late_check-in,sent_instruction_in_advance,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is sent_instruction_in_advance. Phrase A is have_evident_no_one_give_key_on_late_check-in.",No
+2026-02-07 22:38:34,1,5,have_evident_no_one_give_key_on_late_check-in,perfect_instruction,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is perfect_instruction. Phrase A is have_evident_no_one_give_key_on_late_check-in.",No
+2026-02-07 22:38:35,1,6,have_evident_no_one_give_key_on_late_check-in,easy_late_night_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_late_night_check-in. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:38:36,1,7,have_evident_no_one_give_key_on_late_check-in,comfortable_late_night_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is comfortable_late_night_check-in. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:38:37,1,8,have_evident_no_one_give_key_on_late_check-in,easy_self_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_self_check-in. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:38:38,1,9,have_evident_no_one_give_key_on_late_check-in,quick_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is quick_check-in. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:38:39,1,10,have_evident_no_one_give_key_on_late_check-in,easy_check-in_at_3am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_check-in_at_3am. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:38:40,1,11,have_evident_no_one_give_key_on_late_check-in,staff_accommodated_arrival_at_3am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_accommodated_arrival_at_3am. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:38:41,1,12,have_evident_no_one_give_key_on_late_check-in,clear_instruction,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_instruction. Phrase A is have_evident_no_one_give_key_on_late_check-in.",No
+2026-02-07 22:38:42,1,13,have_evident_no_one_give_key_on_late_check-in,late_chek-in_at_1am_worked_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is late_chek-in_at_1am_worked_well. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:38:43,1,14,have_evident_no_one_give_key_on_late_check-in,hotel_make_sure_to_check-in_at_late_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is hotel_make_sure_to_check-in_at_late_night. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:38:43,1,15,have_evident_no_one_give_key_on_late_check-in,excellent communication_on_late_check-in_process,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is excellent communication_on_late_check-in_process. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:38:44,1,16,have_evident_no_one_give_key_on_late_check-in,staff_aware_late_arraival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_aware_late_arraival. Phrase A is have_evident_no_one_give_key_on_late_check-in.",No
+2026-02-07 22:38:45,1,17,have_evident_no_one_give_key_on_late_check-in,staff_make_late_check-in_simple,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_make_late_check-in_simple. Phrase A is have_evident_no_one_give_key_on_late_check-in.",No
+2026-02-07 22:38:46,1,18,have_evident_no_one_give_key_on_late_check-in,got_self_check-in_instruction_on_late_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is got_self_check-in_instruction_on_late_arrival. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:38:47,1,19,have_evident_no_one_give_key_on_late_check-in,staff_allow_early_check-in_in_morning,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_allow_early_check-in_in_morning. Phrase A is have_evident_no_one_give_key_on_late_check-in.",No
+2026-02-07 22:38:48,1,20,have_evident_no_one_give_key_on_late_check-in,late_night_arrival_no_problem,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is late_night_arrival_no_problem. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:38:49,1,21,have_evident_no_one_give_key_on_late_check-in,fast_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is fast_check-in. Phrase A is have_evident_no_one_give_key_on_late_check-in.",No
+2026-02-07 22:38:50,1,22,have_evident_no_one_give_key_on_late_check-in,quick_check-in_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is quick_check-in_at_night. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:38:51,1,23,have_evident_no_one_give_key_on_late_check-in,room_ready_to_check-in_by_12,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is room_ready_to_check-in_by_12. Phrase A is have_evident_no_one_give_key_on_late_check-in.",No
+2026-02-07 22:38:52,1,24,have_evident_no_one_give_key_on_late_check-in,clear_check-in_direction_at_late_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_check-in_direction_at_late_night. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:38:53,1,25,have_evident_no_one_give_key_on_late_check-in,easy_check-in_direction_at_late_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_check-in_direction_at_late_night. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:38:54,1,26,have_evident_no_one_give_key_on_late_check-in,can_move_in_early,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is can_move_in_early. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:38:55,1,27,have_evident_no_one_give_key_on_late_check-in,no_problem_self_check-in_at_middle_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is no_problem_self_check-in_at_middle_night. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:38:56,1,28,have_evident_no_one_give_key_on_late_check-in,no_problem_check-in_after_12_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is no_problem_check-in_after_12_at_night. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:38:57,1,29,have_evident_no_one_give_key_on_late_check-in,staff_help_check-in_after_midnight,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_help_check-in_after_midnight. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:38:58,1,30,have_evident_no_one_give_key_on_late_check-in,easy_self_check-in_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_self_check-in_at_night. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:38:59,1,31,have_evident_no_one_give_key_on_late_check-in,staff_left_clear_information_for_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_left_clear_information_for_arrival. Phrase A is have_evident_no_one_give_key_on_late_check-in.",No
+2026-02-07 22:39:00,1,32,have_evident_no_one_give_key_on_late_check-in,staff_left_precise_information_for_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_left_precise_information_for_arrival. Phrase A is have_evident_no_one_give_key_on_late_check-in.",No
+2026-02-07 22:39:01,1,33,have_evident_no_one_give_key_on_late_check-in,staff_send_photo_for_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_send_photo_for_arrival. Phrase A is have_evident_no_one_give_key_on_late_check-in.",No
+2026-02-07 22:39:02,1,34,have_evident_no_one_give_key_on_late_check-in,staff_take_care_late_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_take_care_late_check-in. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:39:03,1,35,have_evident_no_one_give_key_on_late_check-in,fluid_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is fluid_check-in. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:39:04,1,36,have_evident_no_one_give_key_on_late_check-in,staff_wait_for_check-in_at_3am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_wait_for_check-in_at_3am. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:39:05,1,37,have_evident_no_one_give_key_on_late_check-in,staff_give_early_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_give_early_check-in. Phrase A is have_evident_no_one_give_key_on_late_check-in.",No
+2026-02-07 22:39:06,1,38,have_evident_no_one_give_key_on_late_check-in,late_arrival_no_extra_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is late_arrival_no_extra_cost. Phrase A is have_evident_no_one_give_key_on_late_check-in.",No
+2026-02-07 22:39:07,1,39,have_evident_no_one_give_key_on_late_check-in,hotel_allow_late_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is hotel_allow_late_arrival. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:39:08,1,40,have_evident_no_one_give_key_on_late_check-in,perfect_welcome_at_4am_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is perfect_welcome_at_4am_arrival. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:39:09,1,41,have_evident_no_one_give_key_on_late_check-in,perfect_welcome_at_1:30am_in_morning,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is perfect_welcome_at_1:30am_in_morning. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:39:10,1,42,have_evident_no_one_give_key_on_late_check-in,can_check-in_at_4am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is can_check-in_at_4am. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-07 22:39:11,1,43,have_evident_door_lock_on_late_check-in,easy_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_check-in. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:12,1,44,have_evident_door_lock_on_late_check-in,clear_instruction_to_access_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_instruction_to_access_room. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:13,1,45,have_evident_door_lock_on_late_check-in,clear_instruction_to_enter_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_instruction_to_enter_hotel. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:13,1,46,have_evident_door_lock_on_late_check-in,sent_instruction_in_advance,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is sent_instruction_in_advance. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:14,1,47,have_evident_door_lock_on_late_check-in,perfect_instruction,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is perfect_instruction. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:15,1,48,have_evident_door_lock_on_late_check-in,easy_late_night_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_late_night_check-in. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:16,1,49,have_evident_door_lock_on_late_check-in,comfortable_late_night_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is comfortable_late_night_check-in. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:17,1,50,have_evident_door_lock_on_late_check-in,easy_self_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_self_check-in. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:18,1,51,have_evident_door_lock_on_late_check-in,quick_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is quick_check-in. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:19,1,52,have_evident_door_lock_on_late_check-in,easy_check-in_at_3am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_check-in_at_3am. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:20,1,53,have_evident_door_lock_on_late_check-in,staff_accommodated_arrival_at_3am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_accommodated_arrival_at_3am. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:21,1,54,have_evident_door_lock_on_late_check-in,clear_instruction,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_instruction. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:22,1,55,have_evident_door_lock_on_late_check-in,late_chek-in_at_1am_worked_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is late_chek-in_at_1am_worked_well. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:23,1,56,have_evident_door_lock_on_late_check-in,hotel_make_sure_to_check-in_at_late_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is hotel_make_sure_to_check-in_at_late_night. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:24,1,57,have_evident_door_lock_on_late_check-in,excellent communication_on_late_check-in_process,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is excellent communication_on_late_check-in_process. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:25,1,58,have_evident_door_lock_on_late_check-in,staff_aware_late_arraival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_aware_late_arraival. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:26,1,59,have_evident_door_lock_on_late_check-in,staff_make_late_check-in_simple,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_make_late_check-in_simple. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:27,1,60,have_evident_door_lock_on_late_check-in,got_self_check-in_instruction_on_late_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is got_self_check-in_instruction_on_late_arrival. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:27,1,61,have_evident_door_lock_on_late_check-in,staff_allow_early_check-in_in_morning,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_allow_early_check-in_in_morning. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:28,1,62,have_evident_door_lock_on_late_check-in,late_night_arrival_no_problem,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is late_night_arrival_no_problem. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:29,1,63,have_evident_door_lock_on_late_check-in,fast_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is fast_check-in. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:30,1,64,have_evident_door_lock_on_late_check-in,quick_check-in_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is quick_check-in_at_night. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:31,1,65,have_evident_door_lock_on_late_check-in,room_ready_to_check-in_by_12,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is room_ready_to_check-in_by_12. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:32,1,66,have_evident_door_lock_on_late_check-in,clear_check-in_direction_at_late_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_check-in_direction_at_late_night. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:33,1,67,have_evident_door_lock_on_late_check-in,easy_check-in_direction_at_late_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_check-in_direction_at_late_night. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:34,1,68,have_evident_door_lock_on_late_check-in,can_move_in_early,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is can_move_in_early. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:35,1,69,have_evident_door_lock_on_late_check-in,no_problem_self_check-in_at_middle_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is no_problem_self_check-in_at_middle_night. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:36,1,70,have_evident_door_lock_on_late_check-in,no_problem_check-in_after_12_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is no_problem_check-in_after_12_at_night. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:37,1,71,have_evident_door_lock_on_late_check-in,staff_help_check-in_after_midnight,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_help_check-in_after_midnight. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:38,1,72,have_evident_door_lock_on_late_check-in,easy_self_check-in_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_self_check-in_at_night. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:39,1,73,have_evident_door_lock_on_late_check-in,staff_left_clear_information_for_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_left_clear_information_for_arrival. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:40,1,74,have_evident_door_lock_on_late_check-in,staff_left_precise_information_for_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_left_precise_information_for_arrival. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:41,1,75,have_evident_door_lock_on_late_check-in,staff_send_photo_for_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_send_photo_for_arrival. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:41,1,76,have_evident_door_lock_on_late_check-in,staff_take_care_late_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_take_care_late_check-in. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:43,1,77,have_evident_door_lock_on_late_check-in,fluid_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is fluid_check-in. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:43,1,78,have_evident_door_lock_on_late_check-in,staff_wait_for_check-in_at_3am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_wait_for_check-in_at_3am. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:44,1,79,have_evident_door_lock_on_late_check-in,staff_give_early_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_give_early_check-in. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:45,1,80,have_evident_door_lock_on_late_check-in,late_arrival_no_extra_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is late_arrival_no_extra_cost. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:46,1,81,have_evident_door_lock_on_late_check-in,hotel_allow_late_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is hotel_allow_late_arrival. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:47,1,82,have_evident_door_lock_on_late_check-in,perfect_welcome_at_4am_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is perfect_welcome_at_4am_arrival. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:48,1,83,have_evident_door_lock_on_late_check-in,perfect_welcome_at_1:30am_in_morning,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is perfect_welcome_at_1:30am_in_morning. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:49,1,84,have_evident_door_lock_on_late_check-in,can_check-in_at_4am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is can_check-in_at_4am. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-07 22:39:50,1,85,have_evident_customer_wait_10_minute_for_greet,easy_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_check-in. Phrase A is have_evident_customer_wait_10_minute_for_greet.",Yes
+2026-02-07 22:39:51,1,86,have_evident_customer_wait_10_minute_for_greet,clear_instruction_to_access_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_instruction_to_access_room. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:39:52,1,87,have_evident_customer_wait_10_minute_for_greet,clear_instruction_to_enter_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_instruction_to_enter_hotel. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:39:53,1,88,have_evident_customer_wait_10_minute_for_greet,sent_instruction_in_advance,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is sent_instruction_in_advance. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:39:54,1,89,have_evident_customer_wait_10_minute_for_greet,perfect_instruction,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is perfect_instruction. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:39:55,1,90,have_evident_customer_wait_10_minute_for_greet,easy_late_night_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_late_night_check-in. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:39:56,1,91,have_evident_customer_wait_10_minute_for_greet,comfortable_late_night_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is comfortable_late_night_check-in. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:39:57,1,92,have_evident_customer_wait_10_minute_for_greet,easy_self_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_self_check-in. Phrase A is have_evident_customer_wait_10_minute_for_greet.",Yes
+2026-02-07 22:39:58,1,93,have_evident_customer_wait_10_minute_for_greet,quick_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is quick_check-in. Phrase A is have_evident_customer_wait_10_minute_for_greet.",Yes
+2026-02-07 22:39:59,1,94,have_evident_customer_wait_10_minute_for_greet,easy_check-in_at_3am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_check-in_at_3am. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:00,1,95,have_evident_customer_wait_10_minute_for_greet,staff_accommodated_arrival_at_3am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_accommodated_arrival_at_3am. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:01,1,96,have_evident_customer_wait_10_minute_for_greet,clear_instruction,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_instruction. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:02,1,97,have_evident_customer_wait_10_minute_for_greet,late_chek-in_at_1am_worked_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is late_chek-in_at_1am_worked_well. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:03,1,98,have_evident_customer_wait_10_minute_for_greet,hotel_make_sure_to_check-in_at_late_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is hotel_make_sure_to_check-in_at_late_night. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:07,1,99,have_evident_customer_wait_10_minute_for_greet,excellent communication_on_late_check-in_process,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is excellent communication_on_late_check-in_process. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:08,1,100,have_evident_customer_wait_10_minute_for_greet,staff_aware_late_arraival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_aware_late_arraival. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:09,1,101,have_evident_customer_wait_10_minute_for_greet,staff_make_late_check-in_simple,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_make_late_check-in_simple. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:10,1,102,have_evident_customer_wait_10_minute_for_greet,got_self_check-in_instruction_on_late_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is got_self_check-in_instruction_on_late_arrival. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:11,1,103,have_evident_customer_wait_10_minute_for_greet,staff_allow_early_check-in_in_morning,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_allow_early_check-in_in_morning. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:12,1,104,have_evident_customer_wait_10_minute_for_greet,late_night_arrival_no_problem,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is late_night_arrival_no_problem. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:13,1,105,have_evident_customer_wait_10_minute_for_greet,fast_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is fast_check-in. Phrase A is have_evident_customer_wait_10_minute_for_greet.",Yes
+2026-02-07 22:40:14,1,106,have_evident_customer_wait_10_minute_for_greet,quick_check-in_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is quick_check-in_at_night. Phrase A is have_evident_customer_wait_10_minute_for_greet.",Yes
+2026-02-07 22:40:15,1,107,have_evident_customer_wait_10_minute_for_greet,room_ready_to_check-in_by_12,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is room_ready_to_check-in_by_12. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:16,1,108,have_evident_customer_wait_10_minute_for_greet,clear_check-in_direction_at_late_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_check-in_direction_at_late_night. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:17,1,109,have_evident_customer_wait_10_minute_for_greet,easy_check-in_direction_at_late_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_check-in_direction_at_late_night. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:18,1,110,have_evident_customer_wait_10_minute_for_greet,can_move_in_early,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is can_move_in_early. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:19,1,111,have_evident_customer_wait_10_minute_for_greet,no_problem_self_check-in_at_middle_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is no_problem_self_check-in_at_middle_night. Phrase A is have_evident_customer_wait_10_minute_for_greet.",Yes
+2026-02-07 22:40:20,1,112,have_evident_customer_wait_10_minute_for_greet,no_problem_check-in_after_12_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is no_problem_check-in_after_12_at_night. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:21,1,113,have_evident_customer_wait_10_minute_for_greet,staff_help_check-in_after_midnight,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_help_check-in_after_midnight. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:22,1,114,have_evident_customer_wait_10_minute_for_greet,easy_self_check-in_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_self_check-in_at_night. Phrase A is have_evident_customer_wait_10_minute_for_greet.",Yes
+2026-02-07 22:40:23,1,115,have_evident_customer_wait_10_minute_for_greet,staff_left_clear_information_for_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_left_clear_information_for_arrival. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:24,1,116,have_evident_customer_wait_10_minute_for_greet,staff_left_precise_information_for_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_left_precise_information_for_arrival. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:25,1,117,have_evident_customer_wait_10_minute_for_greet,staff_send_photo_for_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_send_photo_for_arrival. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:26,1,118,have_evident_customer_wait_10_minute_for_greet,staff_take_care_late_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_take_care_late_check-in. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:27,1,119,have_evident_customer_wait_10_minute_for_greet,fluid_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is fluid_check-in. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:28,1,120,have_evident_customer_wait_10_minute_for_greet,staff_wait_for_check-in_at_3am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_wait_for_check-in_at_3am. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:29,1,121,have_evident_customer_wait_10_minute_for_greet,staff_give_early_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_give_early_check-in. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:30,1,122,have_evident_customer_wait_10_minute_for_greet,late_arrival_no_extra_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is late_arrival_no_extra_cost. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:31,1,123,have_evident_customer_wait_10_minute_for_greet,hotel_allow_late_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is hotel_allow_late_arrival. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:32,1,124,have_evident_customer_wait_10_minute_for_greet,perfect_welcome_at_4am_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is perfect_welcome_at_4am_arrival. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:33,1,125,have_evident_customer_wait_10_minute_for_greet,perfect_welcome_at_1:30am_in_morning,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is perfect_welcome_at_1:30am_in_morning. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:34,1,126,have_evident_customer_wait_10_minute_for_greet,can_check-in_at_4am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is can_check-in_at_4am. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-07 22:40:35,1,127,have_evident_customer_wait_10_minute_for_check-in,easy_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_check-in. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",Yes
+2026-02-07 22:40:36,1,128,have_evident_customer_wait_10_minute_for_check-in,clear_instruction_to_access_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_instruction_to_access_room. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:40:37,1,129,have_evident_customer_wait_10_minute_for_check-in,clear_instruction_to_enter_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_instruction_to_enter_hotel. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:40:38,1,130,have_evident_customer_wait_10_minute_for_check-in,sent_instruction_in_advance,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is sent_instruction_in_advance. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:40:39,1,131,have_evident_customer_wait_10_minute_for_check-in,perfect_instruction,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is perfect_instruction. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:40:40,1,132,have_evident_customer_wait_10_minute_for_check-in,easy_late_night_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_late_night_check-in. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:40:41,1,133,have_evident_customer_wait_10_minute_for_check-in,comfortable_late_night_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is comfortable_late_night_check-in. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:40:42,1,134,have_evident_customer_wait_10_minute_for_check-in,easy_self_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_self_check-in. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",Yes
+2026-02-07 22:40:43,1,135,have_evident_customer_wait_10_minute_for_check-in,quick_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is quick_check-in. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",Yes
+2026-02-07 22:40:44,1,136,have_evident_customer_wait_10_minute_for_check-in,easy_check-in_at_3am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_check-in_at_3am. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:40:45,1,137,have_evident_customer_wait_10_minute_for_check-in,staff_accommodated_arrival_at_3am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_accommodated_arrival_at_3am. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:40:46,1,138,have_evident_customer_wait_10_minute_for_check-in,clear_instruction,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_instruction. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:40:47,1,139,have_evident_customer_wait_10_minute_for_check-in,late_chek-in_at_1am_worked_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is late_chek-in_at_1am_worked_well. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:40:48,1,140,have_evident_customer_wait_10_minute_for_check-in,hotel_make_sure_to_check-in_at_late_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is hotel_make_sure_to_check-in_at_late_night. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:40:49,1,141,have_evident_customer_wait_10_minute_for_check-in,excellent communication_on_late_check-in_process,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is excellent communication_on_late_check-in_process. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:40:50,1,142,have_evident_customer_wait_10_minute_for_check-in,staff_aware_late_arraival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_aware_late_arraival. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:40:51,1,143,have_evident_customer_wait_10_minute_for_check-in,staff_make_late_check-in_simple,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_make_late_check-in_simple. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:40:51,1,144,have_evident_customer_wait_10_minute_for_check-in,got_self_check-in_instruction_on_late_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is got_self_check-in_instruction_on_late_arrival. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:40:52,1,145,have_evident_customer_wait_10_minute_for_check-in,staff_allow_early_check-in_in_morning,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_allow_early_check-in_in_morning. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:40:53,1,146,have_evident_customer_wait_10_minute_for_check-in,late_night_arrival_no_problem,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is late_night_arrival_no_problem. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:40:54,1,147,have_evident_customer_wait_10_minute_for_check-in,fast_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is fast_check-in. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",Yes
+2026-02-07 22:40:55,1,148,have_evident_customer_wait_10_minute_for_check-in,quick_check-in_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is quick_check-in_at_night. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",Yes
+2026-02-07 22:40:56,1,149,have_evident_customer_wait_10_minute_for_check-in,room_ready_to_check-in_by_12,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is room_ready_to_check-in_by_12. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:40:57,1,150,have_evident_customer_wait_10_minute_for_check-in,clear_check-in_direction_at_late_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_check-in_direction_at_late_night. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:40:58,1,151,have_evident_customer_wait_10_minute_for_check-in,easy_check-in_direction_at_late_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_check-in_direction_at_late_night. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:40:59,1,152,have_evident_customer_wait_10_minute_for_check-in,can_move_in_early,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is can_move_in_early. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:41:00,1,153,have_evident_customer_wait_10_minute_for_check-in,no_problem_self_check-in_at_middle_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is no_problem_self_check-in_at_middle_night. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",Yes
+2026-02-07 22:41:01,1,154,have_evident_customer_wait_10_minute_for_check-in,no_problem_check-in_after_12_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is no_problem_check-in_after_12_at_night. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:41:02,1,155,have_evident_customer_wait_10_minute_for_check-in,staff_help_check-in_after_midnight,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_help_check-in_after_midnight. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:41:03,1,156,have_evident_customer_wait_10_minute_for_check-in,easy_self_check-in_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_self_check-in_at_night. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",Yes
+2026-02-07 22:41:03,1,157,have_evident_customer_wait_10_minute_for_check-in,staff_left_clear_information_for_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_left_clear_information_for_arrival. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:41:04,1,158,have_evident_customer_wait_10_minute_for_check-in,staff_left_precise_information_for_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_left_precise_information_for_arrival. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:41:05,1,159,have_evident_customer_wait_10_minute_for_check-in,staff_send_photo_for_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_send_photo_for_arrival. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:41:06,1,160,have_evident_customer_wait_10_minute_for_check-in,staff_take_care_late_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_take_care_late_check-in. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:41:07,1,161,have_evident_customer_wait_10_minute_for_check-in,fluid_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is fluid_check-in. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:41:08,1,162,have_evident_customer_wait_10_minute_for_check-in,staff_wait_for_check-in_at_3am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_wait_for_check-in_at_3am. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:41:09,1,163,have_evident_customer_wait_10_minute_for_check-in,staff_give_early_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_give_early_check-in. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",Yes
+2026-02-07 22:41:10,1,164,have_evident_customer_wait_10_minute_for_check-in,late_arrival_no_extra_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is late_arrival_no_extra_cost. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:41:11,1,165,have_evident_customer_wait_10_minute_for_check-in,hotel_allow_late_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is hotel_allow_late_arrival. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:41:12,1,166,have_evident_customer_wait_10_minute_for_check-in,perfect_welcome_at_4am_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is perfect_welcome_at_4am_arrival. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",Yes
+2026-02-07 22:41:13,1,167,have_evident_customer_wait_10_minute_for_check-in,perfect_welcome_at_1:30am_in_morning,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is perfect_welcome_at_1:30am_in_morning. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:41:14,1,168,have_evident_customer_wait_10_minute_for_check-in,can_check-in_at_4am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is can_check-in_at_4am. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-07 22:41:15,1,169,have_evident_staff_misunderstand_on_payment,easy_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_check-in. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:16,1,170,have_evident_staff_misunderstand_on_payment,clear_instruction_to_access_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_instruction_to_access_room. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:17,1,171,have_evident_staff_misunderstand_on_payment,clear_instruction_to_enter_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_instruction_to_enter_hotel. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:18,1,172,have_evident_staff_misunderstand_on_payment,sent_instruction_in_advance,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is sent_instruction_in_advance. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:19,1,173,have_evident_staff_misunderstand_on_payment,perfect_instruction,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is perfect_instruction. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:20,1,174,have_evident_staff_misunderstand_on_payment,easy_late_night_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_late_night_check-in. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:21,1,175,have_evident_staff_misunderstand_on_payment,comfortable_late_night_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is comfortable_late_night_check-in. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:22,1,176,have_evident_staff_misunderstand_on_payment,easy_self_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_self_check-in. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:22,1,177,have_evident_staff_misunderstand_on_payment,quick_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is quick_check-in. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:23,1,178,have_evident_staff_misunderstand_on_payment,easy_check-in_at_3am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_check-in_at_3am. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:25,1,179,have_evident_staff_misunderstand_on_payment,staff_accommodated_arrival_at_3am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_accommodated_arrival_at_3am. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:25,1,180,have_evident_staff_misunderstand_on_payment,clear_instruction,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_instruction. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:26,1,181,have_evident_staff_misunderstand_on_payment,late_chek-in_at_1am_worked_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is late_chek-in_at_1am_worked_well. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:27,1,182,have_evident_staff_misunderstand_on_payment,hotel_make_sure_to_check-in_at_late_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is hotel_make_sure_to_check-in_at_late_night. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:28,1,183,have_evident_staff_misunderstand_on_payment,excellent communication_on_late_check-in_process,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is excellent communication_on_late_check-in_process. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:29,1,184,have_evident_staff_misunderstand_on_payment,staff_aware_late_arraival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_aware_late_arraival. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:30,1,185,have_evident_staff_misunderstand_on_payment,staff_make_late_check-in_simple,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_make_late_check-in_simple. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:33,1,186,have_evident_staff_misunderstand_on_payment,got_self_check-in_instruction_on_late_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is got_self_check-in_instruction_on_late_arrival. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:34,1,187,have_evident_staff_misunderstand_on_payment,staff_allow_early_check-in_in_morning,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_allow_early_check-in_in_morning. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:35,1,188,have_evident_staff_misunderstand_on_payment,late_night_arrival_no_problem,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is late_night_arrival_no_problem. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:36,1,189,have_evident_staff_misunderstand_on_payment,fast_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is fast_check-in. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:37,1,190,have_evident_staff_misunderstand_on_payment,quick_check-in_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is quick_check-in_at_night. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:38,1,191,have_evident_staff_misunderstand_on_payment,room_ready_to_check-in_by_12,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is room_ready_to_check-in_by_12. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:39,1,192,have_evident_staff_misunderstand_on_payment,clear_check-in_direction_at_late_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_check-in_direction_at_late_night. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:41,1,193,have_evident_staff_misunderstand_on_payment,easy_check-in_direction_at_late_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_check-in_direction_at_late_night. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:42,1,194,have_evident_staff_misunderstand_on_payment,can_move_in_early,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is can_move_in_early. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:43,1,195,have_evident_staff_misunderstand_on_payment,no_problem_self_check-in_at_middle_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is no_problem_self_check-in_at_middle_night. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:43,1,196,have_evident_staff_misunderstand_on_payment,no_problem_check-in_after_12_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is no_problem_check-in_after_12_at_night. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:44,1,197,have_evident_staff_misunderstand_on_payment,staff_help_check-in_after_midnight,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_help_check-in_after_midnight. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:45,1,198,have_evident_staff_misunderstand_on_payment,easy_self_check-in_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_self_check-in_at_night. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:46,1,199,have_evident_staff_misunderstand_on_payment,staff_left_clear_information_for_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_left_clear_information_for_arrival. Phrase A is have_evident_staff_misunderstand_on_payment.",Yes
+2026-02-07 22:41:47,1,200,have_evident_staff_misunderstand_on_payment,staff_left_precise_information_for_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_left_precise_information_for_arrival. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:48,1,201,have_evident_staff_misunderstand_on_payment,staff_send_photo_for_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_send_photo_for_arrival. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:49,1,202,have_evident_staff_misunderstand_on_payment,staff_take_care_late_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_take_care_late_check-in. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:50,1,203,have_evident_staff_misunderstand_on_payment,fluid_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is fluid_check-in. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:51,1,204,have_evident_staff_misunderstand_on_payment,staff_wait_for_check-in_at_3am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_wait_for_check-in_at_3am. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:52,1,205,have_evident_staff_misunderstand_on_payment,staff_give_early_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_give_early_check-in. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:54,1,206,have_evident_staff_misunderstand_on_payment,late_arrival_no_extra_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is late_arrival_no_extra_cost. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:55,1,207,have_evident_staff_misunderstand_on_payment,hotel_allow_late_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is hotel_allow_late_arrival. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:56,1,208,have_evident_staff_misunderstand_on_payment,perfect_welcome_at_4am_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is perfect_welcome_at_4am_arrival. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:41:57,1,209,have_evident_staff_misunderstand_on_payment,perfect_welcome_at_1:30am_in_morning,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is perfect_welcome_at_1:30am_in_morning. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:42:00,1,210,have_evident_staff_misunderstand_on_payment,can_check-in_at_4am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is can_check-in_at_4am. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-07 22:42:01,1,211,have_evident_staff_take_picture_of_passport,easy_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_check-in. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:02,1,212,have_evident_staff_take_picture_of_passport,clear_instruction_to_access_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_instruction_to_access_room. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:03,1,213,have_evident_staff_take_picture_of_passport,clear_instruction_to_enter_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_instruction_to_enter_hotel. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:04,1,214,have_evident_staff_take_picture_of_passport,sent_instruction_in_advance,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is sent_instruction_in_advance. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:04,1,215,have_evident_staff_take_picture_of_passport,perfect_instruction,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is perfect_instruction. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:05,1,216,have_evident_staff_take_picture_of_passport,easy_late_night_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_late_night_check-in. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:06,1,217,have_evident_staff_take_picture_of_passport,comfortable_late_night_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is comfortable_late_night_check-in. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:07,1,218,have_evident_staff_take_picture_of_passport,easy_self_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_self_check-in. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:08,1,219,have_evident_staff_take_picture_of_passport,quick_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is quick_check-in. Phrase A is have_evident_staff_take_picture_of_passport.",Yes
+2026-02-07 22:42:09,1,220,have_evident_staff_take_picture_of_passport,easy_check-in_at_3am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_check-in_at_3am. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:10,1,221,have_evident_staff_take_picture_of_passport,staff_accommodated_arrival_at_3am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_accommodated_arrival_at_3am. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:11,1,222,have_evident_staff_take_picture_of_passport,clear_instruction,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_instruction. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:12,1,223,have_evident_staff_take_picture_of_passport,late_chek-in_at_1am_worked_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is late_chek-in_at_1am_worked_well. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:13,1,224,have_evident_staff_take_picture_of_passport,hotel_make_sure_to_check-in_at_late_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is hotel_make_sure_to_check-in_at_late_night. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:14,1,225,have_evident_staff_take_picture_of_passport,excellent communication_on_late_check-in_process,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is excellent communication_on_late_check-in_process. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:15,1,226,have_evident_staff_take_picture_of_passport,staff_aware_late_arraival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_aware_late_arraival. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:16,1,227,have_evident_staff_take_picture_of_passport,staff_make_late_check-in_simple,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_make_late_check-in_simple. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:17,1,228,have_evident_staff_take_picture_of_passport,got_self_check-in_instruction_on_late_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is got_self_check-in_instruction_on_late_arrival. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:18,1,229,have_evident_staff_take_picture_of_passport,staff_allow_early_check-in_in_morning,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_allow_early_check-in_in_morning. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:19,1,230,have_evident_staff_take_picture_of_passport,late_night_arrival_no_problem,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is late_night_arrival_no_problem. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:20,1,231,have_evident_staff_take_picture_of_passport,fast_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is fast_check-in. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:21,1,232,have_evident_staff_take_picture_of_passport,quick_check-in_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is quick_check-in_at_night. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:22,1,233,have_evident_staff_take_picture_of_passport,room_ready_to_check-in_by_12,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is room_ready_to_check-in_by_12. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:23,1,234,have_evident_staff_take_picture_of_passport,clear_check-in_direction_at_late_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is clear_check-in_direction_at_late_night. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:24,1,235,have_evident_staff_take_picture_of_passport,easy_check-in_direction_at_late_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_check-in_direction_at_late_night. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:25,1,236,have_evident_staff_take_picture_of_passport,can_move_in_early,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is can_move_in_early. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:26,1,237,have_evident_staff_take_picture_of_passport,no_problem_self_check-in_at_middle_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is no_problem_self_check-in_at_middle_night. Phrase A is have_evident_staff_take_picture_of_passport.",Yes
+2026-02-07 22:42:26,1,238,have_evident_staff_take_picture_of_passport,no_problem_check-in_after_12_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is no_problem_check-in_after_12_at_night. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:27,1,239,have_evident_staff_take_picture_of_passport,staff_help_check-in_after_midnight,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_help_check-in_after_midnight. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:28,1,240,have_evident_staff_take_picture_of_passport,easy_self_check-in_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is easy_self_check-in_at_night. Phrase A is have_evident_staff_take_picture_of_passport.",Yes
+2026-02-07 22:42:29,1,241,have_evident_staff_take_picture_of_passport,staff_left_clear_information_for_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_left_clear_information_for_arrival. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:30,1,242,have_evident_staff_take_picture_of_passport,staff_left_precise_information_for_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_left_precise_information_for_arrival. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:31,1,243,have_evident_staff_take_picture_of_passport,staff_send_photo_for_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_send_photo_for_arrival. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:32,1,244,have_evident_staff_take_picture_of_passport,staff_take_care_late_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_take_care_late_check-in. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:33,1,245,have_evident_staff_take_picture_of_passport,fluid_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is fluid_check-in. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:34,1,246,have_evident_staff_take_picture_of_passport,staff_wait_for_check-in_at_3am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_wait_for_check-in_at_3am. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:35,1,247,have_evident_staff_take_picture_of_passport,staff_give_early_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is staff_give_early_check-in. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:36,1,248,have_evident_staff_take_picture_of_passport,late_arrival_no_extra_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is late_arrival_no_extra_cost. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:37,1,249,have_evident_staff_take_picture_of_passport,hotel_allow_late_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is hotel_allow_late_arrival. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:38,1,250,have_evident_staff_take_picture_of_passport,perfect_welcome_at_4am_arrival,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is perfect_welcome_at_4am_arrival. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:39,1,251,have_evident_staff_take_picture_of_passport,perfect_welcome_at_1:30am_in_morning,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is perfect_welcome_at_1:30am_in_morning. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-07 22:42:39,1,252,have_evident_staff_take_picture_of_passport,can_check-in_at_4am,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is can_check-in_at_4am. Phrase A is have_evident_staff_take_picture_of_passport.",No

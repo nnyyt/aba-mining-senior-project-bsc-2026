@@ -1,0 +1,955 @@
+ID,Output
+1,"good_food
+restaurant
+comfortable
+escape
+heat
+midday
+restaurant
+comfortable
+escape
+heat
+midday
+no evident not restaurant
+no evident not comfortable
+no evident not escape
+no evident not heat
+no evident not midday"
+2,"breakfast was amazing
+no evident not breakfast was amazing
+hummus was fresh
+no evident not hummus was fresh
+it was handmade
+no evident not it was handmade"
+11,"food is great
+prices are reasonable
+prices are reasonable
+no evident not prices are reasonable
+no evident not prices are reasonable"
+12,"good_food
+room service
+no evident not room service
+lovely
+no evident not lovely"
+16,"food tasty
+no evident not tasty
+olive oil galore
+no evident not galore
+herbs
+no evident not herbs
+delicious
+no evident not delicious"
+18,"good_food
+value
+no evident not value
+well
+no evident not well
+prepared
+no evident not prepared"
+21,"good_food
+breakfast
+dinner
+delicious
+no evident not breakfast
+no evident not dinner
+no evident not delicious"
+22,"bad_food
+pizza
+have evident pizza
+stodgy
+have evident stodgy"
+22,"nice
+no evident not nice"
+26,"good
+not pricey
+no evident not pricey
+not pricey"
+31,"food excellent
+no evident not excellent
+food reasonably priced
+no evident not reasonably priced"
+33,"good breakfast saves time
+no evident not saves time"
+36,"food was excellent
+no evident not food was excellent
+passion showed
+no evident not passion showed"
+36,"bar, times, display, have evident, missing.
+times, have evident, missing."
+41,"good_food
+breakfast
+very nice
+no evident not breakfast
+very nice
+no evident not breakfast"
+45,"good food
+no evident not reasonable price
+no evident not easy choice"
+53,"delicious breakfasts
+hotel restaurant
+no evident not hotel
+no evident not restaurant"
+56,"breakfast, started, 7, rather, 8
+have evident, breakfast, started, 7, rather, 8"
+61,"excellent range food offered
+no evident not offered
+no evident not range"
+62,"restaurant
+on site
+no evident not restaurant
+no evident not on site"
+64,"good_food
+pizza
+no evident not closing
+no evident not nice"
+66,"good_food
+coffee
+shop
+chic
+no evident not coffee
+no evident not shop
+no evident not chic"
+74,"delicious food, no evident not delicious food, hotel, restaurant"
+80,"dinner
+was delicious
+was inexpensive
+no evident not delicious
+no evident not inexpensive"
+84,"good_food
+plenty selection
+no evident not plenty selection
+spotless clean
+no evident not spotless clean"
+86,"good_food
+breakfast was excellent
+no evident not breakfast was bad"
+87,"good_food
+nice restaurant
+no evident not nice
+nice restaurant
+no evident not nice"
+93,"[ERROR] ReadTimeout: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)"
+94,"good_food
+service
+no evident not service
+tasty_food
+no evident not tasty_food"
+97,"food was excellent
+no evident not food was excellent
+was excellent
+no evident not was excellent"
+107,"good_food
+breakfast was excellent
+no evident not breakfast was bad"
+112,"good food
+no evident not food
+good service
+no evident not service"
+118,"delicious!
+no evident not bad
+delicious!
+no evident not poor"
+126,"good_food
+tasty
+no evident not tasty
+tasty
+no evident not tasty"
+132,"breakfast was delicious
+freshly prepared
+choices from Cyprus
+English breakfast
+no evident not breakfast was delicious
+no evident not freshly prepared
+no evident not choices from Cyprus
+no evident not English breakfast"
+134,"great chef.
+food good.
+no evident not food good."
+139,"nice restaurant
+external balcony
+no evident not nice restaurant
+no evident not external balcony"
+140,"good_food
+breakfast
+no evident not breakfast"
+145,"good_food
+local food
+various food
+terrace
+no evident not local food
+no evident not various food
+no evident not terrace"
+153,"good_food
+fresh
+no evident not fresh
+beautiful
+no evident not beautiful
+reasonably priced
+no evident not reasonably priced"
+155,"freshmade
+no evident not freshmade
+prepare
+no evident not prepare
+cheff
+no evident not cheff"
+158,"good_food
+amazing
+no evident not amazing
+amazing
+no evident not amazing"
+162,"good_food
+breakfast was delicious
+no evident not breakfast was not delicious"
+167,"food
+super excellent
+no evident not food
+excellent
+no evident not super"
+168,"good_food
+must try
+no evident not pretty
+delicious
+no evident not must"
+169,"good_food
+delish
+no evident not delish
+great
+no evident not great"
+170,"food was excellent
+fish was best
+no evident not fish was best
+no evident not fish was best"
+180,"good_food
+great
+freshly made
+no evident not great
+no evident not freshly made"
+183,"food is terrific
+no evident not food
+no evident not food"
+184,"good_food
+jasmine_burger
+delicious
+no evident not jasmine_burger
+delicious
+no evident not jasmine_burger"
+185,"breakfast served noon
+no evident not breakfast served noon"
+190,"good_food
+breakfast
+no evident not breakfast"
+198,"food was amazing
+passion
+fresh
+looking
+simple breakfast amazing
+feast
+no evident not passion
+no evident not fresh
+no evident not looking
+no evident not simple breakfast amazing
+no evident not feast"
+200,"food was five star
+no evident not food was five star"
+209,"we loved the breakfast
+no evident not food
+no evident not taste
+no evident not meal
+no evident not enjoyment"
+211,"good_food
+same size
+no evident not same size
+very delicious
+no evident not very delicious"
+213,"good_food
+kind
+no evident not kind"
+221,"good_food
+breakfast was outstanding
+no evident not breakfast was bad"
+226,"good_food
+staff
+owners
+restaurant
+ok
+no evident not staff
+no evident not owners
+no evident not restaurant
+no evident not ok"
+232,"good_food
+manager catered
+need
+no evident not manager catered
+no evident not need"
+233,"good_food
+breakfast was amazing
+no evident not breakfast was not bad
+breakfast was amazing
+no evident not breakfast was not poor"
+236,"good
+no evident not good"
+245,"restaurant is awesome
+Richard is great chef
+friendliness will make you want to extend vacation
+openness will make you want to extend vacation
+no evident not friendliness
+no evident not openness"
+246,"food was good
+no evident not good
+chef was friendly
+no evident not friendly"
+250,"rooms lobby restaurant were lovely
+we ate dinner hotel
+we were impressed chef Richard
+food was fabulous
+no evident not rooms lobby restaurant were lovely
+no evident not we ate dinner hotel
+no evident not we were impressed chef Richard
+no evident not food was fabulous"
+252,"breakfast was freshly made
+no evident not freshly made
+breakfast was delicious
+no evident not delicious"
+258,"good_food
+tranquility
+no evident not tranquility
+delicious
+no evident not delicious"
+260,"good_food
+breakfast
+no evident not breakfast"
+262,"breakfast, terrace, terrific
+no evident not breakfast
+no evident not terrace"
+268,"good breakfast available
+no evident not available"
+272,"Breakfast is delicious.
+No evident not breakfast is delicious."
+278,"food was superb
+no evident not food
+no evident not food"
+279,"bad_food
+no menu
+have evident no menu"
+279,"good_food
+breakfast
+no evident not breakfast
+very nice"
+282,"good_food
+breakfast
+no evident not breakfast"
+288,"good_food
+breakfest
+no evident not breakfest"
+290,"good
+no evident not good"
+295,"breakfasts tasty
+no evident not breakfasts tasty
+place cosy
+no evident not place cosy
+morning tasty
+no evident not morning tasty
+smiles pleasure
+no evident not smiles pleasure"
+300,"breakfast was presentable
+no evident not breakfast was bad
+breakfast was tasty
+no evident not breakfast was bland"
+305,"restaurants were closed
+Richard was amazing
+pizza was excellent
+they were long since closed
+no evident not restaurants were closed
+no evident not Richard was amazing
+no evident not pizza was excellent
+no evident not they were long since closed"
+310,breakfasts were nice. very clean. no evident not breakfasts were nice. no evident not very clean.
+312,"good_food
+delicious
+no evident not delicious
+delicious
+no evident not delicious"
+322,"bad_food
+more
+have evident more"
+330,"good_food
+breakfast was delicious
+no evident not breakfast was not delicious"
+333,"good_food
+breakfast was exceptional
+no evident not breakfast
+no evident not exceptional"
+336,"good_food
+freshly made
+no evident not freshly made
+very tasty
+no evident not very tasty"
+339,"good_food
+restaurant is amazing
+no evident not restaurant is amazing
+owner is kind
+no evident not owner is kind
+chef is creative
+no evident not chef is creative"
+348,"breakfast was a typical Cypriot one,
+no evident not food
+no evident not taste
+no evident not tradition
+no evident not culture"
+353,"good_food
+healthy breakfast
+no evident not healthy
+healthy breakfast
+no evident not healthy breakfast"
+355,"good_food
+breakfast
+hotel
+great
+no evident not breakfast
+no evident not hotel
+no evident not great"
+362,"good_food
+breakfasts
+which
+delicious
+no evident not breakfasts
+no evident not which
+no evident not delicious"
+366,"good_food
+breakfast
+lunch
+dinner
+prices
+good
+no evident not breakfast
+no evident not lunch
+no evident not dinner
+no evident not prices
+no evident not good"
+369,"food was amazing
+no evident not food was amazing
+was amazing
+no evident not was amazing"
+373,"delicious breakfast,
+no evident not desired,
+breakfast,
+no evident not desired."
+375,"food is good
+chicken burger
+salad
+exceptional
+no evident not chicken burger
+no evident not salad
+no evident not exceptional"
+376,"chef, incredible, friendly, food, enjoying, no evident not, chef, incredible, friendly, food, enjoying"
+377,"good_food
+breakfast was delicious
+no evident not breakfast was not bad"
+378,"food was delicious
+no evident not food was delicious
+food was delicious
+no evident not food was delicious"
+379,"good_food
+breakfast
+evening
+bar
+breakfast
+no evident not breakfast
+evening
+no evident not evening
+bar
+no evident not bar"
+380,"good_food
+tasty
+no evident not tasty
+tasty
+no evident not tasty"
+380,"bad_food
+options
+have evident options"
+383,"good breakfast
+food is good
+no evident not food is good
+food is good
+no evident not food is good"
+386,"good_food
+friendly
+welcoming
+accommodating
+no evident not friendly
+no evident not welcoming
+no evident not accommodating"
+393,"good_food
+quality
+no evident not quality"
+394,"great service Richard
+no evident not service Richard"
+400,"good_food
+was always trying
+prepare for us
+was always trying
+no evident not was always trying"
+405,"Richard the chef makes you feel like you know each other years before. no evident not Richard the chef makes you feel like you know each other years before.
+He is kind. no evident not He is kind.
+He is polite. no evident not He is polite.
+He is ready to help you with whatever you want to eat and drink. no evident not He is ready to help you with whatever you want to eat and drink."
+407,"good_food
+breakfast
+food
+no evident not breakfast
+no evident not food"
+409,"delicious food, incredible service, no evident not delicious food, no evident not incredible service"
+415,"breakfast was awesome
+no evident not breakfast
+no evident not breakfast"
+424,"good_food
+breakfast
+no evident not breakfast"
+425,"breakfast, had, variety
+have evident, breakfast, had, variety
+tea, had, offer
+have evident, tea, had, offer"
+431,"good_food
+restaurant
+decent
+no evident not restaurant
+decent"
+437,"low quality
+have evident low quality
+original greek
+have evident original greek"
+439,"good_food
+late
+no evident not late
+evening
+no evident not evening
+Cyprus
+no evident not Cyprus"
+439,"bad_food
+Restaurant was offering narrow choices.
+Have evident narrow choices.
+Restaurant was offering narrow choices.
+Have evident narrow choices."
+441,"perfect, no evident not perfect"
+442,"breakfast was filling
+no evident not filling
+breakfast was funny
+no evident not funny"
+445,"bad_food
+have evident breakfast
+have evident below average"
+446,"poor
+have evident poor
+isn't
+have evident isn't
+bar
+have evident bar
+restaurant
+have evident restaurant"
+456,"bad_food
+no breakfast
+have evident no breakfast"
+456,"good_food
+chef
+hummus
+sandwiches
+chef
+no evident not hummus
+no evident not sandwiches
+no evident not chef"
+458,"limited
+have evident limited
+options
+have evident options"
+465,"good_food
+breakfast
+above expectations
+no evident not breakfast
+no evident not expectations"
+472,"huge
+delicious
+breakfast
+no evident not huge
+no evident not delicious
+no evident not breakfast"
+474,"bad_food
+breakfast
+have evident breakfast"
+477,"delicious food
+no evident not food
+delicious food
+no evident not food"
+479,"good_food
+breakfast options
+various options
+up to 10 EUR
+no evident not breakfast options
+no evident not various options
+no evident not up to 10 EUR"
+484,"good food
+it was very good
+no evident not very good
+it was very good
+no evident not very good"
+490,"good_food
+excellent cuisine
+no evident not excellent cuisine"
+496,"good_food
+breakfasts
+no evident not breakfasts
+no evident not breakfasts"
+497,"good_food
+varied
+no evident not varied
+varied
+no evident not varied"
+501,"good food
+hotel
+lobby
+no evident not hotel
+no evident not lobby"
+501,"bad_food
+it took long
+have evident long
+it took long
+have evident long"
+505,"good_food
+coffee
+no evident not coffee"
+519,"good breakfast
+no evident not breakfast
+good breakfast
+no evident not breakfast"
+524,"excellent food
+no evident not food
+no evident not food"
+533,"good_food
+service was fast
+no evident not fast
+service was delicious
+no evident not delicious
+service was irreproachable
+no evident not irreproachable"
+534,"good_food
+breakfast
+homemade
+no evident not breakfast
+no evident not homemade"
+536,"good_food
+tasty
+no evident not tasty
+simple
+no evident not simple"
+545,"dinner, perfect
+no evident not dinner
+perfect, perfect
+no evident not perfect"
+548,"Arabic food good_food
+food is good
+no evident not food is good
+food is good
+no evident not food is good"
+548,"Have to pay for breakfast.
+Have evident pay.
+Have evident breakfast."
+556,"good_food
+hotel
+no evident not restaurant
+no evident not great"
+557,"breakfast corresponds
+hospitality gastronomy
+price expensive
+quality quantity
+have evident breakfast corresponds
+have evident hospitality gastronomy
+have evident price expensive
+have evident quality quantity"
+565,"good_food
+breakfasts
+no evident not breakfasts"
+571,"good_food
+breakfast
+no evident not breakfast"
+572,"good_food
+willing to serve
+no evident not willing to serve
+willing to serve
+no evident not willing to serve"
+576,"good service
+varied food
+good prices
+no evident not good service
+no evident not varied food
+no evident not good prices"
+578,"breakfast was good
+no evident not breakfast was bad"
+591,"good_food
+varied breakfasts
+no evident not varied breakfasts"
+593,"good_food
+delicious
+no evident not delicious"
+594,"good_food
+hotel
+restaurant
+no evident not hotel
+no evident not restaurant"
+595,"meal not included price
+meal not included price have evident inclusion"
+597,"good_food
+freshly made
+no evident not freshly made
+good_food
+freshly made
+no evident not freshly made"
+599,"good_food
+breakfast
+cafe
+no evident not breakfast
+no evident not cafe"
+610,"breakfast terrace nice
+no evident not breakfast terrace nice"
+611,"good quality
+no evident not quality"
+613,"good breakfast
+no evident not breakfast"
+615,"good_food
+staff, restaurant, hotel, good
+no evident not staff, no evident not restaurant, no evident not hotel, no evident not good"
+619,"good dinner
+no evident not dinner
+lovely waiter
+no evident not waiter"
+621,"good_food
+breakfasts
+not big
+tasty
+not big
+no evident not big
+tasty
+no evident not tasty"
+621,"bad_food
+tasty
+have evident tasty
+not variety
+have evident not variety"
+626,"food
+pasta
+pizza
+salads
+burgers
+homemade
+no evident not pasta
+no evident not pizza
+no evident not salads
+no evident not burgers
+no evident not homemade"
+636,"good_food
+chef understood
+no evident not understood
+excellent
+no evident not excellent"
+639,"lunch was small
+it was delicious
+no evident not lunch was small
+no evident not it was delicious"
+642,"good_food
+breakfast
+homemade
+no evident not breakfast
+no evident not homemade"
+643,"bad_food
+price
+ratio
+disproportionate
+price
+have evident ratio
+have evident disproportionate"
+646,"[ERROR] ReadTimeout: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)"
+650,"good_food
+I liked it
+no evident not I liked it"
+654,"good_food
+veranda
+tables
+cappuccino
+sofas
+veranda
+tables
+cappuccino
+sofas
+no evident not veranda
+no evident not tables
+no evident not cappuccino
+no evident not sofas"
+658,"delicious food
+no evident not food
+no evident not food"
+660,"breakfast very good
+no evident not breakfast very good"
+663,"good_food
+Breakfast served on site
+no evident not ground floor
+no evident not dining room
+no evident not terrace
+no evident not Greek taste"
+665,"good food
+breakfast was good
+breakfast was not lavish
+no evident not breakfast was good
+no evident not breakfast was not lavish"
+665,"bad_food
+Had to ask
+Have evident asking"
+669,"good_food
+breakfast
+fee
+no evident not breakfast
+no evident not fee"
+672,"good
+no evident not breakfast
+no evident not was"
+673,"good_food
+breakfast offered
+no evident not breakfast offered
+breakfast offered
+no evident not breakfast offered"
+685,"excellent breakfasts, only 8€, no evident not breakfasts, no evident not 8€"
+687,"monotonous breakfast
+have evident monotony
+same
+have evident sameness"
+696,"good_food
+Liked food cafe
+no evident not liked food cafe"
+702,"good cook
+food is good
+no evident not food is good"
+703,"good food
+understanding
+no evident not understanding"
+710,"good
+no evident not good"
+722,"good_food
+breakfast
+veranda
+no evident not breakfast
+no evident not veranda"
+729,"good_food
+breakfast
+no evident not breakfast"
+735,breakfast wonderful. no evident not wonderful.
+737,"good_food
+breakfast
+no evident not breakfast"
+738,"breakfast is good
+no evident not breakfast is good"
+756,"breakfast buffet
+would be nice
+have evident"
+757,"bad
+have evident water
+have evident raw"
+764,"good_food
+Breakfast ok
+no evident not Breakfast ok"
+768,"bad_food
+everyday the same set
+have evident everyday the same set
+have evident everyday the same set"
+771,"breakfast is delicious
+no evident not breakfast is delicious
+same
+no evident not same"
+771,"breakfast
+delicious
+same
+bring
+have evident delicious
+have evident same
+have evident bring"
+777,"good_food
+breakfast
+options
+breakfast
+options
+no evident not breakfast
+no evident not options"
+779,"bad_food
+breakfast
+served
+bar
+price
+slow
+service
+breakfast
+served
+bar
+price
+slow
+service
+have evident
+breakfast
+served
+bar
+price
+slow
+service"
+781,"good_food
+breakfast
+man
+no evident not breakfast
+no evident not man"
+782,"good_food
+breakfast
+no evident not breakfast
+no evident not breakfast"
+22,bad_food,"bad_food
+pizza
+have evident pizza
+too
+have evident stodgy"
+36,good_food,"good_food
+food was excellent
+no evident not food was bad
+passion showed
+no evident not passion did not show
+presentation
+no evident not presentation was poor"
+279,bad_food,"bad_food
+no menu
+have evident no menu
+whatever is served
+have evident whatever is served"
+380,good_food,"good_food
+tasty
+no evident not tasty"
+439,good_food,"good_food
+stayed open
+no evident not stayed open
+evening arrival
+no evident not evening arrival
+Cyprus
+no evident not Cyprus"
+456,bad_food,"bad_food
+No breakfast
+have evident no breakfast"
+501,good_food,"good
+no evident not good"
+548,good_food,"good_food
+Arabic
+no evident not Arabic"
+621,good_food,"good_food
+breakfasts
+not big
+tasty
+no evident not breakfasts
+no evident not big
+no evident not tasty"
+665,good_food,"good
+no evident not lavish"
+771,good_food,"good_food
+breakfast
+same
+no evident not breakfast
+no evident not same"

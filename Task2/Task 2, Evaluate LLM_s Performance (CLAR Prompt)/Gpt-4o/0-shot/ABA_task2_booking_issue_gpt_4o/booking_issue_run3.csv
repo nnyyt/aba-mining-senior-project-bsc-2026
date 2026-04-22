@@ -1,0 +1,23 @@
+ID,Prompt,Topic,Test 3
+196,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_booking_issue"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+When we were booking the room there was a promotion from booking.com which didn't apply and we payed 80 euro more. After that I checked a new dates to book and we had similar number and if we do it it will be the same. This is a big fraud.",bad_booking_issue,"promotion_not_apply , have_evident_promotion_apply , payed_80_euro_more , have_evident_not_pay_80_euro_more , similar_number_for_new_dates , have_evident_different_number_for_new_dates , same_issue_if_book_again , have_evident_no_issue_if_book_again"
+456,"Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+
+1. Claim is ""bad_booking_issue"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+[Text]
+However when I booked this property in advance it was a higher price but booking.com reduced the price before my travel date and the hotel refused to accept the lower price which I felt was unfair for me as they charged twice for cancellation and rebooking. Maybe this was a booking.com issue or the hotel but I was quite unhappy about this since it was not justified by the owner. I spoke to Ali from booking.com and he said there was no cancellation charge but they charged me",bad_booking_issue,"booked_property_higher_price , hotel_refused_lower_price , charged_twice_for_cancellation , unhappy_not_justified_by_owner , ali_said_no_cancellation_charge , have_evident_booked_property_not_higher_price , have_evident_hotel_accepted_lower_price , have_evident_not_charged_twice_for_cancellation , have_evident_happy_justified_by_owner , have_evident_ali_said_cancellation_charge"

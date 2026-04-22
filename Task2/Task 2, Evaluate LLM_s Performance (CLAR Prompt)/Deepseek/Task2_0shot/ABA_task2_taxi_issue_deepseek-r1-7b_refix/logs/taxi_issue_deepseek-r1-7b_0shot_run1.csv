@@ -1,0 +1,64 @@
+ID,Topic,Output
+125,bad_taxi_issue,"1. Taxi drivers charged extra for cooperating with the hotel.  
+   have evident taxi drivers charged extra for cooperating with the hotel.  
+
+2. Taxi drivers who cooperate with the hotel are charging extra (20 EUR).  
+   have evident taxi drivers who cooperate with the hotel are charging extra (20 EUR)."
+346,bad_taxi_issue,"- Taxi showed up
+- have evident taxi did not show up
+- Taxi did not show up
+- have evident taxi was supposed to show up"
+568,bad_taxi_issue,"Here is the structured ABA format based on the given text:
+
+1. **Argument 1:**
+   - **Support:** ripped us off
+   - **Contrary:** Have evident ripped us off
+
+2. **Argument 2:**
+   - **Support:** should have negotiated the price beforehand
+   - **Contrary:** Have evident should have negotiated the price beforehand
+
+3. **Argument 3:**
+   - **Support:** It's your own fault
+   - **Contrary:** Have evident It's your own fault"
+615,bad_taxi_issue,"Here is the text reformatted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Support**: waited for 40 minutes without being warned  
+   **Contrary**: have evident evidence of waiting excessively long  
+
+2. **Support**: had to pay immediately when expecting it to be included in the hotel bill  
+   **Contrary**: have evident proof that payment was unexpected and costly  
+
+3. **Support**: indicated independence from the hotel so others wouldn't wait and try to reach everyone  
+   **Contrary**: have evident claims of clear communication about taxi independence  
+
+Each support is written in short words without adjectives or adverbs, using only the vocabulary from the original text. Each contrary begins with ""have evident"" and uses the same word as its corresponding support."
+660,good_taxi_issue,"Here is the structured ABA format based on your requirements:
+
+- Support: arrived_early  
+  Contrary: no_evident_not_arrived_early  
+
+- Support: taxi_present  
+  Contrary: no_evident_not_taxi_present"
+666,bad_taxi_issue,"1. **Supports:**
+   - chaotic
+   - organized
+   - taxi
+
+2. **Contraries:**
+   - have evident chaotic
+   - have evident organized
+   - have evident taxi"
+689,bad_taxi_issue,"Here is the structured ABA format based on your requirements:
+
+**Supports:**
+1. Taxi
+2. Didn't show up
+3. 3 in the morning
+4. Had to drive
+
+**Contraries:**
+1. have evident Taxi
+2. have evidentDidn't show up
+3. have evident3 in the morning
+4. have evidentHad to drive"

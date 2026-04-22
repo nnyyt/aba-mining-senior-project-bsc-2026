@@ -1,0 +1,9 @@
+ID,Topic,Test 2
+161,good_check_out,"fast_check_out, no_evident_not_fast_check_out"
+310,good_check_out,"fast, check_out, no_evident_not_fast, no_evident_not_check_out"
+314,good_check_out,"fast, no_evident_not_fast"
+542,good_check_out,"super_fast_check_out, no_evident_not_super_fast_check_out, no_problems, no_evident_not_no_problems"
+639,good_check_out,"fast_check_in, no_evident_not_fast_check_in, fast_check_out, no_evident_not_fast_check_out"
+660,good_check_out,"late_arrival, no_evident_not_late_arrival, late_departure, no_evident_not_late_departure"
+711,good_check_out,"fast_check_out, no_evident_not_fast_check_out"
+769,bad_check_out,"the_hotel_did_not_allow_to_turn_over_a_couple_of_hours_before_the_delayed_plane, did_not_allow, turn_over, for_each_support, have_evident_did_allow, have_evident_turn_over"

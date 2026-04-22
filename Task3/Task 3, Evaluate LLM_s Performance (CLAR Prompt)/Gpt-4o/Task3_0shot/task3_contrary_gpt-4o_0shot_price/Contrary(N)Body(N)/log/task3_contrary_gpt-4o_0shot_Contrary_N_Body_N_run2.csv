@@ -1,0 +1,677 @@
+Timestamp,Run,ID,PhraseA,PhraseB,Prompt,RawOutput
+2026-02-08 02:41:36,2,1,have_evident_unlabeled_shampoo_dispenser_for_this_price,unlabeled_shampoo_dispenser_for_this_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is unlabeled_shampoo_dispenser_for_this_price. Phrase A is have_evident_unlabeled_shampoo_dispenser_for_this_price.",No
+2026-02-08 02:41:37,2,2,have_evident_unlabeled_shampoo_dispenser_for_this_price,shampoo_seem_cheap_considering_hotel_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is shampoo_seem_cheap_considering_hotel_cost. Phrase A is have_evident_unlabeled_shampoo_dispenser_for_this_price.",No
+2026-02-08 02:41:38,2,3,have_evident_unlabeled_shampoo_dispenser_for_this_price,guesthouse_but_price_like_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is guesthouse_but_price_like_hotel. Phrase A is have_evident_unlabeled_shampoo_dispenser_for_this_price.",No
+2026-02-08 02:41:39,2,4,have_evident_unlabeled_shampoo_dispenser_for_this_price,for_money_you_pay_you_get_one_small_water_bottle,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is for_money_you_pay_you_get_one_small_water_bottle. Phrase A is have_evident_unlabeled_shampoo_dispenser_for_this_price.",No
+2026-02-08 02:41:41,2,5,have_evident_unlabeled_shampoo_dispenser_for_this_price,expensive_for_what_you_get,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_what_you_get. Phrase A is have_evident_unlabeled_shampoo_dispenser_for_this_price.",No
+2026-02-08 02:41:42,2,6,have_evident_unlabeled_shampoo_dispenser_for_this_price,expensive_rate_for_what_offer,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_rate_for_what_offer. Phrase A is have_evident_unlabeled_shampoo_dispenser_for_this_price.",No
+2026-02-08 02:41:43,2,7,have_evident_unlabeled_shampoo_dispenser_for_this_price,overpriced_for_facility,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is overpriced_for_facility. Phrase A is have_evident_unlabeled_shampoo_dispenser_for_this_price.",No
+2026-02-08 02:41:44,2,8,have_evident_unlabeled_shampoo_dispenser_for_this_price,meal_not_include_in_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is meal_not_include_in_price. Phrase A is have_evident_unlabeled_shampoo_dispenser_for_this_price.",No
+2026-02-08 02:41:45,2,9,have_evident_unlabeled_shampoo_dispenser_for_this_price,high_price_for_not_enough_comfort_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_not_enough_comfort_room. Phrase A is have_evident_unlabeled_shampoo_dispenser_for_this_price.",No
+2026-02-08 02:41:46,2,10,have_evident_unlabeled_shampoo_dispenser_for_this_price,high_price_for_small_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_small_room. Phrase A is have_evident_unlabeled_shampoo_dispenser_for_this_price.",No
+2026-02-08 02:41:47,2,11,have_evident_unlabeled_shampoo_dispenser_for_this_price,expensive_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_hotel. Phrase A is have_evident_unlabeled_shampoo_dispenser_for_this_price.",No
+2026-02-08 02:41:48,2,12,have_evident_unlabeled_shampoo_dispenser_for_this_price,expensive_for_average_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_average_hotel. Phrase A is have_evident_unlabeled_shampoo_dispenser_for_this_price.",No
+2026-02-08 02:41:50,2,13,have_evident_unlabeled_shampoo_dispenser_for_this_price,expensive_for_3_star_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_3_star_hotel. Phrase A is have_evident_unlabeled_shampoo_dispenser_for_this_price.",No
+2026-02-08 02:41:51,2,14,have_evident_shampoo_seem_cheap_considering_hotel_cost,unlabeled_shampoo_dispenser_for_this_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is unlabeled_shampoo_dispenser_for_this_price. Phrase A is have_evident_shampoo_seem_cheap_considering_hotel_cost.",No
+2026-02-08 02:41:52,2,15,have_evident_shampoo_seem_cheap_considering_hotel_cost,shampoo_seem_cheap_considering_hotel_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is shampoo_seem_cheap_considering_hotel_cost. Phrase A is have_evident_shampoo_seem_cheap_considering_hotel_cost.",No
+2026-02-08 02:41:53,2,16,have_evident_shampoo_seem_cheap_considering_hotel_cost,guesthouse_but_price_like_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is guesthouse_but_price_like_hotel. Phrase A is have_evident_shampoo_seem_cheap_considering_hotel_cost.",No
+2026-02-08 02:41:54,2,17,have_evident_shampoo_seem_cheap_considering_hotel_cost,for_money_you_pay_you_get_one_small_water_bottle,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is for_money_you_pay_you_get_one_small_water_bottle. Phrase A is have_evident_shampoo_seem_cheap_considering_hotel_cost.",No
+2026-02-08 02:41:55,2,18,have_evident_shampoo_seem_cheap_considering_hotel_cost,expensive_for_what_you_get,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_what_you_get. Phrase A is have_evident_shampoo_seem_cheap_considering_hotel_cost.",No
+2026-02-08 02:41:56,2,19,have_evident_shampoo_seem_cheap_considering_hotel_cost,expensive_rate_for_what_offer,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_rate_for_what_offer. Phrase A is have_evident_shampoo_seem_cheap_considering_hotel_cost.",No
+2026-02-08 02:41:57,2,20,have_evident_shampoo_seem_cheap_considering_hotel_cost,overpriced_for_facility,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is overpriced_for_facility. Phrase A is have_evident_shampoo_seem_cheap_considering_hotel_cost.",No
+2026-02-08 02:41:59,2,21,have_evident_shampoo_seem_cheap_considering_hotel_cost,meal_not_include_in_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is meal_not_include_in_price. Phrase A is have_evident_shampoo_seem_cheap_considering_hotel_cost.",No
+2026-02-08 02:42:00,2,22,have_evident_shampoo_seem_cheap_considering_hotel_cost,high_price_for_not_enough_comfort_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_not_enough_comfort_room. Phrase A is have_evident_shampoo_seem_cheap_considering_hotel_cost.",No
+2026-02-08 02:42:01,2,23,have_evident_shampoo_seem_cheap_considering_hotel_cost,high_price_for_small_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_small_room. Phrase A is have_evident_shampoo_seem_cheap_considering_hotel_cost.",No
+2026-02-08 02:42:02,2,24,have_evident_shampoo_seem_cheap_considering_hotel_cost,expensive_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_hotel. Phrase A is have_evident_shampoo_seem_cheap_considering_hotel_cost.",Yes
+2026-02-08 02:42:03,2,25,have_evident_shampoo_seem_cheap_considering_hotel_cost,expensive_for_average_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_average_hotel. Phrase A is have_evident_shampoo_seem_cheap_considering_hotel_cost.",No
+2026-02-08 02:42:04,2,26,have_evident_shampoo_seem_cheap_considering_hotel_cost,expensive_for_3_star_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_3_star_hotel. Phrase A is have_evident_shampoo_seem_cheap_considering_hotel_cost.",No
+2026-02-08 02:42:05,2,27,have_evident_guesthouse_but_price_like_hotel,unlabeled_shampoo_dispenser_for_this_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is unlabeled_shampoo_dispenser_for_this_price. Phrase A is have_evident_guesthouse_but_price_like_hotel.",No
+2026-02-08 02:42:06,2,28,have_evident_guesthouse_but_price_like_hotel,shampoo_seem_cheap_considering_hotel_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is shampoo_seem_cheap_considering_hotel_cost. Phrase A is have_evident_guesthouse_but_price_like_hotel.",No
+2026-02-08 02:42:07,2,29,have_evident_guesthouse_but_price_like_hotel,guesthouse_but_price_like_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is guesthouse_but_price_like_hotel. Phrase A is have_evident_guesthouse_but_price_like_hotel.",No
+2026-02-08 02:42:08,2,30,have_evident_guesthouse_but_price_like_hotel,for_money_you_pay_you_get_one_small_water_bottle,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is for_money_you_pay_you_get_one_small_water_bottle. Phrase A is have_evident_guesthouse_but_price_like_hotel.",No
+2026-02-08 02:42:09,2,31,have_evident_guesthouse_but_price_like_hotel,expensive_for_what_you_get,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_what_you_get. Phrase A is have_evident_guesthouse_but_price_like_hotel.",Yes
+2026-02-08 02:42:11,2,32,have_evident_guesthouse_but_price_like_hotel,expensive_rate_for_what_offer,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_rate_for_what_offer. Phrase A is have_evident_guesthouse_but_price_like_hotel.",No
+2026-02-08 02:42:12,2,33,have_evident_guesthouse_but_price_like_hotel,overpriced_for_facility,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is overpriced_for_facility. Phrase A is have_evident_guesthouse_but_price_like_hotel.",Yes
+2026-02-08 02:42:13,2,34,have_evident_guesthouse_but_price_like_hotel,meal_not_include_in_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is meal_not_include_in_price. Phrase A is have_evident_guesthouse_but_price_like_hotel.",No
+2026-02-08 02:42:14,2,35,have_evident_guesthouse_but_price_like_hotel,high_price_for_not_enough_comfort_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_not_enough_comfort_room. Phrase A is have_evident_guesthouse_but_price_like_hotel.",No
+2026-02-08 02:42:15,2,36,have_evident_guesthouse_but_price_like_hotel,high_price_for_small_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_small_room. Phrase A is have_evident_guesthouse_but_price_like_hotel.",No
+2026-02-08 02:42:16,2,37,have_evident_guesthouse_but_price_like_hotel,expensive_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_hotel. Phrase A is have_evident_guesthouse_but_price_like_hotel.",No
+2026-02-08 02:42:19,2,38,have_evident_guesthouse_but_price_like_hotel,expensive_for_average_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_average_hotel. Phrase A is have_evident_guesthouse_but_price_like_hotel.",No
+2026-02-08 02:42:20,2,39,have_evident_guesthouse_but_price_like_hotel,expensive_for_3_star_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_3_star_hotel. Phrase A is have_evident_guesthouse_but_price_like_hotel.",No
+2026-02-08 02:42:21,2,40,have_evident_for_money_you_pay_you_get_one_small_water_bottle,unlabeled_shampoo_dispenser_for_this_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is unlabeled_shampoo_dispenser_for_this_price. Phrase A is have_evident_for_money_you_pay_you_get_one_small_water_bottle.",No
+2026-02-08 02:42:22,2,41,have_evident_for_money_you_pay_you_get_one_small_water_bottle,shampoo_seem_cheap_considering_hotel_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is shampoo_seem_cheap_considering_hotel_cost. Phrase A is have_evident_for_money_you_pay_you_get_one_small_water_bottle.",No
+2026-02-08 02:42:23,2,42,have_evident_for_money_you_pay_you_get_one_small_water_bottle,guesthouse_but_price_like_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is guesthouse_but_price_like_hotel. Phrase A is have_evident_for_money_you_pay_you_get_one_small_water_bottle.",No
+2026-02-08 02:42:24,2,43,have_evident_for_money_you_pay_you_get_one_small_water_bottle,for_money_you_pay_you_get_one_small_water_bottle,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is for_money_you_pay_you_get_one_small_water_bottle. Phrase A is have_evident_for_money_you_pay_you_get_one_small_water_bottle.",No
+2026-02-08 02:42:25,2,44,have_evident_for_money_you_pay_you_get_one_small_water_bottle,expensive_for_what_you_get,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_what_you_get. Phrase A is have_evident_for_money_you_pay_you_get_one_small_water_bottle.",Yes
+2026-02-08 02:42:26,2,45,have_evident_for_money_you_pay_you_get_one_small_water_bottle,expensive_rate_for_what_offer,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_rate_for_what_offer. Phrase A is have_evident_for_money_you_pay_you_get_one_small_water_bottle.",No
+2026-02-08 02:42:27,2,46,have_evident_for_money_you_pay_you_get_one_small_water_bottle,overpriced_for_facility,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is overpriced_for_facility. Phrase A is have_evident_for_money_you_pay_you_get_one_small_water_bottle.",Yes
+2026-02-08 02:42:29,2,47,have_evident_for_money_you_pay_you_get_one_small_water_bottle,meal_not_include_in_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is meal_not_include_in_price. Phrase A is have_evident_for_money_you_pay_you_get_one_small_water_bottle.",No
+2026-02-08 02:42:30,2,48,have_evident_for_money_you_pay_you_get_one_small_water_bottle,high_price_for_not_enough_comfort_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_not_enough_comfort_room. Phrase A is have_evident_for_money_you_pay_you_get_one_small_water_bottle.",No
+2026-02-08 02:42:31,2,49,have_evident_for_money_you_pay_you_get_one_small_water_bottle,high_price_for_small_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_small_room. Phrase A is have_evident_for_money_you_pay_you_get_one_small_water_bottle.",No
+2026-02-08 02:42:32,2,50,have_evident_for_money_you_pay_you_get_one_small_water_bottle,expensive_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_hotel. Phrase A is have_evident_for_money_you_pay_you_get_one_small_water_bottle.",Yes
+2026-02-08 02:42:33,2,51,have_evident_for_money_you_pay_you_get_one_small_water_bottle,expensive_for_average_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_average_hotel. Phrase A is have_evident_for_money_you_pay_you_get_one_small_water_bottle.",No
+2026-02-08 02:42:34,2,52,have_evident_for_money_you_pay_you_get_one_small_water_bottle,expensive_for_3_star_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_3_star_hotel. Phrase A is have_evident_for_money_you_pay_you_get_one_small_water_bottle.",No
+2026-02-08 02:42:35,2,53,have_evident_expensive_for_what_you_get,unlabeled_shampoo_dispenser_for_this_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is unlabeled_shampoo_dispenser_for_this_price. Phrase A is have_evident_expensive_for_what_you_get.",No
+2026-02-08 02:42:36,2,54,have_evident_expensive_for_what_you_get,shampoo_seem_cheap_considering_hotel_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is shampoo_seem_cheap_considering_hotel_cost. Phrase A is have_evident_expensive_for_what_you_get.",Yes
+2026-02-08 02:42:37,2,55,have_evident_expensive_for_what_you_get,guesthouse_but_price_like_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is guesthouse_but_price_like_hotel. Phrase A is have_evident_expensive_for_what_you_get.",Yes
+2026-02-08 02:42:38,2,56,have_evident_expensive_for_what_you_get,for_money_you_pay_you_get_one_small_water_bottle,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is for_money_you_pay_you_get_one_small_water_bottle. Phrase A is have_evident_expensive_for_what_you_get.",No
+2026-02-08 02:42:39,2,57,have_evident_expensive_for_what_you_get,expensive_for_what_you_get,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_what_you_get. Phrase A is have_evident_expensive_for_what_you_get.",No
+2026-02-08 02:42:40,2,58,have_evident_expensive_for_what_you_get,expensive_rate_for_what_offer,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_rate_for_what_offer. Phrase A is have_evident_expensive_for_what_you_get.",Yes
+2026-02-08 02:42:41,2,59,have_evident_expensive_for_what_you_get,overpriced_for_facility,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is overpriced_for_facility. Phrase A is have_evident_expensive_for_what_you_get.",No
+2026-02-08 02:42:43,2,60,have_evident_expensive_for_what_you_get,meal_not_include_in_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is meal_not_include_in_price. Phrase A is have_evident_expensive_for_what_you_get.",No
+2026-02-08 02:42:44,2,61,have_evident_expensive_for_what_you_get,high_price_for_not_enough_comfort_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_not_enough_comfort_room. Phrase A is have_evident_expensive_for_what_you_get.",Yes
+2026-02-08 02:42:45,2,62,have_evident_expensive_for_what_you_get,high_price_for_small_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_small_room. Phrase A is have_evident_expensive_for_what_you_get.",Yes
+2026-02-08 02:42:46,2,63,have_evident_expensive_for_what_you_get,expensive_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_hotel. Phrase A is have_evident_expensive_for_what_you_get.",No
+2026-02-08 02:42:47,2,64,have_evident_expensive_for_what_you_get,expensive_for_average_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_average_hotel. Phrase A is have_evident_expensive_for_what_you_get.",No
+2026-02-08 02:42:48,2,65,have_evident_expensive_for_what_you_get,expensive_for_3_star_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_3_star_hotel. Phrase A is have_evident_expensive_for_what_you_get.",No
+2026-02-08 02:42:49,2,66,have_evident_expensive_rate_for_what_offer,unlabeled_shampoo_dispenser_for_this_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is unlabeled_shampoo_dispenser_for_this_price. Phrase A is have_evident_expensive_rate_for_what_offer.",No
+2026-02-08 02:42:50,2,67,have_evident_expensive_rate_for_what_offer,shampoo_seem_cheap_considering_hotel_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is shampoo_seem_cheap_considering_hotel_cost. Phrase A is have_evident_expensive_rate_for_what_offer.",Yes
+2026-02-08 02:42:51,2,68,have_evident_expensive_rate_for_what_offer,guesthouse_but_price_like_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is guesthouse_but_price_like_hotel. Phrase A is have_evident_expensive_rate_for_what_offer.",Yes
+2026-02-08 02:42:52,2,69,have_evident_expensive_rate_for_what_offer,for_money_you_pay_you_get_one_small_water_bottle,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is for_money_you_pay_you_get_one_small_water_bottle. Phrase A is have_evident_expensive_rate_for_what_offer.",No
+2026-02-08 02:42:53,2,70,have_evident_expensive_rate_for_what_offer,expensive_for_what_you_get,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_what_you_get. Phrase A is have_evident_expensive_rate_for_what_offer.",Yes
+2026-02-08 02:42:54,2,71,have_evident_expensive_rate_for_what_offer,expensive_rate_for_what_offer,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_rate_for_what_offer. Phrase A is have_evident_expensive_rate_for_what_offer.",No
+2026-02-08 02:42:55,2,72,have_evident_expensive_rate_for_what_offer,overpriced_for_facility,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is overpriced_for_facility. Phrase A is have_evident_expensive_rate_for_what_offer.",No
+2026-02-08 02:42:56,2,73,have_evident_expensive_rate_for_what_offer,meal_not_include_in_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is meal_not_include_in_price. Phrase A is have_evident_expensive_rate_for_what_offer.",No
+2026-02-08 02:42:57,2,74,have_evident_expensive_rate_for_what_offer,high_price_for_not_enough_comfort_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_not_enough_comfort_room. Phrase A is have_evident_expensive_rate_for_what_offer.",No
+2026-02-08 02:42:58,2,75,have_evident_expensive_rate_for_what_offer,high_price_for_small_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_small_room. Phrase A is have_evident_expensive_rate_for_what_offer.",No
+2026-02-08 02:42:59,2,76,have_evident_expensive_rate_for_what_offer,expensive_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_hotel. Phrase A is have_evident_expensive_rate_for_what_offer.",No
+2026-02-08 02:43:00,2,77,have_evident_expensive_rate_for_what_offer,expensive_for_average_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_average_hotel. Phrase A is have_evident_expensive_rate_for_what_offer.",No
+2026-02-08 02:43:01,2,78,have_evident_expensive_rate_for_what_offer,expensive_for_3_star_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_3_star_hotel. Phrase A is have_evident_expensive_rate_for_what_offer.",No
+2026-02-08 02:43:02,2,79,have_evident_overpriced_for_facility,unlabeled_shampoo_dispenser_for_this_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is unlabeled_shampoo_dispenser_for_this_price. Phrase A is have_evident_overpriced_for_facility.",Yes
+2026-02-08 02:43:03,2,80,have_evident_overpriced_for_facility,shampoo_seem_cheap_considering_hotel_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is shampoo_seem_cheap_considering_hotel_cost. Phrase A is have_evident_overpriced_for_facility.",Yes
+2026-02-08 02:43:04,2,81,have_evident_overpriced_for_facility,guesthouse_but_price_like_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is guesthouse_but_price_like_hotel. Phrase A is have_evident_overpriced_for_facility.",Yes
+2026-02-08 02:43:05,2,82,have_evident_overpriced_for_facility,for_money_you_pay_you_get_one_small_water_bottle,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is for_money_you_pay_you_get_one_small_water_bottle. Phrase A is have_evident_overpriced_for_facility.",No
+2026-02-08 02:43:06,2,83,have_evident_overpriced_for_facility,expensive_for_what_you_get,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_what_you_get. Phrase A is have_evident_overpriced_for_facility.",Yes
+2026-02-08 02:43:07,2,84,have_evident_overpriced_for_facility,expensive_rate_for_what_offer,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_rate_for_what_offer. Phrase A is have_evident_overpriced_for_facility.",Yes
+2026-02-08 02:43:08,2,85,have_evident_overpriced_for_facility,overpriced_for_facility,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is overpriced_for_facility. Phrase A is have_evident_overpriced_for_facility.",No
+2026-02-08 02:43:09,2,86,have_evident_overpriced_for_facility,meal_not_include_in_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is meal_not_include_in_price. Phrase A is have_evident_overpriced_for_facility.",No
+2026-02-08 02:43:10,2,87,have_evident_overpriced_for_facility,high_price_for_not_enough_comfort_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_not_enough_comfort_room. Phrase A is have_evident_overpriced_for_facility.",Yes
+2026-02-08 02:43:11,2,88,have_evident_overpriced_for_facility,high_price_for_small_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_small_room. Phrase A is have_evident_overpriced_for_facility.",No
+2026-02-08 02:43:12,2,89,have_evident_overpriced_for_facility,expensive_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_hotel. Phrase A is have_evident_overpriced_for_facility.",Yes
+2026-02-08 02:43:13,2,90,have_evident_overpriced_for_facility,expensive_for_average_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_average_hotel. Phrase A is have_evident_overpriced_for_facility.",Yes
+2026-02-08 02:43:14,2,91,have_evident_overpriced_for_facility,expensive_for_3_star_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_3_star_hotel. Phrase A is have_evident_overpriced_for_facility.",Yes
+2026-02-08 02:43:15,2,92,have_evident_meal_not_include_in_price,unlabeled_shampoo_dispenser_for_this_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is unlabeled_shampoo_dispenser_for_this_price. Phrase A is have_evident_meal_not_include_in_price.",No
+2026-02-08 02:43:16,2,93,have_evident_meal_not_include_in_price,shampoo_seem_cheap_considering_hotel_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is shampoo_seem_cheap_considering_hotel_cost. Phrase A is have_evident_meal_not_include_in_price.",No
+2026-02-08 02:43:17,2,94,have_evident_meal_not_include_in_price,guesthouse_but_price_like_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is guesthouse_but_price_like_hotel. Phrase A is have_evident_meal_not_include_in_price.",No
+2026-02-08 02:43:18,2,95,have_evident_meal_not_include_in_price,for_money_you_pay_you_get_one_small_water_bottle,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is for_money_you_pay_you_get_one_small_water_bottle. Phrase A is have_evident_meal_not_include_in_price.",No
+2026-02-08 02:43:19,2,96,have_evident_meal_not_include_in_price,expensive_for_what_you_get,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_what_you_get. Phrase A is have_evident_meal_not_include_in_price.",No
+2026-02-08 02:43:20,2,97,have_evident_meal_not_include_in_price,expensive_rate_for_what_offer,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_rate_for_what_offer. Phrase A is have_evident_meal_not_include_in_price.",No
+2026-02-08 02:43:21,2,98,have_evident_meal_not_include_in_price,overpriced_for_facility,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is overpriced_for_facility. Phrase A is have_evident_meal_not_include_in_price.",No
+2026-02-08 02:43:22,2,99,have_evident_meal_not_include_in_price,meal_not_include_in_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is meal_not_include_in_price. Phrase A is have_evident_meal_not_include_in_price.",No
+2026-02-08 02:43:23,2,100,have_evident_meal_not_include_in_price,high_price_for_not_enough_comfort_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_not_enough_comfort_room. Phrase A is have_evident_meal_not_include_in_price.",No
+2026-02-08 02:43:24,2,101,have_evident_meal_not_include_in_price,high_price_for_small_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_small_room. Phrase A is have_evident_meal_not_include_in_price.",No
+2026-02-08 02:43:25,2,102,have_evident_meal_not_include_in_price,expensive_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_hotel. Phrase A is have_evident_meal_not_include_in_price.",No
+2026-02-08 02:43:26,2,103,have_evident_meal_not_include_in_price,expensive_for_average_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_average_hotel. Phrase A is have_evident_meal_not_include_in_price.",No
+2026-02-08 02:43:27,2,104,have_evident_meal_not_include_in_price,expensive_for_3_star_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_3_star_hotel. Phrase A is have_evident_meal_not_include_in_price.",No
+2026-02-08 02:43:28,2,105,have_evident_high_price_for_not_enough_comfort_room,unlabeled_shampoo_dispenser_for_this_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is unlabeled_shampoo_dispenser_for_this_price. Phrase A is have_evident_high_price_for_not_enough_comfort_room.",No
+2026-02-08 02:43:29,2,106,have_evident_high_price_for_not_enough_comfort_room,shampoo_seem_cheap_considering_hotel_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is shampoo_seem_cheap_considering_hotel_cost. Phrase A is have_evident_high_price_for_not_enough_comfort_room.",No
+2026-02-08 02:43:30,2,107,have_evident_high_price_for_not_enough_comfort_room,guesthouse_but_price_like_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is guesthouse_but_price_like_hotel. Phrase A is have_evident_high_price_for_not_enough_comfort_room.",Yes
+2026-02-08 02:43:31,2,108,have_evident_high_price_for_not_enough_comfort_room,for_money_you_pay_you_get_one_small_water_bottle,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is for_money_you_pay_you_get_one_small_water_bottle. Phrase A is have_evident_high_price_for_not_enough_comfort_room.",No
+2026-02-08 02:43:33,2,109,have_evident_high_price_for_not_enough_comfort_room,expensive_for_what_you_get,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_what_you_get. Phrase A is have_evident_high_price_for_not_enough_comfort_room.",Yes
+2026-02-08 02:43:34,2,110,have_evident_high_price_for_not_enough_comfort_room,expensive_rate_for_what_offer,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_rate_for_what_offer. Phrase A is have_evident_high_price_for_not_enough_comfort_room.",Yes
+2026-02-08 02:43:35,2,111,have_evident_high_price_for_not_enough_comfort_room,overpriced_for_facility,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is overpriced_for_facility. Phrase A is have_evident_high_price_for_not_enough_comfort_room.",Yes
+2026-02-08 02:43:36,2,112,have_evident_high_price_for_not_enough_comfort_room,meal_not_include_in_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is meal_not_include_in_price. Phrase A is have_evident_high_price_for_not_enough_comfort_room.",No
+2026-02-08 02:43:37,2,113,have_evident_high_price_for_not_enough_comfort_room,high_price_for_not_enough_comfort_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_not_enough_comfort_room. Phrase A is have_evident_high_price_for_not_enough_comfort_room.",No
+2026-02-08 02:43:38,2,114,have_evident_high_price_for_not_enough_comfort_room,high_price_for_small_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_small_room. Phrase A is have_evident_high_price_for_not_enough_comfort_room.",No
+2026-02-08 02:43:39,2,115,have_evident_high_price_for_not_enough_comfort_room,expensive_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_hotel. Phrase A is have_evident_high_price_for_not_enough_comfort_room.",Yes
+2026-02-08 02:43:40,2,116,have_evident_high_price_for_not_enough_comfort_room,expensive_for_average_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_average_hotel. Phrase A is have_evident_high_price_for_not_enough_comfort_room.",Yes
+2026-02-08 02:43:41,2,117,have_evident_high_price_for_not_enough_comfort_room,expensive_for_3_star_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_3_star_hotel. Phrase A is have_evident_high_price_for_not_enough_comfort_room.",No
+2026-02-08 02:43:42,2,118,have_evident_high_price_for_small_room,unlabeled_shampoo_dispenser_for_this_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is unlabeled_shampoo_dispenser_for_this_price. Phrase A is have_evident_high_price_for_small_room.",No
+2026-02-08 02:43:43,2,119,have_evident_high_price_for_small_room,shampoo_seem_cheap_considering_hotel_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is shampoo_seem_cheap_considering_hotel_cost. Phrase A is have_evident_high_price_for_small_room.",No
+2026-02-08 02:43:44,2,120,have_evident_high_price_for_small_room,guesthouse_but_price_like_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is guesthouse_but_price_like_hotel. Phrase A is have_evident_high_price_for_small_room.",Yes
+2026-02-08 02:43:45,2,121,have_evident_high_price_for_small_room,for_money_you_pay_you_get_one_small_water_bottle,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is for_money_you_pay_you_get_one_small_water_bottle. Phrase A is have_evident_high_price_for_small_room.",No
+2026-02-08 02:43:46,2,122,have_evident_high_price_for_small_room,expensive_for_what_you_get,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_what_you_get. Phrase A is have_evident_high_price_for_small_room.",Yes
+2026-02-08 02:43:48,2,123,have_evident_high_price_for_small_room,expensive_rate_for_what_offer,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_rate_for_what_offer. Phrase A is have_evident_high_price_for_small_room.",Yes
+2026-02-08 02:43:49,2,124,have_evident_high_price_for_small_room,overpriced_for_facility,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is overpriced_for_facility. Phrase A is have_evident_high_price_for_small_room.",No
+2026-02-08 02:43:50,2,125,have_evident_high_price_for_small_room,meal_not_include_in_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is meal_not_include_in_price. Phrase A is have_evident_high_price_for_small_room.",No
+2026-02-08 02:43:51,2,126,have_evident_high_price_for_small_room,high_price_for_not_enough_comfort_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_not_enough_comfort_room. Phrase A is have_evident_high_price_for_small_room.",No
+2026-02-08 02:43:52,2,127,have_evident_high_price_for_small_room,high_price_for_small_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_small_room. Phrase A is have_evident_high_price_for_small_room.",No
+2026-02-08 02:43:53,2,128,have_evident_high_price_for_small_room,expensive_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_hotel. Phrase A is have_evident_high_price_for_small_room.",No
+2026-02-08 02:43:54,2,129,have_evident_high_price_for_small_room,expensive_for_average_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_average_hotel. Phrase A is have_evident_high_price_for_small_room.",No
+2026-02-08 02:43:55,2,130,have_evident_high_price_for_small_room,expensive_for_3_star_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_3_star_hotel. Phrase A is have_evident_high_price_for_small_room.",No
+2026-02-08 02:43:56,2,131,have_evident_expensive_hotel,unlabeled_shampoo_dispenser_for_this_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is unlabeled_shampoo_dispenser_for_this_price. Phrase A is have_evident_expensive_hotel.",No
+2026-02-08 02:43:57,2,132,have_evident_expensive_hotel,shampoo_seem_cheap_considering_hotel_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is shampoo_seem_cheap_considering_hotel_cost. Phrase A is have_evident_expensive_hotel.",No
+2026-02-08 02:43:58,2,133,have_evident_expensive_hotel,guesthouse_but_price_like_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is guesthouse_but_price_like_hotel. Phrase A is have_evident_expensive_hotel.",No
+2026-02-08 02:43:59,2,134,have_evident_expensive_hotel,for_money_you_pay_you_get_one_small_water_bottle,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is for_money_you_pay_you_get_one_small_water_bottle. Phrase A is have_evident_expensive_hotel.",No
+2026-02-08 02:44:00,2,135,have_evident_expensive_hotel,expensive_for_what_you_get,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_what_you_get. Phrase A is have_evident_expensive_hotel.",No
+2026-02-08 02:44:00,2,136,have_evident_expensive_hotel,expensive_rate_for_what_offer,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_rate_for_what_offer. Phrase A is have_evident_expensive_hotel.",No
+2026-02-08 02:44:02,2,137,have_evident_expensive_hotel,overpriced_for_facility,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is overpriced_for_facility. Phrase A is have_evident_expensive_hotel.",No
+2026-02-08 02:44:03,2,138,have_evident_expensive_hotel,meal_not_include_in_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is meal_not_include_in_price. Phrase A is have_evident_expensive_hotel.",No
+2026-02-08 02:44:04,2,139,have_evident_expensive_hotel,high_price_for_not_enough_comfort_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_not_enough_comfort_room. Phrase A is have_evident_expensive_hotel.",No
+2026-02-08 02:44:05,2,140,have_evident_expensive_hotel,high_price_for_small_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_small_room. Phrase A is have_evident_expensive_hotel.",No
+2026-02-08 02:44:06,2,141,have_evident_expensive_hotel,expensive_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_hotel. Phrase A is have_evident_expensive_hotel.",No
+2026-02-08 02:44:07,2,142,have_evident_expensive_hotel,expensive_for_average_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_average_hotel. Phrase A is have_evident_expensive_hotel.",No
+2026-02-08 02:44:08,2,143,have_evident_expensive_hotel,expensive_for_3_star_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_3_star_hotel. Phrase A is have_evident_expensive_hotel.",No
+2026-02-08 02:44:09,2,144,have_evident_expensive_for_average_hotel,unlabeled_shampoo_dispenser_for_this_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is unlabeled_shampoo_dispenser_for_this_price. Phrase A is have_evident_expensive_for_average_hotel.",Yes
+2026-02-08 02:44:11,2,145,have_evident_expensive_for_average_hotel,shampoo_seem_cheap_considering_hotel_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is shampoo_seem_cheap_considering_hotel_cost. Phrase A is have_evident_expensive_for_average_hotel.",Yes
+2026-02-08 02:44:12,2,146,have_evident_expensive_for_average_hotel,guesthouse_but_price_like_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is guesthouse_but_price_like_hotel. Phrase A is have_evident_expensive_for_average_hotel.",No
+2026-02-08 02:44:13,2,147,have_evident_expensive_for_average_hotel,for_money_you_pay_you_get_one_small_water_bottle,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is for_money_you_pay_you_get_one_small_water_bottle. Phrase A is have_evident_expensive_for_average_hotel.",No
+2026-02-08 02:44:14,2,148,have_evident_expensive_for_average_hotel,expensive_for_what_you_get,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_what_you_get. Phrase A is have_evident_expensive_for_average_hotel.",No
+2026-02-08 02:44:15,2,149,have_evident_expensive_for_average_hotel,expensive_rate_for_what_offer,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_rate_for_what_offer. Phrase A is have_evident_expensive_for_average_hotel.",No
+2026-02-08 02:44:16,2,150,have_evident_expensive_for_average_hotel,overpriced_for_facility,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is overpriced_for_facility. Phrase A is have_evident_expensive_for_average_hotel.",No
+2026-02-08 02:44:17,2,151,have_evident_expensive_for_average_hotel,meal_not_include_in_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is meal_not_include_in_price. Phrase A is have_evident_expensive_for_average_hotel.",No
+2026-02-08 02:44:18,2,152,have_evident_expensive_for_average_hotel,high_price_for_not_enough_comfort_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_not_enough_comfort_room. Phrase A is have_evident_expensive_for_average_hotel.",No
+2026-02-08 02:44:19,2,153,have_evident_expensive_for_average_hotel,high_price_for_small_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_small_room. Phrase A is have_evident_expensive_for_average_hotel.",No
+2026-02-08 02:44:20,2,154,have_evident_expensive_for_average_hotel,expensive_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_hotel. Phrase A is have_evident_expensive_for_average_hotel.",No
+2026-02-08 02:44:21,2,155,have_evident_expensive_for_average_hotel,expensive_for_average_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_average_hotel. Phrase A is have_evident_expensive_for_average_hotel.",No
+2026-02-08 02:44:22,2,156,have_evident_expensive_for_average_hotel,expensive_for_3_star_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_3_star_hotel. Phrase A is have_evident_expensive_for_average_hotel.",No
+2026-02-08 02:44:23,2,157,have_evident_expensive_for_3_star_hotel,unlabeled_shampoo_dispenser_for_this_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is unlabeled_shampoo_dispenser_for_this_price. Phrase A is have_evident_expensive_for_3_star_hotel.",No
+2026-02-08 02:44:24,2,158,have_evident_expensive_for_3_star_hotel,shampoo_seem_cheap_considering_hotel_cost,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is shampoo_seem_cheap_considering_hotel_cost. Phrase A is have_evident_expensive_for_3_star_hotel.",Yes
+2026-02-08 02:44:25,2,159,have_evident_expensive_for_3_star_hotel,guesthouse_but_price_like_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is guesthouse_but_price_like_hotel. Phrase A is have_evident_expensive_for_3_star_hotel.",No
+2026-02-08 02:44:26,2,160,have_evident_expensive_for_3_star_hotel,for_money_you_pay_you_get_one_small_water_bottle,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is for_money_you_pay_you_get_one_small_water_bottle. Phrase A is have_evident_expensive_for_3_star_hotel.",No
+2026-02-08 02:44:27,2,161,have_evident_expensive_for_3_star_hotel,expensive_for_what_you_get,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_what_you_get. Phrase A is have_evident_expensive_for_3_star_hotel.",No
+2026-02-08 02:44:28,2,162,have_evident_expensive_for_3_star_hotel,expensive_rate_for_what_offer,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_rate_for_what_offer. Phrase A is have_evident_expensive_for_3_star_hotel.",No
+2026-02-08 02:44:29,2,163,have_evident_expensive_for_3_star_hotel,overpriced_for_facility,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is overpriced_for_facility. Phrase A is have_evident_expensive_for_3_star_hotel.",No
+2026-02-08 02:44:30,2,164,have_evident_expensive_for_3_star_hotel,meal_not_include_in_price,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is meal_not_include_in_price. Phrase A is have_evident_expensive_for_3_star_hotel.",No
+2026-02-08 02:44:31,2,165,have_evident_expensive_for_3_star_hotel,high_price_for_not_enough_comfort_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_not_enough_comfort_room. Phrase A is have_evident_expensive_for_3_star_hotel.",No
+2026-02-08 02:44:32,2,166,have_evident_expensive_for_3_star_hotel,high_price_for_small_room,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is high_price_for_small_room. Phrase A is have_evident_expensive_for_3_star_hotel.",No
+2026-02-08 02:44:33,2,167,have_evident_expensive_for_3_star_hotel,expensive_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_hotel. Phrase A is have_evident_expensive_for_3_star_hotel.",No
+2026-02-08 02:44:34,2,168,have_evident_expensive_for_3_star_hotel,expensive_for_average_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_average_hotel. Phrase A is have_evident_expensive_for_3_star_hotel.",No
+2026-02-08 02:44:35,2,169,have_evident_expensive_for_3_star_hotel,expensive_for_3_star_hotel,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only.
+No explanations.
+
+[Question] Phrase B is expensive_for_3_star_hotel. Phrase A is have_evident_expensive_for_3_star_hotel.",No

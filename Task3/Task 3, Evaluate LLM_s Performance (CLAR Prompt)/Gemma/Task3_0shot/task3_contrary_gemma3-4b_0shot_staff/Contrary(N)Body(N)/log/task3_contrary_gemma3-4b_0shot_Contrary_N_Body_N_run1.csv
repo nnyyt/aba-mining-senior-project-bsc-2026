@@ -1,0 +1,1588 @@
+Timestamp,Run,ID,PhraseA,PhraseB,Prompt,RawOutput
+2026-01-21 23:43:16,1,1,have_evident_staff_not_speak_English_properly,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_staff_not_speak_English_properly.",Yes
+2026-01-21 23:43:16,1,2,have_evident_staff_not_speak_English_properly,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_staff_not_speak_English_properly.",Yes
+2026-01-21 23:43:17,1,3,have_evident_staff_not_speak_English_properly,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_staff_not_speak_English_properly.",Yes
+2026-01-21 23:43:18,1,4,have_evident_staff_not_speak_English_properly,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_staff_not_speak_English_properly.",Yes
+2026-01-21 23:43:19,1,5,have_evident_staff_not_speak_English_properly,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_staff_not_speak_English_properly.",Yes
+2026-01-21 23:43:19,1,6,have_evident_staff_not_speak_English_properly,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_staff_not_speak_English_properly.",Yes
+2026-01-21 23:43:20,1,7,have_evident_staff_not_speak_English_properly,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_staff_not_speak_English_properly.",Yes
+2026-01-21 23:43:21,1,8,have_evident_staff_not_speak_English_properly,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_staff_not_speak_English_properly.",Yes
+2026-01-21 23:43:22,1,9,have_evident_staff_not_speak_English_properly,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_staff_not_speak_English_properly.",Yes
+2026-01-21 23:43:22,1,10,have_evident_staff_not_speak_English_properly,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_staff_not_speak_English_properly.",Yes
+2026-01-21 23:43:23,1,11,have_evident_staff_not_speak_English_properly,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_staff_not_speak_English_properly.",Yes
+2026-01-21 23:43:24,1,12,have_evident_staff_not_speak_English_properly,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_staff_not_speak_English_properly.",Yes
+2026-01-21 23:43:24,1,13,have_evident_staff_not_speak_English_properly,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_staff_not_speak_English_properly.",Yes
+2026-01-21 23:43:25,1,14,have_evident_staff_not_speak_English_properly,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_staff_not_speak_English_properly.",No
+2026-01-21 23:43:26,1,15,have_evident_staff_not_speak_English_properly,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_staff_not_speak_English_properly.",Yes
+2026-01-21 23:43:26,1,16,have_evident_staff_not_speak_English_properly,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_staff_not_speak_English_properly.",Yes
+2026-01-21 23:43:27,1,17,have_evident_staff_not_speak_English_properly,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_staff_not_speak_English_properly.",Yes
+2026-01-21 23:43:28,1,18,have_evident_staff_not_speak_English_properly,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_staff_not_speak_English_properly.",Yes
+2026-01-21 23:43:28,1,19,have_evident_staff_not_speak_English_properly,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_staff_not_speak_English_properly.",Yes
+2026-01-21 23:43:29,1,20,have_evident_staff_not_speak_English_properly,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_staff_not_speak_English_properly.",Yes
+2026-01-21 23:43:30,1,21,have_evident_staff_not_speak_English_properly,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_staff_not_speak_English_properly.",Yes
+2026-01-21 23:43:31,1,22,have_evident_staff_not_speak_English_properly,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_staff_not_speak_English_properly.",Yes
+2026-01-21 23:43:31,1,23,have_evident_staff_not_speak_English_properly,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_staff_not_speak_English_properly.",Yes
+2026-01-21 23:43:32,1,24,have_evident_staff_clean_after_complaint,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:33,1,25,have_evident_staff_clean_after_complaint,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:33,1,26,have_evident_staff_clean_after_complaint,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:34,1,27,have_evident_staff_clean_after_complaint,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:35,1,28,have_evident_staff_clean_after_complaint,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:36,1,29,have_evident_staff_clean_after_complaint,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:36,1,30,have_evident_staff_clean_after_complaint,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:37,1,31,have_evident_staff_clean_after_complaint,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:38,1,32,have_evident_staff_clean_after_complaint,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:39,1,33,have_evident_staff_clean_after_complaint,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:39,1,34,have_evident_staff_clean_after_complaint,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:40,1,35,have_evident_staff_clean_after_complaint,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:41,1,36,have_evident_staff_clean_after_complaint,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:42,1,37,have_evident_staff_clean_after_complaint,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:42,1,38,have_evident_staff_clean_after_complaint,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:43,1,39,have_evident_staff_clean_after_complaint,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:44,1,40,have_evident_staff_clean_after_complaint,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:45,1,41,have_evident_staff_clean_after_complaint,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:45,1,42,have_evident_staff_clean_after_complaint,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:46,1,43,have_evident_staff_clean_after_complaint,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:47,1,44,have_evident_staff_clean_after_complaint,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:47,1,45,have_evident_staff_clean_after_complaint,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:48,1,46,have_evident_staff_clean_after_complaint,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_staff_clean_after_complaint.",Yes
+2026-01-21 23:43:48,1,47,have_evident_staff_should_learn_better_English,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:43:49,1,48,have_evident_staff_should_learn_better_English,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:43:50,1,49,have_evident_staff_should_learn_better_English,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:43:50,1,50,have_evident_staff_should_learn_better_English,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:43:51,1,51,have_evident_staff_should_learn_better_English,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:43:52,1,52,have_evident_staff_should_learn_better_English,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:43:52,1,53,have_evident_staff_should_learn_better_English,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:43:53,1,54,have_evident_staff_should_learn_better_English,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:43:54,1,55,have_evident_staff_should_learn_better_English,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:43:55,1,56,have_evident_staff_should_learn_better_English,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:43:55,1,57,have_evident_staff_should_learn_better_English,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:43:56,1,58,have_evident_staff_should_learn_better_English,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:43:57,1,59,have_evident_staff_should_learn_better_English,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:43:57,1,60,have_evident_staff_should_learn_better_English,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:43:58,1,61,have_evident_staff_should_learn_better_English,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:43:59,1,62,have_evident_staff_should_learn_better_English,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:44:00,1,63,have_evident_staff_should_learn_better_English,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:44:00,1,64,have_evident_staff_should_learn_better_English,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:44:01,1,65,have_evident_staff_should_learn_better_English,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:44:02,1,66,have_evident_staff_should_learn_better_English,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:44:03,1,67,have_evident_staff_should_learn_better_English,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:44:03,1,68,have_evident_staff_should_learn_better_English,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:44:04,1,69,have_evident_staff_should_learn_better_English,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_staff_should_learn_better_English.",Yes
+2026-01-21 23:44:05,1,70,have_evident_staff_need_improve_organization,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:05,1,71,have_evident_staff_need_improve_organization,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:06,1,72,have_evident_staff_need_improve_organization,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:07,1,73,have_evident_staff_need_improve_organization,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:07,1,74,have_evident_staff_need_improve_organization,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:08,1,75,have_evident_staff_need_improve_organization,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:09,1,76,have_evident_staff_need_improve_organization,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:09,1,77,have_evident_staff_need_improve_organization,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:10,1,78,have_evident_staff_need_improve_organization,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:10,1,79,have_evident_staff_need_improve_organization,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:11,1,80,have_evident_staff_need_improve_organization,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:12,1,81,have_evident_staff_need_improve_organization,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:12,1,82,have_evident_staff_need_improve_organization,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:13,1,83,have_evident_staff_need_improve_organization,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:14,1,84,have_evident_staff_need_improve_organization,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:15,1,85,have_evident_staff_need_improve_organization,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:15,1,86,have_evident_staff_need_improve_organization,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:16,1,87,have_evident_staff_need_improve_organization,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:17,1,88,have_evident_staff_need_improve_organization,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:17,1,89,have_evident_staff_need_improve_organization,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:18,1,90,have_evident_staff_need_improve_organization,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:19,1,91,have_evident_staff_need_improve_organization,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:19,1,92,have_evident_staff_need_improve_organization,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_staff_need_improve_organization.",Yes
+2026-01-21 23:44:20,1,93,have_evident_staff_need_improve_collaboration,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_staff_need_improve_collaboration.",Yes
+2026-01-21 23:44:21,1,94,have_evident_staff_need_improve_collaboration,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_staff_need_improve_collaboration.",Yes
+2026-01-21 23:44:22,1,95,have_evident_staff_need_improve_collaboration,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_staff_need_improve_collaboration.",Yes
+2026-01-21 23:44:22,1,96,have_evident_staff_need_improve_collaboration,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_staff_need_improve_collaboration.",Yes
+2026-01-21 23:44:23,1,97,have_evident_staff_need_improve_collaboration,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_staff_need_improve_collaboration.",Yes
+2026-01-21 23:44:24,1,98,have_evident_staff_need_improve_collaboration,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_staff_need_improve_collaboration.",Yes
+2026-01-21 23:44:24,1,99,have_evident_staff_need_improve_collaboration,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_staff_need_improve_collaboration.",Yes
+2026-01-21 23:44:25,1,100,have_evident_staff_need_improve_collaboration,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_staff_need_improve_collaboration.",Yes
+2026-01-21 23:44:26,1,101,have_evident_staff_need_improve_collaboration,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_staff_need_improve_collaboration.",Yes
+2026-01-21 23:44:27,1,102,have_evident_staff_need_improve_collaboration,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_staff_need_improve_collaboration.",Yes
+2026-01-21 23:44:27,1,103,have_evident_staff_need_improve_collaboration,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_staff_need_improve_collaboration.",Yes
+2026-01-21 23:44:28,1,104,have_evident_staff_need_improve_collaboration,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_staff_need_improve_collaboration.",Yes
+2026-01-21 23:44:29,1,105,have_evident_staff_need_improve_collaboration,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_staff_need_improve_collaboration.",Yes
+2026-01-21 23:44:29,1,106,have_evident_staff_need_improve_collaboration,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_staff_need_improve_collaboration.",No
+2026-01-21 23:44:30,1,107,have_evident_staff_need_improve_collaboration,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_staff_need_improve_collaboration.",Yes
+2026-01-21 23:44:31,1,108,have_evident_staff_need_improve_collaboration,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_staff_need_improve_collaboration.",Yes
+2026-01-21 23:44:31,1,109,have_evident_staff_need_improve_collaboration,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_staff_need_improve_collaboration.",Yes
+2026-01-21 23:44:32,1,110,have_evident_staff_need_improve_collaboration,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_staff_need_improve_collaboration.",Yes
+2026-01-21 23:44:32,1,111,have_evident_staff_need_improve_collaboration,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_staff_need_improve_collaboration.",Yes
+2026-01-21 23:44:33,1,112,have_evident_staff_need_improve_collaboration,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_staff_need_improve_collaboration.",Yes
+2026-01-21 23:44:34,1,113,have_evident_staff_need_improve_collaboration,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_staff_need_improve_collaboration.",Yes
+2026-01-21 23:44:35,1,114,have_evident_staff_need_improve_collaboration,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_staff_need_improve_collaboration.",Yes
+2026-01-21 23:44:35,1,115,have_evident_staff_need_improve_collaboration,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_staff_need_improve_collaboration.",Yes
+2026-01-21 23:44:36,1,116,have_evident_staff_need_keep_update,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:37,1,117,have_evident_staff_need_keep_update,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:37,1,118,have_evident_staff_need_keep_update,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:38,1,119,have_evident_staff_need_keep_update,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:39,1,120,have_evident_staff_need_keep_update,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:40,1,121,have_evident_staff_need_keep_update,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:40,1,122,have_evident_staff_need_keep_update,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:41,1,123,have_evident_staff_need_keep_update,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:42,1,124,have_evident_staff_need_keep_update,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:42,1,125,have_evident_staff_need_keep_update,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:43,1,126,have_evident_staff_need_keep_update,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:44,1,127,have_evident_staff_need_keep_update,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:45,1,128,have_evident_staff_need_keep_update,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:45,1,129,have_evident_staff_need_keep_update,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:46,1,130,have_evident_staff_need_keep_update,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:47,1,131,have_evident_staff_need_keep_update,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:48,1,132,have_evident_staff_need_keep_update,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:48,1,133,have_evident_staff_need_keep_update,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:49,1,134,have_evident_staff_need_keep_update,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:49,1,135,have_evident_staff_need_keep_update,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:50,1,136,have_evident_staff_need_keep_update,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:51,1,137,have_evident_staff_need_keep_update,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:51,1,138,have_evident_staff_need_keep_update,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_staff_need_keep_update.",Yes
+2026-01-21 23:44:52,1,139,have_evident_not_kind_staff,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:44:52,1,140,have_evident_not_kind_staff,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:44:53,1,141,have_evident_not_kind_staff,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:44:54,1,142,have_evident_not_kind_staff,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:44:54,1,143,have_evident_not_kind_staff,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:44:55,1,144,have_evident_not_kind_staff,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:44:56,1,145,have_evident_not_kind_staff,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:44:56,1,146,have_evident_not_kind_staff,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:44:57,1,147,have_evident_not_kind_staff,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:44:58,1,148,have_evident_not_kind_staff,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:44:58,1,149,have_evident_not_kind_staff,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:44:59,1,150,have_evident_not_kind_staff,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:45:00,1,151,have_evident_not_kind_staff,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:45:01,1,152,have_evident_not_kind_staff,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:45:01,1,153,have_evident_not_kind_staff,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:45:02,1,154,have_evident_not_kind_staff,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:45:03,1,155,have_evident_not_kind_staff,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:45:04,1,156,have_evident_not_kind_staff,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:45:04,1,157,have_evident_not_kind_staff,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:45:05,1,158,have_evident_not_kind_staff,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:45:06,1,159,have_evident_not_kind_staff,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:45:06,1,160,have_evident_not_kind_staff,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:45:07,1,161,have_evident_not_kind_staff,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_not_kind_staff.",Yes
+2026-01-21 23:45:08,1,162,have_evident_no_empathy_staff,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_no_empathy_staff.",No
+2026-01-21 23:45:08,1,163,have_evident_no_empathy_staff,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_no_empathy_staff.",Yes
+2026-01-21 23:45:09,1,164,have_evident_no_empathy_staff,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_no_empathy_staff.",Yes
+2026-01-21 23:45:10,1,165,have_evident_no_empathy_staff,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_no_empathy_staff.",Yes
+2026-01-21 23:45:10,1,166,have_evident_no_empathy_staff,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_no_empathy_staff.",Yes
+2026-01-21 23:45:11,1,167,have_evident_no_empathy_staff,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_no_empathy_staff.",Yes
+2026-01-21 23:45:11,1,168,have_evident_no_empathy_staff,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_no_empathy_staff.",Yes
+2026-01-21 23:45:12,1,169,have_evident_no_empathy_staff,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_no_empathy_staff.",Yes
+2026-01-21 23:45:13,1,170,have_evident_no_empathy_staff,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_no_empathy_staff.",Yes
+2026-01-21 23:45:13,1,171,have_evident_no_empathy_staff,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_no_empathy_staff.",Yes
+2026-01-21 23:45:14,1,172,have_evident_no_empathy_staff,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_no_empathy_staff.",No
+2026-01-21 23:45:14,1,173,have_evident_no_empathy_staff,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_no_empathy_staff.",Yes
+2026-01-21 23:45:15,1,174,have_evident_no_empathy_staff,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_no_empathy_staff.",Yes
+2026-01-21 23:45:16,1,175,have_evident_no_empathy_staff,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_no_empathy_staff.",Yes
+2026-01-21 23:45:17,1,176,have_evident_no_empathy_staff,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_no_empathy_staff.",Yes
+2026-01-21 23:45:17,1,177,have_evident_no_empathy_staff,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_no_empathy_staff.",Yes
+2026-01-21 23:45:18,1,178,have_evident_no_empathy_staff,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_no_empathy_staff.",Yes
+2026-01-21 23:45:19,1,179,have_evident_no_empathy_staff,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_no_empathy_staff.",Yes
+2026-01-21 23:45:19,1,180,have_evident_no_empathy_staff,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_no_empathy_staff.",No
+2026-01-21 23:45:20,1,181,have_evident_no_empathy_staff,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_no_empathy_staff.",Yes
+2026-01-21 23:45:21,1,182,have_evident_no_empathy_staff,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_no_empathy_staff.",Yes
+2026-01-21 23:45:22,1,183,have_evident_no_empathy_staff,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_no_empathy_staff.",Yes
+2026-01-21 23:45:22,1,184,have_evident_no_empathy_staff,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_no_empathy_staff.",Yes
+2026-01-21 23:45:23,1,185,have_evident_staff_fail_to_communicate_with_taxi,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",Yes
+2026-01-21 23:45:24,1,186,have_evident_staff_fail_to_communicate_with_taxi,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",Yes
+2026-01-21 23:45:24,1,187,have_evident_staff_fail_to_communicate_with_taxi,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",Yes
+2026-01-21 23:45:25,1,188,have_evident_staff_fail_to_communicate_with_taxi,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",Yes
+2026-01-21 23:45:26,1,189,have_evident_staff_fail_to_communicate_with_taxi,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",Yes
+2026-01-21 23:45:27,1,190,have_evident_staff_fail_to_communicate_with_taxi,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",Yes
+2026-01-21 23:45:27,1,191,have_evident_staff_fail_to_communicate_with_taxi,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",Yes
+2026-01-21 23:45:28,1,192,have_evident_staff_fail_to_communicate_with_taxi,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",Yes
+2026-01-21 23:45:29,1,193,have_evident_staff_fail_to_communicate_with_taxi,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",No
+2026-01-21 23:45:29,1,194,have_evident_staff_fail_to_communicate_with_taxi,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",Yes
+2026-01-21 23:45:30,1,195,have_evident_staff_fail_to_communicate_with_taxi,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",Yes
+2026-01-21 23:45:31,1,196,have_evident_staff_fail_to_communicate_with_taxi,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",Yes
+2026-01-21 23:45:31,1,197,have_evident_staff_fail_to_communicate_with_taxi,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",Yes
+2026-01-21 23:45:32,1,198,have_evident_staff_fail_to_communicate_with_taxi,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",Yes
+2026-01-21 23:45:32,1,199,have_evident_staff_fail_to_communicate_with_taxi,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",Yes
+2026-01-21 23:45:33,1,200,have_evident_staff_fail_to_communicate_with_taxi,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",Yes
+2026-01-21 23:45:34,1,201,have_evident_staff_fail_to_communicate_with_taxi,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",Yes
+2026-01-21 23:45:34,1,202,have_evident_staff_fail_to_communicate_with_taxi,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",Yes
+2026-01-21 23:45:35,1,203,have_evident_staff_fail_to_communicate_with_taxi,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",Yes
+2026-01-21 23:45:36,1,204,have_evident_staff_fail_to_communicate_with_taxi,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",Yes
+2026-01-21 23:45:37,1,205,have_evident_staff_fail_to_communicate_with_taxi,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",Yes
+2026-01-21 23:45:37,1,206,have_evident_staff_fail_to_communicate_with_taxi,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",Yes
+2026-01-21 23:45:38,1,207,have_evident_staff_fail_to_communicate_with_taxi,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_staff_fail_to_communicate_with_taxi.",Yes
+2026-01-21 23:45:39,1,208,have_evident_staff_fail_to_guest_request,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:40,1,209,have_evident_staff_fail_to_guest_request,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:40,1,210,have_evident_staff_fail_to_guest_request,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:41,1,211,have_evident_staff_fail_to_guest_request,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:42,1,212,have_evident_staff_fail_to_guest_request,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:42,1,213,have_evident_staff_fail_to_guest_request,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:43,1,214,have_evident_staff_fail_to_guest_request,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:44,1,215,have_evident_staff_fail_to_guest_request,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:45,1,216,have_evident_staff_fail_to_guest_request,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:45,1,217,have_evident_staff_fail_to_guest_request,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:46,1,218,have_evident_staff_fail_to_guest_request,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:47,1,219,have_evident_staff_fail_to_guest_request,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:47,1,220,have_evident_staff_fail_to_guest_request,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:48,1,221,have_evident_staff_fail_to_guest_request,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:49,1,222,have_evident_staff_fail_to_guest_request,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:50,1,223,have_evident_staff_fail_to_guest_request,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:50,1,224,have_evident_staff_fail_to_guest_request,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:51,1,225,have_evident_staff_fail_to_guest_request,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:52,1,226,have_evident_staff_fail_to_guest_request,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:52,1,227,have_evident_staff_fail_to_guest_request,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:53,1,228,have_evident_staff_fail_to_guest_request,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:53,1,229,have_evident_staff_fail_to_guest_request,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:54,1,230,have_evident_staff_fail_to_guest_request,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_staff_fail_to_guest_request.",Yes
+2026-01-21 23:45:55,1,231,have_evident_staff_cannot_provide_double_bed,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:45:55,1,232,have_evident_staff_cannot_provide_double_bed,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:45:56,1,233,have_evident_staff_cannot_provide_double_bed,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:45:57,1,234,have_evident_staff_cannot_provide_double_bed,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:45:57,1,235,have_evident_staff_cannot_provide_double_bed,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:45:58,1,236,have_evident_staff_cannot_provide_double_bed,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:45:59,1,237,have_evident_staff_cannot_provide_double_bed,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:45:59,1,238,have_evident_staff_cannot_provide_double_bed,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:46:00,1,239,have_evident_staff_cannot_provide_double_bed,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:46:01,1,240,have_evident_staff_cannot_provide_double_bed,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:46:02,1,241,have_evident_staff_cannot_provide_double_bed,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:46:02,1,242,have_evident_staff_cannot_provide_double_bed,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:46:03,1,243,have_evident_staff_cannot_provide_double_bed,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:46:04,1,244,have_evident_staff_cannot_provide_double_bed,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:46:05,1,245,have_evident_staff_cannot_provide_double_bed,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:46:05,1,246,have_evident_staff_cannot_provide_double_bed,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:46:06,1,247,have_evident_staff_cannot_provide_double_bed,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:46:07,1,248,have_evident_staff_cannot_provide_double_bed,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:46:08,1,249,have_evident_staff_cannot_provide_double_bed,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:46:08,1,250,have_evident_staff_cannot_provide_double_bed,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:46:09,1,251,have_evident_staff_cannot_provide_double_bed,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:46:10,1,252,have_evident_staff_cannot_provide_double_bed,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:46:10,1,253,have_evident_staff_cannot_provide_double_bed,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_staff_cannot_provide_double_bed.",Yes
+2026-01-21 23:46:11,1,254,have_evident_offended_staff,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:12,1,255,have_evident_offended_staff,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:12,1,256,have_evident_offended_staff,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:13,1,257,have_evident_offended_staff,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:13,1,258,have_evident_offended_staff,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:14,1,259,have_evident_offended_staff,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:15,1,260,have_evident_offended_staff,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:15,1,261,have_evident_offended_staff,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:16,1,262,have_evident_offended_staff,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:17,1,263,have_evident_offended_staff,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:17,1,264,have_evident_offended_staff,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:18,1,265,have_evident_offended_staff,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:19,1,266,have_evident_offended_staff,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:20,1,267,have_evident_offended_staff,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:20,1,268,have_evident_offended_staff,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:21,1,269,have_evident_offended_staff,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:22,1,270,have_evident_offended_staff,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:22,1,271,have_evident_offended_staff,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:23,1,272,have_evident_offended_staff,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:24,1,273,have_evident_offended_staff,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:25,1,274,have_evident_offended_staff,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:25,1,275,have_evident_offended_staff,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:26,1,276,have_evident_offended_staff,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_offended_staff.",Yes
+2026-01-21 23:46:27,1,277,have_evident_staff_not_justify_booking_issue,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:27,1,278,have_evident_staff_not_justify_booking_issue,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:28,1,279,have_evident_staff_not_justify_booking_issue,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:29,1,280,have_evident_staff_not_justify_booking_issue,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:30,1,281,have_evident_staff_not_justify_booking_issue,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:30,1,282,have_evident_staff_not_justify_booking_issue,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:31,1,283,have_evident_staff_not_justify_booking_issue,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:32,1,284,have_evident_staff_not_justify_booking_issue,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:32,1,285,have_evident_staff_not_justify_booking_issue,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:33,1,286,have_evident_staff_not_justify_booking_issue,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:33,1,287,have_evident_staff_not_justify_booking_issue,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:34,1,288,have_evident_staff_not_justify_booking_issue,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:35,1,289,have_evident_staff_not_justify_booking_issue,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:35,1,290,have_evident_staff_not_justify_booking_issue,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:36,1,291,have_evident_staff_not_justify_booking_issue,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:37,1,292,have_evident_staff_not_justify_booking_issue,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:37,1,293,have_evident_staff_not_justify_booking_issue,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:38,1,294,have_evident_staff_not_justify_booking_issue,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:39,1,295,have_evident_staff_not_justify_booking_issue,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:39,1,296,have_evident_staff_not_justify_booking_issue,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:40,1,297,have_evident_staff_not_justify_booking_issue,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:41,1,298,have_evident_staff_not_justify_booking_issue,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:41,1,299,have_evident_staff_not_justify_booking_issue,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_staff_not_justify_booking_issue.",Yes
+2026-01-21 23:46:42,1,300,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",Yes
+2026-01-21 23:46:43,1,301,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",Yes
+2026-01-21 23:46:44,1,302,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",Yes
+2026-01-21 23:46:45,1,303,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",Yes
+2026-01-21 23:46:45,1,304,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",Yes
+2026-01-21 23:46:46,1,305,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",Yes
+2026-01-21 23:46:47,1,306,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",Yes
+2026-01-21 23:46:48,1,307,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",Yes
+2026-01-21 23:46:49,1,308,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",Yes
+2026-01-21 23:46:49,1,309,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",Yes
+2026-01-21 23:46:50,1,310,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",Yes
+2026-01-21 23:46:51,1,311,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",Yes
+2026-01-21 23:46:52,1,312,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",Yes
+2026-01-21 23:46:52,1,313,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",No
+2026-01-21 23:46:53,1,314,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",Yes
+2026-01-21 23:46:54,1,315,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",Yes
+2026-01-21 23:46:54,1,316,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",Yes
+2026-01-21 23:46:55,1,317,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",Yes
+2026-01-21 23:46:56,1,318,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",Yes
+2026-01-21 23:46:56,1,319,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",Yes
+2026-01-21 23:46:57,1,320,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",Yes
+2026-01-21 23:46:58,1,321,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",Yes
+2026-01-21 23:46:59,1,322,have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com.",Yes
+2026-01-21 23:46:59,1,323,have_evident_staff_enforce_cancellation_charge,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:00,1,324,have_evident_staff_enforce_cancellation_charge,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:01,1,325,have_evident_staff_enforce_cancellation_charge,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:01,1,326,have_evident_staff_enforce_cancellation_charge,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:02,1,327,have_evident_staff_enforce_cancellation_charge,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:03,1,328,have_evident_staff_enforce_cancellation_charge,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:04,1,329,have_evident_staff_enforce_cancellation_charge,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:04,1,330,have_evident_staff_enforce_cancellation_charge,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:05,1,331,have_evident_staff_enforce_cancellation_charge,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:06,1,332,have_evident_staff_enforce_cancellation_charge,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:06,1,333,have_evident_staff_enforce_cancellation_charge,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:07,1,334,have_evident_staff_enforce_cancellation_charge,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:08,1,335,have_evident_staff_enforce_cancellation_charge,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:09,1,336,have_evident_staff_enforce_cancellation_charge,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:09,1,337,have_evident_staff_enforce_cancellation_charge,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:10,1,338,have_evident_staff_enforce_cancellation_charge,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:11,1,339,have_evident_staff_enforce_cancellation_charge,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:12,1,340,have_evident_staff_enforce_cancellation_charge,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:12,1,341,have_evident_staff_enforce_cancellation_charge,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:13,1,342,have_evident_staff_enforce_cancellation_charge,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:13,1,343,have_evident_staff_enforce_cancellation_charge,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:14,1,344,have_evident_staff_enforce_cancellation_charge,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:15,1,345,have_evident_staff_enforce_cancellation_charge,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_staff_enforce_cancellation_charge.",Yes
+2026-01-21 23:47:15,1,346,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",Yes
+2026-01-21 23:47:16,1,347,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",Yes
+2026-01-21 23:47:17,1,348,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",Yes
+2026-01-21 23:47:17,1,349,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",Yes
+2026-01-21 23:47:18,1,350,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",Yes
+2026-01-21 23:47:19,1,351,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",Yes
+2026-01-21 23:47:20,1,352,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",Yes
+2026-01-21 23:47:21,1,353,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",Yes
+2026-01-21 23:47:21,1,354,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",Yes
+2026-01-21 23:47:22,1,355,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",Yes
+2026-01-21 23:47:23,1,356,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",Yes
+2026-01-21 23:47:24,1,357,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",Yes
+2026-01-21 23:47:25,1,358,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",Yes
+2026-01-21 23:47:25,1,359,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",Yes
+2026-01-21 23:47:26,1,360,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",Yes
+2026-01-21 23:47:27,1,361,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",No
+2026-01-21 23:47:28,1,362,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",Yes
+2026-01-21 23:47:28,1,363,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",Yes
+2026-01-21 23:47:29,1,364,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",Yes
+2026-01-21 23:47:30,1,365,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",Yes
+2026-01-21 23:47:31,1,366,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",Yes
+2026-01-21 23:47:31,1,367,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",Yes
+2026-01-21 23:47:32,1,368,have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_staff_mistakenly_throw_valuable_item_during_cleaning_service.",Yes
+2026-01-21 23:47:33,1,369,have_evident_staff_not_provide_good_solution,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:34,1,370,have_evident_staff_not_provide_good_solution,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:34,1,371,have_evident_staff_not_provide_good_solution,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:35,1,372,have_evident_staff_not_provide_good_solution,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:35,1,373,have_evident_staff_not_provide_good_solution,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:36,1,374,have_evident_staff_not_provide_good_solution,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:37,1,375,have_evident_staff_not_provide_good_solution,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:37,1,376,have_evident_staff_not_provide_good_solution,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:38,1,377,have_evident_staff_not_provide_good_solution,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:39,1,378,have_evident_staff_not_provide_good_solution,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:39,1,379,have_evident_staff_not_provide_good_solution,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:40,1,380,have_evident_staff_not_provide_good_solution,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:41,1,381,have_evident_staff_not_provide_good_solution,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:42,1,382,have_evident_staff_not_provide_good_solution,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:42,1,383,have_evident_staff_not_provide_good_solution,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:43,1,384,have_evident_staff_not_provide_good_solution,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:44,1,385,have_evident_staff_not_provide_good_solution,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:45,1,386,have_evident_staff_not_provide_good_solution,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:45,1,387,have_evident_staff_not_provide_good_solution,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:46,1,388,have_evident_staff_not_provide_good_solution,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:47,1,389,have_evident_staff_not_provide_good_solution,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:48,1,390,have_evident_staff_not_provide_good_solution,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:48,1,391,have_evident_staff_not_provide_good_solution,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_staff_not_provide_good_solution.",Yes
+2026-01-21 23:47:49,1,392,have_evident_staff_has_unaceptable_manner,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:47:50,1,393,have_evident_staff_has_unaceptable_manner,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:47:50,1,394,have_evident_staff_has_unaceptable_manner,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:47:51,1,395,have_evident_staff_has_unaceptable_manner,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:47:52,1,396,have_evident_staff_has_unaceptable_manner,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:47:52,1,397,have_evident_staff_has_unaceptable_manner,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:47:53,1,398,have_evident_staff_has_unaceptable_manner,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:47:54,1,399,have_evident_staff_has_unaceptable_manner,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:47:54,1,400,have_evident_staff_has_unaceptable_manner,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:47:55,1,401,have_evident_staff_has_unaceptable_manner,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:47:56,1,402,have_evident_staff_has_unaceptable_manner,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:47:56,1,403,have_evident_staff_has_unaceptable_manner,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:47:57,1,404,have_evident_staff_has_unaceptable_manner,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:47:57,1,405,have_evident_staff_has_unaceptable_manner,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:47:58,1,406,have_evident_staff_has_unaceptable_manner,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:47:59,1,407,have_evident_staff_has_unaceptable_manner,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:48:00,1,408,have_evident_staff_has_unaceptable_manner,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:48:00,1,409,have_evident_staff_has_unaceptable_manner,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:48:01,1,410,have_evident_staff_has_unaceptable_manner,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:48:02,1,411,have_evident_staff_has_unaceptable_manner,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:48:02,1,412,have_evident_staff_has_unaceptable_manner,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:48:03,1,413,have_evident_staff_has_unaceptable_manner,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:48:04,1,414,have_evident_staff_has_unaceptable_manner,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_staff_has_unaceptable_manner.",Yes
+2026-01-21 23:48:05,1,415,have_evident_staff_not_speak_Cypriot_language,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:05,1,416,have_evident_staff_not_speak_Cypriot_language,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:06,1,417,have_evident_staff_not_speak_Cypriot_language,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:07,1,418,have_evident_staff_not_speak_Cypriot_language,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:08,1,419,have_evident_staff_not_speak_Cypriot_language,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:08,1,420,have_evident_staff_not_speak_Cypriot_language,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:09,1,421,have_evident_staff_not_speak_Cypriot_language,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:10,1,422,have_evident_staff_not_speak_Cypriot_language,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:11,1,423,have_evident_staff_not_speak_Cypriot_language,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:11,1,424,have_evident_staff_not_speak_Cypriot_language,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:12,1,425,have_evident_staff_not_speak_Cypriot_language,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:13,1,426,have_evident_staff_not_speak_Cypriot_language,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:13,1,427,have_evident_staff_not_speak_Cypriot_language,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:14,1,428,have_evident_staff_not_speak_Cypriot_language,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:15,1,429,have_evident_staff_not_speak_Cypriot_language,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:15,1,430,have_evident_staff_not_speak_Cypriot_language,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:16,1,431,have_evident_staff_not_speak_Cypriot_language,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:16,1,432,have_evident_staff_not_speak_Cypriot_language,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:17,1,433,have_evident_staff_not_speak_Cypriot_language,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:18,1,434,have_evident_staff_not_speak_Cypriot_language,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:18,1,435,have_evident_staff_not_speak_Cypriot_language,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:19,1,436,have_evident_staff_not_speak_Cypriot_language,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:20,1,437,have_evident_staff_not_speak_Cypriot_language,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_staff_not_speak_Cypriot_language.",Yes
+2026-01-21 23:48:20,1,438,have_evident_no_staff_at_night,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_no_staff_at_night.",Yes
+2026-01-21 23:48:21,1,439,have_evident_no_staff_at_night,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_no_staff_at_night.",Yes
+2026-01-21 23:48:22,1,440,have_evident_no_staff_at_night,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_no_staff_at_night.",Yes
+2026-01-21 23:48:23,1,441,have_evident_no_staff_at_night,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_no_staff_at_night.",Yes
+2026-01-21 23:48:23,1,442,have_evident_no_staff_at_night,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_no_staff_at_night.",Yes
+2026-01-21 23:48:24,1,443,have_evident_no_staff_at_night,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_no_staff_at_night.",Yes
+2026-01-21 23:48:25,1,444,have_evident_no_staff_at_night,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_no_staff_at_night.",Yes
+2026-01-21 23:48:25,1,445,have_evident_no_staff_at_night,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_no_staff_at_night.",Yes
+2026-01-21 23:48:26,1,446,have_evident_no_staff_at_night,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_no_staff_at_night.",Yes
+2026-01-21 23:48:27,1,447,have_evident_no_staff_at_night,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_no_staff_at_night.",Yes
+2026-01-21 23:48:28,1,448,have_evident_no_staff_at_night,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_no_staff_at_night.",Yes
+2026-01-21 23:48:28,1,449,have_evident_no_staff_at_night,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_no_staff_at_night.",Yes
+2026-01-21 23:48:29,1,450,have_evident_no_staff_at_night,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_no_staff_at_night.",Yes
+2026-01-21 23:48:30,1,451,have_evident_no_staff_at_night,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_no_staff_at_night.",No
+2026-01-21 23:48:31,1,452,have_evident_no_staff_at_night,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_no_staff_at_night.",Yes
+2026-01-21 23:48:31,1,453,have_evident_no_staff_at_night,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_no_staff_at_night.",Yes
+2026-01-21 23:48:32,1,454,have_evident_no_staff_at_night,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_no_staff_at_night.",Yes
+2026-01-21 23:48:33,1,455,have_evident_no_staff_at_night,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_no_staff_at_night.",Yes
+2026-01-21 23:48:33,1,456,have_evident_no_staff_at_night,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_no_staff_at_night.",Yes
+2026-01-21 23:48:34,1,457,have_evident_no_staff_at_night,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_no_staff_at_night.",Yes
+2026-01-21 23:48:35,1,458,have_evident_no_staff_at_night,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_no_staff_at_night.",Yes
+2026-01-21 23:48:35,1,459,have_evident_no_staff_at_night,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_no_staff_at_night.",Yes
+2026-01-21 23:48:36,1,460,have_evident_no_staff_at_night,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_no_staff_at_night.",Yes
+2026-01-21 23:48:37,1,461,have_evident_staff_not_understand_English_well,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_staff_not_understand_English_well.",Yes
+2026-01-21 23:48:37,1,462,have_evident_staff_not_understand_English_well,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_staff_not_understand_English_well.",Yes
+2026-01-21 23:48:38,1,463,have_evident_staff_not_understand_English_well,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_staff_not_understand_English_well.",Yes
+2026-01-21 23:48:38,1,464,have_evident_staff_not_understand_English_well,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_staff_not_understand_English_well.",Yes
+2026-01-21 23:48:39,1,465,have_evident_staff_not_understand_English_well,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_staff_not_understand_English_well.",Yes
+2026-01-21 23:48:40,1,466,have_evident_staff_not_understand_English_well,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_staff_not_understand_English_well.",Yes
+2026-01-21 23:48:40,1,467,have_evident_staff_not_understand_English_well,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_staff_not_understand_English_well.",Yes
+2026-01-21 23:48:41,1,468,have_evident_staff_not_understand_English_well,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_staff_not_understand_English_well.",Yes
+2026-01-21 23:48:42,1,469,have_evident_staff_not_understand_English_well,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_staff_not_understand_English_well.",Yes
+2026-01-21 23:48:42,1,470,have_evident_staff_not_understand_English_well,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_staff_not_understand_English_well.",Yes
+2026-01-21 23:48:43,1,471,have_evident_staff_not_understand_English_well,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_staff_not_understand_English_well.",Yes
+2026-01-21 23:48:44,1,472,have_evident_staff_not_understand_English_well,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_staff_not_understand_English_well.",Yes
+2026-01-21 23:48:44,1,473,have_evident_staff_not_understand_English_well,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_staff_not_understand_English_well.",Yes
+2026-01-21 23:48:45,1,474,have_evident_staff_not_understand_English_well,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_staff_not_understand_English_well.",No
+2026-01-21 23:48:46,1,475,have_evident_staff_not_understand_English_well,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_staff_not_understand_English_well.",Yes
+2026-01-21 23:48:47,1,476,have_evident_staff_not_understand_English_well,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_staff_not_understand_English_well.",No
+2026-01-21 23:48:47,1,477,have_evident_staff_not_understand_English_well,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_staff_not_understand_English_well.",Yes
+2026-01-21 23:48:48,1,478,have_evident_staff_not_understand_English_well,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_staff_not_understand_English_well.",Yes
+2026-01-21 23:48:49,1,479,have_evident_staff_not_understand_English_well,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_staff_not_understand_English_well.",Yes
+2026-01-21 23:48:50,1,480,have_evident_staff_not_understand_English_well,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_staff_not_understand_English_well.",Yes
+2026-01-21 23:48:50,1,481,have_evident_staff_not_understand_English_well,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_staff_not_understand_English_well.",Yes
+2026-01-21 23:48:51,1,482,have_evident_staff_not_understand_English_well,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_staff_not_understand_English_well.",Yes
+2026-01-21 23:48:52,1,483,have_evident_staff_not_understand_English_well,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_staff_not_understand_English_well.",Yes
+2026-01-21 23:48:53,1,484,have_evident_staff_cannot_give_bus_to_airport_information,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:48:53,1,485,have_evident_staff_cannot_give_bus_to_airport_information,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:48:54,1,486,have_evident_staff_cannot_give_bus_to_airport_information,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:48:55,1,487,have_evident_staff_cannot_give_bus_to_airport_information,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:48:55,1,488,have_evident_staff_cannot_give_bus_to_airport_information,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:48:56,1,489,have_evident_staff_cannot_give_bus_to_airport_information,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:48:57,1,490,have_evident_staff_cannot_give_bus_to_airport_information,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:48:57,1,491,have_evident_staff_cannot_give_bus_to_airport_information,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:48:58,1,492,have_evident_staff_cannot_give_bus_to_airport_information,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:48:59,1,493,have_evident_staff_cannot_give_bus_to_airport_information,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:48:59,1,494,have_evident_staff_cannot_give_bus_to_airport_information,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:49:00,1,495,have_evident_staff_cannot_give_bus_to_airport_information,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:49:01,1,496,have_evident_staff_cannot_give_bus_to_airport_information,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:49:02,1,497,have_evident_staff_cannot_give_bus_to_airport_information,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:49:03,1,498,have_evident_staff_cannot_give_bus_to_airport_information,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:49:03,1,499,have_evident_staff_cannot_give_bus_to_airport_information,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:49:04,1,500,have_evident_staff_cannot_give_bus_to_airport_information,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:49:05,1,501,have_evident_staff_cannot_give_bus_to_airport_information,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:49:06,1,502,have_evident_staff_cannot_give_bus_to_airport_information,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:49:07,1,503,have_evident_staff_cannot_give_bus_to_airport_information,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:49:07,1,504,have_evident_staff_cannot_give_bus_to_airport_information,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:49:08,1,505,have_evident_staff_cannot_give_bus_to_airport_information,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:49:09,1,506,have_evident_staff_cannot_give_bus_to_airport_information,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_staff_cannot_give_bus_to_airport_information.",Yes
+2026-01-21 23:49:10,1,507,have_evident_only_one_staff_wear_mask,staff_not_speak_English_properly,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_English_properly. Phrase A is have_evident_only_one_staff_wear_mask.",Yes
+2026-01-21 23:49:10,1,508,have_evident_only_one_staff_wear_mask,staff_clean_after_complaint,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_clean_after_complaint. Phrase A is have_evident_only_one_staff_wear_mask.",Yes
+2026-01-21 23:49:11,1,509,have_evident_only_one_staff_wear_mask,staff_should_learn_better_English,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_should_learn_better_English. Phrase A is have_evident_only_one_staff_wear_mask.",Yes
+2026-01-21 23:49:12,1,510,have_evident_only_one_staff_wear_mask,staff_need_improve_organization,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_organization. Phrase A is have_evident_only_one_staff_wear_mask.",Yes
+2026-01-21 23:49:13,1,511,have_evident_only_one_staff_wear_mask,staff_need_improve_collaboration,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_improve_collaboration. Phrase A is have_evident_only_one_staff_wear_mask.",Yes
+2026-01-21 23:49:13,1,512,have_evident_only_one_staff_wear_mask,staff_need_keep_update,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_need_keep_update. Phrase A is have_evident_only_one_staff_wear_mask.",Yes
+2026-01-21 23:49:14,1,513,have_evident_only_one_staff_wear_mask,not_kind_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is not_kind_staff. Phrase A is have_evident_only_one_staff_wear_mask.",Yes
+2026-01-21 23:49:15,1,514,have_evident_only_one_staff_wear_mask,no_empathy_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_empathy_staff. Phrase A is have_evident_only_one_staff_wear_mask.",Yes
+2026-01-21 23:49:15,1,515,have_evident_only_one_staff_wear_mask,staff_fail_to_communicate_with_taxi,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_communicate_with_taxi. Phrase A is have_evident_only_one_staff_wear_mask.",Yes
+2026-01-21 23:49:16,1,516,have_evident_only_one_staff_wear_mask,staff_fail_to_guest_request,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_fail_to_guest_request. Phrase A is have_evident_only_one_staff_wear_mask.",Yes
+2026-01-21 23:49:17,1,517,have_evident_only_one_staff_wear_mask,staff_cannot_provide_double_bed,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_provide_double_bed. Phrase A is have_evident_only_one_staff_wear_mask.",Yes
+2026-01-21 23:49:17,1,518,have_evident_only_one_staff_wear_mask,offended_staff,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is offended_staff. Phrase A is have_evident_only_one_staff_wear_mask.",Yes
+2026-01-21 23:49:18,1,519,have_evident_only_one_staff_wear_mask,staff_not_justify_booking_issue,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_justify_booking_issue. Phrase A is have_evident_only_one_staff_wear_mask.",Yes
+2026-01-21 23:49:19,1,520,have_evident_only_one_staff_wear_mask,staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_charge_for_cancellation_while_no_cancellation_charge_in_Booking.com. Phrase A is have_evident_only_one_staff_wear_mask.",Yes
+2026-01-21 23:49:19,1,521,have_evident_only_one_staff_wear_mask,staff_enforce_cancellation_charge,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_enforce_cancellation_charge. Phrase A is have_evident_only_one_staff_wear_mask.",Yes
+2026-01-21 23:49:20,1,522,have_evident_only_one_staff_wear_mask,staff_mistakenly_throw_valuable_item_during_cleaning_service,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_mistakenly_throw_valuable_item_during_cleaning_service. Phrase A is have_evident_only_one_staff_wear_mask.",Yes
+2026-01-21 23:49:21,1,523,have_evident_only_one_staff_wear_mask,staff_not_provide_good_solution,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_provide_good_solution. Phrase A is have_evident_only_one_staff_wear_mask.",Yes
+2026-01-21 23:49:22,1,524,have_evident_only_one_staff_wear_mask,staff_has_unaceptable_manner,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_has_unaceptable_manner. Phrase A is have_evident_only_one_staff_wear_mask.",Yes
+2026-01-21 23:49:22,1,525,have_evident_only_one_staff_wear_mask,staff_not_speak_Cypriot_language,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_speak_Cypriot_language. Phrase A is have_evident_only_one_staff_wear_mask.",Yes
+2026-01-21 23:49:23,1,526,have_evident_only_one_staff_wear_mask,no_staff_at_night,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_staff_at_night. Phrase A is have_evident_only_one_staff_wear_mask.",Yes
+2026-01-21 23:49:24,1,527,have_evident_only_one_staff_wear_mask,staff_not_understand_English_well,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_not_understand_English_well. Phrase A is have_evident_only_one_staff_wear_mask.",Yes
+2026-01-21 23:49:24,1,528,have_evident_only_one_staff_wear_mask,staff_cannot_give_bus_to_airport_information,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_cannot_give_bus_to_airport_information. Phrase A is have_evident_only_one_staff_wear_mask.",Yes
+2026-01-21 23:49:25,1,529,have_evident_only_one_staff_wear_mask,only_one_staff_wear_mask,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is only_one_staff_wear_mask. Phrase A is have_evident_only_one_staff_wear_mask.",Yes

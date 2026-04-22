@@ -1,0 +1,3179 @@
+ID,Topic,Output
+1,good_staff,"1. **Support**: staff_are_extremely_helpful  
+   - **Contrary**: no_evident_not_staff_are_extremely_helpful  
+
+2. **Support**: staff_are_easy_to_communicate_with  
+   - **Contrary**: no_evident_not_staff_are_easy_to_communicate_with"
+2,good_staff,"1. **Supports:**
+   - nice_staff
+   - helpful_staff
+
+2. **Contraries:**
+   - no_evident_not_nice_staff  
+   - no_evident_not_helpful_staff"
+4,good_staff,"- Claim: good_staff
+- Supports:
+  - exceptional_staff
+    - no_evident_not_exceptional_staff
+  - helpful_staff
+    - no_evident_not_helpful_staff
+  - friendly_staff
+    - no_evident_not_friendly_staff
+  - staff_go_out_of_their_way_for_us
+    - no_evident_not_staff_go_out_of_their_way_for_us"
+8,good_staff,"Here is the structured ABA format based on your instructions:
+
+- **Supports:**
+  - lovely
+  - personal
+
+- **Contraries:**
+  - no_evident_not_lovely
+  - no_evident_not_personal"
+9,good_staff,"1. **Support**: helpful_host  
+   - **Contrary**: no evident_not_helpful_host  
+
+2. **Support**: showed_host_how_nearby_bus_takes_to_town_centre  
+   - **Contrary**: no evident_not_showed_host_how_nearby_bus_takes_to_town_centre  
+
+3. **Support**: mentioned_host_airport  
+   - **Contrary**: no evident_not_mentioned_host_airport"
+11,good_staff,"1. **Supports**:  
+   - great_receptionist  
+   - friendly_chef  
+   - has_a_permanent  
+   - nice_cleaning_lady  
+
+2. **Contraries**:  
+   - no_evident_not_great_receptionist  
+   - no_evident_not_friendly_chef  
+   - no_evident_not_has_a_permanent  
+   - no_evident_not_nice_cleaning_lady"
+12,good_staff,"Here is the structured ABA format based on your requirements:
+
+1. **Claim**: good_staff  
+2. **Supports**:
+   - helpful  
+     - Contrary: no_evident_not_helpful  
+   - friendly  
+     - Contrary: no_evident_not_friendly  
+   - went_out_of_their_way_for_us  
+     - Contrary: no_evident_not_went_out_of_their_way_for_us"
+13,good_staff,"1. supporting element: welcoming_staff  
+2. supporting element: family_friendly  
+3. contrary: no_evident_not_welcoming_staff  
+4. contrary: no_evident_not_family_friendly"
+14,bad_staff,"1. receptionist_poor_english  
+   have_evident_receptionist_poor_english"
+15,good_staff,"The following is the ABA format based on your instructions:
+
+- **Claim**: good_staff  
+  - **Supports**:  
+    - staff_make_it  
+      - Contrary: no_evident_not staff_make_it"
+17,good_staff,"1. good_staff  
+2. friendly_staff  
+3. supportive_staff  
+4. helped_with_all_our_wishes  
+5. no_evident_not_friendly_staff  
+6. no_evident_not_supportive_staff  
+7. no_evident_not_helped_with_all_our_wishes"
+18,good_staff,"- **Supports**:  
+  - friendly_reception  
+  - friendly_dining  
+
+- **Contraries**:  
+  - no_evident_not_friendly_reception  
+  - no_evident_not_friendly_dining"
+20,good_staff,"- **Support**: friendly staff  
+  **Contrary**: no evident not friendly staff"
+21,good_staff,"Here is the structured ABA format based on your text, following all the given conditions:
+
+**Supports:**
+1. helpful_staff  
+2. friendly_staff  
+3. go_out_of_their_way_for_us  
+4. fresh_food_support  
+5. kind_owners  
+
+**Contraries:**
+- no_evident_not_helpful_staff  
+- no_evident_not_friendly_staff  
+- no_evident_not_go_out_of_their_way_for_us  
+- no_evident_not_fresh_food_support  
+- no_evident_not_kind_owners"
+22,good_staff,"good_staff  
+accommodating  
+no_evident_not_accommodating"
+26,good_staff,"1. wonderful_staff  
+2. friendly_staff  
+3. no evident not wonderful_staff  
+4. no evident not friendly_staff"
+27,good_staff,"Here is the structured ABA format based on your requirements:
+
+- **Claim:** good_staff
+- **Supports:**
+  - exceptional
+  - helpful
+  - friendly
+  - go_out_of_their_way_for_us
+- **Contraries:**
+  - no_evident_not_exceptional
+  - no_evident_not_helpful
+  - no_evident_not_friendly
+  - no_evident_not_go_out_of_their_way_for_us"
+28,good_staff,"- **polite_staff**  
+  - **caring_staff**  
+  - **no_evident_not_polite_staff**  
+  - **no_evident_not_caring_staff**"
+29,good_staff,"Here is the structured ABA format based on your text:
+
+- **Claim**: good_staff  
+- **Supports**:  
+  - lovely  
+  - helpful  
+- **Contraries**:  
+  - no_evident_not_lovely  
+  - no_evident_not_helpful"
+30,good_staff,"1. Staff_lovely  
+2. service_great  
+3. no_evident_not_staff_lovely  
+4. no_evident_not_service_great"
+31,good_staff,"Here is the text in ABA format based on your conditions:
+
+- **Support**: friendly  
+  - **Contrary**: no evident not friendly  
+
+- **Support**: friendly staff  
+  - **Contrary**: no evident not friendly staff"
+32,good_staff,"- **good_staff**  
+  - **kind_staff**  
+    - **kind**  
+      - **no evident not kind**"
+33,good_staff,"1. **Support**: helpful_staff  
+   **Contrary**: no_evident_not_helpful_staff  
+
+2. **Support**: friendly_staff  
+   **Contrary**: no_evident_not_friendly_staff"
+34,good_staff,"Here is the structured presentation of the ABA format based on the given text:
+
+1. The staff were exceptional.
+2. So helpful and friendly.
+3. Went out of their way for us.
+
+Contraries:
+4. No evident not exceptional_staff.
+5. No evident not helpful_staff.
+6. No evident not friendly_staff.
+7. No evident not went_out_of_their_way_for_us.
+
+This format ensures that each support is followed by its corresponding contrary, providing a comprehensive argumentation structure."
+36,good_staff,"1. very_good_receptionist  
+   no_evident_not_very_good_receptionist  
+
+2. explained_clearly_receptionist  
+   no_evident_not_explained_clearly_receptionist"
+37,good_staff,"lovely_staff, caring_staff, no_evident_not_lovely_staff, no_evident_not_caring_staff"
+41,good_staff,"Here is the text formatted according to your instructions:
+
+- **Claim**: good_staff  
+- **Supports**:
+  - friendly
+    - no_evident_not_friendly
+  - helpful
+    - no_evident_not_helpful"
+42,good_staff,[ERROR] Timeout after 180s while waiting for model response. Skipping.
+44,good_staff,"Here’s the structured ABA format based on your instructions:
+
+1. **Supports:**
+   - **warm**
+     - No evident not warm
+   - **welcome**
+     - No evident not welcome
+   - **reception**
+     - No evident not reception
+   - **dining**
+     - No evident not dining
+   - **staff**
+     - No evident not staff
+
+2. **Contraries:**
+   - **No evident not warm**
+   - **No evident not welcome**
+   - **No evident not reception**
+   - **No evident not dining**
+   - **No evident not staff**
+
+This format ensures that each support is paired with its corresponding contrary, using only the vocabulary from your original text and adhering to the specified conditions."
+47,good_staff,"Here is the structured Assumption-Based Argumentation (ABA) based on the provided text:
+
+- **Claim**: good_staff
+- **Supports**:
+  - helpful_staff
+  - organised_taxi_collect_us_in_morning
+- **Contraries**:
+  - no_evident_not_helpful_staff
+  - no_evident_not_organised_taxi_collect_us_in_morning
+
+This format adheres to the specified conditions, ensuring clarity and conciseness while maintaining the integrity of the original text's meaning."
+48,good_staff,"- **Support**: lovely_owner  
+  - **Contrary**: no_evident_not_lovely_owner"
+51,good_staff,"Here is the text generated in Assumption-Based Argumentation (ABA) format based on your input:
+
+- **Claim**: good_staff  
+- **Support**: helpful_staff  
+  - **Contrary**: no_evident_not_helpful_staff  
+- **Support**: friendly_staff  
+  - **Contrary**: no_evident_not_friendly_staff"
+56,good_staff,"amazing_hospitality  
+no_evident_not_amazing_hospitality"
+57,good_staff,"Here is the structured ABA format based on your instructions:
+
+1. **Supports**:
+   - helpful_staff
+   - ordered_a_taxi_for_us_to_get_to_the_airport_very_early_in_the_morning
+
+2. **Contraries**:
+   - no_evident_not_helpful_staff
+   - no_evident_not_ordered_a_taxi_for_us_to_get_to_the_airport_very_early_in_the_morning"
+58,good_staff,"1. nice_staff  
+   - no evident not nice staff  
+
+2. helpful_staff  
+   - no evident not helpful staff"
+61,good_staff,"- **Support**: good_service  
+  - **Contrary**: no_evident_not_good_service"
+62,good_staff,"- **Support**: caring_host  
+  **Contrary**: no_evident_not_caring_host  
+
+- **Support**: helpful_host  
+  **Contrary**: no_evident_not_helpful_host"
+64,good_staff,"Here is the structured ABA format based on your conditions:
+
+- **Supports:**
+  - staff_reached_out_in_advance
+  - staff_provided_instructions
+
+- **Contraries:**
+  - no_evident_not_staff_reached_out_in_advance
+  - no_evident_not_staff_provided_instructions"
+66,good_staff,"- **Support**: friendly_staff  
+  - **Contrary**: no_evident_not_friendly_staff  
+
+- **Support**: smiling_staff  
+  - **Contrary**: no_evident_not_smiling_staff"
+67,good_staff,"Here is the structured ABA format based on your requirements:
+
+1. **Supports:**
+   - exceptional
+   - helpful
+   - friendly
+   - went out of their way for us
+
+2. **Contraries:**
+   - no evident not exceptional
+   - no evident not helpful
+   - no evident not friendly
+   - no evident not went out of their way for us"
+68,good_staff,"Here is the structured ABA format based on the given text:
+
+- **Claim**: good_staff
+- **Support**: friendly_staff
+- **Contrary**: no_evident_not_friendly_staff"
+69,good_staff,"- Claim: good_staff  
+  - Place_lovely  
+    - No evident not_place_lovely  
+  - People_lovely  
+    - No evident not_people_lovely"
+70,good_staff,"- **friendly_staff**  
+  - **no evident not_friendly_staff**
+
+- **helpful_staff**  
+  - **no evident not_helpful_staff**"
+71,good_staff,"- **Claim**: good_staff  
+- **Supports**:  
+  - friendly_staff  
+  - nice_staff  
+- **Contraries**:  
+  - no_evident_not_friendly_staff  
+  - no_evident_not_nice_staff"
+73,good_staff,"Here’s how you can format your text in Assumption-Based Argumentation (ABA) based on the given conditions:
+
+1. **Claim**: good_staff  
+2. **Supports**:
+   - lovely_staff
+   - best_assist
+   - always_assist  
+3. **Contraries** for each support:
+   - no_evident_not_lovely_staff  
+   - no_evident_not_best_assist  
+   - no_evident_not_always_assist  
+
+This structure ensures that you have a clear claim, relevant supports with short and precise terms, and corresponding contraries that start with ""no evident not."""
+74,good_staff,"- **Claim**: good_staff  
+- **Supports**:  
+  - friendly_staff  
+  - nice_staff  
+- **Contraries**:  
+  - no_evident_not_friendly_staff  
+  - no_evident_not_nice_staff"
+77,good_staff,"1. helpful_staff  
+2. eager_to_assist  
+3. no_evident_not_helpful  
+4. no_evident_not_eager_to_assist"
+78,good_staff,"Here is the structured response in ABA format based on your instructions:
+
+- **Support**: friendly  
+  - **Contrary**: no_evident_not_friendly  
+
+- **Support**: nice  
+  - **Contrary**: no_evident_not_nice"
+79,good_staff,"- **friendly_staff**  
+  - **no evident not_friendly_staff**
+
+- **helpful_staff**  
+  - **no evident not_helpful_staff**"
+82,good_staff,"- Support: amazing_staff  
+  - Contrary: no_evident_not_amazing_staff"
+83,good_staff,"1. good_staff  
+2. nice  
+3. friendly  
+4. staff_was_nice  
+5. staff_was_friendly  
+6. no_evident_not_nice  
+7. no_evident_not_friendly"
+84,good_staff,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your instructions:
+
+- **Supports**:  
+  - good_staff  
+  - serving_customers  
+  - polite_staff  
+  - caring_staff  
+  - could_not_seem_to_do_enough_for_their_guests  
+
+- **Contraries** (for each support):  
+  - no_evident_not_good_staff  
+  - no_evident_not_serving_customers  
+  - no_evident_not Polite staff  
+  - no_evident_not_caring_staff  
+  - no_evident_not Could not seem to do enough for their guests  
+
+This format ensures that each support is paired with its contrary, using the same terms as in the original text and avoiding any unnecessary adjectives or adverbs."
+85,bad_staff,"1. **Support**: staff_didn_t_finish_the_cleaning  
+   **Contrary**: have_evident_staff_didn_t_finish_the_cleaning  
+
+2. **Support**: have_evident_staff_didn_t_finish_the_cleaning  
+   **Contrary**: have_evident_staff_didn_t_finish_the_cleaning"
+85,good_staff,"friendly_personnel  
+no_evident_not_friendly_personnel  
+personnel  
+no_evident_not_personnel"
+86,good_staff,"Here is the ABA format response based on your text and conditions:
+
+- **Claim**: good_staff  
+  - **Supports**:  
+    1. friendly  
+       - **Contrary**: no_evident_not_friendly  
+    2. staff  
+       - **Contrary**: no_evident_not_staff"
+87,good_staff,"- **Claim**: good_staff  
+- **Support**: friendly  
+- **Contrary**: no evident not friendly"
+88,good_staff,"- **Support**: friendly  
+  - **Contrary**: no evident not friendly"
+91,good_staff,"Here is the text in Assumption-Based Argumentation (ABA) format based on your query and conditions:
+
+1. **helpful staff**  
+   - No evident not helpful staff  
+
+2. **friendly staff**  
+   - No evident not friendly staff"
+94,good_staff,"- **Support**: amazing_staff  
+  **Contrary**: no_evident_not_amazing_staff"
+96,good_staff,"- good_staff  
+  - nice_staff  
+    - no_evident_not_nice_staff"
+97,good_staff,"- good_staff  
+  - excellent  
+    - no evident not excellent"
+99,good_staff,"1. **Claim**: good_staff  
+2. **Support**: wonderful_staff  
+   - **Contrary**: no_evident_not_wonderful_staff  
+3. **Support**: staff_was  
+   - **Contrary**: no_evident_not_staff_was"
+100,good_staff,"1. Exceptional staff  
+   No evident not exceptional staff  
+
+2. Polite staff  
+   No evident not polite staff"
+101,good_staff,"Here’s the text formatted in Assumption-Based Argumentation (ABA) based on your conditions:
+
+1. **good_staff**  
+   - **hospitable**  
+     - no evident not hospitable  
+   - **helpful**  
+     - no evident not helpful"
+102,good_staff,"- **Support**: friendly_staff  
+  **Contrary**: no_evident_not_friendly_staff"
+105,good_staff,"- **Supports**:  
+  - nice_staff  
+  - was_staff  
+
+- **Contraries**:  
+  - no_evident_not_nice_staff  
+  - no_evident_not_was_staff"
+106,bad_staff,"1. Support: staff should learn  
+   Contrary: have evident staff should learn  
+
+2. Support: bad staff (because of not learning better English)  
+   Contrary: have evident bad staff (because of not learning better English)"
+109,good_staff,"- **Support**: helpful  
+  - **Contrary**: no_evident_not_helpful  
+
+- **Support**: friendly  
+  - **Contrary**: no_evident_not_friendly"
+113,good_staff,"1. **Support**: excellent_staff  
+   **Contrary**: no_evident_not_excellent_staff  
+
+2. **Support**: accommodating_staff  
+   **Contrary**: no_evident_not_accommodating_staff"
+114,good_staff,"1. **Support**: staff  
+   **Contrary**: No evident not staff  
+
+2. **Support**: via_booking.com  
+   **Contrary**: No evident not via_booking.com  
+
+3. **Support**: arrived  
+   **Contrary**: No evident not arrived  
+
+4. **Support**: hotel  
+   **Contrary**: No evident not hotel  
+
+5. **Support**: not_manned_24/7  
+   **Contrary**: No evident not not_manned_24/7  
+
+6. **Support**: arrangements  
+   **Contrary**: No evident not arrangements  
+
+7. **Support**: collect_room_key  
+   **Contrary**: No evident not collect_room_key  
+
+8. **Support**: bus_routes  
+   **Contrary**: No evident not bus_routes"
+115,good_staff,"1. helpful_stuff  
+   - No evident not helpful_stuff  
+2. nice_stuff  
+   - No evident not nice_stuff"
+118,good_staff,"- good_staff  
+  - perfect_front_desk  
+    - no_evident_not_perfect_front_desk  
+  - 10_10  
+    - no_evident_not_10_10"
+119,good_staff,"1. **Support**: fantastic_service  
+   **Contrary**: no_evident_not_fantastic_service  
+
+2. **Support**: friendlier  
+   **Contrary**: no_evident_not_friendlier  
+
+3. **Support**: kinder  
+   **Contrary**: no_evident_not_kinder  
+
+4. **Support**: more_helpful  
+   **Contrary**: no_evident_not_more_helpful"
+120,good_staff,"1. helpful_staff  
+   - no_evident_not_helpful  
+2. friendly_staff  
+   - no_evident_not_friendly  
+3. went_out_of_their_way_for_us  
+   - no_evident_not_went_out_of_their_way_for_us"
+122,good_staff,"good_staff  
+friendly_staff  
+no_evident_not_friendly_staff"
+123,good_staff,"- **Supports**:  
+  - friendly  
+  - helpful  
+
+- **Contraries**:  
+  - no_evident_not_friendly  
+  - no_evident_not_helpful"
+124,good_staff,"- good_staff  
+  - very_friendly_staff  
+    - no_evident_not_very_friendly_staff"
+126,good_staff,"1. helpful_staff  
+   No evident not helpful_staff  
+
+2. friendly_staff  
+   No evident not friendly_staff"
+129,good_staff,"kind  
+no evident not kind  
+
+helpful  
+no evident not helpful"
+131,good_staff,"Here is the ABA format based on your request:
+
+- good_staff
+  - supports:
+    - very_nice_staff
+      - no_evident_not_very_nice_staff"
+132,good_staff,"1. **friendly_staff**  
+   - **Support**: friendly  
+   - **Contrary**: no_evident_not_friendly  
+
+2. **helpful_host**  
+   - **Support**: helpful  
+   - **Contrary**: no_evident_not_helpful  
+
+3. **excellent_service**  
+   - **Support**: excellent  
+   - **Contrary**: no_evident_not_excellent"
+133,good_staff,"- **Support**: helpful_staff  
+  - **Contrary**: no_evident_not_helpful_staff"
+134,good_staff,"The response to your query is:
+
+- **Support**: friendly_staff  
+- **Contrary**: no_evident_not_friendly_staff"
+135,good_staff,"Here is the structured ABA format based on your requirements:
+
+- **Claim**: good_staff  
+- **Supports**:  
+  - great  
+  - staff  
+- **Contraries**:  
+  - no evident not great  
+  - no evident not staff"
+137,good_staff,"Here is the structured ABA format based on the given conditions:
+
+1. **Claim**: good_staff  
+2. **Supports**:
+   - exceptional_staff
+   - helpful_staff
+   - friendly_staff
+   - staff_go_out_of_their_way_for_us  
+3. **Contraries** (for each support):
+   - no_evident_not_exceptional_staff
+   - no_evident_not_helpful_staff
+   - no_evident_not_friendly_staff
+   - no_evident_not_staff_go_out_of_their_way_for_us  
+
+This format ensures that all elements are included as per the specified conditions, maintaining clarity and conciseness."
+138,good_staff,"1. helpful_staff  
+   - No evident not helpful  
+2. kind_personel  
+   - No evident not kind"
+141,good_staff,"1. **Support**: wonderful_staff  
+2. **Contrary**: no_evident_not_wonderful_staff"
+142,good_staff,"1. **Supports**:  
+   - convenient_staff  
+   - friendly_staff  
+
+2. **Contraries**:  
+   - no_evident_not_convenient_staff  
+   - no_evident_not_friendly_staff"
+145,good_staff,"1. **Claim**: good_staff  
+2. **Supports**:
+   - friendly_staff
+   - made_everything_possible_for_our_stay  
+3. **Contraries**:
+   - no_evident_not_friendly_staff
+   - no_evident_not_made_everything_possible_for_our_stay"
+146,good_staff,"Here is the structured ABA format based on your input:
+
+- **Supports:**
+  - friendly  
+  - make this hotel  
+
+- **Contraries:**
+  - no evident not friendly  
+  - no evident not make this hotel"
+147,good_staff,"amazing_staff  
+no_evident_not_amazing_staff"
+149,good_staff,"Here is the text generated in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Supports**:  
+  - friendly_staff  
+  - let us into room as soon as it was ready  
+  - arranged airport taxi for 6am too  
+
+- **Contraries**:  
+  - no_evident_not_friendly_staff  
+  - no_evident_not_let_us_into_room_as soon as it was ready  
+  - no_evident_not_arranged_airport_taxi_for_6am too"
+153,good_staff,"1. **lovely_staff**  
+   - Support: lovely  
+   - Contrary: no_evident_not_lovely  
+
+2. **friendly_staff**  
+   - Support: friendly  
+   - Contrary: no_evident_not_friendly  
+
+3. **checked_us_in_quickly**  
+   - Support: checked us in quickly  
+   - Contrary: no_evident_not_checked_us_in_quickly  
+
+4. **stored_luggage**  
+   - Support: stored luggage  
+   - Contrary: no_evident_not_stored_luggage  
+
+5. **called_taxi_for_us**  
+   - Support: called a taxi for us  
+   - Contrary: no_evident_not_called_taxi_for_us"
+154,good_staff,"- Support: lovely_staff  
+  Contrary: no_evident_not_lovely_staff"
+158,good_staff,"- **good_staff great**  
+  - **no_evident_not_great**"
+159,good_staff,"1. **Support**: friendly_staff  
+   **Contrary**: no_evident_not_friendly_staff  
+
+2. **Support**: staff_good  
+   **Contrary**: no_evident_not_staff_good"
+162,good_staff,"- Exceptional_staff  
+  - No evident not_exceptional_staff  
+- Helpful_staff  
+  - No evident not_helpful_staff  
+- Friendly_staff  
+  - No evident not_friendly_staff  
+- Staff_go_out_of_their_way_for_us  
+  - No evident not_staff_go_out_of_their_way_for_us"
+164,good_staff,"Here is the text in Assumption Based Argumentation (ABA) format based on your request:
+
+- **Supports**:  
+  - exceptional_staff  
+  - helpful_staff  
+  - friendly_staff  
+  - staff_go_out_of_their_way_for_us  
+  - accommodating_staff  
+  - friendly_staff  
+
+- **Contraries**:  
+  - no_evident_not_exceptional_staff  
+  - no_evident_not_helpful_staff  
+  - no_evident_not_friendly_staff  
+  - no_evident_not_staff_go_out_of_their_way_for_us  
+  - no_evident_not_accommodating_staff  
+  - no_evident_not_friendly_staff"
+165,good_staff,"- **Support**: friendly_staff  
+  - **Contrary**: no_evident_not_friendly_staff"
+167,good_staff,"1. **Supports:**
+   - staff
+   - service
+
+2. **Contraries:**
+   - no evident not staff
+   - no evident not service"
+169,good_staff,"- friendly_staff, no_evident_not_friendly_staff  
+- helpful_staff, no_evident_not_helpful_staff"
+171,good_staff,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Supports**:  
+  - very  
+  - welcoming  
+  - staff  
+
+- **Contraries**:  
+  - no evident not very  
+  - no evident not welcoming  
+  - no evident not staff"
+172,good_staff,"- **Claim**: friendly_personal  
+  - **Support**: friendly  
+    - **Contrary**: no_evident_not_friendly"
+173,good_staff,"good_staff, friendly_staff, kind_staff, helpful_staff, no_evident_not_friendly_staff, no_evident_not_kind_staff, no_evident_not_helpful_staff"
+177,good_staff,"1. **Supports**:  
+   - nice_staff  
+   - helpful_staff  
+   - agile_staff  
+   - responsive_staff  
+
+2. **Contraries**:  
+   - no_evident_not_nice_staff  
+   - no_evident_not_helpful_staff  
+   - no_evident_not_agile_staff  
+   - no_evident_not_responsive_staff"
+180,good_staff,"friendly_staff, no_evident_not_friendly_staff"
+181,good_staff,"1. support_1: warm  
+   no_evident_not_warm  
+
+2. support_2: welcoming  
+   no_evident_not_welcoming  
+
+3. support_3: great  
+   no_evident_not_great  
+
+4. support_4: staff  
+   no_evident_not_staff"
+182,good_staff,"- **Claim**: Hospitality  
+- **Support**: hospitality  
+  - **Contrary**: no evident not hospitality"
+183,good_staff,"- **Support**: friendly_team  
+  **Contrary**: no_evident_not_friendly_team"
+185,good_staff,"1. Claim: good_staff  
+2. Supports:  
+   - accommodated_arrival_3am  
+   - manager_building  
+   - manager_kitchen  
+3. Contraries:  
+   - no_evident_not_accommodated_arrival_3am  
+   - no_evident_not_manager_building  
+   - no_evident_not_manager_kitchen"
+186,good_staff,"- **Support**: friendly_staff  
+  **Contrary**: no_evident_not_friendly_staff"
+192,good_staff,"amazing_staff, no_evident_not_amazing_staff"
+193,good_staff,"- **Claim**: good_staff  
+  - **Support**: helpful  
+    - **Contrary**: no_evident_not_helpful  
+  - **Support**: very_helpful  
+    - **Contrary**: no_evident_not_very_helpful"
+194,good_staff,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - helpful
+  - friendly
+  - went_out_of_their_way_for_us
+
+- **Contraries:**
+  - no_evident_not_helpful
+  - no_evident_not_friendly
+  - no_evident_not_went_out_of_their_way_for_us"
+195,good_staff,"Here is the structured response based on the provided text and conditions:
+
+- **exceptional_staff**: no evident not exceptional_staff
+- **helpful_staff**: no evident not helpful_staff
+- **friendly_staff**: no evident not friendly_staff
+- **staff_go_out_of_their_way_for_us**: no evident not staff_go_out_of_their_way_for_us
+
+This list adheres to the ABA format, including each support and its corresponding contrary statement."
+198,good_staff,"- **Support**: friendly  
+  - **Contrary**: no evident not friendly"
+199,good_staff,"- **Supports**:  
+  - kind_service  
+  - smiling_service  
+
+- **Contraries**:  
+  - no_evident_not_kind_service  
+  - no_evident_not_smiling_service"
+202,good_staff,"Here is the text reformatted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Supports**:  
+  - exceptional_staff  
+  - nice_staff  
+
+- **Contraries**:  
+  - no_evident_not_exceptional_staff  
+  - no_evident_not_nice_staff"
+203,good_staff,"- **Support**: friendly  
+  - **Contrary**: no_evident_not_friendly"
+204,good_staff,"- **Claim**: good_staff  
+- **Support**: friendly  
+- **Contrary**: no evident not friendly"
+206,good_staff,"1. **Support**: welcoming_owners  
+   **Contrary**: no_evident_not_welcoming_owners"
+207,good_staff,"Here is the text in Assumption-Based Argumentation (ABA) format based on your input and conditions:
+
+- Supports:  
+  - staff  
+  - makes  
+
+- Contraries:  
+  - no_evident_not_staff  
+  - no_evident_not_makes"
+209,good_staff,"- **Support**: friendly  
+  - **Contrary**: no_evident_not_friendly  
+
+- **Support**: people  
+  - **Contrary**: no_evident_not_people"
+210,good_staff,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on the given conditions:
+
+- **Support:** friendly  
+  - **Contrary:** no evident not friendly  
+
+This response adheres to the rules provided: it uses only short words, avoids adjectives or adverbs, and ensures each support has a corresponding contrary."
+211,good_staff,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Supports**:  
+  - friendly  
+  - helpful  
+
+- **Contraries**:  
+  - no evident not friendly  
+  - no evident not helpful"
+212,good_staff,"good_staff  
+friendly_staff  
+helpful_staff  
+no_evident_not_friendly_staff  
+no_evident_not_helpful_staff"
+214,good_staff,"good_taxi_service  
+organised  
+no_evident_not_organised"
+221,good_staff,"1. friendly_staff  
+   No evident not friendly_staff  
+
+2. welcoming_staff  
+   No evident not welcoming_staff  
+
+3. restaurant_owner_friendliness  
+   No evident not restaurant_owner_friendliness"
+223,good_staff,"- **Helpful**
+  - **Contrary**: no evident not helpful
+- **Very helpful**
+  - **Contrary**: no evident not very helpful"
+224,good_staff,"- **Claim**: good_staff  
+- **Supports**: friendly, helpful  
+- **Contraries**: no_evident_not_friendly, no_evident_not_helpful"
+226,good_staff,"- staff  
+  - no evident not staff  
+- helpful_people  
+  - no evident not helpful_people  
+- pleasant_people  
+  - no evident not pleasant_people  
+- speak_perfect_english  
+  - no evident not speak_perfect_english"
+227,good_staff,"1. **Support**: very_kind_hosts  
+   **Contrary**: no_evident_not_very_kind_hosts  
+
+2. **Support**: made_late_check_in  
+   **Contrary**: no_evident_not_made_late_check_in  
+
+3. **Support**: simple  
+   **Contrary**: no_evident_not_simple"
+228,good_staff,"- Claim: high hospitality  
+- Supports:
+  - feel at home
+  - welcome you with a big smile
+- Contraries:
+  - no evident not feel at home
+  - no evident not welcome you with a big smile"
+229,good_staff,"1. **Claim**: good_staff  
+2. **Supports**:  
+   - friendly  
+   - good_service  
+3. **Contraries**:  
+   - no_evident_not_friendly  
+   - no_evident_not_good_service"
+231,good_staff,"Here’s the text in Assumption-Based Argumentation (ABA) format based on your input and conditions:
+
+- **Support**: very friendly staff  
+  - **Contrary**: no evident not very friendly staff  
+
+This response adheres to your instructions by using short words, avoiding adjectives or adverbs where unnecessary, ensuring each support is paired with its contrary in the specified format."
+235,good_staff,"1. **Support**: welcoming_staff  
+   **Contrary**: no_evident_not_welcoming_staff"
+240,good_staff,"1. **Supports**:  
+   - warm welcome  
+   - comfortable stay  
+   - hotel_manager_reachable  
+   - informative_service  
+   - reassuring_service  
+
+2. **Contraries**:  
+   - no evident not_warm welcome  
+   - no evident not_comfortable stay  
+   - no evident not_hotel_manager_reachable  
+   - no evident not_informative_service  
+   - no evident not_reassuring_service"
+241,good_staff,"- friendly_staff  
+  no_evident_not_friendly_staff  
+
+- lend_me_an_adaptor  
+  no_evident_not_lend_me_an_adaptor"
+242,good_staff,"1. very_accommodating_staff  
+2. kind_staff  
+3. no_evident_not_very_accommodating_staff  
+4. no_evident_not_kind_staff"
+245,good_staff,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Supports**:  
+  - great_staff  
+  - welcoming  
+
+- **Contraries**:  
+  - no_evident_not_great_staff  
+  - no_evident_not_welcoming"
+246,good_staff,"1. **Supports**:  
+   - friendly_owners  
+   - helpful_owners  
+
+2. **Contraries**:  
+   - no evident not friendly_owners  
+   - no evident not helpful_owners"
+248,good_staff,"1. kind_staff  
+   no_evident_not_kind_staff  
+
+2. professional_staff  
+   no_evident_not_professional_staff  
+
+3. polite_staff  
+   no_evident_not_polite_staff  
+
+4. helpful_staff  
+   no_evident_not_helpful_staff"
+250,good_staff,"- Claim: good_family  
+  - Support: friendly  
+    - Counterpoint: no_evident_not_friendly  
+  - Support: nice  
+    - Counterpoint: no_evident_not_nice"
+251,good_staff,"- **Support**: friendly_staff  
+  - **Contrary**: no_evident_not_friendly_staff"
+252,good_staff,"- **Claim**: good_staff  
+- **Support**: friendly  
+- **Contrary**: no_evident_not_friendly"
+254,good_staff,"1. **Support**: helpful  
+   - **Contrary**: no evident not helpful  
+
+2. **Support**: family  
+   - **Contrary**: no evident not family"
+255,good_staff,"friendly_staff  
+no_evident_not_friendly_staff  
+attentive_staff  
+no_evident_not_attentive_staff"
+257,good_staff,"1. **Support**: lovely_staff  
+   **Contrary**: no_evident_not_lovely_staff  
+
+2. **Support**: staff  
+   **Contrary**: no_evident_not_staff"
+258,good_staff,"1. **Claim**: wonderful_staff  
+2. **Support**: wonderful_staff  
+3. **Contrary**: no_evident_not_wonderful_staff"
+259,good_staff,"1. good_staff  
+2. friendly_staff  
+   - no_evident_not_friendly_staff  
+3. helpful_staff  
+   - no_evident_not_helpful_staff"
+260,good_staff,"It seems like your query is incomplete. Could you please provide the full text or context to work with? Without it, I cannot generate the appropriate Assumption-Based Argumentation (ABA) format for ""Friendly staff."""
+262,good_staff,"Here is the structured ABA format based on your text:
+
+**Supports:**
+- attentive_staff
+- helpful_staff
+- showed_us_to_a_really_nice_room_with_a_balcony_over_the_front_of_the_hotel
+- arranged_a_car_for_us_to_get_back_to_the_airport_to_collect_our_hire_car
+
+**Contraries:**
+- no_evident_not_attentive_staff
+- no_evident_not_helpful_staff
+- no_evident_not_showed_us_to_a_really_nice_room_with_a_balcony_over_the_front_of_the_hotel
+- no_evident_not_arranged_a_car_for_us_to_get_back_to_the_airport_to_collect_our_hire_car"
+264,good_staff,"Based on your request for ABA format with the claim ""friendly_staff,"" here is the structured output:
+
+1. **Support**: friendly  
+   - **Contrary**: no evident not friendly  
+
+2. **Support**: staff  
+   - **Contrary**: (no applicable contrary, as ""staff"" does not have an opposite in this context)"
+265,good_staff,"- **warm_staff**, **no_evident_not_warm_staff**  
+- **welcome_staff**, **no_evident_not_welcome_staff**"
+266,good_staff,"Here is the structured ABA format based on your requirements:
+
+- **Claim:** good_staff  
+- **Supports:**
+  - exceptional
+  - helpful
+  - friendly
+  - went out of their way for us  
+- **Contraries:**
+  - no evident not exceptional
+  - no evident not helpful
+  - no evident not friendly
+  - no evident not went out of their way for us"
+267,good_staff,"1. good_staff  
+2. helpful_staff  
+3. friendly_staff  
+4. go_out_of_their_way_for_us  
+5. no_evident_not_helpful_staff  
+6. no_evident_not_friendly_staff  
+7. no_evident_not_good_staff  
+8. no_evident_not_go_out_of_their_way_for_us"
+268,good_staff,"- good_staff  
+  - helpful  
+    - no_evident_not_helpful  
+  - friendly  
+    - no_evident_not_friendly"
+269,good_staff,"- good_staff  
+  friendly  
+  no evident not friendly"
+270,good_staff,"helpful_staff, staff_went_out_of_their_way_for_us, no_evident_not_helpful_staff, no_evident_not_staff_went_out_of_their_way_for_us"
+272,good_staff,"1. good_staff  
+2. nice_staff  
+3. helpful_staff  
+4. friendly_staff  
+5. staff_go_out_of_their_way_for_us  
+
+Contrary:  
+6. no_evident_not_nice_staff  
+7. no_evident_not_helpful_staff  
+8. no_evident_not_friendly_staff  
+9. no_evident_not_staff_go_out_of_their_way_for_us"
+274,good_staff,"Here is the ABA format based on your instructions:
+
+1. **Claim**: good_staff  
+2. **Supports**:  
+   - delightful_vale  
+   - eager_check_in  
+   - eager_cleaning  
+3. **Contraries**:  
+   - no_evident_not_delightful_vale  
+   - no_evident_not_eager_check_in  
+   - no_evident_not_eager_cleaning"
+275,good_staff,"- **Supports**:  
+  - amazing_staff  
+  - went_over_and_beyond  
+
+- **Contraries**:  
+  - no_evident_not_amazing_staff  
+  - no_evident_not_went_over_and_beyond"
+276,good_staff,"friendly_staff who allow you to check_in_early_morning, no_evident_not_friendly_staff"
+277,good_staff,"1. **Claim**: good_staff  
+2. **Supports and Contraries**:  
+   - helpful_staff  
+     - No evident not helpful_staff  
+   - exceptional_staff  
+     - No evident not exceptional_staff"
+278,good_staff,"1. wonderful_staff  
+   no_evident_not_wonderful_staff  
+
+2. friendly_staff  
+   no_evident_not_friendly_staff  
+
+3. welcoming_staff  
+   no_evident_not_welcoming_staff"
+281,good_staff,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your instructions:
+
+1. **Support**: owner_and_staff_welcoming  
+   **Contrary**: no_evident_not_owner_and_staff_welcoming  
+
+2. **Support**: staff_assisting_with_flight_arrangements  
+   **Contrary**: no_evident_not_staff_assisting_with_flight_arrangements"
+282,good_staff,"Here is the text generated in ABA format based on your conditions:
+
+- **Support**: helpful_staff  
+  **Contrary**: no_evident_not_helpful_staff  
+
+- **Support**: friendly_staff  
+  **Contrary**: no_evident_not_friendly_staff"
+283,good_staff,"- good_staff  
+  - friendly  
+    no_evident_not_friendly  
+  - responsive  
+    no_evident_not_responsive"
+284,good_staff,"- **Support**: staff_excellent  
+  - **Contrary**: no_evident_not_staff_excellent"
+288,good_staff,"- friendly  
+  no_evident_not_friendly  
+- helpful  
+  no_evident_not_helpful"
+290,good_staff,"1. **Support**: happy_staff  
+   **Contrary**: no_evident_not_happy_staff  
+
+2. **Support**: go_staff  
+   **Contrary**: no_evident_not_go_staff  
+
+3. **Support**: beyond_staff  
+   **Contrary**: no_evident_not_beyond_staff  
+
+4. **Support**: help_staff  
+   **Contrary**: no_evident_not_help_staff  
+
+5. **Support**: covid_restriction_staff  
+   **Contrary**: no_evident_not_covid_restriction_staff  
+
+6. **Support**: airport_staff  
+   **Contrary**: no_evident_not_airport_staff  
+
+7. **Support**: close_staff  
+   **Contrary**: no_evident_not_close_staff"
+291,good_staff,"Here is the structured ABA format based on the given conditions:
+
+1. **Claim**: good_staff  
+2. **Supports**:
+   - exceptional_staff
+   - helpful_staff
+   - friendly_staff
+   - staff_go_out_of_their_way_for_us  
+3. **Contraries** (for each support):
+   - no_evident_not_exceptional_staff
+   - no_evident_not_helpful_staff
+   - no_evident_not_friendly_staff
+   - no_evident_not_staff_go_out_of_their_way_for_us  
+
+This format ensures that all elements are included as per the specified conditions, maintaining clarity and conciseness."
+293,good_staff,"- **Supports**:  
+  - helpful_staff  
+  - friendly_staff  
+
+- **Contraries**:  
+  - No evident not helpful_staff  
+  - No evident not friendly_staff"
+295,good_staff,"1. **Supports**:  
+   - polite_staff  
+   - helpful_staff  
+   - kind_hosts  
+   - smiling_hosts  
+
+2. **Contraries**:  
+   - no_evident_not_polite_staff  
+   - no_evident_not_helpful_staff  
+   - no_evident_not_kind_hosts  
+   - no_evident_not_smiling_hosts"
+298,good_staff,"Supports:
+nice_staff
+no_evident_not_nice_staff"
+299,good_staff,"1. **welcoming_staff**  
+   - **Contrary**: no_evident_not_welcoming_staff  
+
+2. **friendly_staff**  
+   - **Contrary**: no_evident_not_friendly_staff"
+300,good_staff,"1. **Support**: helpful_staff  
+   **Contrary**: no_evident_not_helpful_staff  
+
+2. **Support**: friendly_staff  
+   **Contrary**: no_evident_not_friendly_staff  
+
+3. **Support**: welcoming_staff  
+   **Contrary**: no_evident_not_welcoming_staff"
+301,good_staff,"Here is the text in ABA format based on your conditions:
+
+**Supports:**
+1. Staff  
+2. Make  
+3. You  
+4. Feel  
+5. Home  
+
+**Contraries:**  
+1. no evident not staff  
+2. no evident not make  
+3. no evident not you  
+4. no evident not feel  
+5. no evident not home"
+303,good_staff,"- Claim: good_staff  
+  - Supports:  
+    - Welcoming  
+      - No_evident_not_welcoming  
+    - Helpful  
+      - No_evident_not_helpful  
+    - Happy_to_help  
+      - No_evident_not_happy_to_help"
+304,good_staff,"1. **Support**: nice_staff  
+   **Contrary**: no_evident_not_nice_staff  
+
+2. **Support**: recommendations_on_places_to_visit  
+   **Contrary**: no_evident_not_recommendations_on_places_to_visit  
+
+3. **Support**: how_to_roam_around  
+   **Contrary**: no_evident_not_how_to_roam_around"
+305,good_staff,"1. **Accommodating_staff**: The staff were accommodating.  
+   - **Contrary**: no_evident_not_accommodating_staff  
+
+2. **Easy_to_deal_with**: The staff were easy to deal with.  
+   - **Contrary**: no_evident_not_easy_to_deal_with  
+
+3. **Go_above_and_beyond**: The staff went above and beyond for us.  
+   - **Contrary**: no_evident_not_go_above_and_beyond"
+306,good_staff,"1. **Supports**:  
+   - excellent_stuff  
+   - staff  
+   
+2. **Contraries**:  
+   - no_evident_not_excellent_stuff  
+   - no_evident_not_staff"
+307,good_staff,"- **Support**: good_service  
+  - **Contrary**: no_evident_not_good_service"
+308,good_staff,"1. wonderful_staff  
+2. reception  
+3. restaurant  
+4. always_smiling  
+5. glad_to_help  
+
+no_evident_not_wonderful_staff  
+no_evident_not_reception  
+no_evident_not_restaurant  
+no_evident_not_always_smiling  
+no_evident_not_glad_to_help"
+309,good_staff,"Here is the structured ABA format based on your text:
+
+- **Supports**:
+  - management
+  - husband
+  - wife
+  - staff
+
+- **Contraries** (each starting with ""no evident not""):
+  - no evident not_management
+  - no evident not_husband
+  - no evident not_wife
+  - no evident not_staff"
+311,good_staff,"1. supporting element: welcoming_staff  
+2. supporting element: helpful_staff  
+3. supporting element: bringing_response  
+4. contrary: no_evident_not_welcoming_staff  
+5. contrary: no_evident_not_helpful_staff  
+6. contrary: no_evident_not_bringing_response"
+312,good_staff,"- kind_staff  
+  - no_evident_not_kind_staff  
+
+- helpful_staff  
+  - no_evident_not_helpful_staff  
+
+- flexible_staff  
+  - no_evident_not_flexible_staff"
+313,good_staff,"- **Support**: friendly_staff  
+  **Contrary**: no_evident_not_friendly_staff"
+315,good_staff,"Here is the structured ABA format based on your text, following the specified conditions:
+
+1. **Claim**: good_staff  
+2. **Supports**:
+   - helpful_staff
+   - friendly_staff
+   - staff_go_out_of_their_way_for_us
+3. **Contraries** (for each support):
+   - no_evident_not_helpful
+   - no_evident_not_friendly
+   - no_evident_not staff_go_out_of_their_way_for_us
+
+This format ensures that each positive statement is paired with its corresponding contrary, maintaining clarity and adherence to the conditions provided."
+316,good_staff,"- claim: good_staff  
+  supports:  
+    - accommodating  
+    - welcoming  
+  contraries:  
+    - no_evident_not_accommodating  
+    - no_evident_not_welcoming"
+318,good_staff,"1. **Supports:**
+   - friendly
+   - helpful  
+   - went_out_of_their_way_for_us  
+
+2. **Contraries:**  
+   - No evident not friendly  
+   - No evident not helpful  
+   - No evident not went_out_of_their_way_for_us"
+319,good_staff,"1. Waiting_receptionist  
+2. After_usual_open_hours  
+3. No_evident_not_waiting  
+4. No_evident_not_after_usual_open_hours"
+322,good_staff,"1. Early_arrival  
+2. Room_ready  
+3. No evident not early_arrival  
+4. No evident not Room_ready"
+323,good_staff,"1. good_staff  
+2. nice_staff  
+3. welcoming_staff  
+4. no_evident_not_nice_staff  
+5. no_evident_not_welcoming_staff"
+324,good_staff,"- **Support**: helpful  
+  - **Contrary**: no evident not helpful  
+
+This response adheres to the conditions provided: using short words for supports, avoiding unnecessary adjectives or adverbs, reusing vocabulary from the original text, adding contraries with ""no evident not,"" and omitting assumptions."
+327,good_staff,"1. **Claim**: kind_host  
+2. **Supports**:  
+   - host_was_kind  
+   - host_was_helpful  
+3. **Contraries**:  
+   - no_evident_not_host_was_kind  
+   - no_evident_not_host_was_helpful"
+330,good_staff,"1. Exceptional_staff  
+   - No evident not_exceptional_staff  
+
+2. Customer_centric  
+   - No evident not_customer_centric  
+
+3. Kind  
+   - No evident not_kind"
+331,good_staff,"- **Claim**: good_staff  
+- **Support**: welcoming  
+- **Contrary**: no_evident_not_welcoming"
+332,good_staff,"Here is the structured ABA format based on your requirements:
+
+- **Claim**: super nice staff  
+  - **Support**: nice staff  
+    - **Contrary**: no evident not nice staff  
+  - **Support**: helped us book a taxi for a really good price  
+    - **Contrary**: no evident not helped us book a taxi for a really good price"
+334,good_staff,"- **Support**: good staff  
+  - **Contrary**: no evident not good staff  
+
+- **Support**: helpful staff  
+  - **Contrary**: no evident not helpful staff  
+
+- **Support**: friendly staff  
+  - **Contrary**: no evident not friendly staff  
+
+- **Support**: staff_do_their_best_for_us  
+  - **Contrary**: no evident not staff_do_their_best_for_us"
+335,good_staff,"Here is the structured ABA format based on the provided conditions:
+
+- **Supports:**
+  - exceptional_staff
+  - helpful_staff
+  - friendly_staff
+  - staff_go_out_of_their_way_for_us
+
+- **Contraries:**
+  - no_evident_not_exceptional_staff
+  - no_evident_not_helpful_staff
+  - no_evident_not_friendly_staff
+  - no_evident_not_staff_go_out_of_their_way_for_us"
+336,good_staff,"- good_staff  
+  - friendly_staff  
+    - helpful_staff  
+      - no_evident_not_friendly_staff  
+        - no_evident_not_helpful_staff"
+337,good_staff,"Here is the structured response in the required ABA format:
+
+1. exceptional_staff
+2. helpful_staff
+3. friendly_staff
+4. staff_went_out_of_their_way_for_us
+5. no_evident_not_exceptional_staff
+6. no_evident_not_helpful_staff
+7. no_evident_not_friendly_staff
+8. no_evident_not_staff_went_out_of_their_way_for_us"
+338,good_staff,"1. friendly_staff  
+   no_evident_not_friendly_staff  
+
+2. welcoming_staff  
+   no_evident_not_welcoming_staff  
+
+3. free_room_upgrade  
+   no_evident_not_free_room_upgrade"
+339,good_staff,"Here is the text in ABA format based on your instructions:
+
+1. **great_staff**  
+2. **very_pleasant_hosts**  
+3. **no_evident_not_great_staff**  
+4. **no_evident_not_very_pleasant_hosts**"
+341,good_staff,"Here is the ABA format based on your instructions:
+
+- **Claim**: good_owners  
+  - **Supports**:  
+    - lovely_owners  
+    - ensure_everything_owners  
+    - needed_everything_owners  
+  - **Contraries**:  
+    - no_evident_not_lovely_owners  
+    - no_evident_not_ensure_everything_owners  
+    - no_evident_not_needed_everything_owners"
+342,good_staff,"- **Claim**: friendly_staff  
+  - **Support**: friendly  
+    - **Contrary**: no_evident_not_friendly  
+  - **Support**: friendly  
+    - **Contrary**: no_evident_not_friendly  
+  - **Support**: friendly  
+    - **Contrary**: no_evident_not_friendly"
+343,good_staff,"Here is the text reformatted according to your instructions:
+
+1. friendly_staff  
+2. no evident not friendly_staff  
+3. welcoming_staff  
+4. no evident not welcoming_staff  
+5. owner_took_them_personally  
+6. no evident not owner_took_them_personally  
+7. prime_parking_spot  
+8. no evident not prime_parking_spot  
+9. owner_daughter  
+10. no evident not owner_daughter  
+11. learning_the_trade  
+12. no evident not learning_the_trade  
+13. nice  
+14. no evident not nice  
+15. helpful  
+16. no evident not helpful"
+344,good_staff,"1. **Supports and Contraries:**
+
+- **good_staff**  
+  - Support: staff were exceptional (from the original text).  
+  - Counterpart: no evident not good_staff.
+
+- **helpful_staff**  
+  - Support: So helpful and friendly (from the original text).  
+  - Counterpart: no evident not helpful_staff.
+
+- **friendly_staff**  
+  - Support: Went out of their way for us (from the original text).  
+  - Counterpart: no evident not friendly_staff.
+
+- **very_good_amenities**  
+  - Support: Staff very good and helpful, and amenities , staff very good and helpful.  
+  - Counterpart: no evident not very_good_amenities.
+
+- **helpful_amenities**  
+  - Support: Staff very good and helpful, and amenities , staff very good and helpful.  
+  - Counterpart: no evident not helpful_amenities.
+
+- **friendly_amenities**  
+  - Support: Staff very good and helpful, and amenities , staff very good and helpful.  
+  - Counterpart: no evident not friendly_amenities.
+
+- **very_good_amenities**  
+  - Support: Staff very good and helpful, and amenities , staff very good and helpful.  
+  - Counterpart: no evident not very_good_amenities.
+
+- **helpful_amenities**  
+  - Support: Staff very good and helpful, and amenities , staff very good and helpful.  
+  - Counterpart: no evident not helpful_amenities.
+
+- **friendly_amenities**  
+  - Support: Staff very good and helpful, and amenities , staff very good and helpful.  
+  - Counterpart: no evident not friendly_amenities."
+346,good_staff,"communication,  
+no_evident_not_communication"
+347,good_staff,"1. Exceptional_staff  
+2. Friendly_staff  
+3. Keen_to Please  
+4. No evident not exceptional_staff  
+5. No evident not friendly_staff  
+6. No evident not keen_to Please"
+348,good_staff,"welcoming_staff, no_evident_not_welcoming_staff, welcoming_owners, no_evident_not_welcoming_owners"
+349,good_staff,"- **Supports**:  
+  - friendly_staff  
+  - helpful_staff  
+
+- **Contraries**:  
+  - no_evident_not_friendly_staff  
+  - no_evident_not_helpful_staff"
+350,good_staff,"- lovely_staff  
+  - no_evident_not_lovely_staff  
+- helpful_staff  
+  - no_evident_not_helpful_staff  
+- staff  
+  - no_evident_not_staff"
+353,bad_staff,"1. **Supports**:  
+   - friendly  
+   - needs  
+   - improve  
+   - organisation  
+   - collaboration  
+
+2. **Contraries**:  
+   - have evident friendly  
+   - have evident needs  
+   - have evident improve  
+   - have evidentorganisation  
+   - have evidentcollaboration"
+353,good_staff,"- **Support**: friendly_staff  
+  - **Contrary**: no_evident_not_friendly_staff"
+354,good_staff,"- **Support**: nice_staff  
+  **Contrary**: no_evident_not_nice_staff"
+356,good_staff,"1. **Supports:**
+   - brilliant_communication
+   - friendly_staff
+   - polite_staff
+   - always_willing_to_help
+
+2. **Contraries:**
+   - no_evident_not_brilliant
+   - no_evident_not_friendly
+   - no_evident_not_polite
+   - no_evident_not_always_willing_to_help"
+357,good_staff,"- **Claim**: good_staff  
+- **Supports**:  
+  - friendly_staff  
+- **Contraries**:  
+  - no_evident_not_friendly_staff"
+362,good_staff,"1. good_staff  
+2. excellent  
+3. kind  
+4. helpful  
+5. no_evident_not_excellent  
+6. no_evident_not_kind  
+7. no_evident_not_helpful"
+363,good_staff,"1. **good_attentiveness**: exceptional_attentiveness  
+   - **Contrary**: no_evident_not_exceptional_attentiveness  
+
+2. **good_hospitality**: great_hospitality  
+   - **Contrary**: no_evident_not_great_hospitality"
+364,good_staff,"1. friendly_hosts  
+   no_evident_not_friendly_hosts  
+
+2. accommodating_hosts  
+   no_evident_not_accommodating_hosts"
+367,good_staff,"- **Support**: friendly  
+  - **Contrary**: no evident not friendly"
+371,good_staff,"Here is the ABA format for your query:
+
+1. People  
+   - Contrary: no evident not People  
+
+2. working  
+   - Contrary: no evident not working  
+
+3. here  
+   - Contrary: no evident not here  
+
+4. are  
+   - Contrary: no evident not are  
+
+5. the  
+   - Contrary: no evident not the  
+
+6. best  
+   - Contrary: no evident not best  
+
+7. ever  
+   - Contrary: no evident not ever"
+372,good_staff,"good_staff, helpful_staff, no_evident_not_helpful_staff"
+373,good_staff,"1. **Support**: wonderful_staff  
+2. **Contrary**: no_evident_not_wonderful_staff"
+375,good_staff,"good_staff, helpful_staff, friendly_staff  
+no_evident_not_helpful_staff, no_evident_not_friendly_staff"
+377,good_staff,"- **polite_staff**: 
+  - **Support**: polite
+  - **Contrary**: no_evident_not_polite
+
+- **helpful_staff**:  
+  - **Support**: helpful  
+  - **Contrary**: no_evident_not_helpful"
+378,good_staff,"Here’s the ABA format based on your conditions:
+
+- **Supports**:  
+  - friendly  
+- **Contraries**:  
+  - no_evident_not_friendly  
+
+This provides a concise and focused argument with clear supports and their negations."
+379,good_staff,"1. good_staff  
+2. staff  
+3. no_evident_not_staff  
+4. Hotel_administrator_helped_us_with_taxi  
+5. no_evident_not_Hotel_administrator_helped_us_with_taxi"
+380,good_staff,"1. nice_staff  
+2. helpful_staff  
+3. go_extra_mile_for_your_satisfaction  
+4. satisfied_with_their_service  
+
+Contraries:  
+5. no_evident_not_nice_staff  
+6. no_evident_not_helpful_staff  
+7. no_evident_not_go_extra_mile_for_your_satisfaction  
+8. no_evident_not_satisfied_with_their_service"
+381,good_staff,"good_staff, friendly, no_evident_not_friendly"
+382,good_staff,"1. facilitated_shuttle_service_for_additional_cost  
+2. responsive_staff_via_whatsapp  
+3. able_to_accommodate_needs  
+
+4. no_evident_not facilitating staff with shuttle service  
+5. no_evident_not responsive via WhatsApp  
+6. no_evident_not able to accommodate needs"
+383,good_staff,"- **Supports**:  
+  - friendly_staff  
+  - helpful_staff  
+
+- **Contraries**:  
+  - no_evident_not_friendly_staff  
+  - no_evident_not_helpful_staff"
+384,good_staff,"1. **Claim**: good_staff  
+2. **Supports & Contraries**:  
+   - Support: staff  
+     Contrary: no_evident_not staff  
+   - Support: management  
+     Contrary: no_evident_not management  
+   - Support: great  
+     Contrary: no_evident_not great"
+385,good_staff,"- **Support**: excellent_service  
+  **Contrary**: no_evident_not_excellent_service"
+386,good_staff,"Here is the ABA format based on your conditions:
+
+1. friendly  
+   no evident not friendly  
+
+2. welcoming  
+   no evident not welcoming  
+
+3. accommodating  
+   no evident not accommodating  
+
+4. helpful  
+   no evident not helpful  
+
+5. phone_converters  
+   no evident not phone_converters  
+
+6. luggage_scale  
+   no evident not luggage_scale"
+388,good_staff,"1. friendly_staff  
+2. effective_staff  
+3. no_evident_not_friendly_staff  
+4. no_evident_not_effective_staff"
+389,good_staff,"Here are the supports and their corresponding contraries based on the given text:  
+
+- **professional_staff**  
+  - **no_evident_not_professional_staff**  
+
+- **friendly_staff**  
+  - **no_evident_not_friendly_staff**"
+390,good_staff,"Here is the structured ABA format based on your request:
+
+1. **Supports:**
+   - very
+   - good
+   - service
+
+2. **Contraries:**
+   - no_evident_not_very
+   - no_evident_not_good
+   - no_evident_not_service"
+392,good_staff,"Here’s the text in Assumption-Based Argumentation (ABA) format based on your request:
+
+Supports and contraries:  
+friendly staff  
+no evident not friendly staff"
+393,good_staff,"Here is the structured ABA format based on the provided conditions:
+
+- **Supports:**
+  - staff were exceptional
+  - staff were helpful
+  - staff were friendly
+  - staff went out of their way for us
+
+- **Contraries:**
+  - no evident not staff were exceptional
+  - no evident not staff were helpful
+  - no evident not staff were friendly
+  - no evident not staff went out of their way for us
+
+This format ensures that each support is accompanied by its contrary, using the exact vocabulary from the original text and adhering to all specified conditions."
+394,good_staff,"1. **Claim**: good_check_in  
+2. **Supports**:
+   - quick
+   - easy
+   - polite
+   - friendly  
+3. **Contraries**:
+   - no_evident_not_quick
+   - no_evident_not_easy
+   - no_evident_not_polite
+   - no_evident_not_friendly"
+396,good_staff,"- **Support**: fantastic_staff  
+  **Contrary**: no_evident_not_fantastic_staff"
+399,good_staff,"1. met_owners_at_reception  
+2. took_care_of_my_girl  
+3. no_evident_not_met_owners_at_reception  
+4. no_evident_not_took_care_of_my_girl"
+400,good_staff,"Here is the structured response based on your requirements:
+
+```json
+[
+  {
+    ""support"": ""friendly"",
+    ""contrary"": ""no_evident_not_friendly""
+  },
+  {
+    ""support"": ""kind-hearted"",
+    ""contrary"": ""no_evident_not_kind-hearted""
+  }
+]
+```
+
+This response adheres to the conditions specified, ensuring that each support is a short word without unnecessary adjectives or adverbs, and each contrary starts with ""no evident not."""
+401,good_staff,"Based on your request for ABA format with the claim ""friendly_staff,"" here is the structured output:
+
+1. **Support**: friendly  
+   - **Contrary**: no evident not friendly  
+
+2. **Support**: staff  
+   - **Contrary**: (no applicable contrary, as ""staff"" does not have an opposite in this context)"
+402,good_staff,"good_staff  
+superb_staff  
+no_evident_not_superb_staff"
+403,good_staff,"1. **Supports**:  
+   - team  
+   - hospitality  
+   - willing  
+
+2. **Contraries**:  
+   - no_evident_not_team  
+   - no_evident_not_hospitality  
+   - no_evident_not_willing"
+405,good_staff,"Here is the text formatted according to the ABA rules:
+
+- mum&children_from_lebanon  
+  no_evident_not_mum&children_from_lebanon  
+
+- very_kind  
+  no_evident_not_very_kind  
+
+- ready_to_help  
+  no_evident_not_ready_to_help  
+
+- even_they_invite_you_to sit_with_them_and_relax_with_a_drink_at_night  
+  no_evident_not_even_they_invite_you_to_sit_with_them_and_relax_with_a_drink_at_night"
+408,good_staff,"- **Support**: wonderful_place  
+  **Contrary**: no_evident_not_wonderful_place  
+
+- **Support**: wonderful_people  
+  **Contrary**: no_evident_not_wonderful_people"
+409,good_staff,"I'm sorry, but I notice you haven't provided a new text to process. Could you please provide another text about ""good_staff"" that I can format into ABA?"
+410,good_staff,"- **Claim**: good_staff  
+  - **Supports**:  
+    - friendly_staff  
+    - warm_staff  
+    - helpful_staff  
+    - staff_always_willing_to_do_more  
+  - **Contraries**:  
+    - no_evident_not_friendly_staff  
+    - no_evident_not_warm_staff  
+    - no_evident_not_helpful_staff  
+    - no_evident_not_staff_always_willing_to_do_more"
+414,good_staff,"Here is the ABA-style formatted version based on your request:
+
+- **Supports**:  
+  - helpful_staff  
+  - friendly_staff  
+
+- **Contraries**:  
+  - no_evident_not_helpful_staff  
+  - no_evident_not_friendly_staff"
+415,good_staff,"- Welcoming_staff, no_evident_not_welcoming_staff  
+- Friendly_staff, no_evident_not_friendly_staff"
+416,good_staff,"Here is the text in ABA format based on your conditions:
+
+- **Supports**:  
+  - staffWereGreat  
+  - hostWereGreat  
+
+- **Contraries**:  
+  - noEvidentNotStaffWereGreat  
+  - noEvidentNotHostWereGreat"
+417,good_staff,"- **Support**: friendly_staff  
+  **Contrary**: no_evident_not_friendly_staff"
+419,good_staff,"- **Supports**:  
+  - friendly_staff  
+  - helpful_staff  
+
+- **Contraries**:  
+  - no_evident_not_friendly_staff  
+  - no_evident_not_helpful_staff"
+421,good_staff,"1. **Supports**:  
+   - welcome_staff  
+   - helpful_staff  
+
+2. **Contraries**:  
+   - no_evident_not_welcome_staff  
+   - no_evident_not_helpful_staff"
+422,good_staff,"1. **Support**: exceptional_staff  
+   - **Contrary**: no_evident_not_exceptional_staff  
+
+2. **Support**: helpful  
+   - **Contrary**: no_evident_not_helpful  
+
+3. **Support**: friendly  
+   - **Contrary**: no_evident_not_friendly  
+
+4. **Support**: staff_go_out_of_their_way_for_us  
+   - **Contrary**: no_evident_not_staff_go_out_of_their_way_for_us  
+
+5. **Support**: good_service  
+   - **Contrary**: no_evident_not_good_service  
+
+6. **Support**: friendly  
+   - **Contrary**: no_evident_not_friendly  
+
+7. **Support**: staff_were_exceptional  
+   - **Contrary**: no_evident_not_staff_were_exceptional"
+423,good_staff,"good_staff, amazing_staff, welcoming_staff, no_evident_not_amazing_staff, no_evident_not_welcoming_staff"
+424,good_staff,"Here is the structured ABA format based on your requirements:
+
+**Supports:**
+- exceptional
+- helpful
+- friendly
+- staff_went_out_of_their_way_for_us  
+- friendly  
+
+**Contraries:**  
+- no evident not exceptional  
+- no evident not helpful  
+- no evident not friendly  
+- no evident not staff_went_out_of_their_way_for_us  
+- no evident not friendly"
+427,good_staff,"- **Claim**: good_staff  
+- **Supports**: so_helpful, helpful  
+- **Contraries**: no_evident_not_so_helpful, no_evident_not_helpful"
+433,bad_staff,"1. **Support**: clerk_apologised_after_being_overridden  
+   **Contrary**: have_evident_clerk_apologised_after_being_overridden"
+433,good_staff,"- good_staff  
+  - polite_staff  
+    - no_evident_not_polite_staff  
+  - friendly_staff  
+    - no_evident_not_friendly_staff"
+436,good_staff,"- great_hosts  
+  no_evident_not_great_hosts  
+
+- kind_hosts  
+  no_evident_not_kind_hosts  
+
+- hospitable_hosts  
+  no_evident_not_hospitable_hosts  
+
+- adapter_offered_immediately  
+  no_evident_not_adapter_offered_immediately"
+438,good_staff,"- friendly, no_evident_not_friendly"
+440,good_staff,"Here is the ABA format based on your query:
+
+1. **Supports:**
+   - friendly_staff
+   - helpful_staff
+   - went_out_of_their_way_for_us
+
+2. **Contraries:**
+   - no_evident_not_friendly_staff
+   - no_evident_not_helpful_staff
+   - no_evident_not_went_out_of_their_way_for_us"
+443,good_staff,"- **Support**: friendly_staff  
+  - **Contrary**: no_evident_not_friendly_staff"
+444,bad_staff,"1. **Support**: ""they couldn’t wait for 15min""  
+   - **Contrary**: Have evident they couldn’t wait for 15min.
+
+2. **Support**: ""i had just fractured my ankle and need to change my bandage""  
+   - **Contrary**: Have evident i had just fractured my ankle and need to change my bandage.
+
+3. **Support**: ""the Lady of the house was literally standing next to the door with a cleaner to clean the room""  
+   - **Contrary**: Have evident the Lady of the house was literally standing next to the door with a cleaner to clean the room.
+
+4. **Support**: ""i left without changing my bandage and had to do it outside on the street""  
+   - **Contrary**: Have evident i left without changing my bandage and had to do it outside on the street."
+447,good_staff,"good_staff  
+staff_were_lovely as no_evident_not_staff_were_lovely  
+lovely_staff as no_evident_not_lovely_staff"
+448,good_staff,"1. **Support**: excellent_staff  
+   **Contrary**: no_evident_not_excellent_staff  
+
+2. **Support**: good_staff  
+   **Contrary**: no_evident_not_good_staff"
+449,bad_staff,"1. **Support**: host_didnt_inform_us_about_double_booking  
+2. **Contrary**: have_evident_host_didnt_inform_us_about_double_booking  
+3. **Contrary**: have_evident_host_informed_us_about_double_booking"
+450,good_staff,"1. **friendly_staff**  
+   - No evident not friendly_staff  
+
+2. **helpful_staff**  
+   - No evident not helpful_staff"
+452,good_staff,"Supports:  
+- friendly_staff  
+- welcoming_staff  
+
+Contraries:  
+- no_evident_not_friendly_staff  
+- no_evident_not_welcoming_staff"
+453,bad_staff,"- Support: didn't speak  
+- Contrary: have evident didn't speak"
+455,bad_staff,"- **Support**: guy  
+  - **Contrary**: have evident_guy  
+
+- **Support**: asked  
+  - **Contrary**: have evident_asked"
+456,bad_staff,"1. **Support**: staff_didn_t_speak_english_properly  
+   **Contrary**: have_evident_staff_didn_t_speak_english_properly  
+
+2. **Support**: booking_price_reduced_before_travel_date  
+   **Contrary**: have_evident_booking_price_reduced_before_travel_date  
+
+3. **Support**: hotel_charged_twice_for_cancellation_and_rebooking  
+   **Contrary**: have_evident_hotel_charged_twice_for_cancellation_and_rebooking"
+456,good_staff,"- **Supports**:  
+  - Mrs_Tony_does_a_fabulous_job  
+  - keeps_the_place_spotless  
+  - makes_guests_comfortable  
+
+- **Contraries**:  
+  - no_evident_not_fabulous_job  
+  - no_evident_not_keeps_the_place_spotless  
+  - no_evident_not_makes_guests_comfortable"
+460,good_staff,"Here is the ABA format for your text, following all the specified conditions:
+
+**Supports:**
+1. staff  
+2. very  
+3. polite  
+
+**Contraries:**  
+1. no_evident_not_staff  
+2. no_evident_not_very  
+3. no_evident_not_polite"
+461,bad_staff,"1. **Support**: cleaning_crew_didnt_clean_out_our_rooms  
+   **Contrary**: have_evident_cleaning_crew_didnt_clean_out_our_rooms  
+
+2. **Support**: cookies_were_thrown_out_near_bags  
+   **Contrary**: have_evident_cookies_were_thrown_out_near_bags"
+461,good_staff,"1. **Supports**:  
+   - kind_people  
+   - responsive_people  
+
+2. **Contraries**:  
+   - no_evident_not_kind_people  
+   - no_evident_not_responsive_people"
+467,good_staff,"1. **Support**: exceptional_staff  
+   **Contrary**: no_evident_not_exceptional_staff  
+
+2. **Support**: helpful_staff  
+   **Contrary**: no_evident_not_helpful_staff  
+
+3. **Support**: friendly_staff  
+   **Contrary**: no_evident_not_friendly_staff  
+
+4. **Support**: staff_go_out_of_their_way_for_us  
+   **Contrary**: no_evident_not_staff_go_out_of_their_way_for_us"
+468,good_staff,"- **Support**: nice_staff  
+  - **Contrary**: no_evident_not_nice_staff"
+469,good_staff,"Here is the structured ABA format based on your requirements:
+
+1. **Claim**: good_staff  
+2. **Supports**:
+   - helpful
+   - knowledgeable  
+3. **Contraries**:
+   - no_evident_not_helpful  
+   - no_evident_not_knowledgeable"
+470,good_staff,"1. good_staff  
+2. helpful_staff  
+3. friendly_staff  
+4. went_out_of_their_way_for_us  
+5. no_evident_not_exceptional_staff  
+6. no_evident_not_helpful_staff  
+7. no_evident_not_friendly_staff  
+8. no_evident_not_went_out_of_their_way_for_us"
+471,good_staff,"- good_staff  
+  - helpful_staff  
+    - no_evident_not_helpful_staff"
+473,good_staff,"friendly_staff,
+
+- For support ""friendly"": no evident not friendly,
+- For support ""staff"": no evident not staff."
+476,good_staff,"kindness_staff  
+no_evident_not_kindness_staff"
+477,good_staff,"- **Support**: kind_staff  
+  **Contrary**: no_evident_not_kind_staff"
+478,good_staff,"kindness_staff  
+no_evident_not_kindness_staff"
+479,good_staff,"- **Support**: friendly_host  
+  - **Contrary**: no_evident_not_friendly_host"
+480,good_staff,"1. **Supports:**
+   - French-speaking staff
+   - Competent staff
+
+2. **Contraries:**
+   - No evident not_french_speaking_staff  
+   - No evident not_competent_staff"
+481,good_staff,"good_staff  
+kind_support  
+welcoming_support  
+no_evident_not_kind_support  
+no_evident_not_welcoming_support"
+482,good_staff,"- Claim: good_staff  
+- Supports: helpful, reception  
+- Contraries: no_evident_not_helpful, no_evident_not_reception"
+483,good_staff,"1. **Support**: friendly_staff  
+   **Contrary**: no_evident_not_friendly_staff  
+
+2. **Support**: happy_to_help  
+   **Contrary**: no_evident_not_happy_to_help  
+
+3. **Support**: helpful_staff  
+   **Contrary**: no_evident_not_helpful_staff  
+
+4. **Support**: always_ready_to_answer  
+   **Contrary**: no_evident_not_always_ready_to_answer"
+484,good_staff,"Here is the text in ABA format based on your conditions:
+
+- **Claim**: good_staff  
+  - **Supports**: kind_staff, helpful_staff  
+    - **Contraries**: no_evident_not_kind_staff, no_evident_not_helpful_staff"
+485,good_staff,"1. **Supports**:  
+   - wonderful_staff  
+   - hotel  
+   - staff  
+   - all  
+   - as_in_the_photo  
+
+2. **Contraries**:  
+   - no_evident_not_wonderful  
+   - no_evident_not_hotel  
+   - no_evident_not_staff  
+   - no_evident_not_all  
+   - no_evident_not_as_in_the_photo"
+489,good_staff,"1. Friendly_staff  
+   no_evident_not_friendly_staff  
+
+2. very_good_advice  
+   no_evident_not_very_good_advice"
+491,good_staff,"- **Support**: listening_staff  
+  - **Contrary**: no_evident_not_listening_staff"
+493,good_staff,"1. **good_staff**:  
+   - **super**:  
+     - **no_evident_not_super_host**  
+   - **sweet**:  
+     - **no_evident_not_sweet_host**"
+494,good_staff,"1. good_staff  
+   - kind  
+     - no evident not kind  
+2. good_staff  
+   - staff_were  
+     - no evident not staff_were"
+496,good_staff,"Here is the structured ABA format based on your instructions:
+
+- **Exceptional staff**: 
+  - Support: exceptional staff
+  - Contrary: no evident not exceptional staff
+
+- **Helpful staff**: 
+  - Support: helpful staff
+  - Contrary: no evident not helpful staff
+
+- **Friendly staff**: 
+  - Support: friendly staff
+  - Contrary: no evident not friendly staff
+
+- **Staff went out of their way for us**: 
+  - Support: staff went out of their way for us
+  - Contrary: no evident not staff went out of their way for us"
+497,good_staff,"1. **welcoming_staff**  
+2. **helpful_staff**  
+3. **smile**  
+4. **rare**  
+
+- **no evident not_welcoming_staff**  
+- **no evident not_helpful_staff**  
+- **no evident not_smile**  
+- **no evident not_rare**"
+498,good_staff,"1. welcome, no_evident_not_welcome  
+2. contact, no_evident_not_contact  
+3. helpful, no_evident_not_helpful"
+499,good_staff,"- **helpful_staff**  
+  - **no evident not helpful_staff**"
+502,good_staff,"Here is the ABA format based on your conditions:
+
+- **Claim**: good_staff  
+- **Supports**:  
+  - exceptional_staff  
+  - helpful_staff  
+  - friendly_staff  
+  - staff_go_out_of_their_way_for_us  
+
+- **Contraries**:  
+  - no_evident_not_exceptional_staff  
+  - no_evident_not_helpful_staff  
+  - no_evident_not_friendly_staff  
+  - no_evident_not_staff_go_out_of_their_way_for_us"
+503,good_staff,"- **Support**: nice_staff  
+  - **Contrary**: no_evident_not_nice_staff"
+505,good_staff,"- friendly, no evident not friendly  
+- staff, no evident not staff"
+507,good_staff,"1. Support: willing staff arranged ride to airport for us  
+2. Support: arranged_ride_to_airport_for_us  
+3. Contrary: no evident not willing staff arranged ride to airport for us  
+4. Contrary: no evident not arranged_ride_to_airport_for_us"
+509,good_staff,"Here is the ABA formatted text based on your conditions:
+
+- **Claim**: good_staff  
+- **Supports**:  
+  - nice  
+  - helpful  
+- **Contraries**:  
+  - no_evident_not_nice  
+  - no_evident_not_helpful"
+512,good_staff,"- good_staff  
+  - available  
+    - no evident not_available  
+  - always helps  
+    - no evident not_always_helps"
+515,good_staff,"Here is the text in Assumption-Based Argumentation (ABA) format based on your input:
+
+- **Claim**: good_staff  
+  - **Support**: nice_staff  
+    - **Contrary**: no_evident_not_nice_staff"
+516,good_staff,"- **Supports**:  
+  - helpful_staff  
+  - friendly_staff  
+  - staff_go_out_of_their_way_for_us  
+
+- **Contraries**:  
+  - no_evident_not_helpful_staff  
+  - no_evident_not_friendly_staff  
+  - no_evident_not_staff_go_out_of_their_way_for_us"
+517,good_staff,- good_manager (no_evident_not_friendly_manager)
+519,good_staff,"1. **polite_staff**  
+   - Supports: polite  
+   - Contrary: no_evident_not_polite_staff  
+
+2. **helpful_staff**  
+   - Supports: helpful  
+   - Contrary: no_evident_not_helpful_staff  
+
+3. **family_atmosphere_staff**  
+   - Supports: family  
+   - Contrary: no_evident_not_family_atmosphere_staff"
+521,good_staff,"1. Good staff (claim).  
+2. Exceptional staff (support).  
+3. Helpful staff (support).  
+4. Friendly staff (support).  
+5. Staff went out of their way for us (support).  
+
+Contraries:  
+6. No evident not exceptional staff.  
+7. No evident not helpful staff.  
+8. No evident not friendly staff.  
+9. No evident not staff went out of their way for us."
+522,good_staff,"Here is the text generated in Assumption-Based Argumentation (ABA) format based on your requirements:
+
+1. **Support**: exceptional  
+   - **Contrary**: no evident not exceptional  
+
+2. **Support**: helpful  
+   - **Contrary**: no evident not helpful  
+
+3. **Support**: friendly  
+   - **Contrary**: no evident not friendly  
+
+4. **Support**: went out of their way for us  
+   - **Contrary**: no evident not went out of their way for us"
+523,good_staff,"1. **Support**: helps_with_any_question_and_problem  
+   **Contrary**: no_evident_not_helps_with_any_question_and_problem  
+
+2. **Support**: smiling_and_patient  
+   **Contrary**: no_evident_not_smiling_and_patient  
+
+3. **Support**: changed_us_to_a_family_room_that_we_requested  
+   **Contrary**: no_evident_not_changed_us_to_a_family_room_that_we_requested"
+524,good_staff,"- **Support**: professional_staff  
+  **Contrary**: no_evident_not_professional_staff"
+527,good_staff,"- good_staff  
+  - friendly  
+    - no_evident_not_friendly"
+529,good_staff,"1. good_staff  
+2. helpful_staff  
+3. friendly_staff  
+4. staff_go_out_of_their_way_for_us  
+5. no_evident_not_exceptional_staff  
+6. no_evident_not_helpful_staff  
+7. no_evident_not_friendly_staff  
+8. no_evident_not_staff_go_out_of_their_way_for_us"
+530,good_staff,"Here is the structured ABA format based on your requirements:
+
+1. **good_staff** (Claim)
+2. **nice_staff**
+3. **polite_staff**
+4. **no_evident_not_nice_staff** (Contrary for nice)
+5. **no_evident_not_polite_staff** (Contrary for polite)"
+531,good_staff,"- **courteous_service**:  
+  - no_evident_not_courteous_service  
+
+- **welcoming_service**:  
+  - no_evident_not_welcoming_service"
+535,good_staff,"Here is the ABA formatted text based on your request:
+
+- **Supports**:  
+  - friendly_hosts  
+  - helpful_hosts  
+
+- **Contraries**:  
+  - no_evident_not_friendly_hosts  
+  - no_evident_not_helpful_hosts"
+536,good_staff,"Here is the text generated in ABA format based on your instructions:
+
+1. good_staff  
+2. helpful_staff  
+3. friendly_staff  
+4. staff_go_out_of_their_way_for_us  
+5. service_at_the_highest_level  
+6. no_evident_not_helpful_staff  
+7. no_evident_not_friendly_staff  
+8. no_evident_not staff_go_out_of_their_way_for_us  
+9. no_evident_not_exceptional_staff  
+10. no_evident_not_service_at_the_highest_level"
+539,good_staff,"- **Support**: lovely_staff  
+  - **Contrary**: no_evident_not_lovely_staff  
+
+- **Support**: ready_to_help  
+  - **Contrary**: no_evident_not_ready_to_help"
+540,good_staff,"1. very kind staff  
+   - Supports:  
+     *very kind staff*  
+     *kept our suitcases in custody*  
+     *all day*  
+   - Contraries:  
+     *no evident not very kind staff*  
+     *no evident not kept our suitcases in custody*  
+     *no evident not all day*"
+541,good_staff,"1. **Supports**:  
+   - courteous_staff  
+   - helpful_staff  
+
+2. **Contraries**:  
+   - no_evident_not_courteous_staff  
+   - no_evident_not_helpful_staff"
+542,good_staff,"1. **Support**: superior_room  
+   **Contrary**: no_evident_not_superior_room  
+
+2. **Support**: balcony  
+   **Contrary**: no_evident_not_balcony  
+
+3. **Support**: free  
+   **Contrary**: no_evident_not_free"
+544,good_staff,"1. **Supports**:  
+   - exceptional_owner  
+   - hospitality_owner  
+
+2. **Contraries**:  
+   - no_evident_not_exceptional_owner  
+   - no_evident_not_hospitality_owner"
+549,good_staff,"Here is the ABA format based on your input and conditions:  
+
+1. **Support**: super_staff  
+2. **Contrary**: no_evident_not_super_staff  
+3. **Support**: nice_staff  
+4. **Contrary**: no_evident_not_nice_staff"
+550,good_staff,"1. good_staff  
+2. helped  
+3. needed  
+4. no_evident_not_helped  
+5. no_evident_not_needed"
+551,good_staff,"Here is the structured list based on the provided text:
+
+1. **Support**: Welcoming staff  
+   **Contrary**: no evident not welcoming  
+
+2. **Support**: Smiling staff  
+   **Contrary**: no evident not smiling  
+
+3. **Support**: Always available  
+   **Contrary**: no evident not available  
+
+4. **Support**: Multiple languages  
+   **Contrary**: no evident not multiple_languages"
+553,good_staff,"1. **Claim**: good_staff  
+2. **Supports**:  
+   - nice_staff  
+   - staff  
+3. **Contraries**:  
+   - no_evident_not_nice_staff  
+   - no_evident_not_staff"
+554,good_staff,"good_staff  
+friendly_staff  
+pleasant_staff  
+no_evident_not_friendly_staff  
+no_evident_not_pleasant_staff"
+555,good_staff,"beautiful_hospitality  
+kind_hospitality  
+no_evident_not_beautiful_hospitality  
+no_evident_not_kind_hospitality"
+556,good_staff,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+**Supports:**
+1. charming_staff  
+2. kind_staff  
+3. smiling  
+4. answers_with_a_smile  
+5. agrees_to_every_request  
+
+**Contraries:**  
+- no_evident_not_charming_staff  
+- no_evident_not_kind_staff  
+- no_evident_not_smiling  
+- no_evident_not_answers_with_a_smile  
+- no_evident_not_agrees_to_every_request"
+557,good_staff,"- good_staff  
+- kindness  
+  - no_evident_not_kindness  
+- helpful  
+  - no_evident_not_helpful  
+- friendly  
+  - no_evident_not_friendly"
+558,good_staff,"Here is the structured ABA format based on your requirements:
+
+1. **Claim**: good_staff
+2. **Supports**:
+   - exceptional
+   - helpful
+   - friendly
+   - went_out_of_their_way_for_us
+3. **Contraries**:
+   - no_evident_not_exceptional
+   - no_evident_not_helpful
+   - no_evident_not_friendly
+   - no_evident_not_went_out_of_their_way_for_us
+
+This format ensures that each support is paired with its corresponding contrary, adhering to the specified rules and structure."
+560,bad_staff,"1. Supports:  
+   - complained  
+   - not resolved  
+
+2. Contraries:  
+   - have_evident_complained  
+   - have_evident_not_resolved"
+561,good_staff,"kindness_staff, kindness, no_evident_not_kindness"
+564,good_staff,"- **Claim**: good_staff  
+  - **Support**: kind_staff  
+    - **Contrary**: no_evident_not_kind_staff  
+  - **Support**: helpful_staff  
+    - **Contrary**: no_evident_not_helpful_staff"
+565,good_staff,"1. **Support**: attentive_staff  
+   **Contrary**: no_evident_not_attentive_staff  
+
+2. **Support**: helped  
+   **Contrary**: no_evident_not_helped"
+566,good_staff,"Here is the structured ABA format based on your requirements:
+
+**Claim**: good_staff  
+**Supports**:  
+1. kind_staff  
+   - Assumption: staff were kind  
+2. speak_French  
+   - Assumption: staff speaks French  
+
+**Contraries**:  
+1. no_evident_not_kind_staff  
+2. no_evident_not_speak_French"
+567,good_staff,"Here’s the structured ABA format based on your input:
+
+- **Claim**: good staff  
+- **Supports**:
+  - excellent staff
+    - **Contrary**: no evident not excellent staff
+  - helped staff (from ""helped us with everything we needed"")
+    - **Contrary**: no evident not helped staff"
+569,good_staff,"Here is the structured ABA format based on your text:
+
+**Supports:**
+1. charming_staff
+2. kind_staff
+3. upgraded_room_free
+4. touched_taxi_driver
+5. charged_decent_prices
+
+**Contraries:**
+1. no_evident_not_charming_staff
+2. no_evident_not_kind_staff
+3. no_evident_not_upgraded_room_free
+4. no_evident_not_touched_taxi_driver
+5. no_evident_not_charged_decent_prices"
+570,good_staff,"1. **Supports**:  
+   - welcoming_staff  
+   - kind_staff  
+   - friendly_staff  
+
+2. **Contraries**:  
+   - no_evident_not_welcoming_staff  
+   - no_evident_not_kind_staff  
+   - no_evident_not_friendly_staff"
+572,good_staff,"- **Claim**: good_staff  
+- **Supports**:  
+  - friendly_reception  
+  - friendly_restaurant  
+- **Contraries**:  
+  - no_evident_not_friendly_reception  
+  - no_evident_not_friendly_restaurant"
+575,good_staff,"Here is the structured ABA format based on your requirements:
+
+- Exceptional (support): exceptional  
+  - Contrary: no evident not exceptional  
+
+- Helpful (support): helpful  
+  - Contrary: no evident not helpful  
+
+- Friendly (support): friendly  
+  - Contrary: no evident not friendly  
+
+- Went out of their way for us (support): went out of their way  
+  - Contrary: no evident not went out of their way"
+576,good_staff,"- **Supports**:  
+  - pleasant  
+  - attentive  
+
+- **Contraries**:  
+  - no_evident_not_pleasant  
+  - no_evident_not_attentive"
+578,good_staff,"good_staff, impressed_with_the_staff, arranged_taxi_from_airport_to_hotel, no_evident_not_impressed_with_the_staff, no_evident_not_arranged_taxi_from_airport_to_hotel"
+580,good_staff,"1. **Claim**: good_staff  
+2. **Supports**:
+   - available_staff
+   - pleasant_staff
+   - very_professional_staff  
+3. **Contraries** (for each support):
+   - no_evident_not_available_staff
+   - no_evident_not_pleasant_staff
+   - no_evident_not_very_professional_staff"
+581,good_staff,"- **Support**: welcoming_staff  
+  - **Contrary**: no_evident_not_welcoming_staff"
+582,good_staff,"1. **Supports**:  
+   - good_reception  
+   - good_availability  
+
+2. **Contraries**:  
+   - no_evident_not_good_reception  
+   - no_evident_not_good_availability"
+584,good_staff,"- **Support**: pleasant_staff  
+  - **Contrary**: no_evident_not_pleasant_staff"
+585,good_staff,"Here is the ABA format for the given text:
+
+- **friendly_staff**: no_evident_not_friendly_staff  
+- **courteous_staff**: no_evident_not_courteous_staff"
+586,good_staff,"- **Friendly_staff**  
+  - **no_evident_not_friendly_staff**
+
+- **welcoming_staff**  
+  - **no_evident_not_welcoming_staff**"
+587,good_staff,"Here is the text reformatted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Supports**:  
+   - nice_employees  
+
+2. **Contraries**:  
+   - no_evident_not_nice_employees"
+589,good_staff,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Supports**:  
+   - clear_info  
+   - photos_sent  
+   - sympathy_morning  
+   - french_speaking  
+
+2. **Contraries** for each support:  
+   - no_evident_not_clear_info  
+   - no_evident_not_photos_sent  
+   - no_evident_not_sympathy_morning  
+   - no_evident_not_french_speaking  
+
+This response adheres to your conditions, using only the words from the original text and ensuring that each support has its corresponding contrary."
+590,good_staff,"1. helpful_staff  
+   - no_evident_not_helpful  
+2. friendly_staff  
+   - no_evident_not_friendly  
+3. staff_go_out_of_their_way_for_us  
+   - no_evident_not_staff_go_out_of_their_way_for_us"
+594,good_staff,"1. **Support**: nice  
+   **Contrary**: no evident_not_nice  
+
+2. **Support**: welcoming  
+   **Contrary**: no evident_not_welcoming  
+
+3. **Support**: kindly  
+   **Contrary**: no evident_not_kindly  
+
+4. **Support**: settled_early  
+   **Contrary**: no evident_not_settled_early"
+598,good_staff,"- good_staff  
+  - very_nice_staff  
+    - no_evident_not_very_nice_staff"
+599,good_staff,"friendly_staff, no_evident_not_friendly_staff"
+602,good_staff,"1. **Support**: excellent_welcome  
+   **Contrary**: no_evident_not_excellent_welcome"
+603,good_staff,"Here is the structured ABA format based on the given conditions:
+
+1. **Claim**: good_staff  
+2. **Supports**:
+   - exceptional_staff
+   - helpful_staff
+   - friendly_staff
+   - staff_go_out_of_their_way_for_us  
+3. **Contraries** (for each support):
+   - no_evident_not_exceptional_staff
+   - no_evident_not_helpful_staff
+   - no_evident_not_friendly_staff
+   - no_evident_not_staff_go_out_of_their_way_for_us  
+
+This format ensures that all elements are included as per the specified conditions, maintaining clarity and conciseness."
+605,good_staff,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Support**: nice  
+  **Contrary**: no evident not nice  
+
+- **Support**: help  
+  **Contrary**: no evident not help"
+606,good_staff,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Supports:**
+   - amazing_team
+   - thinks_of_all_the_details
+   - happy_to_help
+
+2. **Contraries:**
+   - no_evident_not_amazing_team
+   - no_evident_not_thinks_of_all_the_details
+   - no_evident_not_happy_to_help"
+607,good_staff,"- **Support**: friendly_staff  
+  - **Contrary**: no_evident_not_friendly_staff"
+611,good_staff,"1. **Supports**:  
+   - kindness_staff  
+   - availability_staff  
+
+2. **Contraries**:  
+   - no_evident_not_kindness_staff  
+   - no_evident_not_availability_staff"
+612,good_staff,"Here is the text in Assumption-Based Argumentation (ABA) format based on your provided text:
+
+1. **Supports**:  
+   - extraordinary  
+   - kind  
+   - caring  
+   - help us find a rental car  
+   - accompany us  
+   - advised us  
+
+2. **Contraries** (for each support):  
+   - No evident not extraordinary  
+   - No evident not kind  
+   - No evident not caring  
+   - No evident not help us find a rental car  
+   - No evident not accompany us  
+   - No evident not advised us"
+613,good_staff,"Based on your request for ABA format with the claim ""friendly_staff,"" here is the structured output:
+
+1. **Support**: friendly  
+   - **Contrary**: no evident not friendly  
+
+2. **Support**: staff  
+   - **Contrary**: (no applicable contrary, as ""staff"" does not have an opposite in this context)"
+614,good_staff,"1. friendly_staff  
+   fluid_communication  
+2. no_evident_not_friendly_staff  
+   no_evident_not_fluid_communication"
+615,bad_staff,"1. **Support**: not_order_specific_taxi_for_hotel  
+   **Contrary**: have_evident_not_order_specific_taxi_for_hotel  
+
+2. **Support**: thought_it_would_be_included_in_hotel_bill  
+   **Contrary**: have_evident_thought_it_would_be_included_in_hotel_bill"
+615,good_staff,"1. nice_staff  
+2. staff  
+3. restaurant  
+4. hotel  
+5. no_evident_not_nice  
+6. no_evident_not_staff  
+7. no_evident_not_restaurant  
+8. no_evident_not_hotel"
+616,good_staff,"Here is the text generated in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Claim**: good_staff  
+- **Supports**:  
+  - friendly  
+  - helpful  
+- **Contraries**:  
+  - no_evident_not_friendly  
+  - no_evident_not_helpful"
+617,good_staff,"1. **Claim**: good_staff  
+2. **Support**: nice  
+3. **Contrary**: no evident not nice"
+619,good_staff,"1. **Support**: excellent welcome  
+   **Contrary**: no evident not excellent welcome  
+
+2. **Support**: fluent French  
+   **Contrary**: no evident not fluent French"
+620,good_staff,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **good_staff**  
+  - friendly_staff: no_evident_not_friendly_staff  
+  - try_to_help_staff: no_evident_not_try_to_help_staff"
+621,good_staff,"1. **Claim**: amazing_owner  
+2. **Support**: owner_nice  
+3. **Contrary**: no_evident_not_owner_nice  
+4. **Support**: owner_answers_everything  
+5. **Contrary**: no_evident_not_owner_answers_everything"
+622,good_staff,"- **Support**: friendly_staff  
+  **Contrary**: no_evident_not_friendly_staff"
+624,good_staff,"Here is the text processed into Assumption-Based Argumentation (ABA) format based on your request:
+
+**Claim:** good_guest_well_being  
+**Supports:**
+- boss_care_for_guests
+- family_care_for_guests
+- care_for_guests  
+
+**Contraries:**
+- no_evident_not_boss_care_for_guests
+- no_evident_not_family_care_for_guests
+- no_evident_not_care_for_guests"
+626,good_staff,"- Claim: good_staff  
+- Supports:  
+  - incredible_staff  
+  - soulful_atmosphere  
+- Contraries:  
+  - no_evident_not_incredible_staff  
+  - no_evident_not_soulful_atmosphere"
+627,good_staff,"1. **Supports**:  
+   - loved_staff  
+   - greeted_staff  
+   - nice_staff  
+   - responded_to_help  
+   - called_for_taxi  
+
+2. **Contraries** (for each support):  
+   - no_evident_not_loved_staff  
+   - no_evident_not_greeted_staff  
+   - no_evident_not_nice_staff  
+   - no_evident_not_responded_to_help  
+   - no_evident_not_called_for_taxi"
+628,good_staff,"good_staff  
+nice_staff  
+pleasant_feeling_staff  
+no_evident_not_nice_staff  
+no_evident_not_pleasant_feeling_staff"
+629,good_staff,"1. **Supports**:  
+   - stayed  
+   - pleasant  
+   - helped_order_taxi  
+
+2. **Contraries**:  
+   - no evident not_stayed  
+   - no evident not_pleasant  
+   - no evident not_helped_order_taxi"
+630,good_staff,"Here is the text generated in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Claim**: good_staff  
+  - friendly_staff  
+    - no_evident_not_friendly_staff  
+  - helpful_staff  
+    - no_evident_not_helpful_staff"
+633,good_staff,"1. waited_for_us  
+2. friendly  
+3. no_evident_not_waited_for_us  
+4. no_evident_not_friendly"
+634,good_staff,"Here is the structured list of supports and contraries based on the given conditions:
+
+**Supports:**
+1. exceptional_staff
+2. helpful_staff
+3. friendly_staff
+4. staff_go_out_of_their_way_for_us
+
+**Contraries:**
+1. no_evident_not_exceptional_staff
+2. no_evident_not_helpful_staff
+3. no_evident_not_friendly_staff
+4. no_evident_not staff_go_out_of_their_way_for_us
+
+This format ensures that each support is clearly presented, followed by its corresponding contrary, maintaining the structure and requirements specified."
+635,good_staff,"- friendly_staff  
+- no_evident_not_friendly_staff"
+636,good_staff,"- **Support**: friendly_staff  
+  - **Contrary**: no_evident_not_friendly_staff"
+637,good_staff,"1. **Support**: friendly  
+   - **Contrary**: no evident not friendly  
+
+2. **Support**: reception  
+   - **Contrary**: no evident not reception"
+638,good_staff,"1. **Claim**: good_staff  
+2. **Supports**:
+   - service_of_the_staff
+   - courtesy_of_the_staff  
+3. **Contraries**:
+   - no_evident_not_service_of_the staff
+   - no_evident_not_courtesy_of_the staff"
+639,good_staff,"1. **Support**: earlier_check-in  
+   **Contrary**: no_evident_not_earlier_check-in  
+
+2. **Support**: earlier_check-out  
+   **Contrary**: no_evident_not_earlier_check-out  
+
+3. **Support**: staff_nice  
+   **Contrary**: no_evident_not_staff_nice  
+
+4. **Support**: hotel_arranged_transfer  
+   **Contrary**: no_evident_not_hotel_arranged_transfer"
+640,good_staff,"1. **Support**: nice_host  
+   **Contrary**: no evident not nice_host  
+
+2. **Support**: host_gave_instructions  
+   **Contrary**: no evident not host_gave_instructions  
+
+3. **Support**: host_picked_up_late  
+   **Contrary**: no evident not host_picked_up_late"
+641,good_staff,"1. **Claim**: good_staff  
+2. **Supports**: friendly  
+3. **Contraries**: no_evident_not_friendly"
+642,good_staff,"- **Supports**:  
+  - exceptional  
+  - helpful  
+  - friendly  
+  - went_out_of_their_way_for_us  
+
+- **Contraries**:  
+  - no_evident_not_exceptional  
+  - no_evident_not_helpful  
+  - no_evident_not_friendly  
+  - no_evident_not_went_out_of_their_way_for_us  
+
+- **Supports**:  
+  - speak_French  
+  - caring  
+  - welcome_24h_a_day  
+
+- **Contraries**:  
+  - no_evident_not_speak_French  
+  - no_evident_not_caring  
+  - no_evident_not_welcome_24h_a_day"
+643,good_staff,"- **Support**: courteous_staff  
+  - **Contrary**: no_evident_not_courteous_staff"
+644,good_staff,"friendly, welcome  
+no evident not friendly  
+no evident not welcome"
+646,good_staff,"friendly_owner, leave_things, check_out, no_evident_not_friendly_owner, no_evident_not_leave_things, no_evident_not_check_out"
+648,good_staff,"- **Support**: nice_staff  
+  - **Contrary**: no_evident_not_nice_staff"
+649,good_staff,"Based on your request for ABA format with the claim ""friendly_staff,"" here is the structured output:
+
+1. **Support**: friendly  
+   - **Contrary**: no evident not friendly  
+
+2. **Support**: staff  
+   - **Contrary**: (no applicable contrary, as ""staff"" does not have an opposite in this context)"
+650,good_staff,"1. **Support**: polite_staff  
+   **Contrary**: no_evident_not_polite_staff  
+
+2. **Support**: pleasant_staff  
+   **Contrary**: no_evident_not_pleasant_staff"
+651,good_staff,"- pleasant_staff  
+  - no_evident_not_pleasant"
+653,good_staff,"- **Support**: nice_staff  
+  **Contrary**: no_evident_not_nice_staff"
+654,good_staff,"1. Friendly_staff  
+   - Contrary: no_evident_not_friendly_staff  
+
+2. Always_helping_staff (implied from ""it looks like a family business, but I will not say"")  
+   - Contrary: no_evident_not_always_helping_staff"
+655,good_staff,"Here is the ABA formatted text based on your input:
+
+- **Supports**:  
+  - warm_welcome  
+  - caring_welcome  
+
+- **Contraries**:  
+  - no_evident_not_warm_welcome  
+  - no_evident_not_caring_welcome"
+656,good_staff,"1. **Support**: nice_staff  
+   **Contrary**: no_evident_not_nice_staff"
+657,good_staff,"It seems like your query is incomplete. Could you please provide the full text or context to work with? Without it, I cannot generate the appropriate Assumption-Based Argumentation (ABA) format for ""Friendly staff."""
+658,good_staff,"Here is the text generated in Assumption-Based Argumentation (ABA) format based on your conditions and the provided text:
+
+1. **Claim**: good_staff  
+2. **Supports** and **Contraries**:  
+   - **Support**: owner_cares_for_guests  
+     **Contrary**: no_evident_not_owner_cares_for_guests  
+   - **Support**: makes_gUESTS FEEL_AT_HOME  
+     **Contrary**: no_evident_not_makes_gUESTS FEEL_AT_HOME"
+659,good_staff,"Here is the structured response in Assumption-Based Argumentation (ABA) format based on your text:
+
+- **Claim**: good_staff
+  - **Supports**:
+    - problem_solved_instaneously
+      - **Contrary**: no_evident_not_problem_solved_instaneously
+    - excellent_staff
+      - **Contrary**: no_evident_not_excellent_staff
+    - polite_staff
+      - **Contrary**: no_evident_not_polite_staff
+    - friendly_staff
+      - **Contrary**: no_evident_not_friendly_staff
+
+This format ensures each support is a concise term from the original text, and each contrary starts with ""no evident not"", adhering to your specified conditions."
+660,good_staff,"1. avail  
+2. caring  
+3. no_evident_not_avail  
+4. no_evident_not_caring"
+662,good_staff,"Here is the processed text in ABA format based on your conditions:
+
+1. very helpful staff  
+2. plane_delay  
+3. no evident not very helpful staff  
+4. no evident not plane_delay"
+663,good_staff,"Here is the ABA format for the given text:
+
+- **Claim**: fast_transfer  
+- **Supports**:  
+  - fast_transfer  
+  - organized_by_hotel  
+- **Contraries**:  
+  - no_evident_not_fast_transfer  
+  - no_evident_not_organized_by_hotel"
+666,good_staff,"Here is the text generated in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Claim**: good_staff  
+2. **Supports**:  
+   - friendly  
+   - helpful  
+3. **Contraries**:  
+   - no_evident_not_friendly  
+   - no_evident_not_helpful"
+667,good_staff,"1. **Supports**:  
+   - friendly_staff  
+   - helpful_staff  
+   - staff_go_out_of_their_way_for_us  
+
+2. **Contraries**:  
+   - no_evident_not_friendly_staff  
+   - no_evident_not_helpful_staff  
+   - no_evident_not_staff_go_out_of_their_way_for_us"
+670,good_staff,"Here is the structured ABA format based on your request:
+
+- **Claim**: good_staff  
+  - **Supports**:
+    - exceptional
+    - welcome
+    - french  
+  - **Contraries**:
+    - no_evident_not_exceptional
+    - no_evident_not_welcome
+    - no_evident_not_french"
+673,good_staff,"1. **Claim**: good_staff  
+2. **Supports**: friendly  
+3. **Contraries**: no_evident_not_friendly"
+674,good_staff,"good_staff  
+ competent_staff  
+ no_evident_not_competent_staff  
+ no_evident_not_good_staff"
+675,good_staff,"- **Support**: friendly_service  
+  - **Contrary**: no_evident_not_friendly_service"
+676,good_staff,"1. **Support**: staff_responsive  
+   - **Contrary**: no_evident_not_staff_responsive  
+
+2. **Support**: staff_kind  
+   - **Contrary**: no_evident_not_staff_kind  
+
+3. **Support**: staff_feel_at_home  
+   - **Contrary**: no_evident_not_staff_feel_at_home"
+679,good_staff,"good_staff, top_notch_staff, no_evident_not_top_notch_staff"
+680,good_staff,"hosts  
+  - no evident not_hosts"
+683,good_staff,"- **Supports**:  
+  - friendly_staff  
+  - go_out_of_their_way_for_us  
+
+- **Contraries**:  
+  - no_evident_not_friendly_staff  
+  - no_evident_not_go_out_of_their_way_for_us"
+684,good_staff,"It seems you're asking for an Assumption-Based Argumentation (ABA) format response related to ""the sympathy of the restaurant manager."" However, your query is a bit unclear. Could you clarify what you'd like me to do with this phrase? Are you looking for an ABA-style argument or analysis based on it?
+
+If you'd like help converting ""the sympathy of the restaurant manager"" into ABA format, please provide more details or context!"
+685,good_staff,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- super_service  
+  - no_evident_not_super_service  
+- service  
+  - no_evident_not_service"
+686,good_staff,"1. **Support**: friendly  
+   - **Contrary**: no evident not friendly  
+
+2. **Support**: reception  
+   - **Contrary**: no evident not reception"
+687,good_staff,"1. **Supports**:  
+   - excellent_service  
+   - owner_ready_to_help  
+   - helped_immediately_with_adapters  
+
+2. **Contraries**:  
+   - no_evident_not_excellent_service  
+   - no_evident_not_owner_ready_to_help  
+   - no_evident_not_helped_immediately_with_adapters"
+688,good_staff,"- **Support**: nice_owner  
+  - **Contrary**: no_evident_not_nice_owner"
+689,good_staff,"**Claim:** good_staff  
+**Supports & Contraries:**  
+- **Htl_owner_drove_to_airport**: The Htl owner drove me to the airport after I rang him out of bed.  
+  - **Contrary:** no_evident_not_Htl_owner_drove_to_airport  
+- **Htl_owner_did_not_show_up**: When the booked taxi didn't show up at 3 in the morning, the Htl owner drove me to the airport himself after I rang him out of bed.  
+  - **Contrary:** no_evident_not_Htl_owner_did_not_show_up"
+691,good_staff,"Here is the text in ABA format based on the given conditions:
+
+- **Supports**:  
+  - nice_staff  
+  - kind_staff  
+
+- **Contraries**:  
+  - no_evident_not_nice_staff  
+  - no_evident_not_kind_staff"
+692,good_staff,"1. **Supports**:  
+   - helpful  
+   - adapters  
+
+2. **Contraries**:  
+   - no_evident_not_helpful  
+   - no_evident_not_adapters"
+694,good_staff,"- **Support**: friendly_hosts  
+- **Contrary**: no_evident_not_friendly_hosts"
+695,good_staff,"1. **Support**: friendly  
+   - **Contrary**: no evident not friendly  
+
+2. **Support**: friendly_owners  
+   - **Contrary**: no evident not friendly_owners  
+
+3. **Support**: cooperative  
+   - **Contrary**: no evident not cooperative"
+697,good_staff,"- responsive_staff  
+  - No evident not responsive_staff"
+698,good_staff,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Supports**:  
+  - very_warm_welcome  
+  - efficient_welcome  
+
+- **Contraries**:  
+  - no_evident_not_very_warm_welcome  
+  - no_evident_not_efficient_welcome"
+699,good_staff,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Claim**: good_staff  
+- **Supports**:  
+  - good  
+- **Contraries**:  
+  - no_evident_not_good"
+701,good_staff,"- **Supports**:  
+  - friendly_staff  
+  - helpful_staff  
+
+- **Contraries**:  
+  - no_evident_not_friendly_staff  
+  - no_evident_not_helpful_staff"
+702,good_staff,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Claim**: good_staff  
+2. **Supports**:
+   - nice  
+   - helpful  
+3. **Contraries**:
+   - no evident not nice  
+   - no evident not helpful  
+
+This response adheres to the specified format, ensuring that each support and contrary is derived directly from the original text without adding any assumptions or additional opinions."
+703,good_staff,"1. **Support**: extremely_kind  
+   **Contrary**: no_evident_not_extremely_kind  
+
+2. **Support**: helpful  
+   **Contrary**: no_evident_not_helpful  
+
+3. **Support**: friendly  
+   **Contrary**: no_evident_not_friendly  
+
+4. **Support**: staff_is_extremely_kind  
+   **Contrary**: no_evident_not_staff_is_extremely_kind  
+
+5. **Support**: staff_is_helpful  
+   **Contrary**: no_evident_not_staff_is_helpful  
+
+6. **Support**: staff_is_friendly  
+   **Contrary**: no_evident_not_staff_is_friendly  
+
+7. **Support**: staff_do_their_way_for_us  
+   **Contrary**: no_evident_not_staff_do_their_way_for_us"
+705,good_staff,"1. **Claim**: good_staff  
+2. **Supports**:  
+   - pleasant_staff  
+   - staff_pleasant  
+3. **Contraries**:  
+   - no_evident_not_pleasant_staff  
+   - no_evident_not_staff_pleasant"
+708,good_staff,"Here is the structured response based on your query:
+
+- **Warm_hospitality**
+  - **Contrary**: No_evident_not_warm_hospitality
+- **Cordial_hospitality**
+  - **Contrary**: No_evident_not_cordial_hospitality"
+709,good_staff,"1. **extraordinary_courteous_hosts**  
+   No evident not extraordinary_courteous_hosts  
+
+2. exceptional_staff  
+   No evident not exceptional_staff  
+
+3. helpful_staff  
+   No evident not helpful_staff  
+
+4. friendly_staff  
+   No evident not friendly_staff  
+
+5. staff_go_out_of_their_way_for_us  
+   No evident not staff_go_out_of_their_way_for_us"
+711,good_staff,"- good_staff  
+  - nice_staff  
+    - very_nice_staff  
+      - no_evident_not_nice_staff  
+        - no_evident_not_very_nice_staff"
+714,good_staff,"- **Support**: friendly_staff  
+  - **Contrary**: no_evident_not_friendly_staff"
+716,good_staff,"Here are the supports and their corresponding contraries based on your conditions:
+
+**Supports:**
+- Pleasant_staff  
+- No_evident_not_pleasant_staff  
+
+This format adheres to the specified rules while addressing the original text's sentiment."
+717,good_staff,"1. **Support**: accommodating  
+   **Contrary**: no evident not accommodating  
+
+2. **Support**: nice  
+   **Contrary**: no evident not nice  
+
+3. **Support**: helpful  
+   **Contrary**: no evident not helpful"
+718,good_staff,"1. **Support**: nice_staff  
+2. **Contrary**: no_evident_not_nice"
+721,good_staff,"helpful_people, nice_staff, no_evident_not_helpful_people, no_evident_not_nice_staff"
+722,good_staff,"1. good_staff  
+2. polite_staff  
+3. helpful_staff  
+4. no_evident_not_polite_staff  
+5. no_evident_not_helpful_staff"
+725,good_staff,"**Supports:**
+
+1. **exceptional_staff**
+2. **helpful_staff**
+3. **friendly_staff**
+4. **staff_go_out_of_their_way_for_us**
+
+**Contrary for each support:**
+
+1. **no_evident_not_exceptional_staff**
+2. **no_evident_not_helpful_staff**
+3. **no_evident_not_friendly_staff**
+4. **no_evident_not_staff_go_out_of_their_way_for_us**"
+726,good_staff,"Based on your request for ABA format with the claim ""friendly_staff,"" here is the structured output:
+
+1. **Support**: friendly  
+   - **Contrary**: no evident not friendly  
+
+2. **Support**: staff  
+   - **Contrary**: (no applicable contrary, as ""staff"" does not have an opposite in this context)"
+727,good_staff,"- **Supports**:  
+  - friendly  
+  - helped  
+  - explained  
+
+- **Contraries**:  
+  - no_evident_not_friendly  
+  - no_evident_not_helped  
+  - no_evident_not_explained"
+729,good_staff,"1. **Supports**:  
+   - managers_are_nice  
+   - managers_are_helpful  
+
+2. **Contraries**:  
+   - no_evident_not_managers_are_nice  
+   - no_evident_not_managers_are_helpful"
+732,good_staff,"welcoming_staff  
+no_evident_not_welcoming_staff  
+
+friendly_staff  
+no_evident_not_friendly_staff"
+733,good_staff,"Here is the ABA-formatted response based on your conditions:
+
+- **Claim**: good_staff  
+- **Supports**:
+  - friendly_staff
+  - helping_staff  
+- **Contraries**:
+  - no_evident_not_friendly_staff
+  - no_evident_not_helping_staff"
+735,good_staff,"1. Prepare staff  
+2. Pool  
+3. Playroom  
+4. Roof garden  
+
+- No evident not prepare staff  
+- No evident not pool  
+- No evident not playroom  
+- No evident not roof garden"
+736,good_staff,"1. good_staff  
+2. staff  
+3. friendly  
+4. is  
+5. very  
+6. no_evident_not_good_staff  
+7. no_evident_not_staff  
+8. no_evident_not_friendly  
+9. no_evident_not_is  
+10. no_evident_not_very"
+739,good_staff,"1. Exceptional_staff; no_evident_not_exceptional_staff  
+2. Helpful_staff; no_evident_not_helpful_staff  
+3. Friendly_staff; no_evident_not_friendly_staff  
+4. Staff_go_out_of_their_way_for_us; no_evident_not_staff_go_out_of_their_way_for_us"
+746,bad_staff,"1. **Support**: ""I did not like the behavior of the gentleman in the reservations.""  
+   **Contrary**: have_evident_I_did_not_like_the_behavior_of_the_gentleman_in_the_reservations.
+
+2. **Support**: ""without even speaking the Cypriot language.""  
+   **Contrary**: have_evident_without_even_speaking_the_cypriot_language."
+746,good_staff,"1. **Support**: lady  
+   **Contrary**: no_evident_not_lady  
+
+2. **Support**: spoke_cypriot  
+   **Contrary**: no_evident_not_spoke_cypriot  
+
+3. **Support**: kind  
+   **Contrary**: no_evident_not_kind  
+
+4. **Support**: willing  
+   **Contrary**: no_evident_not_willing  
+
+5. **Support**: was_kind  
+   **Contrary**: no_evident_not_was_kind  
+
+6. **Support**: willing_for_any_help  
+   **Contrary**: no_evident_not_willing_for_any_help  
+
+7. **Support**: good_staff  
+   (This is the claim, so it is not included in the supports or contraries.)"
+750,bad_staff,"- **Support**: staff_didnt_work_night  
+  - **Contrary**: have_evident_staff_didnt_work_night"
+758,bad_staff,"1. **Support**: receptionist_didn_t_speak_english_properly  
+   **Contrary**: have_evident_receptionist_didn_t_speak_english_properly  
+
+2. **Support**: staff_could_not_give_information_about_the_bus_to_airport  
+   **Contrary**: have_evident_staff_could_not_give_information_about_the_bus_to_airport"
+763,good_staff,"1. **Support**: exceptional_staff  
+   **Contrary**: no_evident_not_exceptional_staff  
+
+2. **Support**: warm_welcome  
+   **Contrary**: no_evident_not_warm_welcome"
+764,bad_staff,"1. Supports:  
+   - no_one_wears_mask  
+   - only_one_wears_mask  
+
+2. Contraries:  
+   - have_evident_not_everyone_wears_mask  
+   - have_evident_only_one_wears_mask"
+765,good_staff,"- Support: excellent_attention  
+- Contrary: no_evident_not_excellent_attention"
+770,good_staff,"Here is the text in ABA format based on your conditions:
+
+- Pleasant_staff: 
+  - Support: pleasant
+  - Contrary: no_evident_not_pleasant  
+- Helpful_staff:
+  - Support: helpful
+  - Contrary: no_evident_not_helpful"
+771,good_staff,"- Supports: [""nice_staff""]  
+  Contraries: [""no_evident_not_nice_staff""]"
+774,good_staff,"- kind staff  
+  no evident not kind staff"
+775,good_staff,"- **Support**: perfect welcome  
+  - **Contrary**: no evident not perfect welcome  
+
+This response adheres to the conditions specified: using short words for supports, adding contraries with ""no evident not,"" and avoiding assumptions or additional opinions."
+777,good_staff,"1. Responsive_staff  
+   - Contrary: no_evident_not_responsive_staff  
+
+2. Smiling_staff  
+   - Contrary: no_evident_not_smiling_staff"
+779,good_staff,"- **Supports**:  
+  - helpful  
+  - friendly  
+  - went_out_of_their_way_for_us  
+
+- **Contraries**:  
+  - no_evident_not_helpful  
+  - no_evident_not_friendly  
+  - no_evident_not_went_out_of_their_way_for_us"
+783,good_staff,"The claim is **good_staff**.  
+Supports:  
+- staff  
+Contraries:  
+- no_evident_not staff"
+784,good_staff,"Here’s the text in ABA format based on your conditions:
+
+- **Supports**:  
+  - friendly_service  
+  - warm_service  
+
+- **Contraries**:  
+  - no_evident_not_friendly_service  
+  - no_evident_not_warm_service"
+785,good_staff,"Here is the text generated in Assumption-Based Argumentation (ABA) format based on your instructions:
+
+- **Claim**: good_staff  
+- **Supports and Contraries**:  
+  - very_kind  
+    - no_evident_not_very_kind  
+  - helpful  
+    - no_evident_not_helpful"

@@ -1,0 +1,3346 @@
+ID,Topic,Output
+1,good_location,"1. close  
+   no evident not close  
+
+2. very clean  
+   no evident not very clean"
+3,good_location,"- **Supports**: near, close  
+- **Contraries**: No evident not near, No evident not close"
+5,good_location,"- Support: in  
+  Contrary: No evident not in  
+
+- Support: location  
+  Contrary: No evident not location"
+8,good_location,"1. Support: nice  
+   Contrary: no evident not nice  
+
+2. Support: location  
+   Contrary: no evident not location"
+10,good_location,"Supports and Contraries:
+
+- Quiet  
+  No evident not quiet"
+11,good_location,"1. **Support**: minutes walk  
+   **Contrary**: no evident not minutes walk  
+
+2. **Support**: 2 euros  
+   **Contrary**: no evident not 2 euros"
+13,good_location,"**ABA Format:**
+
+1. **Supports:**
+   - short drive to the airport
+   - located
+   - short walk from the promenade
+   - coffee shops
+   - restaurants
+
+2. **Contraries:**
+   - No evident not a short drive to the airport.
+   - No evident not located.
+   - No evident not a short walk from the promenade.
+   - No evident not coffee shops.
+   - No evident not restaurants.
+
+This format ensures each support is paired with its contrary, using exact vocabulary and maintaining clarity without unnecessary adjectives or adverbs."
+14,good_location,"- Good location: Hotel is near the airport
+- Good location: Restaurants and bars are by the beach
+- Good location: Close to the hotel
+- No evident not near the airport
+- No evident not next to the beach
+- No evident not close to the hotel"
+15,bad_location,"1. Support: ""it is a bit on the edge of Larnaca""  
+   Contrary: have evident frequent buses to the centre.
+
+2. Support: ""with frequent buses to the centre""  
+   Contrary: have evident it is a bit on the edge of Larnaca."
+15,good_location,"- Support: close  
+  Contrary: no evident not close  
+
+- Support: stroll  
+  Contrary: no evident not stroll"
+18,good_location,"Supports:
+1. every 20 minutes
+2. centre of Larnaka
+
+Contraries:
+1. No evident not every 20 minutes
+2. No evident not centre of Larnaka"
+19,good_location,"Supports:
+- Near
+- Close
+- Proximity
+
+Contraries:
+- no evident not near
+- no evident not close
+- no evident not proximity"
+26,good_location,"1. The hotel is 5 minutes from the beach.  
+   No evident not 5 minutes from the beach.  
+
+2. The location is near the lake.  
+   No evident not near the lake."
+27,good_location,"- Support 1: overnight stay  
+- Support 2: Larnaca Airport  
+- Contrary 1: No evident not suitable for overnight stay.  
+- Contrary 2: No evident not from Larnaca Airport."
+28,bad_location,"- Supports:
+  - constructions
+  - poorly lit
+
+- Contraries:
+  - have evident constructions
+  - have evident poorly lit"
+30,good_location,"Here is the ABA formatted text based on your requirements:
+
+- Good location has restaurants.  
+  No evident not has restaurants.  
+
+- Close to the airport.  
+  No evident not is close to the airport."
+31,good_location,"1. Support: close to Mackenzy beach  
+   Contrary: No evident not close to Mackenzy beach  
+
+2. Support: close to Larnaca airport  
+   Contrary: No evident not close to Larnaca airport"
+36,bad_location,"1. **Supports and Contraries:**
+
+   - **small**  
+     *Contrary:* have evident not small
+   - **side street**  
+     *Contrary:* have evident not side street"
+36,good_location,"1. Close - no evident not close  
+2. Short walk - no evident not short walk"
+37,good_location,"- **Claim**: good_location  
+- **Supports**:
+  - bus
+    - Contrary: no evident not bus
+  - airport
+    - Contrary: no evident not airport
+  - close by
+    - Contrary: no evident not close by
+  - every
+    - Contrary: no evident not every
+  - minutes
+    - Contrary: no evident not minutes"
+40,good_location,"Here is the structured ABA format based on your requirements:
+
+1. Nice location  
+   - No evident not nice location  
+
+2. Not far from Airport  
+   - No evident not far from Airport  
+
+3. Not far from Mackenzie beach  
+   - No evident not far from Mackenzie beach"
+41,bad_location,"**ABA Format:**  
+- **Support:** close at 22:30  
+  - **Contrary:** have evident that it does not close early  
+
+- **Support:** no food afterwards  
+  - **Contrary:** have evident that there is food available"
+41,good_location,"Here is the structured ABA format based on the given text:
+
+**Supports:**
+1. 5 lins away from the airport
+2. 5 mins walk to the beach
+
+**Contraries:**
+1. No evident not (5 lins away from the airport)
+2. No evident not (5 mins walk to the beach)
+
+This format ensures each support is clearly stated with its corresponding contrary, maintaining clarity and logical structure without using adjectives or adverbs beyond necessity."
+44,bad_location,"Supports:
+- noisy
+- busy
+
+Contraries:
+- have evident clear
+- have evident quiet"
+45,bad_location,"1. Near: has plane noise  
+   Contrary: have evident noise from being near  
+
+2. Plane noise: has plane noise  
+   Contrary: have evident plane noise  
+
+3. Runway: has plane noise  
+   Contrary: have evident runway"
+45,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Support**: The beach is about 5 minutes walk away.
+- **Contrary**: No evident not walk.
+
+This presentation adheres to all specified conditions: it uses short words, original vocabulary, includes a contrary for each support, and avoids any assumptions or additional opinions."
+49,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - close to the airport
+  - short walk to the sea
+
+- **Contraries:**
+  - No evident not close to the airport
+  - No evident not short walk to the sea"
+50,good_location,"Supports and Contraries:
+
+1. Support: close  
+   Contrary: no evident not close"
+51,good_location,"1. near  
+2. no evident not near  
+3. airport  
+4. no evident not airport"
+53,good_location,"Supports:
+1. airport
+2. Mackenzie Beach
+
+Contraries:
+1. No evident not at the airport.
+2. No evident not near Mackenzie Beach.
+
+This response adheres to all specified conditions, ensuring clarity and precision in each element of the ABA format."
+55,good_location,"Here is the structured ABA format based on the given conditions:
+
+1. Good
+   - No evident not good
+
+2. Great
+   - No evident not great
+
+3. Excellent
+   - No evident not excellent
+
+4. Superb
+   - No evident not superb
+
+This list adheres to all specified requirements, ensuring each support is concise and its contrary correctly formulated."
+56,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - within_5_minutes_from_airport
+  - prime_location_near_airport
+
+- **Contraries:**
+  - no_evident_not_within_5_minutes_from_airport
+  - no_evident_not_prime_location_near_airport"
+57,good_location,"Here is the structured ABA format based on your requirements:
+
+- Good location
+  - Supports:
+    - good (from ""nice"")
+    - walk (from ""short walk"")
+    - restaurants (from ""many restaurants"")
+  - Contraries:
+    - No evident not good
+    - No evident not walk
+    - No evident not restaurants"
+58,bad_location,"Here is the text in Assumption-Based Argumentation (ABA) format based on your requirements:
+
+- **Argument**:  
+  - **Claim**: bad_location  
+    - **Support 1**: room  
+      - **Counterargument 1**: have evident room  
+    - **Support 2**: soundproof  
+      - **Counterargument 2**: have evident soundproof"
+58,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports**:
+  - Close proximity
+- **Contraries**:
+  - No evident not close proximity
+
+This structure adheres to the specified conditions, using exact words from the original text and ensuring each contrary starts with ""No evident not."""
+59,good_location,"1. Near an airport, no evident not very convenient for overnight stay."
+62,good_location,"- Support: near the airport  
+  Contrary: No evident not near the airport  
+
+- Support: near the beach  
+  Contrary: No evident not near the beach"
+64,bad_location,"1. Support: hear noise from planes  
+   Contrary: have evident noise from planes  
+
+2. Support: close to airport  
+   Contrary: have evident closeness to airport"
+64,good_location,"Here is the structured ABA format based on the given text:
+
+1. The hotel is near the airport.
+   No evident not the hotel is near the airport.
+
+2. It was a perfect match for being close to the airport.
+   No evident not it was a perfect match for being close to the airport.
+
+3. The hotel is 5 minutes by car or 10 minutes by bus from the airport.
+   No evident not the hotel is 5 minutes by car or 10 minutes by bus from the airport.
+
+This format adheres to all specified conditions, ensuring clarity and correctness in each statement."
+65,good_location,"- Support: location was great  
+  Contrary: No evident not great  
+
+- Support: location was easy  
+  Contrary: No evident not easy"
+66,good_location,"- Support: close  
+  Contrary: No evident not close  
+
+- Support: great value  
+  Contrary: No evident not great value  
+
+- Support: friendly  
+  Contrary: No evident not friendly"
+71,bad_location,"1. **Supports:**
+   - shop
+     - have evident no shop
+   - pharmacy
+     - have evident no pharmacy"
+71,good_location,"ABA Format:
+
+- Supports:
+  - steps
+  - minutes
+
+- Contraries:
+  - No evident not steps
+  - No evident not minutes"
+74,good_location,"- **Supports**:
+  - The hotel is near a quiet place.  
+  - The location has lots of parking.  
+
+- **Contraries**:  
+  - No evident not near a quiet place.  
+  - No evident not have lots of parking."
+76,good_location,"1. nearby - No evident not nearby  
+2. beach - No evident not beach"
+80,good_location,"- good_location
+  - mcm
+    - no evident not mcm
+  - beach
+    - no evident not beach
+  - within
+    - no evident not within
+  - walking_distance
+    - no evident not walking_distance"
+81,good_location,"- Close  
+  No evident not close  
+
+- Airport  
+  No evident not airport"
+82,good_location,"- **Supports:**
+  - location
+  - good
+
+- **Contraries:**
+  - no evident not location
+  - no evident not good"
+83,bad_location,"Here is the structured ABA format based on the given conditions:
+
+1. bad_location has evident far.
+2. bad_location has evident centre.
+3. have evident bad_location is not far.
+4. have evident bad_location is not centre.
+
+This format includes both the supporting statements and their respective counter-statements, adhering to all specified guidelines."
+88,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - good location
+  - easily reached
+
+- **Contraries:**
+  - No evident not good location
+  - No evident not easily reached"
+91,good_location,"- Close  
+  No evident not close  
+
+- airport  
+  No evident not airport"
+93,good_location,"Supports:
+- walkable
+- No evident not walkable"
+95,good_location,"- Support: location  
+- Contrary: no evident not location"
+98,good_location,"Here is the structured ABA format based on the given text:
+
+- Close to the airport.  
+  - No evident not close to the airport.  
+
+- Nice places for at least a two-nights stay.  
+  - No evident not nice places.  
+
+- Long (Mackenzie beach).  
+  - No evident not long.  
+
+- Cool bars.  
+  - No evident not cool.  
+
+- Fancy bars.  
+  - No evident not fancy bars.  
+
+- Salt lake.  
+  - No evident not salt lake."
+102,good_location,"1. **Supports:**
+   - close to airport
+   - close to Makenzie beach
+   - close to tourist area
+   - close to bus stop
+
+2. **Contraries:**
+   - no evident not close to airport
+   - no evident not close to Makenzie beach
+   - no evident not close to tourist area
+   - no evident not close to bus stop"
+104,good_location,"- Quiet place.  
+  - Support: quiet  
+    Contrary: no evident not quiet"
+106,good_location,"1. Support: Proximity to the airport is an advantage
+   - Contrary: No evident not proximity to the airport is an advantage"
+107,good_location,"Here is the structured ABA format based on the given conditions:
+
+1. Proximity  
+   No evident not proximity  
+
+2. Easy access  
+   No evident not easy access  
+
+3. Quick travel time  
+   No evident not quick travel time"
+109,good_location,"1. good_location  
+2. No evident not good_location  
+3. suitable_for_late_flights  
+4. No evident not suitable_for_late_flights"
+111,good_location,"- **Supports**:  
+  - airport  
+  - Mackenzie beach  
+
+- **Contraries**:  
+  - no evident not airport  
+  - no evident not Mackenzie beach"
+114,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - It was 10 minutes from the airport by taxi.
+    - No evident not being 10 minutes from the airport by taxi.
+  - It was 15 minutes by shuttle bus.
+    - No evident not being 15 minutes by shuttle bus.
+  - There are connecting buses from Ayia Napa to this hotel via Larnaca.
+    - No evident not having connecting buses from Ayia Napa to this hotel via Larnaca.
+  - McKenzie beach is close by.
+    - No evident not being close to McKenzie beach.
+  - The food restaurants off the opposite beach were only a ten-minute walk.
+    - No evident not being a ten-minute walk from the food restaurants.
+
+This format ensures each support is paired with its contrary, using exact vocabulary and avoiding any additional assumptions or claims."
+115,good_location,"- **Supports:**
+  - Mackenzie beach
+  - Few minutes
+  - Airport near
+  - Best location in larnaca
+
+- **Contraries:**
+  - No evident not Mackenzie beach
+  - No evident not few minutes
+  - No evident not airport near
+  - No evident not best location in larnaca"
+116,good_location,"Here is the structured ABA format based on the given text:
+
+- **Support**: location is clean  
+  **Contrary**: No evident not(location) is clean.
+
+- **Support**: location is air conditioned  
+  **Contrary**: No evident not(location) is air conditioned.
+
+- **Support**: location is close to the airport  
+  **Contrary**: No evident not(location) is close to the airport."
+117,good_location,"1. Good for flights in the morning
+2. Beach is near
+3. No evident not good for flights in the morning
+4. No evident not beach is near"
+118,good_location,"1. location near the airport  
+2. location near the beach  
+3. no evident not near the airport  
+4. no evident not near the beach"
+119,good_location,"- location is good  
+  no evident not good location  
+
+- airport nearby  
+  no evident not airport nearby  
+
+- beach nearby  
+  no evident not beach nearby"
+120,good_location,"- Support: close to airport  
+  Contrary: no evident not close to airport"
+123,bad_location,"Here is the structured ABA format based on the provided text:
+
+**Supports:**
+1. The area
+2. was
+3. a little noisy
+
+**Contraries:**
+1. The area has evident bad_location.
+2. was has evident bad_location.
+3. a little noisy has evident bad_location.
+
+This approach ensures each support is clearly addressed with its corresponding contrary, maintaining clarity and consistency in the argumentation."
+123,good_location,"1. convenient location  
+   No evident not convenient location  
+
+2. close location  
+   No evident not close location"
+125,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Support 1**: Close to one of the best beaches  
+  - **Contrary 1**: No evident not close to one of the best beaches  
+
+- **Support 2**: Perfectly connect by public transport  
+  - **Contrary 2**: No evident not perfectly connect by public transport"
+126,bad_location,"Here is the structured ABA format based on the given text:
+
+- Supports:
+  - bit
+  - loud
+
+- Contraries:
+  - have evident noisiness (bit)
+  - have evident noisiness (loud)"
+128,good_location,"Here is the structured ABA format based on the given text:
+
+Proximity => good_location; No evident not proximity  
+Easy access => good_location; No evident not easy access"
+129,good_location,"Here is the structured ABA format based on the given conditions:
+
+1. Wanted something.
+   - Contrary: no evident not wanted something.
+
+2. Close to Makenzie.
+   - Contrary: no evident not close to Makenzie.
+
+3. Plans for the night.
+   - Contrary: no evident not plans for the night.
+
+4. Place was perfect.
+   - Contrary: no evident not place was perfect."
+131,bad_location,"1. far  
+2. city centre  
+3. have evident far from  
+4. have evident near the city centre"
+134,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - location
+  - beach
+  - bars
+
+- **Contraries:**
+  - no evident not location
+  - no evident not beach
+  - no evident not bars"
+137,good_location,"- **Supports:**
+  - location
+  - good
+
+- **Contraries:**
+  - no evident not location
+  - no evident not good"
+139,good_location,"- **Supports:**
+  - Proximity to the airport
+  - No evident not proximity to the airport (contrary)
+
+This format ensures that each support is concise, uses direct vocabulary from the original text, and each has a corresponding contrary statement."
+140,good_location,"ABA Format:
+Supports:
+- Being close to an airport is advantageous.
+- Proximity to an airport is beneficial.
+- Being near the airport offers convenience.
+- Situated next to the airport is advantageous.
+
+Contraries:
+- No evident not being close to an airport.
+- No evident not being proximity to an airport.
+- No evident not be close to the airport offering convenience.
+- No evident not be situated next to the airport."
+142,good_location,"- Support: near mackenzie beach  
+  Contrary: no evident not near mackenzie beach"
+143,good_location,"1. Perfect overnight stay  
+   No evident not perfect overnight stay  
+
+2. Close to the airport  
+   No evident not close to the airport"
+145,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports**:
+  - Close to the airport
+  - a 5 min walk from Makenzie blue flag beach
+
+- **Contraries**:
+  - No evident not close to the airport
+  - No evident not a 5 min walk from Makenzie blue flag beach"
+148,good_location,"ABA Format:
+
+- Support: close airport  
+  Contrary: no evident not airport"
+149,good_location,"1. good_location  
+2. quick_path  
+3. treacherous_path  
+4. No evident not good_location  
+5. No evident not quick_path  
+6. No evident not treacherous_path"
+152,good_location,"- Bars  
+  No evident not bars  
+
+- Airport  
+  No evident not airport"
+153,good_location,"1. Close - no evident not close  
+2. Airport - no evident not airport"
+155,good_location,"- Support: near  
+  Contrary: no evident not near"
+156,good_location,"ABA Format:
+
+Supports:
+- near
+- airport
+- hours
+
+Contraries:
+- no evident not near
+- no evident not airport
+- no evident not hours"
+157,good_location,"Supports:
+- 7 minutes
+Contraries:
+- no evident not 7 minutes"
+158,good_location,"1. On the beach  
+   No evident not on the beach  
+
+2. Fantastic  
+   No evident not fantastic"
+159,good_location,"Here is the structured ABA format based on your requirements:
+
+1. location is great  
+2. location is close  
+3. no evident not location is great  
+4. no evident not location is close"
+168,good_location,"1. Support: near the airport  
+   Contrary: no evident not near the airport  
+
+2. Support: short walking distance  
+   Contrary: no evident not short walking distance"
+169,good_location,"1. Close to airport  
+   No evident not close to airport  
+
+2. 5 min drive to airport  
+   No evident not 5 min drive to airport"
+171,good_location,"Supports and Contraries:
+
+1. few steps from the salt lake and the McKenzie Beach  
+   No evident not few steps from the salt lake and the McKenzie Beach  
+
+2. a lot of cafes and bars nearby  
+   No evident not a lot of cafes and bars nearby"
+177,good_location,"- Close: no evident not close  
+- Near: no evident not near"
+179,good_location,"1. Close to local restaurants
+   - No evident not close to local restaurants.
+2. Quiet
+   - No evident not quiet."
+182,good_location,"Here is the structured ABA format based on the given text:
+
+1. **Support**: Maintenance work is ongoing.  
+   Therefore, good_location.
+
+2. **Contrary**: No evident not maintenance work is ongoing.  
+   Therefore, good_location.
+
+3. **Support**: Weather conditions are unpredictable.  
+   Therefore, good_location.
+
+4. **Contrary**: No evident not weather conditions are unpredictable.  
+   Therefore, good_location.
+
+This format ensures each support and its corresponding contrary are clearly listed with the conclusion that the location is good."
+183,good_location,"1. Support: very  
+2. Contrary: no evident not very"
+185,bad_location,"Here is the structured ABA format based on your requirements:
+
+1. **ABA 1:**
+   - **Assumption:** Access to a car is needed.
+     - **Support:** car
+     - **Contrary:** have evident access to a car is not necessary.
+
+2. **ABA 2:**
+   - **Assumption:** Using the hotel as your base requires something else (e.g., convenience or time).
+     - **Support:** hotel
+     - **Contrary:** have evident it doesn't require anything else besides being located in a good area.
+
+This format adheres to all specified conditions, ensuring each support is paired with its contrary and that no unnecessary adjectives or adverbs are used."
+185,good_location,"Here is the structured ABA format based on the given conditions and analysis:
+
+**Supports:**
+1. Located
+2. Near airport
+
+**Contraries:**
+1. No evident not located
+2. Not near airport"
+190,good_location,"Supports and Contraries:
+
+1. conveniently located
+2. No evident not conveniently located"
+191,good_location,"Here is the structured ABA format based on the given conditions:
+
+**Supports:**
+1. near
+2. airport
+
+**Contraries:**
+- no evident not near
+- no evident not airport"
+193,good_location,"- **Supports:**
+  - beach
+  - airport transfer
+
+- **Contraries:**
+  - No evident not a beach location.
+  - No evident not an airport transfer."
+195,bad_location,"1. Not too close  
+   have evident  
+
+2. not too close  
+   have evident"
+195,good_location,"1. Support: pre  
+   Contrary: no evident not pre  
+
+2. Support: post  
+   Contrary: no evident not post"
+197,good_location,"Here is the structured ABA format based on your requirements:
+
+**Supports:**
+1. near
+2. not far
+
+**Contraries:**
+- No evident not near the airport.
+- No evident not not far away.
+
+This meets all specified conditions, ensuring clarity and adherence to the guidelines provided."
+199,good_location,"Supports:
+- 5 minute walk
+- 5 minute walk
+
+Contraries:
+- no evident not 5 minute walk
+- no evident not 5 minute walk"
+202,good_location,"- **Supports**: beach, restaurants  
+  - **Contraries**: no evident not beach, no evident not restaurants"
+204,good_location,"Supports:  
+1. come  
+2. airport  
+
+Contraries:  
+1. no evident not come  
+2. no evident not airport"
+206,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - location is great
+  - beach is near
+
+- **Contraries:**
+  - no evident not location is great
+  - no evident not beach is near"
+208,good_location,"- Support: quiet area  
+  Contrary: No evident not quiet area  
+
+- Support: easy find parking places  
+  Contrary: No evident not easy find parking places"
+210,good_location,"- **Support**: location  
+  **Contrary**: no evident not location  
+
+- **Support**: fine  
+  **Contrary**: no evident not fine"
+211,bad_location,"Here is the structured presentation of the ABA format for the given text:
+
+- half an hour
+  - have evident half an hour
+
+- walking to town
+  - have evident walking to town"
+211,good_location,"1. Support: close to airport  
+   Contrary: No evident not close to airport  
+
+2. Support: close to town  
+   Contrary: No evident not close to town"
+219,bad_location,"Here is the generated text in ABA format based on your requirements:
+
+- **Support**: bit noisy  
+  **Contrary**: have evident quietness  
+
+- **Support**: air traffic  
+  **Contrary**: have evident calmness"
+220,good_location,"Here is the structured ABA format based on the provided conditions:
+
+1. 4 km  
+   No evident not 4 km  
+
+2. walk  
+   No evident not walk  
+
+3. b4 highway  
+   No evident not b4 highway"
+226,bad_location,"ABA Format:
+
+- small fridge
+- warm (turned off)
+- upon arrival
+- completely empty
+- no local shop/kiosk nearby
+
+have evident small fridge  
+have evident warm (turned off)  
+have evident upon arrival  
+have evident completely empty  
+have evident no local shop/kiosk nearby"
+227,good_location,"- Support: close  
+  Contrary: no evident not close"
+228,good_location,"1. convenient  
+2. quiet  
+3. no evident not convenient  
+4. no evident not quiet"
+231,good_location,"Support: situated  
+Contrary: no evident not situated"
+232,good_location,"- location  
+  no evident not good_location  
+- late flight  
+  no evident not suitable for a late flight"
+233,bad_location,"Here is the structured ABA format based on your instructions:
+
+Support 1: far  
+Contrary 1: have evident far  
+
+Support 2: have everything we need in the cafe  
+Contrary 2: have evident have everything we need in the cafe"
+234,good_location,"Here is the ABA formatted text based on your requirements:
+
+Supports and Contraries:
+- great
+  - no evident not great
+- location
+  - no evident not location
+- for
+  - no evident not for
+- bars
+  - no evident not bars
+- restaurants
+  - no evident not restaurants
+- and
+  - no evident not and
+- beach
+  - no evident not beach"
+235,good_location,"- Support: location  
+- Contrary: no evident not location"
+236,good_location,"Here is the structured ABA format based on the provided conditions:
+
+**Supports:**
+1. The hotel is near the 425 bus route.
+2. The hotel is close to the airport via the 425 bus route.
+
+**Contraries:**
+1. No evident not near the 425 bus route.
+2. No evident not close to the airport via the 425 bus route.
+
+This format ensures each point is concise, uses exact vocabulary from the original text, and properly presents both supports and their corresponding contraries without any additional assumptions or opinions."
+238,good_location,"Here is the structured ABA format based on the given conditions:
+
+- **Claim**: good_location  
+- **Premise 1**: close to the airport  
+- **Counterargument 1**: no evident not close to the airport"
+239,good_location,"1. Close to the sea  
+   No evident not close to the sea  
+
+2. No evident not close to the sea"
+240,good_location,"1. close proximity to the beach
+   - no evident not close proximity to the beach
+2. close proximity to the restaurants
+   - no evident not close proximity to the restaurants"
+241,good_location,"1. Walking distance to airport  
+   No evident not walking distance to airport  
+
+2. Close to luxurious beach strip  
+   No evident not close to luxurious beach strip"
+243,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports**:
+  - near beaches
+  - near restaurants
+
+- **Contraries**:
+  - no evident not near beaches
+  - no evident not near restaurants"
+246,bad_location,"1. Bad location: The taxi driver had a hard time finding it to drop us off.  
+   Contrary: Have evident the taxi driver had a hard time finding it to drop us off.  
+
+2. Bad location: The location is a bit hard to find.  
+   Contrary: Have evident the location is a bit hard to find.  
+
+3. Bad location: The taxi drivers GPS had trouble finding it.  
+   Contrary: Have evident the taxi driver's GPS had trouble finding it."
+246,good_location,"1. Claim: good_location
+2. Support 1: 10 minutes from the airport
+3. Contrary 1: No evident not 10 minutes from the airport"
+250,good_location,"Here is the structured ABA format based on your requirements:
+
+- Support: allowed us to walk  
+  Contrary: no evident not allowed us to walk  
+
+- Support: to the beach and restaurants  
+  Contrary: no evident not to the beach and restaurants"
+253,good_location,"1. cleanliness  
+   No evident not cleanliness  
+
+2. quietness  
+   No evident not quietness"
+254,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - close airport
+  - worked us
+
+- **Contraries:**
+  - no evident not close airport
+  - no evident not worked us"
+255,good_location,"Here is the structured ABA format based on the provided text:
+
+- **Supports:**
+  - very cozy
+  - modern
+  - clean
+  - close to the airport
+  - only few steps from the beach
+
+- **Contraries:**
+  - No evident not very cozy
+  - No evident not modern
+  - No evident not clean
+  - No evident not close to the airport
+  - No evident not only few steps from the beach"
+257,good_location,"Here is the text in ABA format based on your requirements:
+
+- **Support**: great_location  
+  **Contrary**: no evident not great_location  
+
+- **Support**: location  
+  **Contrary**: no evident not location  
+
+- **Support**: quiet  
+  **Contrary**: no evident not quiet"
+259,good_location,"1. location  
+   - no evident not location  
+2. near  
+   - no evident not near  
+3. easy  
+   - no evident not easy"
+260,good_location,"1. 10 mins walk to Mackenzie Beach  
+   No evident not 10 mins walk to Mackenzie Beach  
+
+2. 40 mins walk downtown on promenade  
+   No evident not 40 mins walk downtown on promenade"
+262,good_location,"Here is the text reformatted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. Close to the airport  
+   No evident not close to the airport  
+
+2. 6 minutes by taxi  
+   No evident not 6 minutes by taxi  
+
+3. €20  
+   No evident not €20"
+268,good_location,"- Easy walk  
+  No evident not easy walk  
+
+- Short journey  
+  No evident not short journey"
+271,good_location,"Here is the structured ABA format based on the provided text:
+
+**Supports:**
+1. Near the beach
+2. Near the restaurants
+3. Public bus station at 30 meters from the hotel
+4. Close to the airport
+
+**Contraries:**
+1. No evident not near the beach
+2. No evident not near the restaurants
+3. No evident not public bus station at 30 meters from the hotel
+4. No evident not close to the airport"
+272,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - Near Mackenzie beach
+  - Very close to the center
+
+- **Contraries:**
+  - No evident not near Mackenzie beach
+  - No evident not very close to the center"
+276,good_location,"- Walk  
+  no evident not walk  
+
+- Airport  
+  no evident not airport  
+
+- 45 min  
+  no evident not 45 min"
+278,good_location,"1. easy
+   - no evident not easy
+2. convenient
+   - no evident not convenient
+3. fast
+   - no evident not fast"
+279,good_location,"- Support: in a residential neighborhood  
+  Contrary: No evident not in a residential neighborhood  
+
+- Support: modern  
+  Contrary: No evident not modern  
+
+- Support: approx 10 minute drive  
+  Contrary: No evident not approx 10 minute drive  
+
+- Support: 20 minute drive  
+  Contrary: No evident not 20 minute drive"
+280,bad_location,"Here is the text reformatted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Supports:**
+   - good  
+   - close  
+   - handy  
+
+2. **Contraries:**  
+   - have evident not good  
+   - have evident not close  
+   - have evident not handy"
+280,good_location,"1. Not inspiring  
+   No evident not inspiring  
+
+2. Lovely restaurants  
+   No evident lovely restaurants  
+
+3. Sea front  
+   No evident sea front  
+
+4. Handy for Limassol  
+   No evident handy for Limassol  
+
+5. Handy for airport  
+   No evident handy for airport"
+281,good_location,"- Support: location  
+  - Contrary: no evident not location"
+282,good_location,"Here is the structured ABA format based on your requirements:
+
+1. **Support**: Close to the beach.  
+   **Contrary**: No evident not close to the beach.
+
+2. **Support**: Situated in a quiet place.  
+   **Contrary**: No evident not situated in a quiet place."
+284,good_location,"Supports and Contraries:
+
+1. series
+   - no evident not series
+
+2. delicious
+   - no evident not delicious
+
+3. fun
+   - no evident not fun
+
+4. close
+   - no evident not close"
+286,good_location,"- convenient  
+  no evident not convenient"
+288,bad_location,"- **Support**: distant  
+  - The location is quite distant from the city center, making it a bad place to be if you want to stay close to the city.  
+
+- **Contrary**: have evident proximity  
+  - However, having evident proximity might make the location even better for someone who values being near the city center."
+288,good_location,"1. Proximity to the airport  
+2. Distant from the city center  
+3. Close to Salt Lake  
+4. Opportunity to watch flamings  
+
+5. No evident not proximity to the airport  
+6. No evident not distant from the city center  
+7. No evident not close to Salt Lake  
+8. No evident not opportunity to watch flamings"
+289,good_location,"Here is the structured ABA format based on your requirements:
+
+1. **Support**: Close to airport  
+   **Contrary**: No evident not close to airport  
+
+2. **Support**: Makenzie beach area  
+   **Contrary**: No evident not Makenzie beach area  
+
+3. **Support**: Taxi fare to airport around 15-18 euro  
+   **Contrary**: No evident not taxi fare to airport around 15-18 euro"
+290,good_location,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  - The room was excellent value for money.
+  - The location was excellent value for money.
+
+- **Contraries:**
+  - No evident not The room was excellent value for money.
+  - No evident not The location was excellent value for money."
+291,good_location,"- Close  
+  No evident not close  
+
+- Airport  
+  No evident not airport"
+292,good_location,"Here is the text generated in ABA format based on your requirements:
+
+- **Supports:**
+  - good location
+  - only 8 minutes by car
+
+- **Contraries:**
+  - No evident not good location
+  - No evident not only 8 minutes by car"
+295,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - good
+  - close (only 20 minutes away)
+  - quiet (located in a quiet area)
+
+- **Contraries:**
+  - no evident not good
+  - no evident not close
+  - no evident not quiet
+
+This format ensures each support is paired with its contrary, using the exact vocabulary from the original text and adhering to all specified conditions."
+298,good_location,"Here is the structured ABA format based on the provided text:
+
+1. location is good  
+   No evident not location is good  
+
+2. can take bus 425  
+   No evident not can take bus 425  
+
+3. from the airport to somewhere  
+   No evident not from the airport to somewhere  
+
+4. close enough to the hotel  
+   No evident not close enough to the hotel"
+299,good_location,"**ABA Format Response:**
+
+- **Supports:**
+  - convenient
+  - easy to catch public transport
+  - many cafés around
+
+- **Contraries:**
+  - no evident not convenient
+  - no evident not easy to catch public transport
+  - no evident not many cafés around"
+300,good_location,"1. Close to the airport  
+   No evident not close to the airport  
+
+2. 1 minute walk  
+   No evident not 1 minute walk  
+
+3. Beach  
+   No evident not beach  
+
+4. Restaurants  
+   No evident not restaurants"
+301,good_location,"1. **Support**: Area is quiet.  
+   **Contrary**: No evident not quiet.  
+
+This response adheres to the conditions provided: using short words without unnecessary adjectives or adverbs, incorporating vocabulary from the original text, and structuring each support with its corresponding contrary in a clear format."
+304,good_location,"Here is the structured ABA format based on your requirements:
+
+1. **Support 1**: a minute
+2. **Contrary 1**: no evident not a minute
+3. **Support 2**: 5 minutes
+4. **Contrary 2**: no evident not 5 minutes"
+307,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - accommodation
+  - one night
+  - before departure
+
+- **Contraries:**
+  - No evident not accommodation
+  - No evident not one night
+  - No evident not before departure"
+310,good_location,"Supports:
+1. close proximity
+2. Mckenzie beach
+
+Contraries:
+1. No evident not having a close proximity to Larnaca airport.
+2. No evident not being near Mckenzie beach.
+
+Each support is paired with its contrary, using the exact vocabulary and structured correctly as per ABA format."
+312,good_location,"- Close  
+  No evident not close  
+
+- Five minute walk  
+  No evident not five minute walk"
+313,good_location,"Supports:
+- street
+- sufficient
+- parking facilities
+
+Contraries:
+- no evident not quiet
+- no evident not sufficient
+- no evident not parking facilities"
+314,good_location,"ABA Format:
+
+- Support: 5 minutes
+- Contrary: no evident not 5 minutes
+
+This structure adheres to all given conditions, providing a balanced argument with both support and counterpoints."
+316,good_location,"1. Perfect location to McKenzie Beach  
+   No evident not perfect location to McKenzie Beach  
+
+2. Only a 30 minute walk to the central marina  
+   No evident not only a 30 minute walk to the central marina"
+318,good_location,"1. Support: In a quiet area 10 minutes from Larnaca airport  
+   Contrary: No evident not in a quiet area 10 minutes from Larnaca airport  
+
+2. Support: Only 6 minutes walk down to the beach & restaurants  
+   Contrary: No evident not only 6 minutes walk down to the beach & restaurants"
+322,bad_location,"Here is the structured ABA format based on your requirements:
+
+1. **Support**: not much  
+   **Contrary**: have evident not much  
+
+2. **Support**: else  
+   **Contrary**: have evident else  
+
+3. **Support**: to do  
+   **Contrary**: have evident to do  
+
+4. **Support**: close by  
+   **Contrary**: have evident close by"
+322,good_location,"1. Support: pleasant  
+   Contrary: no evident not pleasant  
+
+2. Support: walk  
+   Contrary: no evident not walk  
+
+3. Support: sea  
+   Contrary: no evident not sea"
+323,good_location,"ABA Format:
+
+Supports:
+1. Close proximity to the airport
+2. Near Makenzie Beach and nearby restaurants
+
+Contraries:
+1. No evident not close proximity to the airport
+2. No evident not near Makenzie Beach and nearby restaurants"
+324,good_location,"1. **Support**: Morning flight  
+   **Contrary**: No evident not morning flight  
+
+2. **Support**: Airport is 7 min drive  
+   **Contrary**: No evident not airport is 7 min drive"
+325,bad_location,"Here is the structured ABA format based on the given conditions:
+
+1. **Support 1**: ""bad location due to smell.""
+   - **Contrary 1**: ""have evident bad location due to smell.""
+
+2. **Support 2**: ""location has smell from lake.""
+   - **Contrary 2**: ""have evident location has smell from lake."""
+325,good_location,"1. not far from the airport  
+   no evident not (not far from the airport)  
+
+2. 5 min walk to the beach  
+   no evident not (5 min walk to the beach)"
+327,good_location,"Here is the structured ABA format based on the given conditions:
+
+- **Supports:**
+  - Proximity to airport
+  - Closeness to airport
+
+- **Contraries:**
+  - No evident not being_proximate_to_airport
+  - No evident not being_close_to_airport"
+328,bad_location,"1. A disturbing odor came out of the drains.  
+   - have evident no odor from drains.
+
+2. The smell could be felt on the street that day.  
+   - have evident no smell felt on the street.
+
+3. There was a bad location due to sewage.  
+   - have evident no bad location due to sewage."
+328,good_location,"Supports:  
+close  
+proximity of the bus to the airport  
+
+Contraries:  
+no evident not close  
+no evident not proximity of the bus to the airport"
+329,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - quiet
+  - and
+
+- **Contraries:**
+  - no evident not quiet
+  - no evident not and"
+332,good_location,"ABA Format:
+
+Supports:
+- Cafe Nero
+- 10 minutes away
+- perfect
+
+Contraries:
+- no evident not Cafe Nero
+- no evident not 10 minutes away
+- no evident not perfect"
+334,good_location,"ABA Supports and Contraries:  
+- Support: location  
+  Contrary: no evident not location  
+- Support: great  
+  Contrary: no evident not great"
+338,good_location,"1. **Supports:**
+   - beach
+     - No evident not beach
+   - restaurants
+     - No evident not restaurants
+   - shops
+     - No evident not shops
+   - traffic
+     - No evident not traffic"
+340,bad_location,"1. Support: farther  
+   Contrary: have evident farther  
+
+2. Support: busy beach  
+   Contrary: have evident busy beach  
+
+3. Support: water sports  
+   Contrary: have evident water sports  
+
+4. Support: quiet beach  
+   Contrary: have evident quiet beach"
+344,good_location,"Supports:  
+1. 5 min  
+2. walk  
+
+Contraries:  
+1. No evident not 5 min  
+2. No evident not walk"
+347,good_location,"Here is the structured ABA format based on your instructions:
+
+- good_location: 
+  - 10 minutes walk
+    - No evident not 10 minutes walk
+  - loads of restaurants
+    - No evident not loads of restaurants"
+348,bad_location,"1. Support: young family  
+   Contrary: have evident young family  
+
+2. Support: quiet area  
+   Contrary: have evident quiet area"
+349,bad_location,"**Supports and Contraries in ABA Format**
+
+1. **Support:** far  
+   **Contrary:** have evident close (from major tourist spots)
+
+2. **Support:** pretty from major tourist spots  
+   **Contrary:** have evident not pretty from major tourist spots"
+349,good_location,"1. Good location because close to bus stop.
+   No evident not close_to_bus_stop.
+
+This structure adheres to the user's conditions by presenting a single argument with its contrary in one block, using exact vocabulary and proper formatting."
+350,good_location,"1. 6  
+2. drive  
+3. airport  
+4. no evident not 6  
+5. no evident not drive  
+6. no evident not airport"
+351,good_location,"Supports:
+- Fab
+- Close to
+
+Contraries:
+- No evident not fab
+- No evident not close to"
+353,bad_location,"Here is the structured ABA format based on the provided conditions:
+
+1. [Support]: location is far.
+   - [Contrary]: have evident reason why location being close is also considered bad.
+
+This structure adheres to the instructions by using concise statements, ensuring each support has a corresponding contrary starting with ""have evident,"" and maintaining grammatical correctness while strictly following the user's guidelines."
+353,good_location,"Here is the ABA format based on the given text:
+
+- **Supports:**
+  - Proximity to transportation (nearby)
+  - Safety (safe area)
+  - Convenience for travelers (easy access)
+
+- **Contraries:**
+  - No evident not nearby
+  - No evident not safe area
+  - No evident not easy access
+
+This format adheres to the specified conditions, ensuring each support is paired with a contrary that directly contradicts it."
+355,good_location,"Here is the text in ABA format based on your conditions:
+
+Supports and Contraries:
+1. early flight  
+   no evident not having an early flight  
+2. beach strip nearby  
+   no evident not being near a beach strip  
+3. various restaurants  
+   no evident not having various restaurants"
+358,good_location,"- Support: close  
+  Contrary: no evident not close  
+
+This response adheres to all specified conditions by clearly listing each support with its corresponding contrary in a concise manner."
+361,good_location,"Supports:
+1. The location is near Makanzie Beach.
+2. The location is near Makanzie Beach.
+
+Contraries:
+1. No evident not near Makanzie Beach.
+2. No evident not near Makanzie Beach."
+364,good_location,"Here is the ABA formatted text based on your requirements:
+
+- **Supports:**
+  - loads of bars and restaurants
+  - 5 mins walk away on the beach
+
+- **Contraries:**
+  - No evident not loads of bars and restaurants
+  - No evident not 5 mins walk away on the beach"
+367,good_location,"Here is the structured ABA format for ""good_location"" in Larnaca:
+
+1. **Supports:**
+   - Close to the airport
+   - Has historical sites nearby
+   - Beaches within walking distance
+   - Nightlife options are close by
+   - Family-friendly environment is family-friendly
+
+2. **Contraries:**
+   - No evident not close to the airport.
+   - No evident not has historical sites nearby.
+   - No evident not beaches within walking distance.
+   - No evident not nightlife options are close by.
+   - No evident not family-friendly environment is family-friendly.
+
+This format ensures each support is paired with a contrary, using direct and concise language as required."
+368,good_location,"1. **Support**: location  
+   **Contrary**: no evident not location  
+
+This provides the required structure with supports and their corresponding contraries clearly listed together."
+370,good_location,"- **Supports**: airport, sea  
+  - **Contraries**: no evident not airport, no evident not sea"
+372,good_location,"1. 15 minutes away from the airport  
+2. No evident not 15 minutes away from the airport  
+3. 15 minutes walk  
+4. No evident not 15 minutes walk  
+5. 300 meters from the beach  
+6. No evident not 300 meters from the beach"
+373,good_location,"1. Claim: good_location  
+2. Support: I stayed  
+3. Contrary: No evident not I stayed"
+374,good_location,"Here is the structured ABA format based on your requirements:
+
+1. **Support**: location is good  
+   **Contrary**: no evident not location is good  
+
+This meets all specified conditions: short and direct supports with original vocabulary, each support has a corresponding contrary starting correctly, and there are no additional assumptions or opinions provided."
+376,good_location,"ABA Format:
+
+Supports:
+- 5
+- walk
+- beach
+
+Contraries:
+- no evident not 5 minute walk to the beach
+- no evident not walk to the beach
+- no evident not beach"
+377,good_location,"1. Support: near to the beach  
+   Contrary: no evident not near to the beach  
+
+2. Support: near to the airport  
+   Contrary: no evident not near to the airport  
+
+3. Support: near to the bus station  
+   Contrary: no evident not near to the bus station"
+380,good_location,"Here is the structured ABA format based on the given text:
+
+1. very close
+   - no evident not very close
+
+2. airport
+   - no evident not airport
+
+3. beaches
+   - no evident not beaches
+
+4. entertainment
+   - no evident not entertainment"
+381,good_location,"Here is the structured ABA format based on the provided text:
+
+**Supports:**
+1. location
+2. beach proximity
+3. airport proximity
+
+**Contraries:**
+1. no evident not location
+2. no evident not beach proximity
+3. no evident not airport proximity"
+382,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - close
+  - 7-minute walking distance
+
+- **Contraries:**
+  - No evident not close
+  - No evident not 7-minute walking distance"
+388,good_location,"- Near the airport  
+  No evident not near the airport  
+
+- Near the beach  
+  No evident not near the beach"
+389,good_location,"1. **Support**: convenient  
+   **Contrary**: No evident not convenient to the airport and beach.
+
+2. **Support**: 5 minutes away  
+   **Contrary**: No evident not 5 minutes away from the airport or within walking distance."
+391,bad_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - exciting
+  - clean
+
+- **Contraries:**
+  - have evident excitement
+  - have evident cleanliness"
+391,good_location,"**Assumption Based Argumentation (ABA) Format**
+
+- **Claim:** Mackenzie Beach promenade is a good location.
+- **Support 1:** Short walk to the beach.  
+  - **Contrary to Support 1:** No evident not short walk to the beach.
+- **Support 2:** Promenade is a place to enjoy the beach.  
+  - **Contrary to Support 2:** No evident not promenade is a place to enjoy the beach.
+
+This structured format presents each support and its corresponding contrary, ensuring clarity and adherence to the specified conditions without introducing any additional assumptions or claims beyond those derived from the original text."
+392,good_location,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- location  
+  no evident not location  
+
+- nice  
+  no evident not nice"
+394,good_location,"Here is the structured ABA format based on the given text:
+
+1. **Supports:**
+   - 7minuteswalkfrombeach
+   - 7minuteswalkfromrestaurants
+   - 7minuteswalkfromsupermarket
+   - 10minsbytaxifromairport
+   - 30minuteswalkingfromLarnaca
+
+2. **Contraries:**
+   - no evident not located7minuteswalkfrombeach
+   - no evident not located7minuteswalkfromrestaurants
+   - no evident not located7minuteswalkfromsupermarket
+   - no evident not airport10minsbytaxifromairport
+   - no evident not Larnaca30minuteswalkingfrom
+
+Each support is paired with its contrary, ensuring clarity and adherence to the specified format."
+398,good_location,"Supports:
+- short walk
+- nice beach bars
+- close to airport
+
+Contraries:
+- No evident not short walk
+- No evident not nice beach bars
+- No evident not close to airport"
+402,good_location,"1. Near Mackenzie Beach  
+   No evident not near Mackenzie Beach  
+
+2. Just 2 min walk  
+   No evident not just 2 min walk"
+406,good_location,"Supports and Contraries:
+
+1. **Support:** 5 minutes walk to Makkenzy beach  
+   **Contrary:** No evident not 5 minutes walk to Makkenzy beach  
+
+2. **Support:** Planes landing near you  
+   **Contrary:** No evident not planes landing near you"
+407,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Claim:** good_location
+- **Supports:**
+  - location (from ""great location"")
+- **Contraries:**
+  - no evident not location"
+410,good_location,"1. Support: amazing  
+   Contrary: No evident not amazing  
+
+2. Support: close to the airport  
+   Contrary: No evident not close to the airport  
+
+3. Support: right next to  
+   Contrary: No evident not right next to  
+
+4. Support: must-see  
+   Contrary: No evident not must-see  
+
+5. Support: within a 10 minute walk  
+   Contrary: No evident not within a 10 minute walk  
+
+6. Support: next to a bus stop  
+   Contrary: No evident not next to a bus stop  
+
+7. Support: handy  
+   Contrary: No evident not handy"
+415,good_location,"1. Walking distance from Mackenzie beach  
+   No evident not walking distance from Mackenzie beach.  
+2. Beach lounges nearby  
+   No evident not nearby beach lounges.  
+3. Restaurants close by  
+   No evident not close restaurants."
+417,good_location,"- Support: close_to_airport  
+  Contrary: No evident not close_to_airport  
+
+- Support: just_7_10_min_by_taxi  
+  Contrary: No evident not just_7_10_min_by_taxi  
+
+- Support: 15€  
+  Contrary: No evident not 15€"
+419,good_location,"- good_location  
+  - location  
+    - no evident not location"
+420,bad_location,"Supports:
+- far
+
+Contraries:
+- have evident far"
+421,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - steps to Makenzy beach
+  - cafés
+  - restaurants
+  - easy access to nightlife
+
+- **Contraries:**
+  - No evident not steps to Makenzy beach
+  - No evident not cafés
+  - No evident not restaurants
+  - No evident not easy access to nightlife"
+422,good_location,"- close to the city  
+- very accessible by any transportation  
+- No evident not close to the city  
+- No evident not very accessible by any transportation"
+423,good_location,"1. Near the beach  
+2. No evident not near the beach  
+3. Easy access to public transport  
+4. No evident not easy access to public transport"
+424,good_location,"1. Support: close to jogging trails  
+   Contrary: no evident not close to jogging trails  
+
+2. Support: along the lake  
+   Contrary: no evident not along the lake  
+
+3. Support: close to the airport  
+   Contrary: no evident not close to the airport"
+425,good_location,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  - great (accessibility)
+  - where we wanted to be
+
+- **Contraries:**
+  - No evident not great
+  - No evident not where we wanted to be"
+426,bad_location,"Here is the structured ABA format based on your requirements:
+
+1. **Supports:**
+   - noise
+   - people
+   - picking rubbish
+   - large lorries
+
+2. **Contraries:**
+   - have evident noise
+   - have evident people
+   - have evident picking rubbish
+   - have evident large lorries"
+427,bad_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - not
+  - beach front
+
+- **Contraries:**
+  - have evident on the beach front
+  - have evident as we were under the impression it was"
+429,good_location,"Supports:
+- quiet
+- location
+
+Contraries:
+- No evident not quiet
+- No evident not location"
+431,bad_location,"**ABA Format Generation**
+
+- **Claim**: bad_location
+- **Supports and Contraries**
+
+  - **Support 1**: There was no place for a mini Mart.
+    - **Contrary 1**: Have evident a place for a mini Mart.
+
+This response adheres to the specified conditions, ensuring each support is concise without adjectives or adverbs, followed by its corresponding contrary."
+431,good_location,"1. bus_stop (no evident not bus_stop)
+2. into_town (no evident not into_town)
+3. around_corner (no evident not around_corner)"
+432,good_location,"1. Walk  
+   No evident not walk  
+
+2. Mckenzie beach  
+   No evident not Mckenzie beach"
+434,good_location,"- Near  
+  - No evident not near  
+- Airport  
+  - No evident not airport"
+435,good_location,"1. Close  
+   No evident not close  
+
+This response adheres to the specified format, ensuring each point is succinct and directly addresses the claim's supports and their counterpoints without additional commentary or synonyms."
+436,good_location,"1. Good transit  
+2. Sleep over  
+3. No evident not good transit  
+4. No evident not sleep over"
+438,good_location,"ABA Format:
+
+Supports:
+1. Close
+2. To the Larnaka airport
+3. As required
+
+Contraries:
+1. No evident not close
+2. No evident not to the Larnaka airport
+3. No evident not as required"
+439,good_location,"- Support 1: ""usefully located""  
+  Contrary 1: ""No evident not useful located""
+
+- Support 2: ""in between""  
+  Contrary 2: ""No evident not in between"""
+441,bad_location,"Here is the structured ABA format based on the given conditions:
+
+1. **Support**: far location  
+   **Contrary**: have evident bad internet issues.
+
+2. **Support**: connectivity issues  
+   **Contrary**: have evident bad internet issues.
+
+3. **Support**: less reliable service  
+   **Contrary**: have evident bad internet issues.
+
+4. **Support**: increased latency  
+   **Contrary**: have evident bad internet issues.
+
+Each point is presented with its corresponding contrary, ensuring clarity and adherence to the specified format without including any assumptions or additional opinions."
+441,good_location,"- **Support**: quiet
+  - **Contrary**: no evident not quiet
+- **Support**: peaceful
+  - **Contrary**: no evident not peaceful"
+442,bad_location,"- Support: hard  
+  Contrary: have evident not hard"
+445,good_location,"Here is the structured ABA format based on the given text:
+
+1. next_to_airport
+2. no evident not next_to_airport"
+448,good_location,"**ABA Argument:**
+
+1. **Premise:** Good location (from the given text)
+2. **Assumption:** Makenzie Beach has features that make it desirable.
+3. **Contrary:** No evident not having desirable features.
+
+This argument structure uses the premise from the given text, an assumption based on common reasoning for a good location, and its contrary as required."
+449,good_location,"- Close  
+  No evident not close  
+
+- Airport  
+  No evident not airport"
+451,good_location,"1. Close from the airport  
+   No evident not close from the airport  
+
+2. Close to the famous Makenzie Beach  
+   No evident not close to the famous Makenzie Beach"
+452,good_location,"1. Good location (near airport)  
+   No evident not near  
+
+2. Good location (quiet neighborhood)  
+   No evident not quiet"
+453,good_location,"- near mackenzie beach  
+  no evident not near mackenzie beach"
+454,bad_location,"1. Supports:
+   - Noises are present in the neighborhood.
+   - The area is very noisy.
+
+2. Contraries:
+   - There is evident noise in the neighborhood.
+   - The area has evident noise."
+455,bad_location,"1. Front of pension: have evident front of pension  
+2. Close: have evident close  
+3. People could see the color of my underwear: have evident people could see the color of my underwear"
+456,good_location,"**ABA Text:**
+
+1. **Support:** convenient by taxi  
+   **Contrary:** No evident not convenient by taxi.
+
+2. **Support:** near city center  
+   **Contrary:** No evident not near city center.
+
+3. **Support:** near airport  
+   **Contrary:** No evident not near airport.
+
+4. **Support:** near beach  
+   **Contrary:** No evident not near beach."
+457,good_location,"ABA Format:
+
+- Claim: good_location  
+- Supports: quiet, near  
+- Contraries: no evident not quiet, no evident not near"
+459,bad_location,"1. Support: garbage truck  
+   Contrary: have evident garbage truck  
+
+2. Support: passing at 3 a.m  
+   Contrary: have evident passing at 3 a.m  
+
+3. Support: incredible noise  
+   Contrary: have evident incredible noise"
+460,good_location,"Here is the structured ABA format based on your requirements:
+
+- excellent  
+  - no evident not excellent"
+462,good_location,"Here is the text in Assumption-Based Argumentation (ABA) format based on your instructions:
+
+1. Good location.  
+   No evident not good location.  
+
+This response adheres to all specified conditions: it uses short, concise language without adjectives or unnecessary adverbs, each support is paired with its contrary starting with ""No evident not,"" and no assumptions or further opinions are included."
+465,good_location,"Here is the structured ABA format based on your requirements:
+
+- Supports:
+  - calm area
+  - close to beach
+  - many restaurants and cafes
+
+- Contraries:
+  - No evident not calm area
+  - No evident not close to beach
+  - No evident not many restaurants and cafes"
+466,good_location,"1. very close  
+2. close  
+3. nice  
+4. not very close  
+5. not close  
+6. not nice"
+471,bad_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - far from main town
+  - bad accessibility
+
+- **Contraries:**
+  - have evident not far from main town
+  - have evident good accessibility"
+471,good_location,"**ABA Format:**
+
+- **Claim:** good location  
+- **Supports:**
+  - good location
+  - very close to beach  
+- **Contraries:**
+  - no evident not good location
+  - no evident not very close to beach"
+479,good_location,"1. Near the airport  
+   No evident not near the airport  
+
+2. Close to beach and has many restaurants  
+   No evident not close to beach and has many restaurants"
+483,good_location,"Supports and Contraries:
+
+1. **close to the airport**
+   - No evident not close to the airport
+2. **early or late flights**
+   - No evident not early or late flights
+3. **also close to the beach**
+   - No evident not also close to the beach"
+484,bad_location,"1. Supports:
+   - ""far from town""
+     - have evident ""far from town""
+   - ""slightly far from town""
+     - have evident ""slightly far from town""
+   - ""a bit far from town""
+     - have evident ""a bit far from town""
+
+2. Contraries:
+   - ""far from town""  
+     - have evident ""far from town""
+   - ""slightly far from town""  
+     - have evident ""slightly far from town""
+   - ""a bit far from town""  
+     - have evident ""a bit far from town"""
+484,good_location,"**ABA Format:**
+
+- **Supports:**
+  - Close to the airport
+  - Convenient
+
+- **Contraries:**
+  - No evident not close to the airport
+  - No evident not convenient"
+489,good_location,"Here is the structured ABA format based on the given conditions:
+
+- **Supports:**
+  - 10 minutes
+  - walk
+  - bus
+
+- **Contraries:**
+  - no evident not 10 minutes
+  - no evident not walk
+  - no evident not bus
+
+This list includes all supports and their corresponding contraries, adhering to the specified format."
+490,good_location,"1. Proximity to the airport  
+   no evident not proximity to the airport  
+
+2. Nearness to the city center  
+   no evident not nearness to the city center  
+
+3. Proximity to public transportation  
+   no evident not proximity to public transportation  
+
+4. Safety of the area  
+   no evident not safety of the area  
+
+5. Proximity to shopping centers  
+   no evident not proximity to shopping centers"
+491,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Support**: location  
+  **Contrary**: no evident not location  
+
+- **Support**: airport  
+  **Contrary**: no evident not airport"
+492,bad_location,"1. Bad location: Noisy  
+2. Bad location: due to heavy use of tiling  
+3. Bad location: steadily  
+
+4. Have evident Noisy  
+5. Have evident heavy use of tiling  
+6. Have evident steadily"
+492,good_location,"Here is the structured ABA format based on the given text:
+
+- near  
+  - No evident not near  
+
+- airport  
+  - No evident not airport  
+
+- ideal for late arrival  
+  - No evident not ideal for late arrival  
+
+- ideal for very early departure  
+  - No evident not ideal for very early departure"
+494,good_location,"Here is the text generated in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. Very  
+   No evident not very.
+
+2. Close  
+   No evident not close."
+495,good_location,"Here is the structured ABA format based on your requirements:
+
+- Clean  
+  No evident not clean  
+
+- Close to the beach  
+  No evident not close to the beach  
+
+- Close to the field  
+  No evident not close to the field  
+
+- Intimate  
+  No evident not intimate  
+
+- Quiet  
+  No evident not quiet"
+496,good_location,"Here is the generated text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- location  
+  - no evident not location  
+
+- close_to_airport  
+  - no evident not close_to_airport"
+497,good_location,"Here is the structured ABA format based on your requirements:
+
+- location near airport  
+  no evident not location near airport  
+
+- beach  
+  no evident not beach  
+
+- restaurants  
+  no evident not restaurants  
+
+- snacks  
+  no evident not snacks"
+498,bad_location,"1. **Supports:**
+   - It is close
+   - It is not so easy
+
+2. **Contraries:**
+   - Have evident it is not so easy
+   - Have evident it is close"
+498,good_location,"- Support: close  
+  - Contrary: no evident not close  
+
+This structure adheres to the specified conditions, providing a clear ABA format with one support and its corresponding contrary."
+499,good_location,"**ABA Format Text**
+
+- **Claim:** good_location  
+- **Support:** close  
+  - The hotel is located close.  
+- **Contrary:** no evident not close  
+  - There is no evident not close location for the hotel."
+500,bad_location,"**ABA Format Response:**
+
+- **Supports:**
+  1. Problem is finding it.
+  2. Located in an alley.
+  3. Google maps went crazy.
+  4. Understanding why they sent me a photo of how to locate the street.
+
+- **Contraries:**
+  1. Have evident evidence of difficulty.
+  2. Have evident evidence of being located in an alley.
+  3. Have evident evidence of google maps going crazy.
+  4. Have evident evidence of understanding why."
+500,good_location,"Here is the text formatted according to your instructions:
+
+- Claim: good_location  
+- Supports and Contraries:  
+  - Central location (support)  
+    - No evident not central (contrary)  
+  - Central location (support)  
+    - No evident not central (contrary)"
+501,good_location,"Supports:
+- airport
+Contraries:
+- no evident not airport"
+503,bad_location,"1. The environment is unfriendly for walking.  
+   Have evident that the environment is actually friendly despite its issues.
+
+2. There is a lot of construction in the area.  
+   Have evident that there isn't much construction, making the location more pleasant.
+
+3. The roads are bumpy.  
+   Have evident that the roads aren't as bumpy as they seem."
+503,good_location,"1. **Support**: close  
+   - **Contrary**: no evident not close  
+
+2. **Support**: field  
+   - **Contrary**: no evident not field  
+
+3. **Support**: bench  
+   - **Contrary**: no evident not bench"
+505,good_location,"- **Supports:**
+  - city center
+  - airport
+  - sea
+
+- **Contraries:**
+  - No evident not close to the city center
+  - No evident not at the airport
+  - No evident not near the sea"
+510,good_location,"1. Proximity to the airport  
+   no evident not proximity to the airport  
+
+2. Nearness to the city center  
+   no evident not nearness to the city center  
+
+3. Proximity to public transportation  
+   no evident not proximity to public transportation  
+
+4. Safety of the area  
+   no evident not safety of the area  
+
+5. Proximity to shopping centers  
+   no evident not proximity to shopping centers"
+513,good_location,"1. Close to the airport  
+   No evident not close to the airport  
+
+2. Short distance from the promenade  
+   No evident not short distance from the promenade  
+
+3. Easy to get to  
+   No evident not easy to get to"
+515,good_location,"1. Support: location  
+   Contrary: no evident not location  
+
+2. Support: lake  
+   Contrary: no evident not lake  
+
+3. Support: beach  
+   Contrary: no evident not beach"
+518,good_location,"ABA Format:
+
+Supports:
+- good
+- calm
+- peaceful
+
+Contraries:
+- no evident not good
+- no evident not calm
+- no evident not peaceful"
+519,good_location,"Supports and Contraries:
+
+1. near MacKenzie beach
+2. no evident not near MacKenzie beach"
+527,good_location,"1. Near Larnaca airport: No evident not near Larnaca airport  
+2. mckenzie beach: No evident not mckenzie beach"
+528,good_location,"1. Claim: good_location
+   - Support 1: We were interested in a hotel.
+     - Counter-support 1: No evident not we were interested in a hotel.
+   - Support 2: The hotel was near the airport.
+     - Counter-support 2: No evident not the hotel was near the airport."
+530,good_location,"Supports:
+- easy
+- quiet
+- not
+- far
+- beach
+
+Contraries:
+- no evident not easy
+- no evident not quiet
+- no evident not not
+- no evident not far
+- no evident not beach"
+531,good_location,"- **Supports**: close, promenade  
+  - **Contraries**: No evident not close, No evident not promenade"
+532,good_location,"- good_location: close
+  - support: close
+    - contrary: no evident not close
+  - support: near
+    - contrary: no evident not near"
+535,good_location,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. Walk 30 minutes from Larnaca center  
+   - no evident not walk 30 minutes from Larnaca center  
+
+2. Walk 10 minutes from beautiful Mackenzie Beach  
+   - no evident not walk 10 minutes from beautiful Mackenzie Beach"
+536,good_location,"Here is the structured ABA format based on your requirements:
+
+1. Close to the beach
+2. Close to the gastronomy
+3. Close to the airport
+4. No evident not close to the beach
+5. No evident not close to the gastronomy
+6. No evident not close to the airport
+
+Each support and its corresponding contrary are listed together, ensuring clarity and adherence to the specified conditions."
+538,good_location,"1. Close to the airport - No evident not close to the airport.
+2. Easily accessible by taxi - No evident not easily accessible by taxi.
+3. There is also a bus route nearby - No evident not there is also a bus route nearby."
+540,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - very close
+  - close to
+  - near
+
+- **Contraries:**
+  - no evident not very close
+  - no evident not close to
+  - no evident not near"
+541,good_location,"1. Close to both the airport and Mackenzie Beach  
+   - No evident not close to both the airport and Mackenzie Beach  
+
+2. In fifteen minutes of walking along the sea you can also reach Finikoudes  
+   - No evident not In fifteen minutes of walking along the sea you can also reach Finikoudes"
+542,good_location,"1. Close to the airport  
+   No evident not close to the airport  
+
+2. A lot of restaurants and cafes  
+   No evident not a lot of restaurants and cafes  
+
+3. Convenient for us  
+   No evident not convenient for us  
+
+4. Close to the beach  
+   No evident not close to the beach"
+546,good_location,"Here is the structured ABA format based on the given conditions:
+
+1. convenient  
+   no evident not convenient  
+
+2. late arrival  
+   no evident not late arrival  
+
+3. planning further travel by car  
+   no evident not planning further travel by car  
+
+4. walking distance to Mackenzie Beach  
+   no evident not walking distance to Mackenzie Beach  
+
+5. Salt Lake  
+   no evident not Salt Lake"
+547,good_location,"1. near the airport  
+2. 7-10 minutes by taxi  
+3. no evident not near the airport  
+4. no evident not 7-10 minutes by taxi"
+549,good_location,"- Support: location  
+- Contrary: no evident not location"
+551,good_location,"1. **Claim**: good_location  
+2. **Support 1**: Proximity to Mackenzie Beach  
+3. **Contrary 1**: No evident not close  
+4. **Support 2**: Near the beach (5 minutes walk)  
+5. **Contrary 2**: No evident not quick"
+552,good_location,"Supports:
+- arrived
+- hotel
+- one night
+- close
+- airport
+- early morning flight
+
+Contraries:
+- No evident not arrived
+- No evident not hotel
+- No evident not one night
+- No evident not close
+- No evident not airport
+- No evident not early morning flight"
+554,good_location,"Here is the structured ABA format based on the provided text:
+
+1. The situation is extremely close to the airport for a very early departure or a late arrival. No evident not extremely close to the airport for a very early departure or a late arrival.
+
+2. The situation is extremely close to the airport for a very early departure or a late arrival. No evident not extremely close to the airport for a very early departure or a late arrival.
+
+3. The situation is extremely close to the beach and its entertainment (restaurants, bars...). No evident not extremely close to the beach and its entertainment (restaurants, bars...).
+
+4. The situation is very quiet. No evident not very quiet.
+
+This list ensures each support is followed by its corresponding contrary, adhering to all specified conditions."
+555,good_location,"- Close
+  - No evident not close
+- Less than
+  - No evident not less than"
+556,good_location,"1. convenient, no evident not convenient  
+2. shuttle, no evident not shuttle"
+560,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - location near the airport
+  - overnight stay
+
+- **Contraries:**
+  - No evident not near the airport.
+  - No evident not good for an overnight stay after a late or early morning flight."
+562,good_location,"Here is the structured ABA format based on your conditions:
+
+1. **close_to_Larnaca_airport**  
+   - no evident not close_to_Larnaca_airport  
+
+2. **convenient**  
+   - no evident not convenient  
+
+3. **flight_landed_midnight**  
+   - no evident not flight_landed_midnight  
+
+4. **night**  
+   - no evident not night"
+565,good_location,"Here is the structured ABA format based on your requirements:
+
+1. **Supports:**
+   - near_airport
+   - near_mackenzie_beach
+
+2. **Contraries:**
+   - No evident not near_airport
+   - No evident not near_mackenzie_beach"
+566,good_location,"Here is the structured ABA format based on your requirements:
+
+1. **Support**: close  
+2. **Contrary**: no evident not close  
+
+This meets all specified conditions: it includes the claim ""good_location,"" uses short words without adjectives or adverbs, and correctly adds a contrary for each support as instructed."
+569,good_location,"- **Support**: 7 minutes walk  
+  - **Contrary**: no evident not 7 minutes walk  
+
+- **Support**: boardwalk  
+  - **Contrary**: no evident not boardwalk  
+
+- **Support**: airport  
+  - **Contrary**: no evident not airport"
+571,good_location,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  - to the beach
+  - on foot
+  - 5 minutes
+
+- **Contraries:**
+  - no evident not to the beach
+  - no evident not on foot
+  - no evident not 5 minutes"
+579,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - near
+  - airport
+  - 10 minutes
+
+- **Contraries:**
+  - no evident not near
+  - no evident not airport
+  - no evident not 10 minutes"
+586,good_location,"- Close: No evident not close  
+- Convenient: No evident not convenient  
+- Near: No evident not near"
+587,good_location,"1. Close  
+   No evident not close  
+
+2. Beach  
+   No evident not beach"
+588,good_location,"Here is the text generated in ABA format based on your requirements:
+
+1. **Support**: close  
+   **Contrary**: No evident not close to anything  
+
+2. **Support**: prosper  
+   **Contrary**: No evident not prospering"
+589,bad_location,"Here is the structured ABA format based on the given text:
+
+- **Claim:** bad_location
+  - **Support 1: works**
+    - **Assumption:** The location is operational.
+    - **Contrary:** have evident that works isn't functioning because it's causing issues.
+
+  - **Support 2: can't do anything**
+    - **Assumption:** The owners are unable to act effectively.
+    - **Contrary:** have evident that can't do anything is incorrect because they should be able to act."
+589,good_location,"Here is the structured ABA format based on the given conditions:
+
+- **Supports:**
+  - Proximity (from the airport)
+  - Distance (from the airport)
+
+- **Contraries:**
+  - No evident not proximity
+  - No evident not distance"
+590,good_location,"- **Support**: close to beach  
+  **Contrary**: No evident not close to beach  
+
+- **Support**: close to airport  
+  **Contrary**: No evident not close to airport"
+594,bad_location,"Here is the structured ABA format based on the provided conditions:
+
+- **Supports:**
+  - It is quite noisy at night.
+  - hearing airplanes and music from nightclubs.
+
+- **Contraries:**
+  - have evident that it is not quite noisy at night.
+  - have evident that you cannot hear airplanes and music from nightclubs."
+596,bad_location,"Here is the structured ABA format based on your requirements:
+
+**Supports:**
+1. Noisy  
+2. Outside  
+
+**Contraries:**  
+1. Have evident noisy  
+2. Have evident outside"
+597,good_location,"Here is the structured ABA format based on the given conditions:
+
+**Supports:**
+1. location
+2. sea
+3. via dei premise
+4. historic center
+
+**Contraries:**
+1. no evident not location
+2. no evident not sea
+3. no evident not via dei premise
+4. no evident not historic center
+
+Each support is derived directly from the original text, and each contrary follows the specified format without introducing any additional words or opinions."
+599,bad_location,"Here is the structured ABA format based on the given text:
+
+- Supports:
+  - nocturnal
+  - loud
+
+- Contraries:
+  - have evident nocturnal
+  - have evident loud"
+599,good_location,"**ABA Format for ""Great transit hotel near the airport""**
+
+**Supports:**
+1. highly rated
+2. close
+
+**Contraries:**
+1. no evident not highly rated
+2. no evident not close"
+602,good_location,"- Near  
+  No evident not near"
+607,good_location,"Here is the structured ABA format based on the given text:
+
+1. **Support**: very close to beach  
+   **Contrary**: No evident not very close to beach  
+
+2. **Support**: very close to airport  
+   **Contrary**: No evident not very close to airport  
+
+3. **Support**: lots of restaurants nearby  
+   **Contrary**: No evident not lots of restaurants nearby  
+
+4. **Support**: relatively quiet location  
+   **Contrary**: No evident not relatively quiet location"
+610,good_location,"Here is the structured ABA format based on your requirements:
+
+1. Close to Larnaca airport
+2. 5min walk to beach
+3. Quiet
+4. Restaurant in enclosure is good
+5. No evident not close to Larnaca airport
+6. No evident not 5min walk to beach
+7. No evident not quiet
+8. No evident not restaurant in enclosure is good
+
+This list includes all the required supports and their corresponding contraries, adhering to the specified conditions."
+611,good_location,"- **Claim**: good_location
+- **Supports**:
+  - Proximity to the city center
+    - Contrary: No evident not proximity to the city center.
+  - Proximity to the beach
+    - Contrary: No evident not proximity to the beach."
+612,bad_location,"Here is the structured ABA format based on the given conditions:
+
+1. **Support 1:** The light is small.
+   - **Contrary 1:** Have evident that the light is not small.
+
+2. **Support 2:** The light at certain times is insufficient.
+   - **Contrary 2:** Have evident that the light at certain times is sufficient.
+
+This format ensures each support and its corresponding contrary are clearly paired, addressing both the size of the light and its timing as issues related to the downside mentioned in the original text."
+612,good_location,"- Support: close  
+  Contrary: no evident not close  
+
+- Support: 6 minutes by car  
+  Contrary: no evident not 6 minutes by car"
+614,good_location,"1. near_airport  
+   No evident not near_airport  
+
+2. bus_5min  
+   No evident not bus_5min"
+616,good_location,"1. Mackenzie Beach is super easy to reach.  
+   No evident not super easy to reach.
+
+2. Mackenzie Beach is not too close to be disturbed by the parties there at night.  
+   No evident not too close to be disturbed by the parties there at night."
+617,good_location,"- Central location  
+  - No evident not central location"
+618,bad_location,"1. garbage
+2. have evident garbage
+3. truck
+4. have evident truck"
+619,good_location,"1. Located  
+   No evident not located  
+
+2. Airport  
+   No evident not airport  
+
+3. Larnaca salt lake  
+   No evident not Larnaca salt lake"
+620,good_location,"Supports:  
+1. hotel  
+2. near  
+3. airport  
+4. 7-10 minutes  
+
+Contraries:  
+1. No evident not hotel.  
+2. No evident not near.  
+3. No evident not airport.  
+4. No evident not 7-10 minutes."
+623,bad_location,"- night; have evident that night is not bad.
+- traffic; have evident that traffic is not bad.
+- area; have evident that area is not bad."
+623,good_location,"Here is the structured ABA format based on the given text, incorporating supports and their corresponding contraries:
+
+**Supports:**
+- near the airport
+- near the beach
+
+**Contraries:**
+- no evident not near the airport
+- no evident not near the beach"
+625,good_location,"1. Support: airport  
+   Contrary: no evident not airport  
+
+2. Support: beach  
+   Contrary: no evident not beach"
+627,bad_location,"Here is the structured ABA format based on your requirements:
+
+1. **Supports:**
+   - location is far from the city area
+   - location is far from downtown
+
+2. **Contraries:**
+   - have evident location is close to the city area
+   - have evident location is close to downtown
+
+This list adheres to all specified conditions, ensuring clarity and logical opposition between each support and its contrary."
+627,good_location,"- Claim: good_location
+  - Taxi (no evident not taxis)
+  - Same price (no evident not same price)
+  - Anywhere in the city (no evident not anywhere in the city)"
+628,good_location,"1. Close proximity to the airport  
+   No evident not close proximity to the airport  
+
+2. Proximity to the city center  
+   No evident not proximity to the city center  
+
+3. Being in a dead-end street  
+   No evident not being in a dead-end street  
+
+4. Being in a quiet street  
+   No evident not being in a quiet street"
+632,good_location,"1. Support: The bus connection was just around the corner.  
+   Contrary: No evident not the bus connection was just around the corner.  
+
+2. Support: We were able to get back to the hotel later in the evening using public transport.  
+   Contrary: No evident not we were able to get back to the hotel later in the evening using public transport.  
+
+3. Support: The location was perfect for the trip to the airport the next morning (7:00 am).  
+   Contrary: No evident not the location was perfect for the trip to the airport the next morning (7:00 am).  
+
+4. Support: Mackenzie Beach is super close.  
+   Contrary: No evident not Mackenzie Beach is super close.  
+
+5. Support: Lots of cool bars and restaurants are super close.  
+   Contrary: No evident not lots of cool bars and restaurants are super close."
+633,good_location,"Here is the structured ABA format based on the given text:
+
+1. Being close to the airport is good because [airport].
+   - Contrary: No evident not being close to the airport.
+
+2. Being near an airport is a plus for location because [airport].
+   - Contrary: No evident not being near an airport.
+
+3. Proximity to the airport makes it convenient because [airport].
+   - Contrary: No evident not being proximate to the airport."
+635,good_location,"1. Close to the airport (10 minutes by bus from and to the airport).  
+   No evident not close to the airport (It is far away by bus).  
+
+2. Close to the beach (10 minutes walk to the beach and cafes by the beach).  
+   No evident not close to the beach (It is far away by foot).  
+
+3. Not far from the city (40 minutes walk along the promenade to the city, but it's nice).  
+   No evident not not far from the city (It is actually quite distant by promenade)."
+636,good_location,"1. Good location suited us for a one night stay before a flight.
+2. No evident not suited us for a one night stay before a flight.
+3. No evident not one night stay suited us for a flight.
+4. No evident not before a flight suited us for a one night stay.
+
+Each line presents the support followed by its contrary, ensuring clarity and adherence to the ABA format requirements."
+637,good_location,"1. Support: location near airport  
+2. Contrary: No evident not location near airport"
+639,good_location,"1. good_location  
+2. near  
+3. found  
+4. No evident not near  
+5. No evident not found"
+641,good_location,"ABA Format:
+
+- Support: quiet
+- Support: peaceful
+- Contrary: No evident not quiet
+- Contrary: No evident not peaceful"
+642,good_location,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Support**: close  
+  - **Contrary**: no evident not close  
+
+This response adheres to all specified conditions, including using exact vocabulary from the original text and ensuring each contrary starts with ""no evident not""."
+644,good_location,"Here is the structured ABA format based on your text:
+
+- **good_location**
+  - **near**  
+    - no evident not near
+  - **easy**  
+    - no evident not easy"
+646,good_location,"Here is the structured ABA format based on the provided text:
+
+1. **Supports and Contraries:**
+
+   - **Close to Salt Lake and Mackenzie Beach**
+     - No evident not close to Salt Lake and Mackenzie Beach
+   - **Close to bus stop**
+     - No evident not close to bus stop
+   - **Close to the airport**
+     - No evident not close to the airport
+
+This format ensures each support is followed by its corresponding contrary, using exact vocabulary from the original text."
+649,good_location,"Here is the structured answer in ABA format based on the provided conditions:
+
+1. **Supports:**
+   - NEAR_AIRPORT
+   - NO_NOISE
+
+2. **Contraries:**
+   - NO_EVIDENT_NOT_NEAR_AIRPORT
+   - NO_EVIDENT_NOT_NO_NOISE
+
+This list includes all necessary supports and their corresponding contraries, adhering to the specified format and conditions."
+650,good_location,"1. in a quiet location  
+2. walking distance to the beach  
+3. no evident not quiet location  
+4. no evident not walking distance to the beach"
+652,good_location,"- Close  
+  No evident not close  
+
+- Airport  
+  No evident not airport"
+653,good_location,"Here is the structured ABA format based on the given text:
+
+- Close: no evident not close  
+- Airport: no evident not airport  
+- Near: no evident not near  
+- Lake: no evident not lake  
+- Flamingos: no evident not flamingos  
+- Winter: no evident not winter  
+
+This list includes all supports and their corresponding contraries, adhering to the specified conditions."
+654,bad_location,"1. **Claim**: bad_location  
+2. **Supports**:
+   - car came to pick up garbage cans at night
+   - poured them into its depths
+   - not worrying about the noise and sleeping expensive tourists
+3. **Contraries**:
+   - have evident car came to pick up garbage cans at night
+   - have evident poured them into its depths
+   - have evident not worrying about the noise and sleeping expensive tourists"
+654,good_location,"Here is the structured ABA format based on your requirements:
+
+1. **Support 1:**
+   - **Statement:** There is a beautiful beach.
+   - **Assumption:** It is accessible.
+
+2. **Contrary 1:**
+   - **Statement:** No evident not there is a beach.
+
+3. **Support 2:**
+   - **Statement:** Beach nearby offers relaxation.
+   - **Assumption:** It provides enjoyment of the sea.
+
+4. **Contrary 2:**
+   - **Statement:** No evident not beach nearby offers relaxation.
+
+This format adheres to all specified conditions, ensuring clarity and conciseness while maintaining the original vocabulary from the given text."
+655,bad_location,"**ABA Format for ""bad_location""**
+
+1. It's far from the city center.
+2. It has poor transportation links.
+3. Have evident proximity to the city center.
+4. Have evident good transportation links.
+
+This structure adheres to all specified conditions, providing a balanced argument with supporting and opposing points."
+655,good_location,"Supports:  
+not far  
+airport  
+
+Contraries:  
+No evident not far  
+No evident not airport"
+659,bad_location,"Here is the structured ABA format based on your requirements:
+
+1. **Support**: very noisy  
+   **Contrary**: have evident that despite noise, it's still bad.
+
+2. **Support**: area is ringing  
+   **Contrary**: have evident that quietness is absent here.
+
+3. **Support**: sounds accumulate with terrible force  
+   **Contrary**: have evident that the sounds are too loud.
+
+4. **Support**: constantly woke up from the sounds of airplanes  
+   **Contrary**: have evident that despite noise, it's still bad.
+
+5. **Support**: or from passing cars  
+   **Contrary**: have evident that quietness is absent here.
+
+6. **Support**: or a slamming trunk  
+   **Contrary**: have evident that the sounds are too loud.
+
+7. **Support**: earplugs did not save  
+   **Contrary**: have evident that despite noise, it's still bad.
+
+This format ensures each support is followed by its corresponding contrary, using terms from the original text and maintaining clarity and conciseness."
+661,bad_location,"Here is the structured ABA format based on the given text:
+
+**Supports and Contraries:**
+
+1. **Support:** Those who sleep lightly are disturbed by aircraft noise.
+   - **Contrary:** Those who sleep lightly won't be disturbed.
+
+2. **Support:** The aircraft noise causes disturbance to those who sleep lightly.
+   - **Contrary:** The aircraft noise does not cause disturbance to those who sleep lightly.
+
+This format ensures each support is followed by its corresponding contrary, adhering to the specified conditions."
+661,good_location,"Supports:
+Proximity to the airport
+Good weather all year round
+Proximity to the city centre
+
+Contraries:
+No evident not Proximity to the airport
+No evident not Good weather all year round
+No evident not Proximity to the city centre"
+662,bad_location,"Here is the text in Assumption-Based Argumentation (ABA) format based on your requirements:
+
+1. **Support**: accommodation was beautiful  
+   **Contrary**: have evident that accommodation is not beautiful  
+
+2. **Support**: at night it was fertilized  
+   **Contrary**: have evident that at night it wasn't fertilized  
+
+3. **Support**: the whole city stank  
+   **Contrary**: have evident that the whole city didn't stank"
+662,good_location,"Here is the structured ABA format based on the given conditions:
+
+**Supports:**
+1. beau (from ""beautiful beach"")
+2. beach
+3. walk (from ""within walking distance"")
+4. distance
+
+**Contraries:**
+1. No evident not beau
+2. No evident not beach
+3. No evident not walk
+4. No evident not distance
+
+This format adheres to the requirements by providing each support and its corresponding contrary, ensuring clarity and conciseness without using adjectives or adverbs in the supports."
+663,bad_location,"1. The center is quite far.  
+   - have evident that it's not too far.
+
+2. About 2.5 km.  
+   - have evident that it's closer than expected.
+
+3. A walk along the beach promenade.  
+   - have evident that walking there is easy."
+663,good_location,"1. **Support**: near the airport  
+   **Contrary**: No evident not near the airport  
+
+2. **Support**: close to the beach  
+   **Contrary**: No evident not close to the beach  
+
+3. **Support**: 20 minutes  
+   **Contrary**: No evident not 20 minutes"
+665,bad_location,"Here is the structured ABA format based on the given conditions:
+
+1. **Supports:**
+   - noise
+   - garbage containers emptied with noise
+
+2. **Contraries:**
+   - have evident quietness at night
+   - have evident less noise during the day
+
+This list combines both supports and their corresponding contraries into a single, clear presentation without separating them into different sections."
+665,good_location,"- Support: Location close to the airport
+  Contrary: No evident not a lot of noise from planes taking off during the day
+- Support: Not heard at night
+  Contrary: No evident not being heard at night"
+666,good_location,"Here is the text converted into Assumption Based Argumentation (ABA) format based on your instructions:
+
+1. **Support**: great_location  
+   **Contrary**: No evident not great location  
+
+2. **Support**: quiet_location  
+   **Contrary**: No evident not quiet location"
+667,good_location,"1. Support: location is close to the bus stop  
+   Contrary: no evident not location is close to the bus stop  
+
+2. Support: location is 10 minutes to the center  
+   Contrary: no evident not location is 10 minutes to the center  
+
+3. Support: location is 5 minutes to the airport  
+   Contrary: no evident not location is 5 minutes to the airport"
+670,good_location,"1. **Claim**: good_location  
+   - Proximity to the airport provides access to the city center and the airport.  
+     - Support: proximity  
+     - Contrary: No evident not proximity  
+   - A nearby bus stop provides access to the city center and the airport.  
+     - Support: bus stop  
+     - Contrary: No evident not bus stop"
+673,good_location,"1. good walking distance
+   and no evident not walking distance"
+676,good_location,"Here is the ABA argumentation in the specified format:
+
+1. Quiet place  
+2. Near salt lake (5-6 min walk)  
+3. Short walk to sea (50 min max)  
+4. Near airport (4 km, 5-6 min by bus/car)  
+5. Few shops nearby  
+
+Contraries:  
+1. No evident not quiet place  
+2. No evident not near salt lake  
+3. No evident not short walk to sea  
+4. No evident not near airport  
+5. No evident not few shops nearby"
+677,good_location,"Here is the structured ABA format based on the given conditions:
+
+1. Walk - good_location
+   Contrary: no evident not walk
+
+2. Sit - good_location
+   Contrary: no evident not sit
+
+3. Enjoy - good_location
+   Contrary: no evident not enjoy"
+678,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - next to Mackenzie beach
+  - especially the airport
+  - 5 minutes drive
+  - 5 minutes car
+
+- **Contraries:**
+  - no evident not near Mackenzie beach
+  - no evident not especially airport
+  - no evident not a short drive
+  - no evident not quick by car"
+680,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports and Contraries:**
+
+1. **Support:** close to the beach  
+   **Contrary:** no evident not close to the beach.
+
+2. **Support:** has nearby restaurants and bars  
+   **Contrary:** no evident not has nearby restaurants and bars.
+
+3. **Support:** close to the town center  
+   **Contrary:** no evident not close to the town center.
+
+4. **Support:** close to the airport  
+   **Contrary:** no evident not close to the airport.
+
+This format ensures each point is supported with direct statements from the text, followed by their logical contraries as specified."
+681,good_location,"Here is the structured ABA format based on the given conditions:
+
+**Supports:**
+1. location
+2. bus stops nearby
+3. salt lake
+4. walk
+
+**Contraries:**
+1. No evident not location
+2. No evident not bus stops nearby
+3. No evident not salt lake
+4. No evident not walk"
+684,bad_location,"- Noisy  
+  have evident noise  
+
+- Discotheque  
+  have evident discotheque"
+685,good_location,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your instructions:
+
+1. **Support**: great location  
+   **Contrary**: no evident not a good location  
+
+2. **Support**: close to everything  
+   **Contrary**: no evident not close to everything  
+
+3. **Support**: safe environment  
+   **Contrary**: no evident not a safe environment  
+
+4. **Support**: convenient amenities  
+   **Contrary**: no evident not convenient amenities  
+
+5. **Support**: scenic view  
+   **Contrary**: no evident not a scenic view  
+
+6. **Support**: affordable prices  
+   **Contrary**: no evident not affordable prices  
+
+7. **Support**: family-friendly  
+   **Contrary**: no evident not family-friendly  
+
+8. **Support**: proximity to landmarks  
+   **Contrary**: no evident not proximity to landmarks  
+
+9. **Support**: well-maintained infrastructure  
+   **Contrary**: no evident not well-maintained infrastructure  
+
+10. **Support**: quiet neighborhood  
+    **Contrary**: no evident not a quiet neighborhood  
+
+This list contains all the supports and their corresponding contraries, formatted as per your requirements."
+687,good_location,"Here is the structured ABA format based on the given conditions:
+
+1. **Support**: Proximity between the hotel and the beach is good.
+   - **Contrary**: No evident not good.
+
+2. **Support**: Time to reach the beach from the hotel is 5-7 minutes.
+   - **Contrary**: No evident not 5-7 minutes.
+
+3. **Support**: A bus stop is available near the hotel.
+   - **Contrary**: No evident not a bus stop is available.
+
+This format ensures each support and its corresponding contrary are clearly presented, adhering to the specified conditions without introducing any assumptions or additional claims."
+688,good_location,"ABA Format:
+
+Supports:
+- beach nearby  
+Contraries:  
+- no evident not beach nearby"
+690,bad_location,"1. Waking up at 3 AM: It is evident that being woken up so early indicates an inconvenient location.
+
+2. Garbage truck loading: It is evident that the garbage truck not loading on time does not indicate a bad location."
+690,good_location,"1. good_location: convenient  
+2. good_location: not far from airport  
+3. good_location: not far from sea  
+4. No evident not convenient  
+5. No evident not not far from airport  
+6. No evident not not far from sea"
+693,good_location,"Here is the structured ABA format based on the provided conditions:
+
+**Supports:**
+1. Hotel is well placed.
+2. Airport is nearby.
+3. Taxi prices are same as from the center.
+
+**Contraries:**
+1. No evident not well placed.
+2. No evident not nearby.
+3. No evident not having same taxi prices.
+
+This format ensures each point from the original text is addressed with its respective support and contrary, adhering to all specified conditions."
+694,bad_location,"1. Support: wasteland  
+   Contrary: have evident wasteland  
+
+2. Support: wasteland  
+   Contrary: have evident wasteland"
+694,good_location,"- Claim: good_location
+- Support 1: near
+- Contrary 1: no evident not near"
+696,good_location,"ABA Format:
+
+Supports:
+1. 6 minutes by car
+2. Near a good beach
+
+Contraries:
+1. No evident not 6 minutes by car.
+2. Not near a good beach.
+
+This provides each support with its corresponding contrary, adhering to the specified conditions."
+698,good_location,"Here is the structured ABA format based on your requirements:
+
+1. **Support 1**: The hotel is near the airport.
+2. **Contrary 1**: No evident not the hotel is near the airport.
+
+3. **Support 2**: The hotel is located for the restaurants in the area.
+4. **Contrary 2**: No evident not the hotel is located for the restaurants in the area.
+
+This format adheres to all specified conditions, ensuring clarity and conciseness while maintaining grammatical correctness."
+700,good_location,"1. airport  
+   - no evident not airport"
+701,good_location,"Supports and Contraries:
+
+1. walking distance
+   - not walking distance
+
+2. beach with several restaurants
+   - no beach without several restaurants"
+704,good_location,"1. The hotel is close to Larnaca Airport.  
+   No evident not the hotel is close to Larnaca Airport.  
+
+2. The hotel is close to the beach.  
+   No evident not the hotel is close to the beach."
+706,good_location,"1. good_location
+2. location
+3. airport
+4. no evident not good_location
+5. no evident not location
+6. no evident not airport"
+708,good_location,"- Excellent  
+  No evident not excellent  
+
+- Location  
+  No evident not location  
+
+- On the way to/from  
+  No evident not on the way to/from"
+713,good_location,"Here is the structured ABA format based on the given conditions:
+
+- **Claim**: good_location  
+- **Premise 1**: close to the airport  
+- **Counterargument 1**: no evident not close to the airport"
+718,good_location,"Here is the text formatted according to the Assumption Based Argumentation (ABA) rules:
+
+Supports:
+- Close to Mackenzie beach
+- Close to salt lake
+- 10 minutes to the airport by bus
+- 10 minutes to the airport by taxi
+
+Contraries:
+- No evident not close to Mackenzie beach
+- No evident not close to salt lake
+- No evident not 10 minutes to the airport by bus
+- No evident not 10 minutes to the airport by taxi"
+719,bad_location,"- **Support 1**: downtown  
+  **Contrary 1**: have evident downtown  
+
+- **Support 2**: highway  
+  **Contrary 2**: have evident highway"
+722,good_location,"- Close proximity to Makenzie beach  
+  No evident not close proximity to Makenzie beach  
+
+- Easily accessible by public transportation  
+  No evident not easily accessible by public transportation"
+726,bad_location,"1.
+Assumption: Mackenzie has discos.
+Conclusion: Bad location.
+
+2.
+Contrary:
+Assumption: Mackenzie has discos.
+Conclusion: Not bad location."
+726,good_location,"Supports:  
+1. short walk  
+2. conveniently located  
+
+Contraries:  
+1. No evident not short walk  
+2. No evident not conveniently located"
+727,bad_location,"Here is the structured ABA format based on the given text:
+
+**Supports and Contraries for Claim: bad_location**
+
+1. **Support:** Restaurants face intense challenges.
+   - **Contrary:** Have evident restaurants do not face intense challenges.
+
+2. **Support:** Beaches undergo intense processes.
+   - **Contrary:** Have evident beaches do not undergo intense processes.
+
+This format adheres to the specified conditions, ensuring each support and its corresponding contrary are clearly presented without additional assumptions or claims."
+727,good_location,"Here is the structured ABA format based on the given text:
+
+1. **Claim**: good_location  
+2. **Supports and Contraries**:
+   - **Support 1**: good  
+     - **Contrary**: No evident not good
+   - **Support 2**: option  
+     - **Contrary**: No evident not option
+   - **Support 3**: airport  
+     - **Contrary**: No evident not airport
+   - **Support 4**: close  
+     - **Contrary**: No evident not close
+
+This format ensures each support is clearly paired with its contrary, maintaining the structure and requirements of ABA."
+730,bad_location,"1. bad_location  
+2. Noise from planes  
+   have evident noise from planes  
+3. Smell of jet fuel  
+   have evident smell of jet fuel  
+4. Noisy disco at night  
+   have evident noisy disco at night"
+730,good_location,"[
+  ""good_location"",
+  ""near_airport"",
+  ""near_beach"",
+  ""no evident not near_airport"",
+  ""no evident not near_beach""
+]"
+732,good_location,"ABA Format:
+
+Supports:
+1. near
+2. Mackenzie beach
+3. airport
+4. salt lake
+
+Contraries:
+5. No evident not near
+6. No evident not Mackenzie beach
+7. No evident not airport
+8. No evident not salt lake"
+733,good_location,"1. Close  
+   No evident not close  
+
+2. Located  
+   No evident not located"
+735,good_location,"1. **Support**: LOCATION  
+   **Contrary**: No evident not close  
+
+2. **Support**: CLOSE TO EVERYTHING  
+   **Contrary**: No evident not close to everything  
+
+3. **Support**: ALYKI BEACH CLUB  
+   **Contrary**: No evident not nearby  
+
+4. **Support**: RESTAURANTS  
+   **Contrary**: No evident not near  
+
+5. **Support**: CAFÉS  
+   **Contrary**: No evident not close"
+737,good_location,"Here is the structured ABA format based on the given text:
+
+**Supports and Contraries**
+
+1. Close to the beach.
+   No evident not close to the beach.
+
+2. By the beach.
+   No evident not by the beach.
+
+3. Near the beach.
+   No evident not near the beach.
+
+This format adheres to the user's instructions, using only the specified phrases for supports and their respective contraries starting with ""No evident not."""
+739,good_location,"- **Supports:**
+  - near
+  - beach
+  - center
+
+- **Contraries:**
+  - No evident not near
+  - No evident not beach
+  - No evident not center"
+743,bad_location,"- **Supports:**
+  - airport
+  - advertised
+
+- **Contraries:**
+  - have evident little connection to the airport
+  - have evident does not match reality"
+744,bad_location,"Here is the structured ABA format based on the given conditions:
+
+- **Supports:**
+  - noisy
+  - busy
+
+- **Contraries:**
+  - have evident quiet
+  - have evident calm"
+748,good_location,"Supports:
+1. Close
+2. No aircraft noise
+3. Bus station nearby
+4. Salt lake nearby
+
+Contraries:
+1. No evident not close
+2. No evident not no aircraft noise
+3. No evident not bus station nearby
+4. No evident not salt lake nearby"
+749,good_location,"Supports:
+- close to field
+- field nearby
+
+Contraries:
+- No evident not close to field
+- No evident not field nearby"
+750,good_location,"- Support: location is close  
+  Contrary: no evident not close"
+751,bad_location,"Here is the structured ABA format based on your requirements:
+
+**Supports:**
+1. next to another property's pool
+2. too much noise
+3. shouting
+
+**Contraries (each starting with ""have evident"" and using the same word as in the support):**
+1. have evident next to another property's pool
+2. have evident too much noise
+3. have evident shouting"
+754,bad_location,"1. Claim: bad_location  
+2. Supports:
+   - noise
+   - early morning
+3. Contraries:
+   - have evident noise
+   - have evident early morning"
+754,good_location,"Here is the structured ABA format based on the given text, following all specified conditions:
+
+- **Argument 1**
+  - **Claim:** good_location
+  - **Support:** early_morning_flight
+  - **Contrary:** no evident not early_morning_flight
+
+This presentation ensures that each argument includes a claim, its support using exact vocabulary, and a contrary premise as required."
+756,good_location,"Here is the structured ABA format based on the given conditions:
+
+1. **Support:** central  
+   **Contrary:** no evident not central  
+
+2. **Support:** beach  
+   **Contrary:** no evident not near the beach  
+
+3. **Support:** party mile  
+   **Contrary:** no evident not near the party mile  
+
+4. **Support:** airport  
+   **Contrary:** no evident not near the airport  
+
+5. **Support:** old town  
+   **Contrary:** no evident not near the old town"
+764,bad_location,"Here is the structured ABA format based on the provided conditions:
+
+1. **Supports and Contraries:**
+
+   - **Support 1:** At 3 o'clock, garbage was picked up.
+     - **Contrary 1:** Have evident that at 3 o'clock, garbage was not picked up.
+
+   - **Support 2:** At 7 o'clock, I tried to open the door.
+     - **Contrary 2:** Have evident that at 7 o'clock, I did not try to open the door.
+
+   - **Support 3:** There are some farms nearby.
+     - **Contrary 3:** Have evident that there are no farms nearby."
+765,bad_location,"**ABA Format for ""bad_location"" Claim**
+
+**Supports:**
+1. The hotel lobby has a smell of smoke.
+2. Cigarettes in the hotel lobby are smoked.
+
+**Contraries:**
+1. Have evident that the hotel lobby does not have a smell of smoke.
+2. Have evident that cigarettes in the hotel lobby are not smoked."
+765,good_location,"- good_location  
+  - bars  
+    no evident not bars  
+  - restaurants  
+    no evident not restaurants"
+767,bad_location,"Here is the structured ABA format based on the given text and conditions:
+
+Supports and Contraries List:
+
+- Support: far
+  - Contrary: have evident not far.
+
+- Support: overlooked
+  - Contrary: have evident did not overlook."
+769,bad_location,"1. Walked to the promenade in 20 minutes.  
+   Have evident walked to the promenade for longer than 20 minutes.
+
+2. Spent an hour and a half at Lidl.  
+   Have evident spent more than an hour and a half at Lidl."
+769,good_location,"1. Beach is nearby.
+2. No evident not beach is nearby.
+3. Taverns are available here.
+4. No evident not taverns are available here.
+5. Airport is close by.
+6. No evident not airport is close by."
+770,bad_location,"1. **Support**: stench  
+   - **Contrary 1**: have evident sharp  
+   - **Contrary 2**: have evident intense  
+   - **Contrary 3**: have evident obvious  
+
+This response adheres to the specified format, ensuring each support is paired with multiple contraries using different adjectives."
+771,bad_location,"**Assumption Based Argumentation (ABA) Format:**
+
+- **Claim:** bad_location
+  - **Supports and Contraries:**
+    - **Support 1:** fruit van drove under the windows almost every day  
+      **Contrary 1:** have evident fruit van stopped driving under the windows almost every day
+    - **Support 2:** seller shouted into the mouthpiece  
+      **Contrary 2:** have evident seller did not shout into the mouthpiece"
+771,good_location,"1. Walking distance to the center  
+   No evident not within walking distance to the center  
+
+2. Within walking distance of Mackenzie beach  
+   No evident not within walking distance of Mackenzie beach  
+
+3. Within walking distance of all party cafes  
+   No evident not within walking distance of all party cafes"
+773,good_location,"Here is the structured ABA format based on the provided text:
+
+**Supports:**
+1. on asphalt (10-15 minutes)
+2. off-road (5-7 minutes)
+3. drive (7 - 10 minutes from airport)
+
+**Contraries:**
+1. no evident not on asphalt
+2. no evident not off-road
+3. no evident not drive"
+776,good_location,"- Proximity to the airport  
+  No evident not proximity to the airport.  
+
+- Walk to the sea  
+  No evident not walk to the sea."
+778,good_location,"- **Supports**:  
+  - Close  
+  - Airport  
+
+- **Contraries**:  
+  - No evident not close  
+  - No evident not airport"
+779,good_location,"Here is the structured ABA format based on the provided text:
+
+- **Supports**:
+  - Proximity to the airport
+  - Quietness of the location
+  - Proximity to the beach
+  - Proximity to the city
+  - Presence of a bus stop near the hotel
+  - Allows access to the city center
+  - Allows access to the airport
+
+- **Contraries**:
+  - No evident not proximity to the airport
+  - No evident not quietness of the location
+  - No evident not proximity to the beach
+  - No evident not proximity to the city
+  - No evident not presence of a bus stop near the hotel
+  - No evident not allows access to the city center
+  - No evident not allows access to the airport
+
+This format ensures each support is paired with its contrary, using exact vocabulary and maintaining clarity without additional assumptions or opinions."
+780,good_location,"1. near  
+   no evident not near  
+
+2. location  
+   no evident not location"
+784,good_location,"- **Claim**: good_location  
+  - **Supports**:  
+    1. located near the beach  
+      - **Contrary**: No evident not located near the beach  
+    2. close to the airport  
+      - **Contrary**: No evident not close to the airport"
+785,bad_location,"1. Bad-degraded area
+2. garbage heap
+3. next to the hotel
+4. have evident bad-degraded area
+5. have evident garbage heap
+6. have evident next to the hotel"

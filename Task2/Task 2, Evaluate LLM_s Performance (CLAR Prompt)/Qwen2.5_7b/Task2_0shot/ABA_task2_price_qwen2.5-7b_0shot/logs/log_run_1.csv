@@ -1,0 +1,272 @@
+ID,Output
+4,"good_price
+no_evident_not_good_price
+
+good_quality
+no_evident_not_good_quality"
+34,"good_price
+no_evident_not_value_for_money"
+44,"good_price
+no_evident_not_good_price
+
+good_facilities
+no_evident_not_good_facilities
+
+good_tariff
+no_evident_not_good_tariff"
+46,"good_price
+no_evident_not_good_price"
+47,"good_price
+no_evident_not_good_price"
+49,"good_price
+no_evident_not_good_price"
+63,"good_price
+no_evident_not_good_price"
+68,"good_price
+value
+no_evident_not_value"
+125,"good_price
+no_evident_not_good_price"
+133,"good_price
+value
+money
+no_evident_not_value
+no_evident_not_money"
+136,"good_price
+no_evident_not_good_price
+
+good_price
+no_evident_not_good_price"
+149,"good_price
+no_evident_not_good_price"
+155,"good_price
+no_evident_not_good_price"
+156,"good_price
+no_evident_not_good_price"
+203,"good_price
+no_evident_not_good_price"
+206,"good_price
+no_evident_not_good_price"
+212,"cheap
+no evident not cheap"
+230,"good_price
+no_evident_not_good_price
+
+good_value
+no_evident_not_good_value"
+232,"good_price
+no_evident_not_good_price
+
+good_price
+no_evident_not_good_price"
+234,"good_price
+no_evident_not_good_price
+
+good_rate
+no_evident_not_good_rate
+
+excellent_standard
+no_evident_not_excellent_standard
+
+accommodation
+no_evident_not_accommodation"
+241,"bad_price
+have evident unlabeled
+have evident cheap
+have evident random
+have evident not very nice
+have evident only some
+have evident dont know if it was body or hair shampoo"
+265,"good_price
+no_evident_not_good_price
+
+good_stay
+no_evident_not_good_stay
+
+affordable
+no_evident_not_affordable"
+287,"good_price
+no_evident_not_good_price"
+290,"good_price
+room_upgrade
+ocean_view
+
+no_evident_not_room_upgrade
+no_evident_not_ocean_view"
+295,"good_price
+worth_evident_not_worth
+worth_evident_not_every
+worth_evident_not_Euro
+worth_evident_not_spent"
+313,"good_price
+no_evident_not_good_price"
+323,"good_price
+no_evident_not_good_price
+
+good_value
+no_evident_not_good_value"
+334,"economic  
+no evident not economic"
+338,"value_for_money
+no_evident_not_value_for_money"
+340,"good_price
+no_evident_not_good_price"
+366,"price_good
+no_evident_not_price_good
+
+prices_reasonable
+no_evident_not_prices_reasonable"
+396,"price was great
+price was not great"
+414,"good_price
+no_evident_not_good_price
+
+good_value
+no_evident_not_good_value"
+416,"good_price
+no_evident_not_good_price"
+435,"bad_price
+have evident high
+have evident expensive
+
+bad_price
+have evident similar
+have evident comparable"
+436,"bad_price
+have evident poor_value
+have evident overpriced
+have evident insufficient_benefit
+have evident high_cost_low_quality
+have evident expensive_for_little_gain
+
+bad_price
+have evident good_value
+have evident reasonable_price
+have evident fair_benefit
+have evident cost_effective
+have evident worth_the_money"
+437,"bad_price
+have evident bad_price
+have evident high_price
+have evident overpriced
+have evident too_expensive
+
+bad_price
+have evident good_price
+have evident reasonable_price
+have evident affordable
+have evident cheap"
+460,"bad_price
+have evident high_rate
+have evident low_value"
+471,"good_price
+no_evident_not_good_price"
+474,"bad_price have evident cost
+bad_price have evident poor Facilities"
+505,"price/performance right
+price/performance not right
+good_price right
+good_price not right
+total right
+no evident not total right
+total not right
+right
+no evident not right
+not right"
+510,"cheap
+expensive
+no evident not cheap
+no evident not expensive"
+524,"good_price
+full_value
+no_evident_not_full_value
+price
+no_evident_not_price"
+527,"good_price
+no_evident_not_good_price"
+556,"good_price
+no_evident_not_good_price
+
+good_value
+no_evident_not_good_value
+
+price_paid
+no_evident_not_price_paid"
+580,"good_price
+no_evident_not_good_price
+
+good_establishment
+no_evident_not_good_establishment
+
+undervalued
+no_evident_not_undervalued"
+590,"good_price  
+no_evident_not_good_price  
+
+cheap  
+no_evident_not_cheap"
+595,"bad_price
+- have evident not_included
+- have evident higher_cost
+- have evident extra_charges
+- have evident additional_payment
+- have evident no_value_for_money
+- have evident overpriced
+- have evident poor_value
+- have evident insufficient_inclusion
+- have evident lack_of_benefit
+- have evident unfair_price"
+596,clean cheap modern room no evident not clean no evident not cheap no evident not modern room
+600,"good_price
+no_evident_not_corresponds_to_the_price"
+609,"bad_price
+have evident high_price
+have evident low_comfort
+have evident large_room
+have evident poor_quality
+have evident small_space
+have evident high_price have evident low_price
+have evident low_comfort have evident high_comfort
+have evident large_room have evident small_room
+have evident poor_quality have evident good_quality
+have evident small_space have evident big_space"
+611,"good_price
+no_evident_not_good_price"
+619,"good_price
+no_evident_not_good_price"
+631,"good_price
+no_evident_not_good_price
+
+cheap
+no_evident_not_cheap
+
+affordable
+no_evident_not_affordable"
+715,"good_price
+worth
+not_worth
+good_price
+affordable
+not_affordable
+good_price
+reasonable
+not_reasonable"
+737,"good_price
+no_evident_not_good_price"
+767,"bad_price
+have evident high_cost
+have evident overpriced
+have evident too_expensive
+have evident cost_more_than_value
+have evident price_above_average
+have evident higher_than_normal
+have evident more_than_justified
+have evident excessive_cost
+have evident premium_price
+have_evident_low_quality_correspondence"
+770,"good_price
+no_evident_not_value_for_money"
+775,"good_price
+no_evident_not_good_price"
+778,"good_price
+no_evident_not_good_price"

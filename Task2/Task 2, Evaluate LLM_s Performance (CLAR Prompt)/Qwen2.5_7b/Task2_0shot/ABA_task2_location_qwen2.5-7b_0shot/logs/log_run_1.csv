@@ -1,0 +1,5316 @@
+ID,Output
+1,"close_to_airport
+no_evident_not_close_to_airport
+
+very_clean_beach
+no_evident_not_very_clean_beach"
+3,"location is great  
+near airport  
+bus stop is close  
+no evident not location is great  
+no evident not near airport  
+no evident not bus stop is close"
+5,"good_location
+easy_stroll
+no_evident_not_easy_stroll
+numerous_restaurants
+no_evident_not_numerous_restaurants
+great_beach
+no_evident_not_great_beach"
+8,"good_location
+location
+no_evident_not_location"
+10,"good_location
+quiet_location
+no_evident_not_quiet_location"
+11,"good_location
+bus_stop
+no_evident_not_bus_stop
+airport
+no_evident_not_airport
+town_center
+no_evident_not_town_center
+minutes_walk
+no_evident_not_minutes_walk
+2_euros
+no_evident_not_2_euros"
+13,"good_location
+short_drive_to_airport
+well_located
+short_walk_promenade
+coffee_shops_restaurants
+no_evident_not_short_drive_to_airport
+no_evident_not_well_located
+no_evident_not_short_walk_promenade
+no_evident_not_coffee_shops_restaurants"
+14,"close_to_airport
+no_evident_not_close_to_airport
+restaurants_nearby
+no_evident_not_restaurants_nearby
+bars_nearby
+no_evident_not_bars_nearby
+walking_distance_to_beach
+no_evident_not_walking_distance_to_beach"
+15,"good_location
+close_to_airport
+no_evident_not_close_to_airport
+nearby_beach
+no_evident_not_nearby_beach"
+15,"bad_location have evident distance from city center
+bad_location have evident infrequent bus service"
+18,"bus
+no evident not bus
+
+20
+no evident not 20
+
+minutes
+no evident not minutes
+
+centre
+no evident not centre
+
+Larnaka
+no evident not Larnaka"
+19,"close_to_airport
+no_evident_not_close_to_airport"
+26,"good_location
+near_beach
+no_evident_not_near_beach
+near_lake
+no_evident_not_near_lake"
+27,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+28,"surrounding_buildings_under_construction
+surrounding_buildings_poorly_lit
+have_evident_surrounding_buildings_under_construction
+have_evident_surrounding_buildings_poorly_lit"
+30,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+31,"close_to_mackenzy_beach
+no_evident_not_close_to_mackenzy_beach
+
+near_larnaca_airport
+no_evident_not_near_larnaca_airport"
+36,"bad_location
+have evident small
+bad_location
+have evident side street
+
+bad_location
+have evident small
+bad_location
+have evident side street"
+36,"walk  
+no evident not walk  
+sea  
+no evident not sea  
+front  
+no evident not front  
+10-minute  
+no evident not 10-minute"
+37,"close_by no_evident_not_close_by
+every_15_minutes no_evident_not_every_15_minutes"
+40,"good_location
+no_evident_not_nice_location
+good_location
+no_evident_not_fairly_close_to_Airport
+good_location
+no_evident_not_close_to_Mackenzie_beach"
+44,"noisy have evident quiet
+later have evident earlier
+evening have evident morning"
+45,"- The beach is about 5 minutes walk away.
+- no evident not the beach is about 5 minutes walk away.
+- The beach is about 5 minutes walk away.
+- no evident not the beach is within walking distance.
+- The beach is about 5 minutes walk away.
+- no evident not there is a beach nearby."
+45,"bad_location
+have evident plane_noise
+have evident near_runway
+
+bad_location
+have evident plane_noise
+have evident far_runway"
+49,"good_location
+close_to_airport
+short_walk_sea
+no_evident_not_close_to_airport
+no_evident_not_short_walk_sea"
+50,"close_to_airport
+no_evident_not_close_to_airport
+
+good_location
+no_evident_not_good_location"
+51,"near_airport
+no_evident_not_near_airport"
+53,"close to the airport
+no evident not close to the airport
+
+close to Mackenzie Beach
+no evident not close to Mackenzie Beach"
+55,"good_location
+no_evident_not_good_location"
+56,"good_location
+close_to_airport
+no_evident_not_close_to_airport
+within_5_minutes_from_airport
+no_evident_not_within_5_minutes_from_airport
+prime_location_near_airport
+no_evident_not_prime_location_near_airport"
+57,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+58,"close_to_airport
+no_evident_not_close_to_airport"
+58,"bad_location
+have evident noise
+have evident disturbance
+
+bad_location
+have evident noise
+have evident silence
+
+bad_location
+have evident disturbance
+have evident tranquility"
+59,"close_to_airport
+no_evident_not_close_to_airport
+
+convenient_for_overnight_stay
+no_evident_not_convenient_for_overnight_stay"
+62,"good_location
+near_airport
+no_evident_not_near_airport
+near_beach
+no_evident_not_near_beach"
+64,"close_proximity
+no_evident_not_close_proximity
+
+5_min_by_car
+no_evident_not_5_min_by_car
+
+10_min_by_bus
+no_evident_not_10_min_by_bus"
+64,"bad_location
+have evident noise
+have evident proximity_to_airport
+
+bad_location
+have evident disturbance
+have evident closeness_to_airport
+
+bad_location
+have evident loudness
+have evident nearness_to_runway
+
+bad_location
+have evident commotion
+have evident adjacency_to_airfield"
+65,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+66,"good_location
+no_evident_not_perfect
+good_location
+no_evident_great_value
+good_location
+no_evident_friendly"
+71,"good_location
+bus_stop
+no_evident_not_bus_stop
+airport_access
+no_evident_not_airport_access
+few_steps
+no_evident_not_few_steps
+minutes
+no_evident_not_minutes
+mackenzie_beach
+no_evident_not_mackenzie_beach"
+71,"no_shop
+have evident_shop
+
+pharmacy_absent
+have evident_pharmacy"
+74,"quiet place
+no evident not quiet place
+
+near to the airport
+no evident not near to the airport
+
+beach nearby
+no evident not beach nearby
+
+Salt Lake in the city
+no evident not Salt Lake in the city
+
+lots of parking places around
+no evident not lots of parking places around"
+76,"good_location
+nearby
+no_evident_not_nearby
+beach
+no_evident_not_beach"
+80,"within_walking_distance
+no_evident_not_within_walking_distance"
+81,"close_to_airport
+no_evident_not_close_to_airport"
+82,"good_location
+location
+no_evident_not_location
+near
+no_evident_not_near
+convenient
+no_evident_not_convenient
+central
+no_evident_not_central"
+83,"bad_location
+far
+have evident near
+
+bad_location
+centre
+have evident outskirts"
+88,"good_location
+no_evident_not_good_location
+easily_reached_from_airport
+no_evident_not_easily_reached_from_airport"
+91,"close_to_larnaca_airport
+no_evident_not_close_to_larnaca_airport"
+93,"bus_stop_for_airport_walkable
+no_evident_not_bus_stop_for_airport_walkable"
+95,"good_location
+no_evident_not_good_location"
+98,"close_to_airport
+no_evident_not_close_to_airport
+
+nice_places
+no_evident_not_nice_places
+
+long_beach
+no_evident_not_long_beach
+
+cool_fancy_bars
+no_evident_not_cool_fancy_bars
+
+salt_lake
+no_evident_not_salt_lake"
+102,"good_location
+close_to_Airport
+no_evident_not_close_to_Airport
+close_to_Makenzie_beach
+no_evident_not_close_to_Makenzie_beach
+close_to_touristic_area
+no_evident_not_close_to_touristic_area
+bus_stop_nearby
+no_evident_not_bus_stop_nearby"
+104,"quiet place, noisy place, no evident not quiet place, no evident not noisy place"
+106,"proximity_to_airport
+no_evident_not_proximity_to_airport
+
+proximity_to_airport
+no_evident_not_proximity_to_airport"
+107,"good_location
+no_evident_not_good_location"
+109,"good_location
+no_evident_not_good_location"
+111,"airport
+Mackenzie_beach
+no_evident_not_airport
+no_evident_not_Mackenzie_beach"
+114,"10 minutes no evident not 10 minutes
+15 minutes no evident not 15 minutes
+connecting buses no evident not connecting buses
+McKenzie beach no evident not McKenzie beach
+ten minute walk no evident not ten minute walk"
+115,"good_location
+no_evident_not_few_minutes
+good_location
+no_evident_not_airport_near
+good_location
+no_evident_best_location_in_larnaca"
+116,"clean, no evident not clean  
+air conditioned, no evident not air conditioned  
+close to the airport, no evident not close to the airport"
+117,"next_to_airport
+no_evident_not_next_to_airport
+walk_to_beach_in_10_minutes
+no_evident_not_walk_to_beach_in_10_minutes"
+118,"near
+no evident not near
+beach
+no evident not beach
+airport
+no evident not airport"
+119,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+120,"close_to_airport
+no_evident_not_close_to_airport"
+123,"good_location
+close_to_airport
+no_evident_not_close_to_airport
+convenient_location
+no_evident_not_convenient_location"
+123,"noisy
+have evident quiet
+
+little
+have evident much
+
+stayed
+have evident left"
+125,"close_to_best_beaches_of_Larnaca_region no_evident_not_close_to_best_beaches_of_Larnaca_region  
+perfectly_connect_by_public_transport_with_Larnaca_city_centre no_evident_not_perfectly_connect_by_public_transport_with_Larnaca_city_centre"
+126,"bad_location
+loud
+have evident quiet
+
+bad_location
+bit
+have evident full"
+129,"good_location
+close_to_makenzie
+no_evident_not_close_to_makenzie
+perfect
+no_evident_not_perfect"
+131,"bad_location
+have evident traffic
+have evident noise
+have evident safety_issues
+have evident distance
+have evident inconvenience"
+134,"good_location
+no_evident_not_good_location"
+137,"good_location
+location
+no_evident_not_location
+near
+no_evident_not_near
+convenient
+no_evident_not_convenient
+central
+no_evident_not_central"
+139,"proximity  
+no evident not proximity
+
+airport  
+no evident not airport
+
+location  
+no evident not location"
+140,"close to the airport, no evident not close to the airport"
+142,"near  
+mackenzie  
+beach  
+no evident not near  
+no evident not mackenzie  
+no evident not beach"
+143,"good_location
+close_to_airport
+no_evident_not_close_to_airport
+near_airport
+no_evident_not_near_airport
+close_to_terminal
+no_evident_not_close_to_terminal
+convenient_transport
+no_evident_not_convenient_transport"
+145,"close_to_airport
+no_evident_not_close_to_airport
+
+5_min_walk
+no_evident_not_5_min_walk
+
+blue_flag_beach
+no_evident_not_blue_flag_beach"
+148,"close
+not close
+near
+not near
+adjacent
+not adjacent
+proximity
+not proximity
+neighboring
+not neighboring
+close_to_airport
+no evident not close_to_airport"
+149,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+152,"close_to_bars
+no_evident_not_close_to_bars
+close_to_sea
+no_evident_not_close_to_sea
+close_to_airport
+no_evident_not_close_to_airport"
+155,"near the airport.
+no evident not near the airport."
+156,"good_location
+near_airport
+no_evident_not_near_airport
+short_stay
+no_evident_not_short_stay
+convenient_transport
+no_evident_not_convenient_transport
+close_to_terminal
+no_evident_not_close_to_terminal"
+157,"walking_to_beach
+no_evident_not_walking_to_beach
+
+10 minutes driving to the city center,
+no_evident_not_10_minutes_driving_to_the_city_center
+
+Close to the supermarket,
+no_evident_not_close_to_the_supermarket
+
+Near the park,
+no_evident_not_near_the_park"
+158,"good_location
+no_evident_not_good_location"
+159,"close_to_airport
+no_evident_not_close_to_airport"
+168,"near_airport
+no_evident_not_near_airport
+short_walking_distance_to_beach
+no_evident_not_short_walking_distance_to_beach
+close_to_restaurants
+no_evident_not_close_to_restaurants"
+169,"good_location
+5_min_drive_to_airport
+no_evident_not_5_min_drive_to_airport
+close_to_airport
+no_evident_not_close_to_airport"
+171,"few steps no evident not near the salt lake  
+few steps no evident not near McKenzie Beach  
+a lot of cafes no evident not many cafes  
+a lot of bars no evident not many bars"
+177,"close_to_beach
+no_evident_not_close_to_beach
+
+close_to_airport
+no_evident_not_close_to_airport"
+179,"close_to_local_restaurants_and_beach
+no_evident_not_close_to_local_restaurants_and_beach
+quiet
+no_evident_not_quiet"
+182,"good_location
+closure_no_evident_not_closure
+good_location
+no_evident_not_good_location"
+183,"close_to_beach
+no_evident_not_close_to_beach
+
+good_location
+no_evident_not_good_location"
+185,"near
+no evident not near
+
+airport
+no evident not airport
+
+looking
+no evident not looking"
+185,"bad_location have evident inaccessibility  
+bad_location have evident inconvenience  
+
+have evident accessibility  
+have evident convenience"
+190,"located
+not located
+
+good_location
+no evident not located"
+191,"beside  
+no evident not beside  
+
+airport  
+no evident not airport"
+193,"good_location
+no_evident_not_good_location"
+195,"bad_location
+close
+have evident far
+
+not_close_to_beach
+have evident close_to_beach"
+195,"perfect_pre_airport_stays
+no_evident_not_perfect_pre_airport_stays
+
+perfect_post_airport_stays
+no_evident_not_perfect_post_airport_stays"
+197,"good_location
+no_evident_not_close_to_airport
+good_location
+no_evident_not_far_from_mackenzy_beach_with_restaurants"
+199,"good_location
+perfectly_located no_evident_not_perfectly_located
+5_minute_walk no_evident_5_minute_walk
+from_beach no_evident_from_beach
+restaurants no_evident_restaurants
+cafés no_evident_cafés"
+202,"close to the beach
+great restaurants
+no evident not close to the beach
+no evident not great restaurants"
+204,"great_to_come_to_from_airport
+no_evident_not_great_to_come_to_from_airport"
+206,"location  
+beach  
+no evident not location  
+no evident not beach"
+208,"good_location
+quiet_area
+easy_find_parking_places
+no_evident_not_quiet_area
+no_evident_easy_find_parking_places"
+210,"fine location
+no evident not fine location"
+211,"close_to_airport
+close_to_airport_no_evident_not_close_to_airport
+
+close_to_town
+close_to_town_no_evident_not_close_to_town"
+211,"bad_location have evident distance
+bad_location have evident time"
+219,"bad_location
+noisy
+have evident quiet
+
+bad_location
+air_traffic
+have evident lack_of_air_traffic"
+220,"4km_from_airport
+no_evident_not_4km_from_airport
+
+b4_highway_adjacent
+no_evident_not_b4_highway_adjacent"
+226,"- turned off
+- empty
+- no local shop
+- no local kiosk
+- have evident turned on
+- have evident full
+- have evident local shops
+- have evident local kiosks"
+227,"close_to_airport
+no_evident_not_close_to_airport"
+228,"convenient
+no evident not convenient
+
+quiet
+no evident not quiet"
+231,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_ideally_situated
+
+good_location
+no_evident_not_for_the_airport
+
+good_location
+no_evident_not_ideal"
+232,"good_location
+no_evident_not_good_location"
+233,"bad_location
+have evident little far from local shop
+have evident everything we need in the cafe
+have evident little far from local shop have evident close to local shop
+have evident everything we need in the cafe have evident lacking essential items in the cafe"
+234,"location  
+bars  
+restaurants  
+beach  
+no evident not location  
+no evident not bars  
+no evident not restaurants  
+no evident not beach"
+235,"good_location
+no_evident_not_good_location"
+236,"good_location
+near_bus_route
+no_evident_not_near_bus_route
+close_to_airport
+no_evident_not_close_to_airport"
+238,"close_to_airport
+no_evident_not_close_to_airport"
+239,"not_far_from_sea
+no_evident_not_not_far_from_sea"
+240,"close_proximity_to_beach
+no_evident_not_close_proximity_to_beach
+
+restaurants_nearby
+no_evident_restaurants_nearby"
+241,"good_location
+walking_distance_to_airport
+no_evident_not_walking_distance_to_airport
+close_to_luxurious_beach_strip
+no_evident_not_close_to_luxurious_beach_strip
+delicious_restaurants
+no_evident_not_delicious_restaurants"
+243,"near beaches
+no evident not near beaches
+
+near restaurants
+no evident not near restaurants"
+246,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+246,"bad_location
+have evident hard_time_finding
+have evident GPS_trouble
+have evident small_side_street
+have evident several_apartment_buildings
+
+bad_location
+have evident easy_to_find
+have evident no_GPS_trouble
+have evident large_main_avenue
+have evident few_buildings"
+250,"location_allowed_to_walk_to_beach
+location_allowed_to_walk_to_restaurants
+no_evident_not_location_allowed_to_walk_to_beach
+no_evident_not_location_allowed_to_walk_to_restaurants"
+253,"cleanliness  
+no evident not cleanliness  
+
+quietness  
+no evident not quietness"
+254,"close_to_airport
+no_evident_not_close_to_airport
+
+worked_for_us
+no_evident_not_worked_for_us"
+255,"good_location
+close_to_airport
+no_evident_not_close_to_airport
+nearbeach
+no_evident_not_nearbeach"
+257,"good_location
+no_evident_not_good_location
+
+quiet
+no_evident_not_quiet"
+259,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+260,"good_location
+walk
+no_evident_not_walk
+
+beach
+no_evident_not_beach
+
+downtown
+no_evident_not_downtown
+
+promenade
+no_evident_not_promenade"
+262,"close_to_airport
+no_evident_not_close_to_airport
+
+short_travel_time
+no_evident_not_short_travel_time
+
+affordable_taxi_fare
+no_evident_not_affordable_taxi_fare
+
+late_arrival
+no_evident_not_late_arrival"
+268,"easy_walk_to_Mackenzie_Beach
+short_journey_from_airport
+no_evident_not_easy_walk_to_Mackenzie_Beach
+no_evident_not_short_journey_from_airport"
+271,"good_location
+near_beach
+no_evident_not_near_beach
+near_restaurants
+no_evident_not_near_restaurants
+public_bus_station_30_meters
+no_evident_not_public_bus_station_30_meters
+close_to_airport
+no_evident_not_close_to_airport"
+272,"near_mackenzie_beach
+no_evident_not_near_mackenzie_beach
+
+close_to_center
+no_evident_not_close_to_center"
+276,"walk  
+no evident not walk  
+
+close to city center  
+no evident not close to city center"
+278,"easy
+not easy
+
+for
+not for
+
+airport
+no evident not airport"
+279,"good_location
+residential_neighborhood
+no_evident_not_residential_neighborhood
+approx_10_minute_drive_from_airport
+no_evident_not_approx_10_minute_drive_from_airport
+20_minute_drive_from_historical_area
+no_evident_not_20_minute_drive_from_historical_area"
+280,"bad_location immediate_location_not_inspiring
+bad_location_have_evident_immediate_location_inspiring
+
+bad_location_restaurants_close
+bad_location_have_evident_restaurants_far
+
+bad_location_sea_front
+bad_location_have_evident_no_sea_front
+
+bad_location_handy_for_Limassol_and_airport
+bad_location_have_evident_unhandy_for_Limassol_and_airport"
+280,"good_location
+lovely_restaurants
+handy_for_Limassol
+handy_for_airport
+no_evident_not_lovely_restaurants
+no_evident_not_handy_for_Limassol
+no_evident_not_handy_for_airport"
+281,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+282,"close_to_beach
+no_evident_not_close_to_beach
+
+quiet_place
+no_evident_not_quiet_place"
+284,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+286,"good_location
+no_evident_not_convenient_location_for_arriving_at_the_airport"
+288,"good_location
+few_kilometers_from_airport
+no_evident_not_few_kilometers_from_airport
+close_to_salt_lake
+no_evident_not_close_to_salt_lake"
+288,"bad_location
+distant
+have evident close
+
+city_center
+have evident outskirts"
+289,"close_to_airport
+no_evident_not_close_to_airport
+near_makenzie_beach_area
+no_evident_not_near_makenzie_beach_area
+taxi_fare_around_15_18_euro
+no_evident_taxi_fare_around_15_18_euro"
+290,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+291,"close_to_airport
+no_evident_not_close_to_airport"
+292,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+295,"good_location
+no_evident_not_good_location
+
+near_centre
+no_evident_not_near_centre
+
+quiet_area
+no_evident_not_quiet_area"
+298,"good_location
+no_evident_not_good_location
+
+good_bus
+no_evident_not_good_bus
+
+close_to_hotel
+no_evident_not_close_to_hotel"
+299,"convenient  
+no evident not convenient  
+
+easy  
+no evident not easy  
+
+many café  
+no evident not many café  
+
+close to the center  
+no evident not close to the center"
+300,"great_location
+no_evident_not_great_location
+
+close_to_airport
+no_evident_not_close_to_airport
+
+near_bus_station
+no_evident_not_near_bus_station
+
+short_walk_to_bus_station
+no_evident_not_short_walk_to_bus_station
+
+close_to_beach
+no_evident_not_close_to_beach
+
+proximity_to_restaurants
+no_evident_not_proximity_to_restaurants"
+301,"quiet area
+no evident not quiet area"
+304,"less_than_minute_away_from_bus_station
+no_evident_not_less_than_minute_away_from_bus_station
+
+nice_city
+no_evident_not_nice_city
+
+many_restaurants_in_area
+no_evident_not_many_restaurants_in_area
+
+many_bars_in_area
+no_evident_not_many_bars_in_area
+
+many_shops_in_area
+no_evident_not_many_shops_in_area
+
+lots_of_beach_shores_to_relax_at
+no_evident_not_lots_of_beach_shores_to_relax_at"
+307,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+310,"close proximity to Larnaca airport.
+no evident not close proximity to Larnaca airport.
+
+close to Mckenzie beach.
+no evident not close to Mckenzie beach.
+
+lots of restaurants for dinner.
+no evident not lots of restaurants for dinner."
+312,"close
+no evident not close
+five_minute_walk
+no evident not five_minute_walk"
+313,"quiet街
+sufficient停车设施
+no evident not quiet街
+no evident not sufficient停车设施"
+314,"good_location
+no_evident_not_good_location"
+316,"good_location
+perfect_location
+only_30_minute_walk
+no_evident_not_perfect_location
+no_evident_only_30_minute_walk"
+318,"quiet_area
+no evident not quiet_area
+
+10_minutes_from_airport
+no evident not 10_minutes_from_airport
+
+6_minutes_walk_to_beach
+no evident not 6_minutes_walk_to_beach
+
+6_minutes_walk_to_restaurants
+no evident not 6_minutes_walk_to_restaurants"
+322,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+322,"close_by have evident far_away
+close_by have evident limited_options"
+323,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+324,"good_location
+no_evident_not_good_location
+
+location_is_good
+no_evident_not_location_is_good
+
+airport_7_min_drive
+no_evident_not_airport_7_min_drive
+
+morning_flight_convenient
+no_evident_not_morning_flight_convenient"
+325,"not far from the airport.
+no evident not not far from the airport.
+
+5 min walk to the beach.
+no evident not 5 min walk to the beach."
+325,"bad_location smell_from_the_lake have_evident_no_smell_from_the_lake
+bad_location doesn’t_depend_on_the_hotel have_evident_it_depends_on_the_hotel"
+327,"close_to_airport
+no_evident_not_close_to_airport
+
+close
+no_evident_not_close
+
+ideal
+no_evident_not_ideal
+
+purpose_of_stay
+no_evident_not_purpose_of_stay"
+328,"close
+no evident not close
+
+bus
+no evident not bus
+
+airport
+no evident not airport
+
+50 meters
+no evident not 50 meters"
+328,"bad_location
+have evident sewage
+have evident smell"
+329,"quiet
+no evident not quiet
+
+good_location
+no evident not good_location"
+332,"Cafe_Nero  
+no_evident_not_Cafe_Nero
+
+away_10_minutes  
+no_evident_not_away_10_minutes
+
+perfect  
+no_evident_not_perfect"
+334,"good_location
+no_evident_not_good_location"
+338,"walking_distance_to_beach
+no_evident_not_walking_distance_to_beach
+
+restaurants_nearby
+no_evident_not_restaurants_nearby
+
+shops_nearby
+no_evident_not_shops_nearby
+
+away_from_traffic
+no_evident_not_away_from_traffic"
+340,"bad_location have evident distance from busy areas
+bad_location have evident need to travel far for beach activities
+bad_location have evident lack of proximity to bustling nightlife
+bad_location have evident preference for quieter locations
+bad_location have evident disadvantage in terms of accessibility
+have evident closeness to water sports area
+have evident availability of quieter beaches
+have evident advantage in terms of less crowded environment"
+344,"good_location
+no_evident_not_good_location
+good_location
+no_evident_not_good_location"
+347,"good_location
+walk
+no_evident_not_walk
+
+beach
+no_evident_not_beach
+
+restaurants
+no_evident_not_restaurants"
+348,"bad_location
+have evident young_family
+have evident quiet_area"
+349,"close_to_bus_stop
+no_evident_not_close_to_bus_stop"
+349,"bad_location
+far
+have evident near
+crowded_spots
+have evident unvisited
+tourist_attractions
+have evident popular_places"
+350,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+351,"good_location
+Close_to_mackenzie_beach
+no_evident_not_close_to_mackenzie_beach
+Close_to_bars
+no_evident_not_close_to_bars"
+353,"good_location
+near_airport
+no_evident_not_near_airport
+good_location
+not_good_location
+no_evident_not_good_location
+near_airport
+not_near_airport
+no_evident_not_near_airport"
+353,"bad_location
+far
+have evident near
+crowded_neighborhood
+have evident sparse
+poor_transportation
+have evident frequent_services
+lack_of_shops
+have evident abundance_shops"
+355,"good_location
+nearby
+no evident not nearby
+various_restaurants
+no evident not various_restaurants"
+358,"close_to_airport
+no_evident_not_close_to_airport"
+361,"near Makanzie Beach
+no evident not near Makanzie Beach"
+364,"loads_of_bars_and_restaurants
+5_mins_walk_away_on_the_beach
+no_evident_not_loads_of_bars_and_restaurants
+no_evident_not_5_mins_walk_away_on_the_beach"
+367,"good_location
+no_evident_not_good_location
+
+near_beach
+no_evident_not_near_beach
+
+convenient_transport
+no_evident_not_convenient_transport
+
+close_to_shops
+no_evident_not_close_to_shops
+
+safe_area
+no_evident_not_safe_area"
+368,"good_location
+perfect_location
+no_evident_not_perfect_location"
+370,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+372,"good_location
+15_minutes_drive_from_the_airport
+no_evident_not_15_minutes_drive_from_the_airport
+15_walk_to_the_city_center
+no_evident_not_15_walk_to_the_city_center
+about_300_meters_to_the_nice_beach
+no_evident_not_about_300_meters_to_the_nice_beach"
+373,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+374,"good_location
+no_evident_not_good_location"
+376,"walk  
+no evident not walk  
+close  
+no evident not close  
+beach  
+no evident not beach  
+minute  
+no evident not minute  
+five  
+no evident not five"
+377,"near_to_beach
+no_evident_not_near_to_beach
+
+airport
+no_evident_not_airport
+
+bus_station
+no_evident_not_bus_station"
+380,"close_to_airport
+no_evident_not_close_to_airport
+close_to_beaches
+no_evident_not_close_to_beaches
+close_to_entertainment
+no_evident_not_close_to_entertainment"
+381,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+382,"close_to_airport
+no_evident_not_close_to_airport
+access_to_beach
+no_evident_not_access_to_beach"
+388,"good_location
+near_airport
+no_evident_not_near_airport
+near_beach
+no_evident_not_near_beach"
+389,"good_location
+no_evident_not_convenient_to_airport
+no_evident_not_convenient_to_beach
+no_evident_5_minutes_away_from_airport
+no_evident_within_walking_distance_to_beach
+no_evident_within_walking_distance_to_restaurants
+no_evident_within_walking_distance_to_other_amenities"
+391,"5_min_walk
+no_evident_not_5_min_walk
+
+Mackenzie_Beach_promenade
+no_evident_not_Mackenzie_Beach_promenade"
+391,"bad_location
+close
+have evident far
+surroundings
+have evident clean"
+392,"good_location
+no_evident_not_good_location"
+394,"located
+no evident not located
+
+restaurants
+no evident not restaurants
+
+supermarket
+no evident not supermarket
+
+airport
+no evident not airport
+
+centre
+no evident not centre"
+398,"short_walk_to_nice_beach_bars
+no_evident_not_short_walk_to_nice_beach_bars
+
+close_to_airport
+no_evident_not_close_to_airport"
+402,near Mackenzie Beach no evident not near Mackenzie Beach just 2 min walk no evident not near Mackenzie Beach just 3 min walk
+406,"walks_to_makkenzy_beach
+no_evident_not_walks_to_makkenzy_beach
+
+planes_land_above_you
+no_evident_not_planes_land_above_you"
+407,"good_location
+no_evident_not_good_location"
+410,"close_to_airport
+no_evident_not_close_to_airport
+next_to_salt_lake
+no_evident_not_next_to_salt_lake
+near_mackenzie_beach
+no_evident_not_near_mackenzie_beach
+next_to_bus_stop
+no_evident_not_next_to_bus_stop"
+415,"good_location
+walking_distance
+no_evident_not_walking_distance
+beach_lounges
+no_evident_not_beach_lounges
+restaurants
+no_evident_not_restaurants"
+417,"close_to_airport
+no_evident_not_close_to_airport
+
+short_travel_time
+no_evident_not_short_travel_time
+
+affordable_taxi_fare
+no_evident_not_affordable_taxi_fare"
+419,"good_location
+location
+no_evident_not_location"
+420,"bad_location
+far
+have evident near
+
+little
+have evident much
+
+bit
+have evident significant
+
+BIT
+have evident BIG
+
+FAR
+have evident NEAR
+
+SEA
+have evident LAND"
+421,"good_location
+steps_to_Makenzy_beach
+no_evident_not_steps_to_Makenzy_beach
+cafés
+no_evident_not_cafés
+restaurants
+no_evident_not_restaurants
+Easy_access_to_nightlife
+no_evident_not_Easy_access_to_nightlife"
+422,"close_to_city
+no_evident_not_close_to_city
+
+accessible_by_transportation
+no_evident_not_accessible_by_transportation"
+423,"good_location
+walking_distance_from_beach
+no_evident_not_walking_distance_from_beach
+very_easy_access_to_public_transportation
+no_evident_very_easy_access_to_public_transportation"
+424,"close_to_jogging_trails
+no_evident_not_close_to_jogging_trails
+
+close_to_airport
+no_evident_not_close_to_airport"
+425,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+426,"bad_location noise in week 4 a.m from people picking rubbish into large lorries.
+bad_location have evident quiet time during night hours.
+bad_location noise in week 4 a.m from people picking rubbish into large lorries.
+bad_location have evident specific collection times.
+bad_location noise in week 4 a.m from people picking rubbish into large lorries.
+bad_location have evident minimal disturbance to residents."
+427,"bad_location
+have evident incorrect_information
+bad_location
+have evident misplacement
+bad_location
+have evident wrong_placement
+bad_location
+have evident inaccurate_location
+bad_location
+have evident false_assumption"
+429,"quiet
+no evident not quiet"
+431,"around_the_corner
+no_evident_not_around_the_corner
+
+town
+no_evident_town
+
+corner
+no_evident_corner"
+431,"nothing close have evident far away
+
+mini Mart have evident convenience store"
+432,"short_walk_to_Mckenzie_beach
+no_evident_not_short_walk_to_Mckenzie_beach"
+434,"near
+far
+no evident not near
+no evident not far"
+435,"close_to_airports
+no_evident_not_close_to_airports"
+436,"central_location
+no_evident_not_central_location
+
+good_transitioning
+no_evident_not_good_transitioning
+
+sleep_over
+no_evident_not_sleep_over"
+438,"close_to_larnaka_airport
+no_evident_not_close_to_larnaka_airport
+
+near_larnaka_airport
+no_evident_not_near_larnaka_airport"
+439,"good_location
+useful_located
+no_evident_not_useful_located
+between_city_centre_and_airport
+no_evident_not_between_city_centre_and_airport"
+441,"bad_location
+have evident issues_with_internet
+have evident bit_far_from_the_center
+
+bad_location
+have evident issues_with_internet
+have evident center_is_close
+
+bad_location
+have evident bit_far_from_the_center
+have evident center_is_nearby"
+441,"Area around  
+no evident not quiet  
+Area around  
+no evident not very"
+442,"bad_location have evident hard_to_find
+bad_location have evident easy_to_find"
+445,"next_to_airport
+next_to_airport_no_evident_not_next_to_airport"
+448,"good_location
+no_evident_not_good_location"
+449,"close_to_airport
+no_evident_not_close_to_airport"
+451,"good_location
+close
+no_evident_not_close
+famous_Makenzie_Beach
+no_evident_not_famous_Makenzie_Beach"
+452,"good_location near_airport
+good_location quiet_neighbourhood
+no_evident_not_near_airport
+no_evident_not_quiet_neighbourhood"
+453,"close_to_mackenzie_beach
+no_evident_not_close_to_mackenzie_beach"
+454,"bad_location
+noisy
+have evident quiet
+
+bad_location
+uncomfortable
+have evident comfortable"
+455,"bad_location
+pension
+have evident hostel
+
+close
+have evident far
+
+color
+have evident darkness"
+456,"good_location
+convenient_by_taxi_to_city_center
+convenient_by_taxi_to_airport
+convenient_by_taxi_to_beach
+no_evident_not_convenient_by_taxi_to_city_center
+no_evident_not_convenient_by_taxi_to_airport
+no_evident_not_convenient_by_taxi_to_beach"
+457,"quietness  
+no evident not quietness
+
+close  
+no evident not close"
+459,"bad_location garbage_truck_passes
+bad_location have_evident_garbage_truck_stops
+
+incredible_noise garbage_truck_passes
+incredible_noise have_evident_quietness"
+460,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+462,"good_location
+location
+no_evident_not_location"
+465,good_location calm_area close_to_beach many_restaurants_and_coffee_shops no_evident_not_calm_area no_evident_not_close_to_beach no_evident_not_many_restaurants_and_coffee_shops bus_station_very_close no_evident_not_bus_station_very_close
+466,"close_to_airport
+no_evident_not_close_to_airport
+
+nice_place_to_stay
+no_evident_not_nice_place_to_stay"
+471,"close_to_beach
+no_evident_not_close_to_beach
+
+near_beach
+no_evident_not_near_beach
+
+close_to_sea
+no_evident_not_close_to_sea"
+471,"bad_location
+far
+close
+crowded
+sparse
+have evident crowded
+have evident sparse"
+479,"good_location
+proximity
+no_evident_not_proximity
+beach
+no_evident_not_beach
+restaurants
+no_evident_not_restaurants"
+483,"good_location
+close_to_airport
+no_evident_not_close_to_airport
+close_to_beach
+no_evident_not_close_to_beach"
+484,"close_to_airport
+no_evident_not_close_to_airport"
+484,"bad_location
+far
+have evident near
+
+town
+have evident outskirts"
+489,"good_location
+beach_10_minutes_walk
+no_evident_not_beach_10_minutes_walk
+airport_10_minutes_by_bus
+no_evident_not_airport_10_minutes_by_bus"
+490,"good_location
+no_evident_not_proximity_to_airport
+
+good_location
+no_evident_not_convenient_access_to_airport"
+491,"good_location
+no_evident_not_good_location"
+492,"near=no evident not near
+airport=no evident not airport
+ideal=no evident not ideal
+late=no evident not late
+early=no evident not early"
+492,"bad_location
+have evident noise
+have evident heavy_use_of_tiling
+have evident steady_stream_of_travelers_arriving
+have evident steady_stream_of_travelers_departing
+have evident nighttime"
+494,"close_to_airport
+not_close_to_airport
+
+near_airport
+not_near_airport
+
+proximity_airport
+not_proximity_airport"
+495,"close to the beach
+no evident not close to the beach
+
+clean
+no evident not clean
+
+close to the field
+no evident not close to the field
+
+Intimate
+no evident not Intimate
+
+quiet
+no evident not quiet"
+496,"close_to_airport
+no_evident_not_close_to_airport
+
+near_airport
+no_evident_not_near_airport"
+497,"close_to_airport
+no_evident_not_close_to_airport
+close_to_beach
+no_evident_not_close_to_beach
+many_restaurants
+no_evident_not_many_restaurants
+many_snacks
+no_evident_not_many_snacks"
+498,"good_location
+no_evident_not_close
+
+good_location
+no_evident_not_access"
+498,"bad_location have evident distance from the main terminal  
+bad_location have evident frequent delays in bus service  
+have evident distance from the main terminal bad_location have evident proximity to the airport  
+have evident frequent delays in bus service bad_location have evident reliable and on-time bus service"
+499,"close_to_airport
+no_evident_not_close_to_airport
+
+near_airport
+no_evident_not_near_airport
+
+proximity_to_airport
+no_evident_not_proximity_to_airport"
+500,"central
+not central"
+500,"bad_location
+have evident alley
+have evident crazy"
+501,"close_to_airport
+no_evident_not_close_to_airport
+
+near_airport
+no_evident_not_near_airport"
+503,"close_to_field
+no_evident_not_close_to_field"
+503,"bad_location
+have evident unfriendly
+have evident construction
+have evident bumpy"
+505,"close_to_city_center
+no_evident_not_close_to_city_center
+
+near_airport
+no_evident_not_near_airport
+
+by_sea
+no_evident_by_sea"
+510,"good_location
+no_evident_not_proximity_to_airport
+
+good_location
+no_evident_not_convenient_access_to_airport"
+513,"close_to_airport
+easy_get_to
+no_evident_not_close_to_airport
+no_evident_not_easy_get_to"
+513,"good_location
+promenade
+no evident not promenade
+nice_restaurants
+no evident not nice_restaurants
+beach
+no evident not beach"
+515,"close_to_lake
+no_evident_not_close_to_lake
+close_to_beach
+no_evident_not_close_to_beach"
+518,"good_location quiet_place
+good_location no_evident_not_quiet_place"
+519,"good_location
+near_mackenzie_beach
+no_evident_not_near_mackenzie_beach"
+527,"good_location
+no_evident_not_good_location
+
+near_airport
+no_evident_not_near_airport
+
+near_mckenzie_beach
+no_evident_not_near_mckenzie_beach"
+528,"good_location
+near_airport
+no_evident_not_near_airport
+met_expectations
+no_evident_not_met_expectations"
+530,"easy no evident not easy
+quiet no evident not quiet
+not far no evident not far
+beach no evident not beach"
+531,"close_to_airport
+no_evident_not_close_to_airport
+near_promenade_by_sea
+no_evident_not_near_promenade_by_sea"
+532,"good_location
+no_evident_not_proximity_to_airport
+
+good_location
+no_evident_not_convenient_transportation
+
+good_location
+no_evident_not_reduced_travel_time
+
+good_location
+no_evident_not_strategic_business_position
+
+good_location
+no_evident_not_easy_access_for_customers"
+535,"good_location
+walk
+no_evident_not_walk
+
+center
+no_evident_not_center
+
+beach
+no_evident_not_beach"
+536,"close_to_beach
+no_evident_not_close_to_beach
+
+gastronomy
+no_evident_not_gastronomy
+
+airport
+no_evident_not_airport"
+538,"good_location
+no_evident_not_good_location
+
+close_to_airport
+no_evident_not_close_to_airport
+
+easily_accessible_by_taxi
+no_evident_not_easily_accessible_by_taxi
+
+bus_route_nearby
+no_evident_not_bus_route_nearby"
+540,"close_to_beach
+no_evident_not_close_to_beach
+close_to_airport
+no_evident_not_close_to_airport
+8_minutes_by_car
+no_evident_not_8_minutes_by_car"
+541,"close_to_airport
+no_evident_not_close_to_airport
+
+close_to_mackenzie_beach
+no_evident_not_close_to_mackenzie_beach
+
+can_reach_finikoudes_by_walking
+no_evident_not_can_reach_finikoudes_by_walking"
+542,"close_to_airport
+no_evident_not_close_to_airport
+many_restaurants_and_cafes_within_walking_distance
+no_evident_many_restaurants_and_cafes_within_walking_distance
+close_to_beach
+no_evident_not_close_to_beach"
+546,"good_location
+walking_distance
+no_evident_not_walking_distance
+
+late_arrival
+no_evident_not_late_arrival
+
+planning_further_travel_by_car
+no_evident_planning_further_travel_by_car
+
+mackenzie_beach
+no_evident_mackenzie_beach
+
+salt_lake
+no_evident_salt_lake"
+547,"close_to_airport
+no_evident_not_close_to_airport
+
+short_travel_time
+no_evident_not_short_travel_time"
+549,"good_location
+no_evident_not_good_location"
+551,"good_location
+proximity_to_mackenzie_beach
+no_evident_not_proximity_to_mackenzie_beach
+walk_to_mackenzie_beach
+no_evident_not_walk_to_mackenzie_beach"
+552,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+554,"close_to_airport
+no_evident_not_close_to_airport
+close_to_beach
+no_evident_not_close_to_beach
+quiet
+no_evident_not_quiet"
+555,"close_to_larnaca_airport
+less_than_10_minutes
+no_evident_not_close_to_larnaca_airport
+no_evident_less_than_10_minutes"
+556,"near_the_airport good_location
+no_evident_not_near_the_airport_good_location
+
+convenient good_location
+no_evident_not_convenient_good_location
+
+shuttle_to_field good_location
+no_evident_not_shuttle_to_field_good_location"
+560,"good_location
+no_evident_not_good_location
+
+near_airport
+no_evident_not_near_airport
+
+good_for_overnight_stay
+no_evident_not_good_for_overnight_stay
+
+good_for_late_flight
+no_evident_not_good_for_late_flight
+
+good_for_early_flight
+no_evident_not_good_for_early_flight"
+562,"close_to_larnaca_airport
+no_evident_not_close_to_larnaca_airport
+
+convenient_to_stop_there
+no_evident_not_convenient_to_stop_there
+
+flight_landed_in_middle_of_night
+no_evident_not_flight_landed_in_middle_of_night"
+565,"near_airport
+no_evident_not_near_airport
+near_mackenzie_beach
+no_evident_not_near_mackenzie_beach
+five_minutes_to_beach
+no_evident_not_five_minutes_to_beach"
+566,"close_to_airport
+no_evident_not_close_to_airport"
+569,"good_location
+no_evident_not_good_location
+good_location
+no_evident_not_good_location"
+571,"to_beach_on_foot_5_minutes
+no_evident_not_to_beach_on_foot_5_minutes"
+579,"good_location
+near
+no evident not near
+about_10_minutes_drive_away
+no evident not about_10_minutes_drive_away"
+586,"close_to_airport
+no_evident_not_close_to_airport
+near_sea
+no_evident_not_near_sea
+near_promenade
+no_evident_not_near_promenade
+excellent_restaurants
+no_evident_not_excellent_restaurants"
+587,"close_to_airport
+close_to_beach
+no_evident_not_close_to_airport
+no_evident_not_close_to_beach"
+588,"good_location
+no_evident_not_good_location_close_to_everything"
+589,"distance from the airport, close_to_airport, no_evident_not_close_to_airport
+distance from the airport, far_from_airport, no_evident_not_far_from_airport"
+589,"bad_location
+works_next_door
+have_evident_works_next_door
+
+unfortunately_the_owners_can_t_do_anything_about_it
+have_evident_unfortunately_the_owners_can_t_do_anything_about_it"
+590,"5_minutes_from_the_beach
+5_minutes_from_the_airport
+no_evident_not_5_minutes_from_the_beach
+no_evident_not_5_minutes_from_the_airport"
+594,"noisy  
+have evident quiet  
+close  
+have evident far  
+airport  
+have evident no_airport"
+596,"bad_location noisy outside
+bad_location have evident quiet inside"
+597,"good_location
+near_sea
+no_evident_not_near_sea
+close_to_via_dei
+no_evident_not_close_to_via_dei
+can_reach_center_in_20_minutes
+no_evident_cannot_reach_center_in_20_minutes"
+599,"good_location
+no_evident_not_good_location
+
+good_transit
+no_evident_not_good_transit
+
+near_airport
+no_evident_not_near_airport"
+599,bad_location noise_from_a夜店 have_evident_noise_from_a夜店 bad_location noise_from_a夜店 have_evident_quiet_environment_around夜店 bad_location noise_from_a夜店 have_evident_traffic_noise_nearby夜店 bad_location noise_from_a夜店 have_evident_lack_of_privacy_in_area夜店
+602,"good_location
+no_evident_not_good_location"
+607,"close_to_beach
+no_evident_not_close_to_beach
+
+near_airport
+no_evident_not_near_airport
+
+many_restaurants
+no_evident_many_restaurants
+
+quiet_location
+no_evident_quiet_location"
+610,"close_to_airport
+no_evident_not_close_to_airport
+quiet_hotel
+no_evident_not_quiet_hotel
+restaurant_in_enclosure
+no_evident_not_restaurant_in_enclosure
+good_restaurant
+no_evident_not_good_restaurant"
+611,"good_location
+proximity_city_center
+no_evident_not_proximity_city_center
+proximity_beach
+no_evident_not_proximity_beach"
+612,"close_to_airport
+no_evident_not_close_to_airport
+
+short_travel_time
+no_evident_not_short_travel_time"
+612,"bad_location
+outside_light
+have_evident_inside_light
+
+bad_location
+outside_light
+have_evident_no_light"
+614,"near_airport
+no_evident_not_near_airport
+
+5min_by_bus
+no_evident_not_5min_by_bus"
+616,"easy_to_reach
+no_evident_not_easy_to_reach
+
+not_too_close
+no_evident_not_too_close"
+617,"good_location
+central
+location
+no_evident_not_central
+no_evident_not_good"
+618,"bad_location have evident noise disturbance
+bad_location have evident late hour"
+619,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+620,"good_location
+nice
+no evident not nice
+clean
+no evident not clean
+near
+no evident not near
+airport
+no evident not airport
+walk
+no evident not walk
+embankment
+no evident not embankment
+7-10 minutes
+no evident not 7-10 minutes"
+623,"nearairport
+neabeach
+noevidentnotnearairport
+noevidentnotneabeach"
+623,"night traffic have evident bad_location
+traffic have evident bad_location"
+625,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+627,"bad_location
+far
+have evident near
+
+city_center
+have evident outskirts"
+627,"taxis  
+no evident not taxis  
+
+good_location  
+no evident not good_location"
+628,"close_to_airport
+no_evident_not_close_to_airport
+
+good_frequency_bus
+no_evident_not_good_frequency_bus
+
+close_to_city_center
+no_evident_not_close_to_city_center
+
+dead_end_street
+no_evident_not_dead_end_street
+
+quiet_street
+no_evident_not_quiet_street"
+632,"good_location
+close_to_airport
+no_evident_not_close_to_airport
+convenient_bus_connection
+no_evident_not_convenient_bus_connection
+easy_access_city_center
+no_evident_not_easy_access_city_center
+public_transport_worked_fine
+no_evident_not_public_transport_worked_fine
+good_for_morning_trip
+no_evident_not_good_for_morning_trip
+near_mackenzie_beach
+no_evident_not_near_mackenzie_beach
+close_to_bars_and_restaurants
+no_evident_not_close_to_bars_and_restaurants"
+633,"close to the airport!
+no evident not close to the airport!"
+635,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+636,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+637,"good_location
+no_evident_not_good_location"
+639,"good_location
+no_evident_not_short_distance_from_the_beach
+good_location
+no_evident_not_found_starfish"
+641,"quiet
+peaceful
+no evident not quiet
+no evident not peaceful"
+642,"close_to_airport
+no_evident_not_close_to_airport
+
+near_airport
+no_evident_not_near_airport"
+644,"near the airport
+not near the airport"
+646,"good_location
+close_to_Salt_Lake
+close_to_Mackenzie_Beach
+close_to_bus_stop
+close_to_airport
+can_walk_entire_promenade_of_Larnaca
+calm_step_to_Church_of_St_Lazarus_30-40_minutes
+no_evident_not_close_to_Salt_Lake
+no_evident_not_close_to_Mackenzie_Beach
+no_evident_not_close_to_bus_stop
+no_evident_not_close_to_airport
+no_evident_not_can_walk_entire_promenade_of_Larnaca
+no_evident_not_calm_step_to_Church_of_St_Lazarus_30-40_minutes"
+649,"near_airport
+no_evident_not_near_airport
+off_season
+no_evident_not_off_season
+no_noise_from_street
+no_evident_no_noise_from_street
+sound_from_planes_did_not_bother_us
+no_evident_sound_from_planes_did_not_bother_us"
+650,"quiet  
+no evident not quiet  
+
+walking_distance  
+no evident not walking_distance"
+652,"close_to_airport
+no_evident_not_close_to_airport"
+653,"close_to_airport
+near_lake
+flamingos_in_winter
+no_evident_not_close_to_airport
+no_evident_not_near_lake
+no_evident_flamingos_in_winter"
+654,"good_location
+no_evident_not_good_location
+
+good_Mackenzie_beach
+no_evident_not_good_Mackenzie_beach"
+654,"bad_location
+have evident noise
+have evident damage_to_property
+
+bad_location
+have evident no_concern_for_tourists
+have evident disturbance_of_sleep"
+655,"not_far_from_airport
+no_evident_not_far_from_airport
+
+The hotel has a parking lot.
+has_parking_lot
+no_evident_has_parking_lot
+
+There are restaurants nearby.
+nearby_restaurants
+no_evident_nearby_restaurants"
+655,"bad_location
+far
+have evident near
+
+bad_location
+city_center
+have evident outskirts"
+659,"bad_location
+noisy
+have evident quiet
+ringing
+have evident silence
+sounds accumulate
+have evident absence_of_sound
+terrible force
+have evident gentleness
+airplanes
+have evident lack_of_airplanes
+passing cars
+have evident absence_of_cars
+slamming trunk
+have evident absence_of_trunks"
+661,"good_location
+no_evident_not_proximity_to_airport
+
+good_location
+no_evident_not_convenient_access
+
+good_location
+no_evident_not_reduced_travel_time
+
+good_location
+no_evident_not_close_to_airport"
+661,"sleep lightly have evident disturbance
+aircraft noise have evident disturbance"
+662,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+662,"bad_location
+have evident bad_smell
+have evident fertilization"
+663,"- Location
+Hotel near the airport.
+In total, close to the beach,
+although to get to the beach relatively quickly
+
+- no evident not location
+Hotel far from the airport.
+In total, distant from the beach,
+although to get to the beach takes a long time"
+663,"bad_location
+far
+have evident near
+walk
+have evident car
+about
+have evident precisely
+2_5_km
+have evident exactly
+km
+have evident close
+beach_promenade
+have evident not_relevant"
+666,"great_location
+quiet_location
+no_evident_not_great_location
+no_evident_not_quiet_location"
+667,"close location to the bus stop, no evident not close location to the bus stop
+10 minutes to the center, no evident not 10 minutes to the center
+5 minutes to the airport, no evident not 5 minutes to the airport
+ideal place if you need to spend the night before departure from Larnaca, no evident not ideal place if you need to spend the night before departure from Larnaca"
+670,"good_location
+proximity_airport
+no_evident_not_proximity_airport
+nearby_bus_stop
+no_evident_not_nearby_bus_stop
+access_city_center
+no_evident_not_access_city_center
+access_airport
+no_evident_not_access_airport"
+673,"walking_distance_to_Mackenzie_Beach
+no_evident_not_walking_distance_to_Mackenzie_Beach"
+677,"sea yes
+sea no evident not yes"
+678,"next_to_mackenzie_beach
+no_evident_not_next_to_mackenzie_beach
+
+near_airport
+no_evident_not_near_airport
+
+5_minutes_car
+no_evident_not_5_minutes_car"
+680,"located_500_meters_from_the_beach
+no_evident_not_located_500_meters_from_the_beach
+area_with_restaurants_and_bars
+no_evident_not_area_with_restaurants_and_bars
+town_center_is_a_little_further_30_on_foot
+no_evident_not_town_center_is_a_little_further_30_on_foot
+5_minutes_from_the_airport
+no_evident_not_5_minutes_from_the_airport"
+681,"good_location
+bus_stops_nearby
+salt_lake
+5_minutes_walk_to_the_sea
+no_evident_not_bus_stops_nearby
+no_evident_not_salt_lake
+no_evident_not_5_minutes_walk_to_the_sea"
+684,"bad_location
+noisy
+
+have evident quiet
+have evident peaceful"
+685,"good_location
+no_evident_not_good_location"
+687,"from_hotel_to_beach_close
+no_evident_not_from_hotel_to_beach_close
+
+bus_stop_nearby
+no_evident_not_bus_stop_nearby"
+688,"close to the beach
+no evident not close to the beach"
+690,"good_location
+no_evident_not_convenient_location
+good_location
+no_evident_not_far_from_airport
+good_location
+no_evident_not_far_from_sea"
+690,"bad_location
+have evident noise
+have evident disturbance
+
+bad_location
+have evident smell
+have evident mess"
+693,"good_location
+well_placed
+no_evident_not_well_placed
+access_to_the_beach_by_crossing_a_vacant_lot
+no_evident_access_to_the_beach_by_crossing_a_vacant_lot
+airport_nearby
+no_evident_airport_nearby"
+694,"close_to_airport
+no_evident_not_close_to_airport"
+694,"bad_location
+wasteland
+have evident green spaces
+
+bad_location
+wasteland
+have evident buildings
+
+bad_location
+wasteland
+have evident activity
+
+bad_location
+wasteland
+have evident attractions"
+696,"- The airport is 6 minutes by car.
+- Near a good beach.
+- No evident not the airport is 6 minutes by car.
+- No evident not near a good beach."
+698,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+700,"attached  
+not attached  
+close  
+far  
+convenient  
+inconvenient  
+near  
+distant  
+adjacent  
+separated"
+701,"good_location
+walking_distance_to_beach
+several_restaurants
+no_evident_not_walking_distance_to_beach
+no_evident_several_restaurants"
+704,"close_to_airport
+no_evident_not_close_to_airport
+close_to_beach
+no_evident_not_close_to_beach"
+706,"good_location
+no_evident_not_good_location"
+708,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+713,"close_to_airport
+no_evident_not_close_to_airport"
+718,"close_to_mackenzie_beach
+no_evident_not_close_to_mackenzie_beach
+
+near_salt_lake
+no_evident_not_near_salt_lake
+
+10_minutes_to_airport_by_bus
+no_evident_not_10_minutes_to_airport_by_bus
+
+10_minutes_to_airport_by_taxi
+no_evident_not_10_minutes_to_airport_by_taxi"
+719,"bad_location
+street
+have evident alley
+street
+have evident dead_end
+street
+have evident busy_road
+street
+have evident construction_site"
+722,"walking_distance_to_makenzie_beach
+no_evident_not_walking_distance_to_makenzie_beach
+
+easy_to_get_here_by_bus_from_airport
+no_evident_not_easy_to_get_here_by_bus_from_airport
+
+did_not_notice_noise_during_entire_stay
+no_evident_not_did_not_notice_noise_during_entire_stay
+
+did_not_experience_any_discomfort_because_of_proximity_airport
+no_evident_not_did_not_experience_any_discomfort_because_of_proximity_airport"
+726,"good_location
+Mackenzie
+no_evident_not_Mackenzie
+
+hotel
+no_evident_not_hotel"
+726,"bad_location
+noisy
+have evident quiet
+
+discos
+have evident absence_of_discos
+
+Mackenzie
+have evident non_Mackenzie"
+727,"close
+no evident not close"
+727,"bad_location
+intensive_have_evident
+road_have_evident"
+730,"close_to_airport
+close_to_airport no_evident_not_close_to_airport
+close_to_beach
+close_to_beach no_evident_not_close_to_beach"
+730,"bad_location
+have evident noise
+have evident smell
+
+bad_location
+have evident noise
+have evident quietness
+
+bad_location
+have evident smell
+have evident freshness
+
+bad_location
+have evident noise
+have evident silence
+
+bad_location
+have evident smell
+have evident cleanliness"
+732,"near_mackenzie_beach
+no_evident_not_near_mackenzie_beach
+
+airport
+no_evident_not_airport
+
+salt_lake
+no_evident_not_salt_lake"
+733,"close_to_waterfront
+no_evident_not_close_to_waterfront"
+735,"CLOSE_TO_EVERYTHING
+no_evident_not_CLOSE_TO_EVERYTHING
+
+ALYKI_BEACH_CLUB
+no_evident_NOT_ALYKI_BEACH_CLUB
+
+RESTAURANTS
+no_evident_NOT_RESTAURANTS
+
+CAFES
+no_evident_NOT_CAFES"
+737,"close_to_beach
+no_evident_not_close_to_beach"
+739,"good_location
+no_evident_not_good_location
+
+near_beach
+no_evident_not_near_beach
+
+near_center
+no_evident_not_near_center"
+743,"bad_location
+close
+have evident far
+advertised
+have evident unadvertised"
+744,"bad_location
+sounds
+have_evident_noise
+bad_location
+sounds
+have_evident_interruption"
+748,"close_to_airport
+no_evident_not_close_to_airport
+
+bus_station_nearby
+no_evident_not_bus_station_nearby
+
+salt_lake_nearby
+no_evident_not_salt_lake_nearby"
+749,"close_to_field
+no_evident_not_close_to_field"
+750,"close_to_field
+no_evident_not_close_to_field"
+751,"next_to_pool
+have_evident_next_to_pool
+
+too_much_noise
+have_evident_too_much_noise
+
+shouting
+have_evident_shouting
+
+unable_to_rest
+have_evident_unable_to_rest"
+754,"good_location
+no_evident_not_good_location"
+754,"bad_location have evident noise
+bad_location have evident cold
+
+bad_location have evident quiet
+bad_location have evident warm"
+756,"good_location
+central
+no_evident_not_central
+between_the_beach
+no_evident_not_between_the_beach
+the_party_mile
+no_evident_not_the_party_mile
+the_airport
+no_evident_not_the_airport
+the_old_town
+no_evident_not_the_old_town"
+764,"bad_location
+have evident garbage_pickup_infernal_mess
+have evident smell_concentrated_manure
+have evident proximity_farms"
+765,"bars  
+restaurants  
+no evident not bars  
+no evident not restaurants"
+765,"bad_location
+smoke
+have evident no_smoke
+
+bad_location
+smoke
+have evident smoke_free_area"
+767,"bad_location
+have evident far
+have evident noisy"
+769,"within walking distance
+no evident not within walking distance
+
+a couple of taverns in the area
+no evident not a couple of taverns in the area
+
+near the airport
+no evident not near the airport"
+769,"walk to the promenade of Larnaca have evident bad_location
+walk to the promenade of Larnaca have evident good_location
+Lidl is far have evident bad_location
+Lidl is far have evident good_location"
+770,"- bad_location
+- have evident smell
+- have evident odor"
+771,"bad_location
+have evident noise
+have evident disturbance
+
+bad_location
+have evident traffic
+have evident shouting"
+771,"good_location
+walking_distance
+no_evident_not_walking_distance
+within_mackenzie_beach
+no_evident_not_within_mackenzie_beach
+walking_distance_to_center
+no_evident_not_walking_distance_to_center
+party_cafes
+no_evident_not_party_cafes"
+773,"good_location
+asphalt
+no_evident_not_asphalt
+off_road
+no_evident_not_off_road
+airport_nearest
+no_evident_not_airport_nearest"
+776,"proximity to the airport
+no evident not proximity to the airport
+
+walk to the sea
+no evident not walk to the sea"
+778,"close_to_airport
+no_evident_not_close_to_airport"
+779,"close_to_airport
+no_evident_not_close_to_airport
+quiet
+no_evident_not_quiet
+proximity_to_beach
+no_evident_not_proximity_to_beach
+proximity_to_city
+no_evident_not_proximity_to_city
+bus_stop_near_hotel
+no_evident_not_bus_stop_near_hotel"
+780,"near  
+not near  
+mackenzie beach  
+no evident not mackenzie beach"
+784,"proximity_to_beach
+no_evident_not_proximity_to_beach
+
+proximity_to_airport
+no_evident_not_proximity_to_airport"
+785,"bad_location garbage_heap
+bad_location have_evident_no_garbage_heap"
+15,good_location,"good_location
+close_to_airport
+no_evident_not_close_to_airport
+nearby_beach
+no_evident_not_nearby_beach"
+36,bad_location,"bad_location
+have evident small
+bad_location
+have evident side street
+
+bad_location
+have evident small
+bad_location
+have evident side street"
+41,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+41,bad_location,"bad_location
+kitchen_shuts
+have_evident_kitchen_stays_open
+no_food
+have_evident_food_available_late
+shuts_at_22_30
+have_evident_kitchen_operates_past_22_30"
+45,good_location,"- The beach is about 5 minutes walk away.
+- no evident not the beach is about 5 minutes walk away.
+- The beach is about 5 minutes walk away.
+- no evident not the beach is within walking distance.
+- The beach is about 5 minutes walk away.
+- no evident not there is a beach nearby."
+58,good_location,"close_to_airport
+no_evident_not_close_to_airport"
+64,good_location,"close_proximity
+no_evident_not_close_proximity
+
+5_min_by_car
+no_evident_not_5_min_by_car
+
+10_min_by_bus
+no_evident_not_10_min_by_bus"
+71,good_location,"good_location
+bus_stop
+no_evident_not_bus_stop
+airport_access
+no_evident_not_airport_access
+few_steps
+no_evident_not_few_steps
+minutes
+no_evident_not_minutes
+mackenzie_beach
+no_evident_not_mackenzie_beach"
+123,good_location,"good_location
+close_to_airport
+no_evident_not_close_to_airport
+convenient_location
+no_evident_not_convenient_location"
+128,good_location,"close_to_airport
+no_evident_not_close_to_airport"
+185,good_location,"near
+no evident not near
+
+airport
+no evident not airport
+
+looking
+no evident not looking"
+195,bad_location,"bad_location
+close
+have evident far
+
+not_close_to_beach
+have evident close_to_beach"
+211,good_location,"close_to_airport
+close_to_airport_no_evident_not_close_to_airport
+
+close_to_town
+close_to_town_no_evident_not_close_to_town"
+246,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+280,bad_location,"bad_location immediate_location_not_inspiring
+bad_location_have_evident_immediate_location_inspiring
+
+bad_location_restaurants_close
+bad_location_have_evident_restaurants_far
+
+bad_location_sea_front
+bad_location_have_evident_no_sea_front
+
+bad_location_handy_for_Limassol_and_airport
+bad_location_have_evident_unhandy_for_Limassol_and_airport"
+288,good_location,"good_location
+few_kilometers_from_airport
+no_evident_not_few_kilometers_from_airport
+close_to_salt_lake
+no_evident_not_close_to_salt_lake"
+322,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+325,good_location,"not far from the airport.
+no evident not not far from the airport.
+
+5 min walk to the beach.
+no evident not 5 min walk to the beach."
+328,good_location,"close
+no evident not close
+
+bus
+no evident not bus
+
+airport
+no evident not airport
+
+50 meters
+no evident not 50 meters"
+349,good_location,"close_to_bus_stop
+no_evident_not_close_to_bus_stop"
+353,good_location,"good_location
+near_airport
+no_evident_not_near_airport
+good_location
+not_good_location
+no_evident_not_good_location
+near_airport
+not_near_airport
+no_evident_not_near_airport"
+391,good_location,"5_min_walk
+no_evident_not_5_min_walk
+
+Mackenzie_Beach_promenade
+no_evident_not_Mackenzie_Beach_promenade"
+431,good_location,"around_the_corner
+no_evident_not_around_the_corner
+
+town
+no_evident_town
+
+corner
+no_evident_corner"
+441,bad_location,"bad_location
+have evident issues_with_internet
+have evident bit_far_from_the_center
+
+bad_location
+have evident issues_with_internet
+have evident center_is_close
+
+bad_location
+have evident bit_far_from_the_center
+have evident center_is_nearby"
+471,good_location,"close_to_beach
+no_evident_not_close_to_beach
+
+near_beach
+no_evident_not_near_beach
+
+close_to_sea
+no_evident_not_close_to_sea"
+484,good_location,"close_to_airport
+no_evident_not_close_to_airport"
+492,good_location,"near=no evident not near
+airport=no evident not airport
+ideal=no evident not ideal
+late=no evident not late
+early=no evident not early"
+498,good_location,"good_location
+no_evident_not_close
+
+good_location
+no_evident_not_access"
+500,good_location,"central
+not central"
+503,good_location,"close_to_field
+no_evident_not_close_to_field"
+589,good_location,"distance from the airport, close_to_airport, no_evident_not_close_to_airport
+distance from the airport, far_from_airport, no_evident_not_far_from_airport"
+599,good_location,"good_location
+no_evident_not_good_location
+
+good_transit
+no_evident_not_good_transit
+
+near_airport
+no_evident_not_near_airport"
+612,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+short_travel_time
+no_evident_not_short_travel_time"
+623,good_location,"nearairport
+neabeach
+noevidentnotnearairport
+noevidentnotneabeach"
+627,bad_location,"bad_location
+far
+have evident near
+
+city_center
+have evident outskirts"
+654,good_location,"good_location
+no_evident_not_good_location
+
+good_Mackenzie_beach
+no_evident_not_good_Mackenzie_beach"
+655,good_location,"not_far_from_airport
+no_evident_not_far_from_airport
+
+The hotel has a parking lot.
+has_parking_lot
+no_evident_has_parking_lot
+
+There are restaurants nearby.
+nearby_restaurants
+no_evident_nearby_restaurants"
+661,good_location,"good_location
+no_evident_not_proximity_to_airport
+
+good_location
+no_evident_not_convenient_access
+
+good_location
+no_evident_not_reduced_travel_time
+
+good_location
+no_evident_not_close_to_airport"
+662,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+663,good_location,"- Location
+  Hotel near the airport.
+  - no evident not hotel near the airport.
+  - close to the beach.
+  - no evident not close to the beach."
+665,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+lot_of_noise_from_planes_taking_off_during_the_day
+no_evident_lot_of_noise_from_planes_taking_off_during_the_day
+
+not_heard_at_night
+no_evident_not_heard_at_night"
+690,good_location,"good_location
+no_evident_not_convenient_location
+good_location
+no_evident_not_far_from_airport
+good_location
+no_evident_not_far_from_sea"
+694,good_location,"close_to_airport
+no_evident_not_close_to_airport"
+726,good_location,"good_location
+Mackenzie
+no_evident_not_Mackenzie
+
+hotel
+no_evident_not_hotel"
+727,good_location,"close
+no evident not close"
+730,good_location,"close_to_airport
+close_to_airport no_evident_not_close_to_airport
+close_to_beach
+close_to_beach no_evident_not_close_to_beach"
+754,good_location,"good_location
+no_evident_not_good_location"
+765,good_location,"bars  
+restaurants  
+no evident not bars  
+no evident not restaurants"
+769,good_location,"within walking distance
+no evident not within walking distance
+
+a couple of taverns in the area
+no evident not a couple of taverns in the area
+
+near the airport
+no evident not near the airport"
+771,bad_location,"bad_location
+have evident noise
+have evident disturbance
+
+bad_location
+have evident traffic
+have evident shouting"
+1,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+very_clean_beach
+no_evident_not_very_clean_beach"
+3,good_location,"location is great  
+near airport  
+bus stop is close  
+no evident not location is great  
+no evident not near airport  
+no evident not bus stop is close"
+1,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+very_clean_beach
+no_evident_not_very_clean_beach"
+3,good_location,"location is great  
+near airport  
+bus stop is close  
+no evident not location is great  
+no evident not near airport  
+no evident not bus stop is close"
+5,good_location,"good_location
+easy_stroll
+no_evident_not_easy_stroll
+numerous_restaurants
+no_evident_not_numerous_restaurants
+great_beach
+no_evident_not_great_beach"
+8,good_location,"good_location
+location
+no_evident_not_location"
+10,good_location,"good_location
+quiet_location
+no_evident_not_quiet_location"
+1,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+very_clean_beach
+no_evident_not_very_clean_beach"
+3,good_location,"location is great  
+near airport  
+bus stop is close  
+no evident not location is great  
+no evident not near airport  
+no evident not bus stop is close"
+5,good_location,"good_location
+easy_stroll
+no_evident_not_easy_stroll
+numerous_restaurants
+no_evident_not_numerous_restaurants
+great_beach
+no_evident_not_great_beach"
+8,good_location,"good_location
+location
+no_evident_not_location"
+10,good_location,"good_location
+quiet_location
+no_evident_not_quiet_location"
+11,good_location,"good_location
+bus_stop
+no_evident_not_bus_stop
+airport
+no_evident_not_airport
+town_center
+no_evident_not_town_center
+minutes_walk
+no_evident_not_minutes_walk
+2_euros
+no_evident_not_2_euros"
+13,good_location,"good_location
+short_drive_to_airport
+well_located
+short_walk_promenade
+coffee_shops_restaurants
+no_evident_not_short_drive_to_airport
+no_evident_not_well_located
+no_evident_not_short_walk_promenade
+no_evident_not_coffee_shops_restaurants"
+14,good_location,"close_to_airport
+no_evident_not_close_to_airport
+restaurants_nearby
+no_evident_not_restaurants_nearby
+bars_nearby
+no_evident_not_bars_nearby
+walking_distance_to_beach
+no_evident_not_walking_distance_to_beach"
+15,good_location,"good_location
+close_to_airport
+no_evident_not_close_to_airport
+nearby_beach
+no_evident_not_nearby_beach"
+15,bad_location,"bad_location have evident distance from city center
+bad_location have evident infrequent bus service"
+18,good_location,"bus
+no evident not bus
+
+20
+no evident not 20
+
+minutes
+no evident not minutes
+
+centre
+no evident not centre
+
+Larnaka
+no evident not Larnaka"
+19,good_location,"close_to_airport
+no_evident_not_close_to_airport"
+26,good_location,"good_location
+near_beach
+no_evident_not_near_beach
+near_lake
+no_evident_not_near_lake"
+27,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+28,bad_location,"surrounding_buildings_under_construction
+surrounding_buildings_poorly_lit
+have_evident_surrounding_buildings_under_construction
+have_evident_surrounding_buildings_poorly_lit"
+30,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+31,good_location,"close_to_mackenzy_beach
+no_evident_not_close_to_mackenzy_beach
+
+near_larnaca_airport
+no_evident_not_near_larnaca_airport"
+36,bad_location,"bad_location
+have evident small
+bad_location
+have evident side street
+
+bad_location
+have evident small
+bad_location
+have evident side street"
+36,good_location,"walk  
+no evident not walk  
+sea  
+no evident not sea  
+front  
+no evident not front  
+10-minute  
+no evident not 10-minute"
+37,good_location,"close_by no_evident_not_close_by
+every_15_minutes no_evident_not_every_15_minutes"
+40,good_location,"good_location
+no_evident_not_nice_location
+good_location
+no_evident_not_fairly_close_to_Airport
+good_location
+no_evident_not_close_to_Mackenzie_beach"
+41,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+41,bad_location,"bad_location
+kitchen_shuts
+have_evident_kitchen_stays_open
+no_food
+have_evident_food_available_late
+shuts_at_22_30
+have_evident_kitchen_operates_past_22_30"
+44,bad_location,"noisy have evident quiet
+later have evident earlier
+evening have evident morning"
+45,good_location,"- The beach is about 5 minutes walk away.
+- no evident not the beach is about 5 minutes walk away.
+- The beach is about 5 minutes walk away.
+- no evident not the beach is within walking distance.
+- The beach is about 5 minutes walk away.
+- no evident not there is a beach nearby."
+45,bad_location,"bad_location
+have evident plane_noise
+have evident near_runway
+
+bad_location
+have evident plane_noise
+have evident far_runway"
+49,good_location,"good_location
+close_to_airport
+short_walk_sea
+no_evident_not_close_to_airport
+no_evident_not_short_walk_sea"
+50,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+good_location
+no_evident_not_good_location"
+51,good_location,"near_airport
+no_evident_not_near_airport"
+53,good_location,"close to the airport
+no evident not close to the airport
+
+close to Mackenzie Beach
+no evident not close to Mackenzie Beach"
+55,good_location,"good_location
+no_evident_not_good_location"
+56,good_location,"good_location
+close_to_airport
+no_evident_not_close_to_airport
+within_5_minutes_from_airport
+no_evident_not_within_5_minutes_from_airport
+prime_location_near_airport
+no_evident_not_prime_location_near_airport"
+57,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+58,good_location,"close_to_airport
+no_evident_not_close_to_airport"
+58,bad_location,"bad_location
+have evident noise
+have evident disturbance
+
+bad_location
+have evident noise
+have evident silence
+
+bad_location
+have evident disturbance
+have evident tranquility"
+59,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+convenient_for_overnight_stay
+no_evident_not_convenient_for_overnight_stay"
+62,good_location,"good_location
+near_airport
+no_evident_not_near_airport
+near_beach
+no_evident_not_near_beach"
+64,good_location,"close_proximity
+no_evident_not_close_proximity
+
+5_min_by_car
+no_evident_not_5_min_by_car
+
+10_min_by_bus
+no_evident_not_10_min_by_bus"
+64,bad_location,"bad_location
+have evident noise
+have evident proximity_to_airport
+
+bad_location
+have evident disturbance
+have evident closeness_to_airport
+
+bad_location
+have evident loudness
+have evident nearness_to_runway
+
+bad_location
+have evident commotion
+have evident adjacency_to_airfield"
+65,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+66,good_location,"good_location
+no_evident_not_perfect
+good_location
+no_evident_great_value
+good_location
+no_evident_friendly"
+71,good_location,"good_location
+bus_stop
+no_evident_not_bus_stop
+airport_access
+no_evident_not_airport_access
+few_steps
+no_evident_not_few_steps
+minutes
+no_evident_not_minutes
+mackenzie_beach
+no_evident_not_mackenzie_beach"
+71,bad_location,"no_shop
+have evident_shop
+
+no_pharmacy
+have evident_pharmacy"
+74,good_location,"quiet place
+no evident not quiet place
+
+near to the airport
+no evident not near to the airport
+
+beach nearby
+no evident not beach nearby
+
+Salt Lake in the city
+no evident not Salt Lake in the city
+
+lots of parking places around
+no evident not lots of parking places around"
+76,good_location,"good_location
+nearby
+no_evident_not_nearby
+beach
+no_evident_not_beach"
+80,good_location,"within_walking_distance
+no_evident_not_within_walking_distance"
+81,good_location,"close_to_airport
+no_evident_not_close_to_airport"
+82,good_location,"good_location
+location
+no_evident_not_location
+near
+no_evident_not_near
+convenient
+no_evident_not_convenient
+central
+no_evident_not_central"
+83,bad_location,"bad_location
+far
+have evident near
+
+bad_location
+centre
+have evident outskirts"
+88,good_location,"good_location
+no_evident_not_good_location
+easily_reached_from_airport
+no_evident_not_easily_reached_from_airport"
+91,good_location,"close_to_larnaca_airport
+no_evident_not_close_to_larnaca_airport"
+93,good_location,"bus_stop_for_airport_walkable
+no_evident_not_bus_stop_for_airport_walkable"
+95,good_location,"good_location
+no_evident_not_good_location"
+98,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+nice_places
+no_evident_not_nice_places
+
+long_beach
+no_evident_not_long_beach
+
+cool_fancy_bars
+no_evident_not_cool_fancy_bars
+
+salt_lake
+no_evident_not_salt_lake"
+102,good_location,"good_location
+close_to_Airport
+no_evident_not_close_to_Airport
+close_to_Makenzie_beach
+no_evident_not_close_to_Makenzie_beach
+close_to_touristic_area
+no_evident_not_close_to_touristic_area
+bus_stop_nearby
+no_evident_not_bus_stop_nearby"
+104,good_location,"quiet place, noisy place, no evident not quiet place, no evident not noisy place"
+106,good_location,"proximity_to_airport
+no_evident_not_proximity_to_airport
+
+proximity_to_airport
+no_evident_not_proximity_to_airport"
+107,good_location,"good_location
+no_evident_not_good_location"
+109,good_location,"good_location
+no_evident_not_good_location"
+111,good_location,"airport
+Mackenzie_beach
+no_evident_not_airport
+no_evident_not_Mackenzie_beach"
+114,good_location,"10 minutes no evident not 10 minutes
+15 minutes no evident not 15 minutes
+connecting buses no evident not connecting buses
+McKenzie beach no evident not McKenzie beach
+ten minute walk no evident not ten minute walk"
+115,good_location,"good_location
+no_evident_not_few_minutes
+good_location
+no_evident_not_airport_near
+good_location
+no_evident_best_location_in_larnaca"
+116,good_location,"clean, no evident not clean  
+air conditioned, no evident not air conditioned  
+close to the airport, no evident not close to the airport"
+117,good_location,"next_to_airport
+no_evident_not_next_to_airport
+
+only_5_minutes
+no_evident_only_5_minutes
+
+beach_walk_away
+no_evident_beach_walk_away"
+118,good_location,"near
+no evident not near
+beach
+no evident not beach
+airport
+no evident not airport"
+119,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+120,good_location,"close_to_airport
+no_evident_not_close_to_airport"
+123,good_location,"good_location
+close_to_airport
+no_evident_not_close_to_airport
+convenient_location
+no_evident_not_convenient_location"
+123,bad_location,"noisy
+have evident quiet
+
+little
+have evident much
+
+stayed
+have evident left"
+125,good_location,"close_to_best_beaches_of_Larnaca_region no_evident_not_close_to_best_beaches_of_Larnaca_region  
+perfectly_connect_by_public_transport_with_Larnaca_city_centre no_evident_not_perfectly_connect_by_public_transport_with_Larnaca_city_centre"
+126,bad_location,"bad_location
+loud
+have evident quiet
+
+bad_location
+bit
+have evident full"
+128,good_location,"close_to_airport
+no_evident_not_close_to_airport"
+129,good_location,"good_location
+close_to_makenzie
+no_evident_not_close_to_makenzie
+perfect
+no_evident_not_perfect"
+131,bad_location,"bad_location
+have evident traffic
+have evident noise
+have evident safety_issues
+have evident distance
+have evident inconvenience"
+134,good_location,"good_location
+no_evident_not_good_location"
+137,good_location,"good_location
+location
+no_evident_not_location
+near
+no_evident_not_near
+convenient
+no_evident_not_convenient
+central
+no_evident_not_central"
+139,good_location,"proximity  
+no evident not proximity
+
+airport  
+no evident not airport
+
+location  
+no evident not location"
+140,good_location,"close to the airport, no evident not close to the airport"
+142,good_location,"near  
+mackenzie  
+beach  
+no evident not near  
+no evident not mackenzie  
+no evident not beach"
+143,good_location,"good_location
+close_to_airport
+no_evident_not_close_to_airport
+near_airport
+no_evident_not_near_airport
+close_to_terminal
+no_evident_not_close_to_terminal
+convenient_transport
+no_evident_not_convenient_transport"
+145,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+5_min_walk
+no_evident_not_5_min_walk
+
+blue_flag_beach
+no_evident_not_blue_flag_beach"
+148,good_location,"close
+not close
+near
+not near
+adjacent
+not adjacent
+proximity
+not proximity
+neighboring
+not neighboring
+close_to_airport
+no evident not close_to_airport"
+149,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+152,good_location,"close_to_bars
+no_evident_not_close_to_bars
+close_to_sea
+no_evident_not_close_to_sea
+close_to_airport
+no_evident_not_close_to_airport"
+153,good_location,"good_location
+no_evident_not_good_location
+
+close_to_airport
+no_evident_not_close_to_airport
+
+late_flight
+no_evident_not_late_flight"
+155,good_location,"near the airport.
+no evident not near the airport."
+156,good_location,"good_location
+near_airport
+no_evident_not_near_airport
+short_stay
+no_evident_not_short_stay
+convenient_transport
+no_evident_not_convenient_transport
+close_to_terminal
+no_evident_not_close_to_terminal"
+157,good_location,"walking_to_beach
+no_evident_not_walking_to_beach
+
+10 minutes driving to the city center,
+no_evident_not_10_minutes_driving_to_the_city_center
+
+Close to the supermarket,
+no_evident_not_close_to_the_supermarket
+
+Near the park,
+no_evident_not_near_the_park"
+158,good_location,"good_location
+no_evident_not_good_location"
+159,good_location,"close_to_airport
+no_evident_not_close_to_airport"
+168,good_location,"near_airport
+no_evident_not_near_airport
+short_walking_distance_to_beach
+no_evident_not_short_walking_distance_to_beach
+close_to_restaurants
+no_evident_not_close_to_restaurants"
+169,good_location,"good_location
+5_min_drive_to_airport
+no_evident_not_5_min_drive_to_airport
+close_to_airport
+no_evident_not_close_to_airport"
+171,good_location,"good_location
+few_steps
+no_evident_not_few_steps
+many_cafes
+no_evident_many_cafes
+nearby_beach
+no_evident_nearby_beach
+salt_lake
+no_evident_salt_lake
+McKenzie_Beach
+no_evident_McKenzie_Beach"
+177,good_location,"close_to_beach
+no_evident_not_close_to_beach
+
+close_to_airport
+no_evident_not_close_to_airport"
+179,good_location,"close_to_local_restaurants_and_beach
+no_evident_not_close_to_local_restaurants_and_beach
+quiet
+no_evident_not_quiet"
+182,good_location,"good_location
+closure_no_evident_not_closure
+good_location
+no_evident_not_good_location"
+183,good_location,"close_to_beach
+no_evident_not_close_to_beach
+
+good_location
+no_evident_not_good_location"
+185,good_location,"near
+no evident not near
+
+airport
+no evident not airport
+
+looking
+no evident not looking"
+185,bad_location,"bad_location have evident inaccessibility  
+bad_location have evident inconvenience  
+
+have evident accessibility  
+have evident convenience"
+190,good_location,"located
+not located
+
+good_location
+no evident not located"
+191,good_location,"beside  
+no evident not beside  
+
+airport  
+no evident not airport"
+193,good_location,"good_location
+no_evident_not_good_location"
+195,bad_location,"bad_location
+close
+have evident far
+
+not_close_to_beach
+have evident close_to_beach"
+195,good_location,"perfect_pre_airport_stays
+no_evident_not_perfect_pre_airport_stays
+
+perfect_post_airport_stays
+no_evident_not_perfect_post_airport_stays"
+197,good_location,"good_location
+no_evident_not_close_to_airport
+good_location
+no_evident_not_far_from_mackenzy_beach_with_restaurants"
+199,good_location,"good_location
+perfectly_located no_evident_not_perfectly_located
+5_minute_walk no_evident_5_minute_walk
+from_beach no_evident_from_beach
+restaurants no_evident_restaurants
+cafés no_evident_cafés"
+202,good_location,"close to the beach
+great restaurants
+no evident not close to the beach
+no evident not great restaurants"
+204,good_location,"great_to_come_to_from_airport
+no_evident_not_great_to_come_to_from_airport"
+206,good_location,"location  
+beach  
+no evident not location  
+no evident not beach"
+208,good_location,"good_location
+quiet_area
+easy_find_parking_places
+no_evident_not_quiet_area
+no_evident_easy_find_parking_places"
+210,good_location,"fine location
+no evident not fine location"
+211,good_location,"close_to_airport
+close_to_airport_no_evident_not_close_to_airport
+
+close_to_town
+close_to_town_no_evident_not_close_to_town"
+211,bad_location,"bad_location have evident distance
+bad_location have evident time"
+219,bad_location,"bad_location
+noisy
+have evident quiet
+
+bad_location
+air_traffic
+have evident lack_of_air_traffic"
+220,good_location,"4km_from_airport
+no_evident_not_4km_from_airport
+
+b4_highway_adjacent
+no_evident_not_b4_highway_adjacent"
+226,bad_location,"- turned off
+- empty
+- no local shop
+- no local kiosk
+- have evident turned on
+- have evident full
+- have evident local shops
+- have evident local kiosks"
+227,good_location,"close_to_airport
+no_evident_not_close_to_airport"
+228,good_location,"convenient
+no evident not convenient
+
+quiet
+no evident not quiet"
+231,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_ideally_situated
+
+good_location
+no_evident_not_for_the_airport
+
+good_location
+no_evident_not_ideal"
+232,good_location,"good_location
+no_evident_not_good_location"
+233,bad_location,"bad_location
+have evident little far from local shop
+have evident everything we need in the cafe
+have evident little far from local shop have evident close to local shop
+have evident everything we need in the cafe have evident lacking essential items in the cafe"
+234,good_location,"location  
+bars  
+restaurants  
+beach  
+no evident not location  
+no evident not bars  
+no evident not restaurants  
+no evident not beach"
+235,good_location,"good_location
+no_evident_not_good_location"
+236,good_location,"about_100m_from_425_bus_route
+no_evident_not_about_100m_from_425_bus_route
+
+runs_to_airport
+no_evident_not_runs_to_airport
+
+about_10_minutes_away
+no_evident_not_about_10_minutes_away"
+238,good_location,"close_to_airport
+no_evident_not_close_to_airport"
+239,good_location,"not_far_from_sea
+no_evident_not_not_far_from_sea"
+240,good_location,"close_proximity_to_beach
+no_evident_not_close_proximity_to_beach
+
+restaurants_nearby
+no_evident_restaurants_nearby"
+241,good_location,"good_location
+walking_distance_to_airport
+no_evident_not_walking_distance_to_airport
+close_to_luxurious_beach_strip
+no_evident_not_close_to_luxurious_beach_strip
+delicious_restaurants
+no_evident_not_delicious_restaurants"
+243,good_location,"near beaches
+no evident not near beaches
+
+near restaurants
+no evident not near restaurants"
+246,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+246,bad_location,"bad_location
+have evident hard_time_finding
+have evident GPS_trouble
+have evident small_side_street
+have evident several_apartment_buildings
+
+bad_location
+have evident easy_to_find
+have evident no_GPS_trouble
+have evident large_main_avenue
+have evident few_buildings"
+250,good_location,"location_allowed_to_walk_to_beach
+location_allowed_to_walk_to_restaurants
+no_evident_not_location_allowed_to_walk_to_beach
+no_evident_not_location_allowed_to_walk_to_restaurants"
+253,good_location,"cleanliness  
+no evident not cleanliness  
+
+quietness  
+no evident not quietness"
+254,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+worked_for_us
+no_evident_not_worked_for_us"
+255,good_location,"good_location
+close_to_airport
+no_evident_not_close_to_airport
+nearbeach
+no_evident_not_nearbeach"
+257,good_location,"good_location
+no_evident_not_good_location
+
+quiet
+no_evident_not_quiet"
+259,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+260,good_location,"good_location
+walk
+no_evident_not_walk
+
+beach
+no_evident_not_beach
+
+downtown
+no_evident_not_downtown
+
+promenade
+no_evident_not_promenade"
+262,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+short_travel_time
+no_evident_not_short_travel_time
+
+affordable_taxi_fare
+no_evident_not_affordable_taxi_fare
+
+late_arrival
+no_evident_not_late_arrival"
+268,good_location,"easy_walk_to_Mackenzie_Beach
+short_journey_from_airport
+no_evident_not_easy_walk_to_Mackenzie_Beach
+no_evident_not_short_journey_from_airport"
+271,good_location,"good_location
+near_beach
+no_evident_not_near_beach
+near_restaurants
+no_evident_not_near_restaurants
+public_bus_station_30_meters
+no_evident_not_public_bus_station_30_meters
+close_to_airport
+no_evident_not_close_to_airport"
+272,good_location,"near_mackenzie_beach
+no_evident_not_near_mackenzie_beach
+
+close_to_center
+no_evident_not_close_to_center"
+276,good_location,"walk  
+no evident not walk  
+
+close to city center  
+no evident not close to city center"
+278,good_location,"easy
+not easy
+
+for
+not for
+
+airport
+no evident not airport"
+279,good_location,"good_location
+residential_neighborhood
+no_evident_not_residential_neighborhood
+approx_10_minute_drive_from_airport
+no_evident_not_approx_10_minute_drive_from_airport
+20_minute_drive_from_historical_area
+no_evident_not_20_minute_drive_from_historical_area"
+280,bad_location,"bad_location immediate_location_not_inspiring
+bad_location_have_evident_immediate_location_inspiring
+
+bad_location_restaurants_close
+bad_location_have_evident_restaurants_far
+
+bad_location_sea_front
+bad_location_have_evident_no_sea_front
+
+bad_location_handy_for_Limassol_and_airport
+bad_location_have_evident_unhandy_for_Limassol_and_airport"
+280,good_location,"good_location
+lovely_restaurants
+handy_for_Limassol
+handy_for_airport
+no_evident_not_lovely_restaurants
+no_evident_not_handy_for_Limassol
+no_evident_not_handy_for_airport"
+281,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+282,good_location,"close_to_beach
+no_evident_not_close_to_beach
+
+quiet_place
+no_evident_not_quiet_place"
+284,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+286,good_location,"good_location
+no_evident_not_convenient_location_for_arriving_at_the_airport"
+288,good_location,"good_location
+few_kilometers_from_airport
+no_evident_not_few_kilometers_from_airport
+close_to_salt_lake
+no_evident_not_close_to_salt_lake"
+288,bad_location,"bad_location
+distant
+have evident close
+
+city_center
+have evident outskirts"
+289,good_location,"close_to_airport
+no_evident_not_close_to_airport
+near_makenzie_beach_area
+no_evident_not_near_makenzie_beach_area
+taxi_fare_around_15_18_euro
+no_evident_taxi_fare_around_15_18_euro"
+290,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+291,good_location,"close_to_airport
+no_evident_not_close_to_airport"
+292,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+295,good_location,"good_location
+no_evident_not_good_location
+
+near_centre
+no_evident_not_near_centre
+
+quiet_area
+no_evident_not_quiet_area"
+298,good_location,"good_location
+no_evident_not_good_location
+
+good_bus
+no_evident_not_good_bus
+
+close_to_hotel
+no_evident_not_close_to_hotel"
+299,good_location,"convenient  
+no evident not convenient  
+
+easy  
+no evident not easy  
+
+many café  
+no evident not many café  
+
+close to the center  
+no evident not close to the center"
+300,good_location,"great_location
+no_evident_not_great_location
+
+close_to_airport
+no_evident_not_close_to_airport
+
+near_bus_station
+no_evident_not_near_bus_station
+
+short_walk_to_bus_station
+no_evident_not_short_walk_to_bus_station
+
+close_to_beach
+no_evident_not_close_to_beach
+
+proximity_to_restaurants
+no_evident_not_proximity_to_restaurants"
+301,good_location,"quiet area
+no evident not quiet area"
+304,good_location,"less_than_minute_away_from_bus_station
+no_evident_not_less_than_minute_away_from_bus_station
+
+nice_city
+no_evident_not_nice_city
+
+many_restaurants_in_area
+no_evident_not_many_restaurants_in_area
+
+many_bars_in_area
+no_evident_not_many_bars_in_area
+
+many_shops_in_area
+no_evident_not_many_shops_in_area
+
+lots_of_beach_shores_to_relax_at
+no_evident_not_lots_of_beach_shores_to_relax_at"
+307,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+310,good_location,"close proximity to Larnaca airport.
+no evident not close proximity to Larnaca airport.
+
+close to Mckenzie beach.
+no evident not close to Mckenzie beach.
+
+lots of restaurants for dinner.
+no evident not lots of restaurants for dinner."
+312,good_location,"airport_close
+beach_walkable
+no_evident_not_airport_close
+no_evident_not_beach_walkable"
+313,good_location,"quiet街
+sufficient停车设施
+no evident not quiet街
+no evident not sufficient停车设施"
+314,good_location,"good_location
+no_evident_not_good_location"
+316,good_location,"good_location
+perfect_location
+only_30_minute_walk
+no_evident_not_perfect_location
+no_evident_only_30_minute_walk"
+318,good_location,"quiet_area
+no evident not quiet_area
+
+10_minutes_from_airport
+no evident not 10_minutes_from_airport
+
+6_minutes_walk_to_beach
+no evident not 6_minutes_walk_to_beach
+
+6_minutes_walk_to_restaurants
+no evident not 6_minutes_walk_to_restaurants"
+322,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+322,bad_location,"close_by have evident far_away
+close_by have evident limited_options"
+323,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+324,good_location,"good_location
+no_evident_not_good_location
+
+location_is_good
+no_evident_not_location_is_good
+
+airport_7_min_drive
+no_evident_not_airport_7_min_drive
+
+morning_flight_convenient
+no_evident_not_morning_flight_convenient"
+325,good_location,"not far from the airport.
+no evident not not far from the airport.
+
+5 min walk to the beach.
+no evident not 5 min walk to the beach."
+325,bad_location,"bad_location smell_from_the_lake have_evident_no_smell_from_the_lake
+bad_location doesn’t_depend_on_the_hotel have_evident_it_depends_on_the_hotel"
+327,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+close
+no_evident_not_close
+
+ideal
+no_evident_not_ideal
+
+purpose_of_stay
+no_evident_not_purpose_of_stay"
+328,good_location,"close
+no evident not close
+
+bus
+no evident not bus
+
+airport
+no evident not airport
+
+50 meters
+no evident not 50 meters"
+328,bad_location,"bad_location
+have evident sewage
+have evident smell"
+329,good_location,"quiet
+no evident not quiet
+
+good_location
+no evident not good_location"
+332,good_location,"Cafe_Nero  
+no_evident_not_Cafe_Nero
+
+away_10_minutes  
+no_evident_not_away_10_minutes
+
+perfect  
+no_evident_not_perfect"
+334,good_location,"good_location
+no_evident_not_good_location"
+338,good_location,"walking_distance_to_beach
+no_evident_not_walking_distance_to_beach
+
+restaurants_nearby
+no_evident_not_restaurants_nearby
+
+shops_nearby
+no_evident_not_shops_nearby
+
+away_from_traffic
+no_evident_not_away_from_traffic"
+340,bad_location,"bad_location have evident distance from busy areas
+bad_location have evident need to travel far for beach activities
+bad_location have evident lack of proximity to bustling nightlife
+bad_location have evident preference for quieter locations
+bad_location have evident disadvantage in terms of accessibility
+have evident closeness to water sports area
+have evident availability of quieter beaches
+have evident advantage in terms of less crowded environment"
+344,good_location,"good_location
+no_evident_not_good_location
+good_location
+no_evident_not_good_location"
+347,good_location,"good_location
+walk
+no_evident_not_walk
+
+beach
+no_evident_not_beach
+
+restaurants
+no_evident_not_restaurants"
+348,bad_location,"bad_location
+have evident young_family
+have evident quiet_area"
+349,good_location,"close_to_bus_stop
+no_evident_not_close_to_bus_stop"
+349,bad_location,"bad_location
+far
+have evident near
+crowded_spots
+have evident unvisited
+tourist_attractions
+have evident popular_places"
+350,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+351,good_location,"good_location
+Close_to_mackenzie_beach
+no_evident_not_close_to_mackenzie_beach
+Close_to_bars
+no_evident_not_close_to_bars"
+353,good_location,"good_location
+near_airport
+no_evident_not_near_airport
+good_location
+not_good_location
+no_evident_not_good_location
+near_airport
+not_near_airport
+no_evident_not_near_airport"
+353,bad_location,"bad_location
+far
+have evident near
+crowded_neighborhood
+have evident sparse
+poor_transportation
+have evident frequent_services
+lack_of_shops
+have evident abundance_shops"
+355,good_location,"good_location
+nearby
+no evident not nearby
+various_restaurants
+no evident not various_restaurants"
+358,good_location,"close_to_airport
+no_evident_not_close_to_airport"
+361,good_location,"near Makanzie Beach
+no evident not near Makanzie Beach"
+364,good_location,"loads_of_bars_and_restaurants
+5_mins_walk_away_on_the_beach
+no_evident_not_loads_of_bars_and_restaurants
+no_evident_not_5_mins_walk_away_on_the_beach"
+367,good_location,"good_location
+no_evident_not_good_location
+
+near_beach
+no_evident_not_near_beach
+
+convenient_transport
+no_evident_not_convenient_transport
+
+close_to_shops
+no_evident_not_close_to_shops
+
+safe_area
+no_evident_not_safe_area"
+368,good_location,"good_location
+perfect_location
+no_evident_not_perfect_location"
+370,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+372,good_location,"good_location
+15_minutes_drive_from_the_airport
+no_evident_not_15_minutes_drive_from_the_airport
+15_walk_to_the_city_center
+no_evident_not_15_walk_to_the_city_center
+about_300_meters_to_the_nice_beach
+no_evident_not_about_300_meters_to_the_nice_beach"
+373,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+374,good_location,"good_location
+no_evident_not_good_location"
+376,good_location,"walk  
+no evident not walk  
+close  
+no evident not close  
+beach  
+no evident not beach  
+minute  
+no evident not minute  
+five  
+no evident not five"
+377,good_location,"near_to_beach
+no_evident_not_near_to_beach
+
+airport
+no_evident_not_airport
+
+bus_station
+no_evident_not_bus_station"
+380,good_location,"close_to_airport
+no_evident_not_close_to_airport
+close_to_beaches
+no_evident_not_close_to_beaches
+close_to_entertainment
+no_evident_not_close_to_entertainment"
+381,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+382,good_location,"close_to_airport
+no_evident_not_close_to_airport
+access_to_beach
+no_evident_not_access_to_beach"
+388,good_location,"good_location
+near_airport
+no_evident_not_near_airport
+near_beach
+no_evident_not_near_beach"
+389,good_location,"good_location
+no_evident_not_convenient_to_airport
+no_evident_not_convenient_to_beach
+no_evident_5_minutes_away_from_airport
+no_evident_within_walking_distance_to_beach
+no_evident_within_walking_distance_to_restaurants
+no_evident_within_walking_distance_to_other_amenities"
+391,good_location,"5_min_walk
+no_evident_not_5_min_walk
+
+Mackenzie_Beach_promenade
+no_evident_not_Mackenzie_Beach_promenade"
+391,bad_location,"bad_location
+close
+have evident far
+surroundings
+have evident clean"
+392,good_location,"good_location
+no_evident_not_good_location"
+394,good_location,"located
+no evident not located
+
+restaurants
+no evident not restaurants
+
+supermarket
+no evident not supermarket
+
+airport
+no evident not airport
+
+centre
+no evident not centre"
+398,good_location,"short_walk_to_nice_beach_bars
+no_evident_not_short_walk_to_nice_beach_bars
+
+close_to_airport
+no_evident_not_close_to_airport"
+402,good_location,near Mackenzie Beach no evident not near Mackenzie Beach just 2 min walk no evident not near Mackenzie Beach just 3 min walk
+406,good_location,"walks_to_makkenzy_beach
+no_evident_not_walks_to_makkenzy_beach
+
+planes_land_above_you
+no_evident_not_planes_land_above_you"
+407,good_location,"good_location
+no_evident_not_good_location"
+410,good_location,"close_to_airport
+no_evident_not_close_to_airport
+next_to_salt_lake
+no_evident_not_next_to_salt_lake
+near_mackenzie_beach
+no_evident_not_near_mackenzie_beach
+next_to_bus_stop
+no_evident_not_next_to_bus_stop"
+415,good_location,"good_location
+walking_distance
+no_evident_not_walking_distance
+beach_lounges
+no_evident_not_beach_lounges
+restaurants
+no_evident_not_restaurants"
+417,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+short_travel_time
+no_evident_not_short_travel_time
+
+affordable_taxi_fare
+no_evident_not_affordable_taxi_fare"
+419,good_location,"good_location
+location
+no_evident_not_location"
+420,bad_location,"bad_location
+far
+have evident near
+
+little
+have evident much
+
+bit
+have evident significant
+
+BIT
+have evident BIG
+
+FAR
+have evident NEAR
+
+SEA
+have evident LAND"
+421,good_location,"good_location
+steps_to_Makenzy_beach
+no_evident_not_steps_to_Makenzy_beach
+cafés
+no_evident_not_cafés
+restaurants
+no_evident_not_restaurants
+Easy_access_to_nightlife
+no_evident_not_Easy_access_to_nightlife"
+422,good_location,"close_to_city
+no_evident_not_close_to_city
+
+accessible_by_transportation
+no_evident_not_accessible_by_transportation"
+423,good_location,"good_location
+walking_distance_from_beach
+no_evident_not_walking_distance_from_beach
+very_easy_access_to_public_transportation
+no_evident_very_easy_access_to_public_transportation"
+424,good_location,"close_to_jogging_trails
+no_evident_not_close_to_jogging_trails
+
+close_to_airport
+no_evident_not_close_to_airport"
+425,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+426,bad_location,"bad_location noise in week 4 a.m from people picking rubbish into large lorries.
+bad_location have evident quiet time during night hours.
+bad_location noise in week 4 a.m from people picking rubbish into large lorries.
+bad_location have evident specific collection times.
+bad_location noise in week 4 a.m from people picking rubbish into large lorries.
+bad_location have evident minimal disturbance to residents."
+427,bad_location,"bad_location
+have evident incorrect_information
+bad_location
+have evident misplacement
+bad_location
+have evident wrong_placement
+bad_location
+have evident inaccurate_location
+bad_location
+have evident false_assumption"
+429,good_location,"quiet
+no evident not quiet"
+431,good_location,"around_the_corner
+no_evident_not_around_the_corner
+
+town
+no_evident_town
+
+corner
+no_evident_corner"
+431,bad_location,"nothing close have evident far away
+
+mini Mart have evident convenience store"
+432,good_location,"short_walk_to_Mckenzie_beach
+no_evident_not_short_walk_to_Mckenzie_beach"
+434,good_location,"near
+far
+no evident not near
+no evident not far"
+435,good_location,"close_to_airports
+no_evident_not_close_to_airports"
+436,good_location,"central_location  
+no_evident_not_central_location  
+
+sleep_over  
+no_evident_not_sleep_over  
+
+good_transitioning  
+no_evident_not_good_transitioning"
+438,good_location,"close_to_larnaka_airport
+no_evident_not_close_to_larnaka_airport
+
+near_larnaka_airport
+no_evident_not_near_larnaka_airport"
+439,good_location,"good_location
+useful_located
+no_evident_not_useful_located
+between_city_centre_and_airport
+no_evident_not_between_city_centre_and_airport"
+441,bad_location,"bad_location
+have evident issues_with_internet
+have evident bit_far_from_the_center
+
+bad_location
+have evident issues_with_internet
+have evident center_is_close
+
+bad_location
+have evident bit_far_from_the_center
+have evident center_is_nearby"
+441,good_location,"Area around  
+no evident not quiet  
+Area around  
+no evident not very"
+442,bad_location,"bad_location have evident hard_to_find
+bad_location have evident easy_to_find"
+445,good_location,"next_to_airport
+no_evident_not_next_to_airport"
+448,good_location,"good_location
+no_evident_not_good_location"
+449,good_location,"close_to_airport
+no_evident_not_close_to_airport"
+451,good_location,"good_location
+close
+no_evident_not_close
+famous_Makenzie_Beach
+no_evident_not_famous_Makenzie_Beach"
+452,good_location,"good_location near_airport
+good_location quiet_neighbourhood
+no_evident_not_near_airport
+no_evident_not_quiet_neighbourhood"
+453,good_location,"close_to_mackenzie_beach
+no_evident_not_close_to_mackenzie_beach"
+454,bad_location,"bad_location
+noisy
+have evident quiet
+
+bad_location
+uncomfortable
+have evident comfortable"
+455,bad_location,"bad_location
+pension
+have evident hostel
+
+close
+have evident far
+
+color
+have evident darkness"
+456,good_location,"good_location
+convenient_by_taxi_to_city_center
+convenient_by_taxi_to_airport
+convenient_by_taxi_to_beach
+no_evident_not_convenient_by_taxi_to_city_center
+no_evident_not_convenient_by_taxi_to_airport
+no_evident_not_convenient_by_taxi_to_beach"
+457,good_location,"quietness  
+no evident not quietness
+
+close  
+no evident not close"
+459,bad_location,"bad_location garbage_truck_passes
+bad_location have_evident_garbage_truck_stops
+
+incredible_noise garbage_truck_passes
+incredible_noise have_evident_quietness"
+460,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+462,good_location,"good_location
+location
+no_evident_not_location"
+465,good_location,good_location calm_area close_to_beach many_restaurants_and_coffee_shops no_evident_not_calm_area no_evident_not_close_to_beach no_evident_not_many_restaurants_and_coffee_shops bus_station_very_close no_evident_not_bus_station_very_close
+466,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+nice_place_to_stay
+no_evident_not_nice_place_to_stay"
+471,good_location,"close_to_beach
+no_evident_not_close_to_beach
+
+near_beach
+no_evident_not_near_beach
+
+close_to_sea
+no_evident_not_close_to_sea"
+471,bad_location,"bad_location
+far
+close
+crowded
+sparse
+have evident crowded
+have evident sparse"
+479,good_location,"good_location
+proximity
+no_evident_not_proximity
+beach
+no_evident_not_beach
+restaurants
+no_evident_not_restaurants"
+483,good_location,"good_location
+close_to_airport
+no_evident_not_close_to_airport
+close_to_beach
+no_evident_not_close_to_beach"
+484,good_location,"close_to_airport
+no_evident_not_close_to_airport"
+484,bad_location,"bad_location
+far
+have evident near
+
+town
+have evident outskirts"
+489,good_location,"good_location
+beach_10_minutes_walk
+no_evident_not_beach_10_minutes_walk
+airport_10_minutes_by_bus
+no_evident_not_airport_10_minutes_by_bus"
+490,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+491,good_location,"good_location
+no_evident_not_good_location"
+492,good_location,"near=no evident not near
+airport=no evident not airport
+ideal=no evident not ideal
+late=no evident not late
+early=no evident not early"
+492,bad_location,"bad_location
+have evident noise
+have evident heavy_use_of_tiling
+have evident steady_stream_of_travelers_arriving
+have evident steady_stream_of_travelers_departing
+have evident nighttime"
+494,good_location,"close_to_airport
+not_close_to_airport
+
+near_airport
+not_near_airport
+
+proximity_airport
+not_proximity_airport"
+495,good_location,"close to the beach
+no evident not close to the beach
+
+clean
+no evident not clean
+
+close to the field
+no evident not close to the field
+
+Intimate
+no evident not Intimate
+
+quiet
+no evident not quiet"
+496,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+near_airport
+no_evident_not_near_airport"
+497,good_location,"close_to_airport
+no_evident_not_close_to_airport
+close_to_beach
+no_evident_not_close_to_beach
+many_restaurants
+no_evident_not_many_restaurants
+many_snacks
+no_evident_not_many_snacks"
+498,good_location,"good_location
+no_evident_not_close
+
+good_location
+no_evident_not_access"
+498,bad_location,"bad_location have evident distance  
+bad_location have evident confusion  
+
+have evident distance  
+have evident proximity  
+
+have evident confusion  
+have evident clarity"
+499,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+near_airport
+no_evident_not_near_airport
+
+proximity_to_airport
+no_evident_not_proximity_to_airport"
+500,good_location,"central
+not central"
+500,bad_location,"bad_location
+have evident alley
+have evident crazy"
+501,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+near_airport
+no_evident_not_near_airport"
+503,good_location,"close_to_field
+no_evident_not_close_to_field"
+503,bad_location,"bad_location
+have evident unfriendly
+have evident construction
+have evident bumpy"
+505,good_location,"close_to_city_center
+no_evident_not_close_to_city_center
+
+near_airport
+no_evident_not_near_airport
+
+by_sea
+no_evident_by_sea"
+510,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+513,good_location,"close_to_airport
+easy_get_to
+no_evident_not_close_to_airport
+no_evident_not_easy_get_to"
+515,good_location,"close_to_lake
+no_evident_not_close_to_lake
+close_to_beach
+no_evident_not_close_to_beach"
+518,good_location,"good_location quiet_place
+good_location no_evident_not_quiet_place"
+519,good_location,"good_location
+near_mackenzie_beach
+no_evident_not_near_mackenzie_beach"
+527,good_location,"good_location
+no_evident_not_good_location
+
+near_airport
+no_evident_not_near_airport
+
+near_mckenzie_beach
+no_evident_not_near_mckenzie_beach"
+528,good_location,"good_location
+near_airport
+no_evident_not_near_airport
+met_expectations
+no_evident_not_met_expectations"
+530,good_location,"easy no evident not easy
+quiet no evident not quiet
+not far no evident not far
+beach no evident not beach"
+531,good_location,"close_to_airport
+no_evident_not_close_to_airport
+near_promenade_by_sea
+no_evident_not_near_promenade_by_sea"
+532,good_location,"good_location
+no_evident_not_proximity_to_airport
+
+good_location
+no_evident_not_convenient_transportation
+
+good_location
+no_evident_not_reduced_travel_time
+
+good_location
+no_evident_not_strategic_business_position
+
+good_location
+no_evident_not_easy_access_for_customers"
+535,good_location,"good_location
+walk
+no_evident_not_walk
+
+center
+no_evident_not_center
+
+beach
+no_evident_not_beach"
+536,good_location,"close_to_beach
+no_evident_not_close_to_beach
+
+gastronomy
+no_evident_not_gastronomy
+
+airport
+no_evident_not_airport"
+538,good_location,"good_location
+no_evident_not_good_location
+
+close_to_airport
+no_evident_not_close_to_airport
+
+easily_accessible_by_taxi
+no_evident_not_easily_accessible_by_taxi
+
+bus_route_nearby
+no_evident_not_bus_route_nearby"
+540,good_location,"close_to_beach
+no_evident_not_close_to_beach
+close_to_airport
+no_evident_not_close_to_airport
+8_minutes_by_car
+no_evident_not_8_minutes_by_car"
+541,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+close_to_mackenzie_beach
+no_evident_not_close_to_mackenzie_beach
+
+can_reach_finikoudes_by_walking
+no_evident_not_can_reach_finikoudes_by_walking"
+542,good_location,"close_to_airport
+no_evident_not_close_to_airport
+many_restaurants_and_cafes_within_walking_distance
+no_evident_many_restaurants_and_cafes_within_walking_distance
+close_to_beach
+no_evident_not_close_to_beach"
+546,good_location,"good_location
+walking_distance
+no_evident_not_walking_distance
+
+late_arrival
+no_evident_not_late_arrival
+
+planning_further_travel_by_car
+no_evident_planning_further_travel_by_car
+
+mackenzie_beach
+no_evident_mackenzie_beach
+
+salt_lake
+no_evident_salt_lake"
+547,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+short_travel_time
+no_evident_not_short_travel_time"
+549,good_location,"good_location
+no_evident_not_good_location"
+551,good_location,"good_location
+proximity_to_mackenzie_beach
+no_evident_not_proximity_to_mackenzie_beach
+walk_to_mackenzie_beach
+no_evident_not_walk_to_mackenzie_beach"
+552,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+554,good_location,"close_to_airport
+no_evident_not_close_to_airport
+close_to_beach
+no_evident_not_close_to_beach
+quiet
+no_evident_not_quiet"
+555,good_location,"close_to_larnaca_airport
+less_than_10_minutes
+no_evident_not_close_to_larnaca_airport
+no_evident_less_than_10_minutes"
+556,good_location,"near_the_airport good_location
+no_evident_not_near_the_airport_good_location
+
+convenient good_location
+no_evident_not_convenient_good_location
+
+shuttle_to_field good_location
+no_evident_not_shuttle_to_field_good_location"
+560,good_location,"good_location
+no_evident_not_good_location
+
+near_airport
+no_evident_not_near_airport
+
+good_for_overnight_stay
+no_evident_not_good_for_overnight_stay
+
+good_for_late_flight
+no_evident_not_good_for_late_flight
+
+good_for_early_flight
+no_evident_not_good_for_early_flight"
+562,good_location,"close_to_larnaca_airport
+no_evident_not_close_to_larnaca_airport
+
+convenient_to_stop_there
+no_evident_not_convenient_to_stop_there
+
+flight_landed_in_middle_of_night
+no_evident_not_flight_landed_in_middle_of_night"
+565,good_location,"near_airport
+no_evident_not_near_airport
+near_mackenzie_beach
+no_evident_not_near_mackenzie_beach
+five_minutes_to_beach
+no_evident_not_five_minutes_to_beach"
+566,good_location,"close_to_airport
+no_evident_not_close_to_airport"
+569,good_location,"good_location
+no_evident_not_good_location
+good_location
+no_evident_not_good_location"
+571,good_location,"to_beach_on_foot_5_minutes
+no_evident_not_to_beach_on_foot_5_minutes"
+579,good_location,"good_location
+near
+no evident not near
+about_10_minutes_drive_away
+no evident not about_10_minutes_drive_away"
+586,good_location,"close_to_airport
+no_evident_not_close_to_airport
+near_sea
+no_evident_not_near_sea
+near_promenade
+no_evident_not_near_promenade
+excellent_restaurants
+no_evident_not_excellent_restaurants"
+587,good_location,"close_to_airport
+close_to_beach
+no_evident_not_close_to_airport
+no_evident_not_close_to_beach"
+588,good_location,"good_location
+no_evident_not_good_location"
+589,good_location,"distance from the airport, close_to_airport, no_evident_not_close_to_airport
+distance from the airport, far_from_airport, no_evident_not_far_from_airport"
+589,bad_location,bad_location works_next_door have_evident bad_location works_next_door_not_relevant_to_location bad_location owners_cant_do_thing have_evident bad_location owners_can_do_thing
+590,good_location,"5_minutes_from_the_beach
+5_minutes_from_the_airport
+no_evident_not_5_minutes_from_the_beach
+no_evident_not_5_minutes_from_the_airport"
+594,bad_location,"noisy  
+have evident quiet  
+close  
+have evident far  
+airport  
+have evident no_airport"
+596,bad_location,"bad_location noisy outside
+bad_location have evident quiet inside"
+597,good_location,"good_location
+near_sea
+no_evident_not_near_sea
+close_to_via_dei
+no_evident_not_close_to_via_dei
+can_reach_center_in_20_minutes
+no_evident_cannot_reach_center_in_20_minutes"
+599,good_location,"good_location
+no_evident_not_good_location
+
+good_transit
+no_evident_not_good_transit
+
+near_airport
+no_evident_not_near_airport"
+599,bad_location,bad_location noise_from_a夜店 have_evident_noise_from_a夜店 bad_location noise_from_a夜店 have_evident_quiet_environment_around夜店 bad_location noise_from_a夜店 have_evident_traffic_noise_nearby夜店 bad_location noise_from_a夜店 have_evident_lack_of_privacy_in_area夜店
+602,good_location,"good_location
+no_evident_not_good_location"
+607,good_location,"close_to_beach
+no_evident_not_close_to_beach
+
+near_airport
+no_evident_not_near_airport
+
+many_restaurants
+no_evident_many_restaurants
+
+quiet_location
+no_evident_quiet_location"
+610,good_location,"close_to_airport
+no_evident_not_close_to_airport
+quiet_hotel
+no_evident_not_quiet_hotel
+restaurant_in_enclosure
+no_evident_not_restaurant_in_enclosure
+good_restaurant
+no_evident_not_good_restaurant"
+611,good_location,"good_location
+proximity_city_center
+no_evident_not_proximity_city_center
+proximity_beach
+no_evident_not_proximity_beach"
+612,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+short_travel_time
+no_evident_not_short_travel_time"
+612,bad_location,"bad_location
+outside_light
+have_evident_inside_light
+
+bad_location
+outside_light
+have_evident_no_light"
+614,good_location,"near_airport
+no_evident_not_near_airport
+
+5min_by_bus
+no_evident_not_5min_by_bus"
+616,good_location,"easy_to_reach
+no_evident_not_easy_to_reach
+
+not_too_close
+no_evident_not_too_close"
+617,good_location,"good_location
+central
+location
+no_evident_not_central
+no_evident_not_good"
+618,bad_location,"bad_location have evident noise disturbance
+bad_location have evident late hour"
+619,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+620,good_location,"good_location
+nice
+no evident not nice
+clean
+no evident not clean
+near
+no evident not near
+airport
+no evident not airport
+walk
+no evident not walk
+embankment
+no evident not embankment
+7-10 minutes
+no evident not 7-10 minutes"
+623,good_location,"nearairport
+neabeach
+noevidentnotnearairport
+noevidentnotneabeach"
+623,bad_location,"night traffic have evident bad_location
+traffic have evident bad_location"
+625,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+627,bad_location,"bad_location
+far
+have evident near
+
+city_center
+have evident outskirts"
+627,good_location,"taxis  
+no evident not taxis  
+
+good_location  
+no evident not good_location"
+628,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+good_frequency_bus
+no_evident_not_good_frequency_bus
+
+close_to_city_center
+no_evident_not_close_to_city_center
+
+dead_end_street
+no_evident_not_dead_end_street
+
+quiet_street
+no_evident_not_quiet_street"
+632,good_location,"good_location
+close_to_airport
+no_evident_not_close_to_airport
+convenient_bus_connection
+no_evident_not_convenient_bus_connection
+easy_access_city_center
+no_evident_not_easy_access_city_center
+public_transport_worked_fine
+no_evident_not_public_transport_worked_fine
+good_for_morning_trip
+no_evident_not_good_for_morning_trip
+near_mackenzie_beach
+no_evident_not_near_mackenzie_beach
+many_cool_bars_restaurants
+no_evident_not_many_cool_bars_restaurants"
+633,good_location,"close to the airport!
+no evident not close to the airport!"
+635,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+636,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+637,good_location,"good_location
+no_evident_not_good_location"
+639,good_location,"good_location
+no_evident_not_short_distance_from_the_beach
+good_location
+no_evident_not_found_starfish"
+641,good_location,"quiet
+peaceful
+no evident not quiet
+no evident not peaceful"
+642,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+near_airport
+no_evident_not_near_airport"
+644,good_location,"near the airport
+not near the airport"
+646,good_location,"good_location
+close_to_Salt_Lake
+close_to_Mackenzie_Beach
+close_to_bus_stop
+close_to_airport
+can_walk_entire_promenade_of_Larnaca
+calm_step_to_Church_of_St_Lazarus
+no_evident_not_close_to_Salt_Lake
+no_evident_not_close_to_Mackenzie_Beach
+no_evident_not_close_to_bus_stop
+no_evident_not_close_to_airport
+no_evident_not_can_walk_entire_promenade_of_Larnaca
+no_evident_not_calm_step_to_Church_of_St_Lazarus"
+649,good_location,"near_airport
+no_evident_not_near_airport
+off_season
+no_evident_not_off_season
+no_noise_from_street
+no_evident_no_noise_from_street
+sound_from_planes_did_not_bother_us
+no_evident_sound_from_planes_did_not_bother_us"
+650,good_location,"quiet  
+walking  
+no evident not quiet  
+no evident not walking"
+652,good_location,"close_to_airport
+no_evident_not_close_to_airport"
+653,good_location,"close_to_airport
+near_lake
+flamingos_in_winter
+no_evident_not_close_to_airport
+no_evident_not_near_lake
+no_evident_flamingos_in_winter"
+654,good_location,"good_location
+no_evident_not_good_location
+
+good_Mackenzie_beach
+no_evident_not_good_Mackenzie_beach"
+654,bad_location,"bad_location
+have evident noise
+have evident damage_to_property
+
+bad_location
+have evident no_concern_for_tourists
+have evident disturbance_of_sleep"
+655,good_location,"not_far_from_airport
+no_evident_not_far_from_airport
+
+The hotel has a parking lot.
+has_parking_lot
+no_evident_has_parking_lot
+
+There are restaurants nearby.
+nearby_restaurants
+no_evident_nearby_restaurants"
+655,bad_location,"bad_location
+far
+have evident near
+
+bad_location
+city_center
+have evident outskirts"
+659,bad_location,"bad_location
+noisy
+have evident quiet
+ringing
+have evident silence
+sounds accumulate
+have evident absence_of_sound
+terrible force
+have evident gentleness
+airplanes
+have evident lack_of_airplanes
+passing cars
+have evident absence_of_cars
+slamming trunk
+have evident absence_of_trunks"
+661,good_location,"good_location
+no_evident_not_proximity_to_airport
+
+good_location
+no_evident_not_convenient_access
+
+good_location
+no_evident_not_reduced_travel_time
+
+good_location
+no_evident_not_close_to_airport"
+661,bad_location,"sleep lightly have evident disturbance
+aircraft noise have evident disturbance"
+662,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+662,bad_location,"bad_location
+have evident bad_smell
+have evident fertilization"
+663,good_location,"- Location
+  Hotel near the airport.
+  - no evident not hotel near the airport.
+  - close to the beach.
+  - no evident not close to the beach."
+663,bad_location,"bad_location
+far
+have evident near
+walk
+have evident car
+about
+have evident precisely
+2_5_km
+have evident exactly
+km
+have evident close
+beach_promenade
+have evident not_relevant"
+665,good_location,"close_to_airport
+no_evident_not_close_to_airport
+
+lot_of_noise_from_planes_taking_off_during_the_day
+no_evident_lot_of_noise_from_planes_taking_off_during_the_day
+
+not_heard_at_night
+no_evident_not_heard_at_night"
+665,bad_location,"bad_location
+have evident noise
+have evident daytime
+
+bad_location
+have evident silence
+have evident nighttime"
+666,good_location,"great_location
+quiet_location
+no_evident_not_great_location
+no_evident_not_quiet_location"
+667,good_location,"close location to the bus stop, no evident not close location to the bus stop
+10 minutes to the center, no evident not 10 minutes to the center
+5 minutes to the airport, no evident not 5 minutes to the airport
+ideal place if you need to spend the night before departure from Larnaca, no evident not ideal place if you need to spend the night before departure from Larnaca"
+670,good_location,"good_location
+proximity_airport
+no_evident_not_proximity_airport
+nearby_bus_stop
+no_evident_not_nearby_bus_stop
+access_city_center
+no_evident_not_access_city_center
+access_airport
+no_evident_not_access_airport"
+673,good_location,"walking_distance_to_Mackenzie_Beach
+no_evident_not_walking_distance_to_Mackenzie_Beach"
+676,good_location,"near_salt_lake
+no_evident_not_near_salt_lake
+
+10_minutes_walk
+no_evident_not_10_minutes_walk
+
+5_6_minutes_to_sea
+no_evident_not_5_6_minutes_to_sea
+
+quiet_place
+no_evident_not_quiet_place
+
+near_airport_4_km
+no_evident_not_near_airport_4_km
+
+bus_or_car_5_6_minutes
+no_evident_not_bus_or_car_5_6_minutes
+
+walk_50_minutes
+no_evident_not_walk_50_minutes"
+677,good_location,"sea yes
+sea no evident not yes"
+678,good_location,"next_to_mackenzie_beach
+no_evident_not_next_to_mackenzie_beach
+
+near_airport
+no_evident_not_near_airport
+
+5_minutes_car
+no_evident_not_5_minutes_car"
+680,good_location,"located_500_meters_from_the_beach
+no_evident_not_located_500_meters_from_the_beach
+area_with_restaurants_and_bars
+no_evident_not_area_with_restaurants_and_bars
+town_center_is_a_little_further_30_on_foot
+no_evident_not_town_center_is_a_little_further_30_on_foot
+5_minutes_from_the_airport
+no_evident_not_5_minutes_from_the_airport"
+681,good_location,"good_location
+bus_stops_nearby
+salt_lake
+5_minutes_walk_to_the_sea
+no_evident_not_bus_stops_nearby
+no_evident_not_salt_lake
+no_evident_not_5_minutes_walk_to_the_sea"
+684,bad_location,"bad_location
+noisy
+
+have evident quiet
+have evident peaceful"
+685,good_location,"good_location
+no_evident_not_good_location"
+687,good_location,"from_hotel_to_beach_close
+no_evident_not_from_hotel_to_beach_close
+
+bus_stop_nearby
+no_evident_not_bus_stop_nearby"
+688,good_location,"close to the beach
+no evident not close to the beach"
+690,good_location,"good_location
+no_evident_not_convenient_location
+good_location
+no_evident_not_far_from_airport
+good_location
+no_evident_not_far_from_sea"
+690,bad_location,"bad_location
+have evident noise
+have evident disturbance
+
+bad_location
+have evident smell
+have evident mess"
+693,good_location,"good_location
+well_placed
+no_evident_not_well_placed
+access_to_the_beach_by_crossing_a_vacant_lot
+no_evident_access_to_the_beach_by_crossing_a_vacant_lot
+airport_nearby
+no_evident_airport_nearby"
+694,good_location,"close_to_airport
+no_evident_not_close_to_airport"
+694,bad_location,"bad_location
+wasteland
+have evident green spaces
+
+bad_location
+wasteland
+have evident buildings
+
+bad_location
+wasteland
+have evident activity
+
+bad_location
+wasteland
+have evident attractions"
+696,good_location,"- The airport is 6 minutes by car.
+- Near a good beach.
+- No evident not the airport is 6 minutes by car.
+- No evident not near a good beach."
+698,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+700,good_location,"attached  
+not attached  
+close  
+far  
+convenient  
+inconvenient  
+near  
+distant  
+adjacent  
+separated"
+701,good_location,"good_location
+walking_distance_to_beach
+several_restaurants
+no_evident_not_walking_distance_to_beach
+no_evident_several_restaurants"
+704,good_location,"close_to_airport
+no_evident_not_close_to_airport
+close_to_beach
+no_evident_not_close_to_beach"
+706,good_location,"good_location
+no_evident_not_good_location"
+708,good_location,"good_location
+no_evident_not_good_location
+
+good_location
+no_evident_not_good_location"
+713,good_location,"close_to_airport
+no_evident_not_close_to_airport"
+718,good_location,"close_to_mackenzie_beach
+no_evident_not_close_to_mackenzie_beach
+
+near_salt_lake
+no_evident_not_near_salt_lake
+
+10_minutes_to_airport_by_bus
+no_evident_not_10_minutes_to_airport_by_bus
+
+10_minutes_to_airport_by_taxi
+no_evident_not_10_minutes_to_airport_by_taxi"
+719,bad_location,"bad_location
+street
+have evident alley
+street
+have evident dead_end
+street
+have evident busy_road
+street
+have evident construction_site"
+722,good_location,"walking_distance_to_makenzie_beach
+no_evident_not_walking_distance_to_makenzie_beach
+
+easy_to_get_here_by_bus_from_airport
+no_evident_not_easy_to_get_here_by_bus_from_airport
+
+did_not_notice_noise_during_entire_stay
+no_evident_not_did_not_notice_noise_during_entire_stay
+
+did_not_experience_any_discomfort_because_of_proximity_airport
+no_evident_not_did_not_experience_any_discomfort_because_of_proximity_airport"
+726,good_location,"good_location
+Mackenzie
+no_evident_not_Mackenzie
+
+hotel
+no_evident_not_hotel"
+726,bad_location,"bad_location
+noisy
+have evident quiet
+
+discos
+have evident absence_of_discos
+
+Mackenzie
+have evident non_Mackenzie"
+727,good_location,"close
+no evident not close"
+727,bad_location,"bad_location
+intensive_have_evident
+road_have_evident"
+730,good_location,"close_to_airport
+close_to_airport no_evident_not_close_to_airport
+close_to_beach
+close_to_beach no_evident_not_close_to_beach"
+730,bad_location,"bad_location
+have evident noise
+have evident smell
+
+bad_location
+have evident noise
+have evident quietness
+
+bad_location
+have evident smell
+have evident freshness
+
+bad_location
+have evident noise
+have evident silence
+
+bad_location
+have evident smell
+have evident cleanliness"
+732,good_location,"near_mackenzie_beach
+no_evident_not_near_mackenzie_beach
+
+airport
+no_evident_not_airport
+
+salt_lake
+no_evident_not_salt_lake"
+733,good_location,"close_to_waterfront
+no_evident_not_close_to_waterfront"
+735,good_location,"CLOSE_TO_EVERYTHING
+no_evident_not_CLOSE_TO_EVERYTHING
+
+ALYKI_BEACH_CLUB
+no_evident_NOT_ALYKI_BEACH_CLUB
+
+RESTAURANTS
+no_evident_NOT_RESTAURANTS
+
+CAFES
+no_evident_NOT_CAFES"
+737,good_location,"close_to_beach
+no_evident_not_close_to_beach"
+739,good_location,"good_location
+no_evident_not_good_location
+
+near_beach
+no_evident_not_near_beach
+
+near_center
+no_evident_not_near_center"
+743,bad_location,"bad_location
+close
+have evident far
+advertised
+have evident unadvertised"
+744,bad_location,"bad_location
+sounds
+have_evident_noise
+bad_location
+sounds
+have_evident_interruption"
+748,good_location,"close_to_airport
+no_evident_not_close_to_airport
+bus_station_nearby
+no_evident_not_bus_station_nearby
+salt_lake_nearby
+no_evident_not_salt_lake_nearby"
+749,good_location,"close_to_field
+no_evident_not_close_to_field"
+750,good_location,"close_to_field
+no_evident_not_close_to_field"
+751,bad_location,"next_to_pool
+have_evident_next_to_pool
+
+too_much_noise
+have_evident_too_much_noise
+
+shouting
+have_evident_shouting
+
+unable_to_rest
+have_evident_unable_to_rest"
+754,good_location,"good_location
+no_evident_not_good_location"
+754,bad_location,"bad_location have evident noise
+bad_location have evident cold
+
+bad_location have evident quiet
+bad_location have evident warm"
+756,good_location,"good_location
+central
+no_evident_not_central
+between_the_beach
+no_evident_not_between_the_beach
+the_party_mile
+no_evident_not_the_party_mile
+the_airport
+no_evident_not_the_airport
+the_old_town
+no_evident_not_the_old_town"
+764,bad_location,"bad_location
+have evident garbage_pickup_infernal_mess
+have evident smell_concentrated_manure
+have evident proximity_farms"
+765,good_location,"bars  
+restaurants  
+no evident not bars  
+no evident not restaurants"
+765,bad_location,"bad_location
+smoke
+have evident no_smoke
+
+bad_location
+smoke
+have evident smoke_free_area"
+767,bad_location,"bad_location
+have evident far
+have evident noisy"
+769,good_location,"within walking distance
+no evident not within walking distance
+
+a couple of taverns in the area
+no evident not a couple of taverns in the area
+
+near the airport
+no evident not near the airport"
+769,bad_location,"walk to the promenade of Larnaca have evident bad_location
+walk to the promenade of Larnaca have evident good_location
+Lidl is far have evident bad_location
+Lidl is far have evident good_location"
+770,bad_location,"- bad_location
+- have evident smell
+- have evident odor"
+771,bad_location,"bad_location
+have evident noise
+have evident disturbance
+
+bad_location
+have evident traffic
+have evident shouting"
+771,good_location,"good_location
+walking_distance
+no_evident_not_walking_distance
+within_mackenzie_beach
+no_evident_not_within_mackenzie_beach
+walking_distance_to_center
+no_evident_not_walking_distance_to_center
+party_cafes
+no_evident_not_party_cafes"
+773,good_location,"good_location
+asphalt
+no_evident_not_asphalt
+off_road
+no_evident_not_off_road
+airport_nearest
+no_evident_not_airport_nearest"
+776,good_location,"proximity to the airport
+no evident not proximity to the airport
+
+walk to the sea
+no evident not walk to the sea"
+778,good_location,"close_to_airport
+no_evident_not_close_to_airport"
+779,good_location,"close_to_airport
+no_evident_not_close_to_airport
+quiet
+no_evident_not_quiet
+proximity_to_beach
+no_evident_not_proximity_to_beach
+proximity_to_city
+no_evident_not_proximity_to_city
+bus_stop_near_hotel
+no_evident_not_bus_stop_near_hotel"
+780,good_location,"near  
+not near  
+mackenzie beach  
+no evident not mackenzie beach"
+784,good_location,"proximity_to_beach
+no_evident_not_proximity_to_beach
+
+proximity_to_airport
+no_evident_not_proximity_to_airport"
+785,bad_location,"bad_location garbage_heap
+bad_location have_evident_no_garbage_heap"

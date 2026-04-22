@@ -1,0 +1,181 @@
+Timestamp,Run,ID,PhraseA,PhraseB,Prompt,RawOutput
+2026-02-01 02:13:28,3,1,have_evident_no_one_give_key_on_late_check-in,no_one_give_key_on_late_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is no_one_give_key_on_late_check-in. Phrase A is have_evident_no_one_give_key_on_late_check-in.",No
+2026-02-01 02:13:58,3,2,have_evident_no_one_give_key_on_late_check-in,door_lock_on_late_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is door_lock_on_late_check-in. Phrase A is have_evident_no_one_give_key_on_late_check-in.",No
+2026-02-01 02:14:32,3,3,have_evident_no_one_give_key_on_late_check-in,customer_wait_10_minute_for_greet,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is customer_wait_10_minute_for_greet. Phrase A is have_evident_no_one_give_key_on_late_check-in.",No
+2026-02-01 02:15:07,3,4,have_evident_no_one_give_key_on_late_check-in,customer_wait_10_minute_for_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is customer_wait_10_minute_for_check-in. Phrase A is have_evident_no_one_give_key_on_late_check-in.",Yes
+2026-02-01 02:15:52,3,5,have_evident_no_one_give_key_on_late_check-in,staff_misunderstand_on_payment,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is staff_misunderstand_on_payment. Phrase A is have_evident_no_one_give_key_on_late_check-in.",No
+2026-02-01 02:16:29,3,6,have_evident_no_one_give_key_on_late_check-in,staff_take_picture_of_passport,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is staff_take_picture_of_passport. Phrase A is have_evident_no_one_give_key_on_late_check-in.",No
+2026-02-01 02:17:13,3,7,have_evident_door_lock_on_late_check-in,no_one_give_key_on_late_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is no_one_give_key_on_late_check-in. Phrase A is have_evident_door_lock_on_late_check-in.",Yes
+2026-02-01 02:17:51,3,8,have_evident_door_lock_on_late_check-in,door_lock_on_late_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is door_lock_on_late_check-in. Phrase A is have_evident_door_lock_on_late_check-in.",Yes
+2026-02-01 02:18:22,3,9,have_evident_door_lock_on_late_check-in,customer_wait_10_minute_for_greet,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is customer_wait_10_minute_for_greet. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-01 02:19:12,3,10,have_evident_door_lock_on_late_check-in,customer_wait_10_minute_for_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is customer_wait_10_minute_for_check-in. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-01 02:19:54,3,11,have_evident_door_lock_on_late_check-in,staff_misunderstand_on_payment,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is staff_misunderstand_on_payment. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-01 02:20:41,3,12,have_evident_door_lock_on_late_check-in,staff_take_picture_of_passport,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is staff_take_picture_of_passport. Phrase A is have_evident_door_lock_on_late_check-in.",No
+2026-02-01 02:21:13,3,13,have_evident_customer_wait_10_minute_for_greet,no_one_give_key_on_late_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is no_one_give_key_on_late_check-in. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-01 02:22:03,3,14,have_evident_customer_wait_10_minute_for_greet,door_lock_on_late_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is door_lock_on_late_check-in. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-01 02:22:46,3,15,have_evident_customer_wait_10_minute_for_greet,customer_wait_10_minute_for_greet,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is customer_wait_10_minute_for_greet. Phrase A is have_evident_customer_wait_10_minute_for_greet.",Yes
+2026-02-01 02:23:10,3,16,have_evident_customer_wait_10_minute_for_greet,customer_wait_10_minute_for_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is customer_wait_10_minute_for_check-in. Phrase A is have_evident_customer_wait_10_minute_for_greet.",Yes
+2026-02-01 02:24:03,3,17,have_evident_customer_wait_10_minute_for_greet,staff_misunderstand_on_payment,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is staff_misunderstand_on_payment. Phrase A is have_evident_customer_wait_10_minute_for_greet.",No
+2026-02-01 02:24:32,3,18,have_evident_customer_wait_10_minute_for_greet,staff_take_picture_of_passport,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is staff_take_picture_of_passport. Phrase A is have_evident_customer_wait_10_minute_for_greet.",Yes
+2026-02-01 02:24:58,3,19,have_evident_customer_wait_10_minute_for_check-in,no_one_give_key_on_late_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is no_one_give_key_on_late_check-in. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",Yes
+2026-02-01 02:25:32,3,20,have_evident_customer_wait_10_minute_for_check-in,door_lock_on_late_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is door_lock_on_late_check-in. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-01 02:26:12,3,21,have_evident_customer_wait_10_minute_for_check-in,customer_wait_10_minute_for_greet,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is customer_wait_10_minute_for_greet. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-01 02:26:51,3,22,have_evident_customer_wait_10_minute_for_check-in,customer_wait_10_minute_for_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is customer_wait_10_minute_for_check-in. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-01 02:27:16,3,23,have_evident_customer_wait_10_minute_for_check-in,staff_misunderstand_on_payment,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is staff_misunderstand_on_payment. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-01 02:27:57,3,24,have_evident_customer_wait_10_minute_for_check-in,staff_take_picture_of_passport,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is staff_take_picture_of_passport. Phrase A is have_evident_customer_wait_10_minute_for_check-in.",No
+2026-02-01 02:28:26,3,25,have_evident_staff_misunderstand_on_payment,no_one_give_key_on_late_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is no_one_give_key_on_late_check-in. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-01 02:29:08,3,26,have_evident_staff_misunderstand_on_payment,door_lock_on_late_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is door_lock_on_late_check-in. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-01 02:29:41,3,27,have_evident_staff_misunderstand_on_payment,customer_wait_10_minute_for_greet,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is customer_wait_10_minute_for_greet. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-01 02:30:16,3,28,have_evident_staff_misunderstand_on_payment,customer_wait_10_minute_for_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is customer_wait_10_minute_for_check-in. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-01 02:30:55,3,29,have_evident_staff_misunderstand_on_payment,staff_misunderstand_on_payment,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is staff_misunderstand_on_payment. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-01 02:31:34,3,30,have_evident_staff_misunderstand_on_payment,staff_take_picture_of_passport,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is staff_take_picture_of_passport. Phrase A is have_evident_staff_misunderstand_on_payment.",No
+2026-02-01 02:32:16,3,31,have_evident_staff_take_picture_of_passport,no_one_give_key_on_late_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is no_one_give_key_on_late_check-in. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-01 02:33:06,3,32,have_evident_staff_take_picture_of_passport,door_lock_on_late_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is door_lock_on_late_check-in. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-01 02:33:37,3,33,have_evident_staff_take_picture_of_passport,customer_wait_10_minute_for_greet,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is customer_wait_10_minute_for_greet. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-01 02:34:13,3,34,have_evident_staff_take_picture_of_passport,customer_wait_10_minute_for_check-in,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is customer_wait_10_minute_for_check-in. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-01 02:34:50,3,35,have_evident_staff_take_picture_of_passport,staff_misunderstand_on_payment,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is staff_misunderstand_on_payment. Phrase A is have_evident_staff_take_picture_of_passport.",No
+2026-02-01 02:35:45,3,36,have_evident_staff_take_picture_of_passport,staff_take_picture_of_passport,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is staff_take_picture_of_passport. Phrase A is have_evident_staff_take_picture_of_passport.",No

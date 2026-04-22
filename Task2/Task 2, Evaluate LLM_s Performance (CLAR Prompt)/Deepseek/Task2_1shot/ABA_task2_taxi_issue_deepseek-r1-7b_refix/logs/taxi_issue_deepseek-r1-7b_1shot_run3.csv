@@ -1,0 +1,55 @@
+ID,Topic,Output
+125,bad_taxi_issue,"Here is the text formatted according to your instructions:
+
+1. **Support**: charge_above_price_taxi  
+   **Contrary**: have_evident_charge_above_price_taxi  
+
+2. **Support**: no_alternative_transport_at_midnight  
+   **Contrary**: have_evident_no_alternative_transport_at_midnight"
+346,bad_taxi_issue,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Claim**: bad_taxi_issue  
+2. **Supports**:
+   - bad_weather
+3. **Contraries**:
+   - have evident_bad_weather"
+568,bad_taxi_issue,"- **Support**: rip_us_off  
+  - **Contrary**: have_evident_rip_us_off"
+615,bad_taxi_issue,"Here is the text analyzed in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Supports**:
+   - ordered_shuttle_specific_to_hotel
+     - have evident_ordered_shuttle_specific_to_hotel
+   - waited_for_taxi_without_warning
+     - have evident_waited_for_taxi_without_warning
+   - paid_immediately_thought_included_in_hotel_bill
+     - have evident_paid_immediately_thought_included_in_hotel_bill
+
+2. **Contraries**:
+   - ordered_shuttle_specific_to_hotel: have evident_ordered_shuttle_specific_to_hotel  
+   - waited_for_taxi_without_warning: have evident_waited_for_taxi_without_warning  
+   - paid_immediately_thought_included_in_hotel_bill: have evident_paid_immediately_thought_included_in_hotel_bill  
+
+Each support is paired with a contrary that uses the same word and starts with ""have evident."" The format ensures clarity, conciseness, and adherence to your instructions."
+660,good_taxi_issue,"1. Taxi  
+   no evident not taxi  
+
+2. Waiting  
+   no evident not waiting"
+666,bad_taxi_issue,"Here is the updated ABA format based on your conditions:
+
+1. **charge_above_price_taxi**  
+   - Supports: ""charged 2-3 EUR above the price agreed with the hotel""  
+   - Contrary: ""have evident_charge_above_price_taxi""
+
+2. **no_alternative_transport_at_midnight**  
+   - Supports: ""feeling that someone is cheating you and stilling money from you is really awkward, especially when you are alone with small child in the middle of the night and have no alternative way of transport""  
+   - Contrary: ""have evident_no_alternative_transport_at_midnight""
+
+3. **organized_taxi_late_or_chaotic**  
+   - Supports: ""Unfortunately, the organized taxi came too late/ a bit chaotic""  
+   - Contrary: ""have evident_organized_taxi_late_or_chaotic"""
+689,bad_taxi_issue,"1. charge_above_price_taxi  
+2. no_alternative_transport_at_midnight  
+3. have_evident_charge_above_price_taxi  
+4. have_evident_no_alternative_transport_at_midnight"

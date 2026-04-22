@@ -1,0 +1,2520 @@
+ID,Topic,Output
+1,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - close_to_airport
+  - very_clean_beach
+
+- **Contraries:**
+  - no_evident_not_close_to_airport
+  - no_evident_not_very_clean_beach"
+3,good_location,"- **Supports**:  
+  - great  
+  - close_to_airport  
+  - close_to_bus_stop  
+
+- **Contraries**:  
+  - not_great  
+  - no_evident_not_close_to_airport  
+  - no_evident_not_close_to_bus_stop"
+5,good_location,"1. **Support**: close_to_airport  
+   **Contrary**: no_evident_not_close_to_airport  
+
+2. **Support**: clean_beach  
+   **Contrary**: no_evident_not_clean_beach  
+
+3. **Support**: convenient_location  
+   **Contrary**: no_evident_not_convenient_location  
+
+4. **Support**: easy_stroll  
+   **Contrary**: no_evident_not_easy_stroll  
+
+5. **Support**: nice_restaurants  
+   **Contrary**: no_evident_not_nice_restaurants  
+
+6. **Support**: great_beach  
+   **Contrary**: no_evident_not_great_beach"
+8,good_location,"- **Claim**: good_location  
+  - **Support**: nice  
+    - **Contrary**: no_evident_not_nice  
+  - **Support**: location  
+    - **Contrary**: no_evident_not_location"
+10,good_location,"Supports:  
+close_to_quiet_area  
+
+Contraries:  
+no_evident_not_close_to_quiet_area"
+11,good_location,"Here is the text formatted according to your instructions:
+
+1. Close to the airport  
+2. Close to the town center  
+3. Short walk away  
+4. Affordable  
+
+Contraries:  
+1. No evident not close to the airport  
+2. No evident not close to the town center  
+3. No evident not short walk away  
+4. No evident not affordable"
+13,good_location,"1. **Supports**:  
+   - short_drive_to_airport  
+   - well_located  
+
+2. **Contraries**:  
+   - no_evident_not_short_drive_to_airport  
+   - no_evident_not_well_located"
+14,good_location,"- **Supports:**
+  - close_to_airport
+  - close_to_restaurants_bars
+
+- **Contraries:**
+  - no_evident_not_close_to_airport
+  - no_evident_not_close_to_restaurants_bars"
+15,bad_location,"1. **Support 1**: located_on_edge  
+   - ""it is a bit on the edge of Larnaca""  
+
+2. **Contrary 1**: have_evident_located_on_edge  
+   - ""have evident it is a bit on the edge of Larnaca""
+
+3. **Support 2**: has_frequent_busses  
+   - ""with frequent busses to the centre""  
+
+4. **Contrary 2**: have_evident_has_frequent_busses  
+   - ""have evident with frequent busses to the centre"""
+15,good_location,"1. Close_to_airport_for_early_morning_flight  
+2. nearby_beach  
+3. no_evident_not_reasonably_close_to_airport  
+4. no_evident_not_could_have_stroll_along_nearby_beach"
+18,good_location,"Here’s the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Claim**: bus every 20 minutes to centre of Larnaka.  
+- **Supports**:  
+  - regular_service  
+  - close_to_centre_of_larnaka  
+- **Contraries**:  
+  - no evident not regular_service  
+  - no evident not close_to_centre_of_larnaka"
+19,good_location,"1. Claim: good_location  
+2. Supports: close_to_airport  
+3. Contraries: no_evident_not_close_to_airport"
+26,good_location,"- Claim: good_location  
+  - Support 1: close_to_beach  
+    - Contrary: no_evident_not_close_to_beach  
+  - Support 2: close_to_lake  
+    - Contrary: no_evident_not_close_to_lake"
+27,good_location,"- **Supports**:  
+  - close_to_larnaca_airport  
+  - before_flying  
+
+- **Contraries**:  
+  - no_evident_not_close_to_larnaca_airport  
+  - no_evident_not_before_flying"
+28,bad_location,"1. Supports:
+   - buildings_under_construction
+   - poorly_lit_buildings
+
+2. Contraries:
+   - have evident buildings_under_construction
+   - have evident poorly_lit_buildings"
+30,good_location,"1. Close_to_restaurants  
+2. Short_drive_to_airport  
+3. no_evident_not_close_to_restaurants  
+4. no_evident_not_short_drive_to_airport"
+31,good_location,"1. close_to_mackenzy_beach  
+2. close_to_larnaca_airport  
+3. no_evident_not_close_to_mackenzy_beach  
+4. no_evident_not_close_to_larnaca_airport"
+36,bad_location,"1. **Support**: located_in_small_side_street  
+   **Contrary**: have_evident_located_in_small_side_street"
+36,good_location,"- **Support**: close_to_sea_front  
+  - **Contrary**: no_evident_not_close_to_sea_front"
+37,good_location,"- **Support**: close_to_airport  
+  - **Contrary**: no_evident_not_close_to_airport  
+
+- **Support**: close_to_clean_beach  
+  - **Contrary**: no_evident_not_close_to_clean_beach"
+40,good_location,"- Close_to_airport  
+- Close_to_mackenzie_beach  
+- No_evident_not_close_to_airport  
+- No_evident_not_close_to_mackenzie_beach"
+41,bad_location,"1. Supports:  
+   - kitchen  
+     have evident kitchen  
+   - shut  
+     have evident shut  
+
+2. Contraries:  
+   - have evident located_in_small_side_street  
+   - have evident kitchen  
+     have evident kitchen  
+   - have evident shut  
+     have evident shut"
+41,good_location,"1. Close to airport by car  
+2. Close to beach  
+3. No evident not close to airport by car  
+4. No evident not close to beach"
+44,bad_location,"1. but, have_evident_but  
+2. noisy, have_evident_noisy"
+45,bad_location,"- **Support**: plane_noise  
+  - **Contrary**: have_evident_plane_noise"
+45,good_location,"1. **Support**: close_to_5_minutes_walk  
+2. **Contrary**: no_evident_not_close_to_5_minutes_walk"
+49,good_location,"- close_to_airport  
+  short_walk_to_sea  
+  no_evident_not_close_to_airport  
+  no_evident_not_short_walk_to_sea"
+50,good_location,"- **Support**: close_to_airport  
+  - **Contrary**: no_evident_not_close_to_airport  
+
+This is the only support and its corresponding contrary based on the given text."
+51,good_location,"- **Support**: near_airport  
+  - **Contrary**: no_evident_not_near_airport"
+53,good_location,"1. Close_to_airport  
+2. Mackenzie_Beach  
+3. No_evident_not_close_to_airport  
+4. No_evident_not_Mackenzie_Beach"
+55,good_location,"- near_airport  
+- clean_beach  
+- no_evident_not_near_airport  
+- no_evident_not_clean_beach"
+56,good_location,"- Close_to_airport  
+  no_evident_not_close_to_airport  
+
+- Close_to_clean_beach  
+  no_evident_not_close_to_clean_beach"
+57,good_location,"nice  
+walk  
+restaurants  
+
+no_evident_not_nice  
+no_evident_not_walk  
+no_evident_not_restaurants"
+58,bad_location,"- **Support**: noise Issue  
+  - **Contrary**: have evident noise from planes  
+
+Each support is paired with a contrary that starts with ""have evident"" and uses the same word as the original text (""noise"")."
+58,good_location,"- Close to the airport  
+  No evident not close to the airport"
+59,good_location,"1. close_to_airport  
+2. convenient_for_overnight_stay  
+3. no_evident_not_close_to_airport  
+4. no_evident_not_convenient_for_overnight_stay"
+62,good_location,"- near_airport  
+  - no_evident_not_near_airport  
+
+- near_beach  
+  - no_evident_not_near_beach"
+64,bad_location,"1. Supports:  
+   - can_hear_noise_from_planes  
+   - located_in_small_side_street  
+   - close_to_airport  
+
+2. Contraries:  
+   - have_evident_can_hear_noise_from_planes  
+   - have_evident_located_in_small_side_street  
+   - have_evident_close_to_airport"
+64,good_location,"Here is the text formatted in Assumption-Based Argumentation (ABA) based on your instructions:
+
+- **Supports**:  
+  - close_to_airport (car proximity): ""close_to_airport""  
+    - no evident not close_to_airport (car proximity): ""no evident not close_to_airport (car proximity)""  
+
+- **Supports**:  
+  - close_to_airport (bus proximity): ""close_to_airport""  
+    - no evident not close_to_airport (bus proximity): ""no evident not close_to_airport (bus proximity)"""
+65,good_location,"- **Support**: great  
+  - **Contrary**: no_evident_not_great  
+
+- **Support**: easy  
+  - **Contrary**: no_evident_not_easy"
+66,good_location,"1. Close_to_airport  
+2. Fish_and_steak_restaurant  
+3. no_evident_not_close_to_airport  
+4. no_evident_not_fish_and_steak_restaurant"
+71,bad_location,"- No shop  
+  have evident no shop  
+
+- No pharmacy  
+  have evident no pharmacy"
+71,good_location,"1. **Support**: near_airport  
+   **Contrary**: no_evident_not_near_airport  
+
+2. **Support**: airport_reachable_in_a_few_minutes  
+   **Contrary**: no_evident_not_airport_reachable_in_a_few_minutes  
+
+3. **Support**: Mackenzie_beach_accessible_on_foot  
+   **Contrary**: no_evident_not_Mackenzie_beach_accessible_on_foot"
+74,good_location,"- close_to_airport  
+  no_evident_not_close_to_airport  
+
+- close_to_beach  
+  no_evident_not_close_to_beach  
+
+- close_to_salt_lake  
+  no_evident_not_close_to_salt_lake  
+
+- plenty_parking  
+  no_evident_not_plenty_parking"
+76,good_location,"- **Support**: nearby  
+  - **Contrary**: no_evident_not_nearby  
+
+Each support is paired with a contrary that starts with ""no evident not"" and uses the same word from the support."
+80,good_location,"- **Support**: McKenzie_Beach  
+  - **Contrary**: no_evident_not_McKenzie_Beach  
+
+- **Support**: within_walking_distance  
+  - **Contrary**: no_evident_not_within_walking_distance"
+81,good_location,"1. Good location close_to_airport  
+2. No evident not close_to_airport"
+82,good_location,"1. **Support**: great_location  
+   **Contrary**: no_evident_not_great_location  
+
+2. **Support**: location  
+   **Contrary**: no_evident_not_location"
+83,bad_location,"- **Support**: location  
+  - **Contrary**: have evident_located_in_small_side_street"
+88,good_location,"1. location  
+2. airport  
+3. no_evident_not_location  
+4. no_evident_not_airport"
+91,good_location,"- close  
+  no_evident_not_close"
+93,good_location,"- **Claim**: good_location  
+- **Support 1**: bus_stop  
+- **Contrary 1**: no_evident_not_bus_stop  
+- **Support 2**: walkable  
+- **Contrary 2**: no_evident_not_walkable"
+95,good_location,"- **Supports**:  
+  - airport  
+  - clean_beach  
+
+- **Contraries**:  
+  - no_evident_not_airport  
+  - no_evident_not_clean_beach"
+98,good_location,"1. **Support**: close_to_airport  
+   **Contrary**: no_evident_not_close_to_airport  
+
+2. **Support**: close_to_clean_beach  
+   **Contrary**: no_evident_not_close_to_clean_beach"
+102,good_location,"- **Support**: close_to_airport  
+  **Contrary**: no_evident_not_close_to_airport  
+
+- **Support**: close_to_makenzie_beach  
+  **Contrary**: no_evident_not_close_to_makenzie_beach  
+
+- **Support**: close_to_touristic_area  
+  **Contrary**: no_evident_not_close_to_touristic_area"
+104,good_location,"[""quiet"", ""no_evident_not_quiet""]"
+106,good_location,"1. **Claim**: good_location  
+2. **Supports and Contraries**:  
+   - close_to_airport, no_evident_not_close_to_airport  
+   - (Note: The original text does not explicitly mention proximity to an airport as a standalone advantage; the previous response may have included this based on context.)"
+107,good_location,"- **Support**: convenient  
+  - **Contrary**: no evident not convenient  
+
+This response adheres to the specified conditions: using short words without adjectives or adverbs for supports, providing exact vocabulary from the original text, adding a contrary for each support with ""no evident not,"" and listing all supports and contraries in one format."
+109,good_location,"- Claim: good_location  
+- Supports and Contraries:  
+  - close_to_airport, no_evident_not_close_to_airport  
+  - clean_beach, no_evident_not_clean_beach"
+111,good_location,"1. close_to_airport  
+   no_evident_not_close_to_airport  
+
+2. very_clean_beach  
+   no_evident_not_very_clean_beach"
+114,good_location,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Support**: close_to_airport  
+   **Contrary**: no_evident_not_close_to_airport  
+
+2. **Support**: close_to_clean_beach  
+   **Contrary**: no_evident_not_close_to_clean_beach  
+
+3. **Support**: 10_minutes_from_airport_by_taxi  
+   **Contrary**: no_evident_not_10_minutes_from_airport_by_taxi  
+
+4. **Support**: 15_minutes_from_airport_by_shuttle_bus  
+   **Contrary**: no_evident_not_15_minutes_from_airport_by_shuttle_bus  
+
+5. **Support**: McKenzie_beach_is_close_by  
+   **Contrary**: no_evident_not_McKenzie_beach_is_close_by  
+
+6. **Support**: food_restaurants_off_opposite_beach_were_only_a_ten_minute_walk  
+   **Contrary**: no_evident_not_food_restaurants_off_opposite_beach_were_only_a_ten_minute_walk"
+115,good_location,"1. Close to Mackenzie beach  
+2. Close to airport  
+3. Best location in Larnaca  
+
+Contraries:  
+4. No evident not close to Mackenzie beach  
+5. No evident not close to airport  
+6. No evident not best location in Larnaca"
+116,good_location,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your instructions:
+
+- clean  
+- air_conditioned  
+- close_to_airport  
+- no_evident_not_clean  
+- no_evident_not_air_conditioned  
+- no_evident_not_close_to_airport"
+117,good_location,"- location next to the airport  
+- great for flights very early in the morning  
+- only takes you 5 minutes to get to the airport  
+- no evident not location next to the airport  
+- no evident not great for flights very early in the morning  
+- no evident not only takes you 5 minutes to get to the airport"
+118,good_location,"1. **Claim**: good_location  
+2. **Supports**:
+   - close_to_airport
+   - beach  
+3. **Contraries**:
+   - no_evident_not_close_to_airport
+   - no_evident_not_beach"
+119,good_location,"- airport  
+  no evident not airport  
+
+- clean beach  
+  no evident not clean beach"
+120,good_location,"- Claim: good_location  
+  Support: close  
+    Contrary: no_evident_not_close"
+123,bad_location,"1. Noisy  
+   - have evident noisy"
+123,good_location,"- **Support**: convenient  
+  - **Contrary**: no evident not convenient  
+
+- **Support**: close_to_airport  
+  - **Contrary**: no evident not close_to_airport"
+125,good_location,"1. Claim: good_location  
+2. Supports:  
+   - close_to_one_of_the_best_beaches_of_Larnaca_region  
+   - perfectly_connect_by_public_transport_with_Larnaca_city_centre  
+3. Contraries:  
+   - no_evident_not_close_to_one_of_the_best_beaches_of_Larnaca_region  
+   - no_evident_not_perfectly_connect_by_public_transport_with_Larnaca_city_centre"
+126,bad_location,"Here is the structured response in ABA format based on your requirements:
+
+- **Claim**: bad_location
+  - **Supports**:
+    - bit: have evident bit
+    - loud: have evident loud
+    - outside: have evident outside"
+128,good_location,"- **Support**: close_to_airport  
+  **Contrary**: no_evident_not_close_to_airport"
+129,good_location,"- **Support**: close_to_makenzie  
+  **Contrary**: no_evident_not_close_to_makenzie"
+131,bad_location,"1. Support: a bit far  
+   Contrary: have evident not a bit far  
+
+2. Support: from the city centre  
+   Contrary: have evident not from the city centre"
+134,good_location,"- **Supports**:  
+  - close_to_beach  
+  - close_to_bars  
+
+- **Contraries**:  
+  - no_evident_not_close_to_beach  
+  - no_evident_not_close_to_bars"
+137,good_location,"1. **Support**: great_location  
+   **Contrary**: no_evident_not_great_location  
+
+2. **Support**: location  
+   **Contrary**: no_evident_not_location"
+139,good_location,"- proximity_to_airport  
+  no_evident_not_proximity_to_airport"
+140,good_location,"- **Support**: close_to_airport  
+  **Contrary**: no_evident_not_close_to_airport"
+142,good_location,"- **Support**: near_mackenzie_beach  
+  - **Contrary**: no_evident_not_near_mackenzie_beach"
+143,good_location,"Here’s the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Support**: close_to_airport  
+   - Reason: The location is close to the airport, which supports the claim of being a good location.
+
+2. **Contrary**: no_evident_not_close_to_airport  
+   - Reason: There is no evident reason why the location should not be close to the airport.
+
+Each entry adheres to your specified conditions, including using short words without adjectives or adverbs and ensuring that each contrary starts with ""no evident not"" followed by the same word as the support."
+145,good_location,"1. good_location  
+   close_to_airport  
+   no_evident_not_close_to_airport  
+   close_to_5_min_walk  
+   no_evident_not_close_to_5_min_walk  
+   close_to_makenzie_blue_flag_beach  
+   no_evident_not_close_to_makenzie_blue_flag_beach"
+148,good_location,"- **Supports**:  
+  - airport  
+
+- **Contraries**:  
+  - no_evident_not_airport"
+149,good_location,"1. close_to_airport  
+2. clean_beach  
+3. no_evident_not_close_to_airport  
+4. no_evident_not_clean_beach"
+152,good_location,"1. close_to_bars_near_sea  
+   no_evident_not_close_to_bars_near_sea  
+
+2. close_to_airport  
+   no_evident_not_close_to_airport"
+153,good_location,"- Support: close_to_airport_after_late_flight  
+  Contrary: no_evident_not_close_to_airport_after_late_flight"
+155,good_location,"- near_airport  
+  - no_evident_not_near_airport"
+156,good_location,"- Support: airport  
+- Support: clean_beach  
+- Contrary: no_evident_not_airport  
+- Contrary: no_evident_not_clean_beach"
+157,good_location,"Support: walkable_beach  
+Contrary: no_evident_not_walkable_beach"
+158,good_location,"1. **Claim**: good_location  
+2. **Supports**: close_to_airport, close_to_clean_beach  
+3. **Contraries**: no_evident_not_close_to_airport, no_evident_not_close_to_clean_beach"
+159,good_location,"1. close_to_airport  
+   - no_evident_not_close_to_airport  
+
+2. proximity_to_airport (derived from ""close to the airport"")  
+   - no_evident_not_proximity_to_airport"
+168,good_location,"1. Claim: likes_location  
+2. Supports:  
+   - close_to_airport  
+   - close_to_beach  
+   - close_to_restaurants  
+3. Contraries:  
+   - no_evident_not_close_to_airport  
+   - no_evident_not_close_to_beach  
+   - no_evident_not_close_to_restaurants"
+169,good_location,"- **Support**: close_to_airport  
+  **Contrary**: no_evident_not_close_to_airport  
+
+- **Support**: close_to_airport  
+  **Contrary**: no_evident_not_close_to_airport"
+171,good_location,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Supports**:  
+  - close_to_salt_lake  
+  - close_to_mckenzie_beach  
+  - many_cafes_and_bars_nearby  
+
+- **Contraries**:  
+  - no_evident_not_close_to_salt_lake  
+  - no_evident_not_close_to_mckenzie_beach  
+  - no_evident_not_many_cafes_and_bars_nearby"
+177,good_location,"1. close_to_beach  
+2. close_to_airport  
+3. no_evident_not_close_to_beach  
+4. no_evident_not_close_to_airport"
+179,good_location,"1. Close_to_local_restaurants  
+2. Close_to_beach  
+3. No_evident_not_close_to_local_restaurants  
+4. No_evident_not_close_to_beach"
+182,good_location,"1. close_to_airport  
+2. very_clean_beach  
+3. no_evident_not_close_to_airport  
+4. no_evident_not_very_clean_beach"
+183,good_location,"- **Support**: close_to_beach  
+  - **Contrary**: no_evident_not_close_to_beach  
+
+This provides a single support and its corresponding contrary based on the given text."
+185,bad_location,"1. Access_to_a_car  
+   have_evident_access_to_a_car"
+185,good_location,"1. **Support**: close_to_airport  
+   **Contrary**: no_evident_not_close_to_airport  
+
+2. **Support**: clean_beach  
+   **Contrary**: no_evident_not_clean_beach"
+190,good_location,"1. **Support**: close_to_airport  
+   **Contrary**: no_evident_not_close_to_airport  
+
+2. **Support**: close_to_clean_beach  
+   **Contrary**: no_evident_not_close_to_clean_beach"
+191,good_location,"- close_to_airport  
+  no_evident_not_close_to_airport  
+
+- beside_the_airport  
+  no_evident_not_beside_the_airport"
+193,good_location,"1. **Support**: excellent  
+   **Contrary**: no_evident_not_excellent  
+
+2. **Support**: beach  
+   **Contrary**: no_evident_not_beach  
+
+3. **Support**: airport_transfer  
+   **Contrary**: no_evident_not_airport_transfer"
+195,bad_location,"1. Supports:  
+   - not_too_close_to_the_beach  
+
+2. Contraries:  
+   - have_evident_not_too_close_to_the_beach"
+195,good_location,"1. **Support**: pre_airport_stays  
+   **Contrary**: no_evident_not_pre_airport_stays  
+
+2. **Support**: post_airport_stays  
+   **Contrary**: no_evident_not_post_airport_stays"
+197,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - close_to_airport
+  - close_to_mackenzy_beach_with_restaurants
+
+- **Contraries:**
+  - no_evident_not_close_to_airport
+  - no_evident_not_close_to_mackenzy_beach_with_restaurants"
+199,good_location,"Here is the ABA format based on your text:
+
+- **Supports**:  
+  - close_to_airport  
+  - very_clean_beach  
+  - 5_minute_walk_from_beach_restaurants_and_cafés  
+
+- **Contraries**:  
+  - no_evident_not_close_to_airport  
+  - no_evident_not_very_clean_beach  
+  - no_evident_not_5_minute_walk_from_beach_restaurants_and_cafés"
+202,good_location,"1. close_to_beach  
+2. great_restaurants  
+3. no_evident_not_close_to_beach  
+4. no_evident_not_great_restaurants"
+204,good_location,"1. close_to_airport  
+2. clean_beach  
+3. no_evident_not_close_to_airport  
+4. no_evident_not_clean_beach"
+206,good_location,"1. location  
+2. close_to_beach  
+3. no_evident_not_location  
+4. no_evident_not_close_to_beach"
+208,good_location,"1. Support: quiet  
+   Contrary: no evident not quiet  
+
+2. Support: easy find  
+   Contrary: no evident not easy find"
+210,good_location,"1. **Claim**: good_location  
+2. **Supports and Contraries**:  
+   - close_to_airport: no evident not close_to_airport  
+   - very_clean_beach: no evident not very_clean_beach"
+211,bad_location,"1. **Support:** half an hour  
+   **Contrary:** have evident half an hour  
+
+2. **Support:** walking  
+   **Contrary:** have evident walking"
+211,good_location,"1. close_to_airport  
+2. close_to_town  
+3. no_evident_not_close_to_airport  
+4. no_evident_not_close_to_town"
+219,bad_location,"Here is the text in Assumption-Based Argumentation (ABA) format based on your instructions:
+
+- **Support**: due to air traffic  
+  - **Contrary**: have evident due to air traffic"
+220,good_location,"- **Supports**:  
+  - close_to_airport  
+  - very_clean_beach  
+
+- **Contraries**:  
+  - no_evident_not_close_to_airport  
+  - no_evident_not_very_clean_beach"
+226,bad_location,"1. Support: warm fridge  
+   Contrary: have evident warm fridge  
+
+2. Support: lack of nearby shop  
+   Contrary: have evident lack of nearby shop"
+227,good_location,"1. close_to_airport  
+   - No evident not close_to_airport  
+
+2. close_to_clean_beach  
+   - No evident not close_to_clean_beach"
+228,good_location,"- Convenience  
+  Quietness  
+  no_evident_not_convenience  
+  no_evident_not_quietness"
+231,good_location,"- **Support**: located_in_a_advantageous_position  
+  - **Contrary**: no_evident_not_located_in_a_advantageous_position"
+232,good_location,"- close_to_airport  
+  no_evident_not_close_to_airport"
+233,bad_location,"1. **Support**: far  
+   **Contrary**: have evident far  
+
+2. **Support**: everything we need in the cafe  
+   **Contrary**: have evident everything we need in the cafe"
+234,good_location,"1. Support: bars  
+   Contrary: no_evident_not_bars  
+
+2. Support: restaurants  
+   Contrary: no_evident_not_restaurants  
+
+3. Support: beach  
+   Contrary: no_evident_not_beach"
+235,good_location,"- **Claim**: good_location  
+- **Supports**:  
+  - close_to_airport  
+  - clean_beach  
+- **Contraries**:  
+  - no_evident_not_close_to_airport  
+  - no_evident_not_clean_beach"
+236,good_location,"### Claim: good_location  
+### Supports & Contraries:  
+
+1. **Support:** close_to_bus_route (from ""about 100m from the 425 bus route"")  
+   **Contrary:** No evident not close_to_bus_route  
+
+2. **Support:** runs_to_airport (from ""runs to the airport"")  
+   **Contrary:** No evident not runs_to_airport"
+238,good_location,"Here is the structured ABA format based on your instructions:
+
+- **Claim**: good_location
+- **Supports**:
+  - close_to_airport
+- **Contraries**:
+  - no_evident_not_close_to_airport"
+239,good_location,"- Support: close_to_sea  
+  Contrary: no_evident_not_close_to_sea"
+240,good_location,"1. **Support**: nice  
+   - **Contrary**: no evident not nice  
+
+2. **Support**: close  
+   - **Contrary**: no evident not close  
+
+3. **Support**: very nice (split into two parts for each location aspect)  
+   - **Contrary 1**: no evident not nice (for beach proximity)  
+   - **Contrary 2**: no evident not nice (for restaurant proximity)  
+
+4. **Support**: close (split into two parts for each location aspect)  
+   - **Contrary 1**: no evident not close (for beach proximity)  
+   - **Contrary 2**: no evident not close (for restaurant proximity)"
+241,good_location,"Here is the text converted into Assumption Based Argumentation (ABA) format based on your instructions:
+
+- **Support**: close_to_airport  
+  - **Contrary**: no_evident_not_close_to_airport  
+
+- **Support**: close_to_luxurious_beach_strip_with_restaurants  
+  - **Contrary**: no_evident_not_close_to_luxurious_beach_strip_with_restaurants"
+243,good_location,"1. near_beach  
+2. near_restaurants  
+3. no_evident_not_near_beach  
+4. no_evident_not_near_restaurants"
+246,bad_location,"1. Supports:
+   - located_in_small_side_street
+     - have_evident_located_in_small_side_street
+   - amongst_several_apartment_buildings_on_a_small_side_street
+     - have_evident_amongst_several_apartment_buildings_on_a_small_side_street"
+246,good_location,"- **Support**: near_airport  
+  - **Contrary**: no_evident_not_near_airport  
+
+- **Support**: about_10_minutes_from_airport  
+  - **Contrary**: no_evident_not_about_10_minutes_from_airport"
+250,good_location,"- good_location  
+  walk_to_beach  
+    no_evident_not_walk_to_beach  
+  walk_to_restaurants  
+    no_evident_not_walk_to_restaurants"
+253,good_location,"- **Supports**:  
+  - close_to_airport  
+  - clean_beach  
+
+- **Contraries**:  
+  - no_evident_not_close_to_airport  
+  - no_evident_not_clean_beach"
+254,good_location,"- Close_to_airport  
+  - No evident not close_to_airport"
+255,good_location,"Here is the text formatted into ABA (Assumption Based Argumentation) format based on your requirements:
+
+1. **Supports:**
+   - cozy
+   - modern
+   - clean
+
+2. **Contraries:**
+   - no_evident_not_cozy
+   - no_evident_not_modern
+   - no_evident_not_clean"
+257,good_location,"- **Supports**:  
+  - location  
+  - quiet  
+
+- **Contraries**:  
+  - no_evident_not_location  
+  - no_evident_not_quiet"
+259,good_location,"1. excellent_location: no_evident_not_excellent_location  
+2. near_airport: no_evident_not_near_airport  
+3. easy_drive_into_larnaca: no_evident_not_easy_drive_into_larnaca"
+260,good_location,"Here is the ABA text based on your conditions:
+
+- Close to Mackenzie Beach  
+  - Support: close_to_mackenzie_beach  
+    - Contrary: no_evident_not_close_to_mackenzie_beach  
+- Distance to downtown (3 km)  
+  - Support: distance_to_downtown  
+    - Contrary: no_evident_not_distance_to_downtown  
+- Nice promenade nearby  
+  - Support: nice_promenade  
+    - Contrary: no_evident_not_nice_promenade"
+262,good_location,"1. close_to_airport  
+2. close_to_clean_beach  
+3. no_evident_not_close_to_airport  
+4. no_evident_not_close_to_clean_beach"
+268,good_location,"1. easy_walk  
+2. short_journey  
+3. no_evident_not_easy_walk  
+4. no_evident_not_short_journey"
+271,good_location,"1. **Support**: location is close  
+   **Contrary**: no evident not location is close  
+
+2. **Support**: beach is near  
+   **Contrary**: no evident not beach is near  
+
+3. **Support**: restaurants are near  
+   **Contrary**: no evident not restaurants are near  
+
+4. **Support**: public_bus_station is near_hotel  
+   **Contrary**: no evident not public_bus_station is near_hotel  
+
+5. **Support**: airport is close  
+   **Contrary**: no evident not airport is close"
+272,good_location,"- close_to_mackenzie_beach  
+  no_evident_not_close_to_mackenzie_beach  
+
+- very_close_to_center  
+  no_evident_not_very_close_to_center"
+276,good_location,"- **Support**: close_to_airport  
+  **Contrary**: no_evident_not_close_to_airport  
+
+- **Support**: very_clean_beach  
+  **Contrary**: no_evident_not_very_clean_beach"
+278,good_location,"1. close_to_airport  
+   - No evident not close_to_airport  
+2. close_to_clean_beach  
+   - No evident not close_to_clean_beach  
+3. easy  
+   - No evident not easy"
+279,good_location,"1. Close_to_residential_area  
+2. Close_to_modern_hotel  
+3. No_evident_not_close_to_residential_area  
+4. No_evident_not_close_to_modern_hotel"
+280,bad_location,"1. Not Inspiring  
+   have evident Not Inspiring  
+
+2. Lovely Restaurants  
+   have evident Lovely Restaurants  
+
+3. Sea Front  
+   have evident Sea Front  
+
+4. Handy for Limassol  
+   have evident Handy for Limassol  
+
+5. Handy for Airport  
+   have evident Handy for Airport"
+280,good_location,"1. Close_to_very_close  
+2. Close_to_sea_front  
+3. Handy_for_Limassol_and_airport  
+4. No_evident_not_close_to_very_close  
+5. No_evident_not_close_to_sea_front  
+6. No_evident_not_handy_for_Limassol_and_airport"
+281,good_location,"- **airport**  
+  - **no evident not airport**  
+
+- **restaurants**  
+  - **no evident not restaurants**"
+282,good_location,"- close_to_beach  
+  - quiet_place  
+    - no_evident_not_close_to_beach  
+    - no_evident_not_quiet_place"
+284,good_location,"1. close_to_delicious  
+2. close_to_fun  
+3. close_to_close  
+4. no_evident_not_delicious  
+5. no_evident_not_fun  
+6. no_evident_not_close"
+286,good_location,"1. close_to_airport  
+2. clean_beach  
+3. no_evident_not_close_to_airport  
+4. no_evident_not_clean_beach"
+288,bad_location,"1. **Support**: located_in_small_side_street  
+   **Contrary**: have_evident_located_in_small_side_street  
+
+2. **Support**: distant_from_city_center  
+   **Contrary**: have_evident_distant_from_city_center"
+288,good_location,"- **Supports and Contraries:**  
+  - close_to_airport, no_evident_not_close_to_airport  
+  - distant_from_city_center, no_evident_not_distant_from_city_center  
+  - close_to_salt_lake, no_evident_not_close_to_salt_lake"
+289,good_location,"1. Support: close_to_airport  
+   Contrary: no_evident_not_close_to_airport  
+
+2. Support: madezie_beach_area  
+   Contrary: no_evident_not_makenzie_beach_area"
+290,good_location,"1. **Support**: good_value  
+   - **Contrary**: no_evident_not_good_value  
+
+2. **Support**: location  
+   - **Contrary**: no_evident_not_location"
+291,good_location,"1. Good location close_to_airport  
+2. No evident not close_to_airport"
+292,good_location,"- **Supports**:  
+  - close_to_airport  
+  - close_to_clean_beach  
+
+- **Contraries**:  
+  - no_evident_not_close_to_airport  
+  - no_evident_not_close_to_clean_beach"
+295,good_location,"1. close_to_center  
+2. quiet_area  
+3. no_evident_not_close_to_center  
+4. no_evident_not_quiet_area"
+298,good_location,"- bus_425  
+- close_to_airport  
+- no_evident_not_bus_425  
+- no_evident_not_close_to_airport"
+299,good_location,"1. convenient  
+   - no_evident_not_convenient  
+
+2. easy  
+   - no_evident_not_easy  
+
+3. catch  
+   - no_evident_not_catch  
+
+4. public_transportation  
+   - no_evident_not_public_transportation  
+
+5. around  
+   - no_evident_not_around  
+
+6. center  
+   - no_evident_not_center"
+300,good_location,"- close_to_airport  
+  no_evident_not_close_to_airport  
+
+- close_to_bus_station  
+  no_evident_not_close_to_bus_station  
+
+- close_to_beach  
+  no_evident_not_close_to_beach  
+
+- close_to_restaurants  
+  no_evident_not_close_to_restaurants"
+301,good_location,"- Support: quiet  
+  Contrary: no evident not_quiet"
+304,good_location,"1. **Supports**:  
+   - on_foot  
+   - close_to_bus_station  
+   - has_many_restaurants  
+   - has_many_bars  
+   - has_many_shops  
+
+2. **Contraries**:  
+   - no_evident_not_on_foot  
+   - no_evident_not_close_to_bus_station  
+   - no_evident_not_has_many_restaurants  
+   - no_evident_not_has_many_bars  
+   - no_evident_not_has_many_shops"
+307,good_location,"1. close_to_airport  
+   no_evident_not_close_to_airport  
+
+2. clean_beach  
+   no_evident_not_clean_beach"
+310,good_location,"1. Close proximity to Larnaca airport.  
+   - Support: close  
+     Contrary: no evident not close  
+
+2. Close to Mckenzie beach with lots of restaurants for dinner.  
+   - Support: close  
+     Contrary: no evident not close  
+
+3. Close to Mckenzie beach with lots of restaurants for dinner.  
+   - Support: lots_of_restaurants  
+     Contrary: no evident not lots_of_restaurants"
+312,good_location,"1. **Support**: close_to_airport  
+   **Contrary**: no_evident_not_close_to_airport  
+
+2. **Support**: five_minute_walk  
+   **Contrary**: no_evident_not_five_minute_walk"
+313,good_location,"Here is the structured ABA format based on your requirements:
+
+**Supports:**
+1. quiet_street  
+2. sufficient_parking_facilities  
+
+**Contraries:**  
+1. no_evident_not_quiet_street  
+2. no_evident_not_sufficient_parking_facilities"
+314,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Support**: in_5_minutes_from_airport  
+- **Contrary**: no_evident_not_in_5_minutes_from_airport"
+316,good_location,"1. Close_to_airport  
+   - Support: close_to_airport  
+     - Contrary: no_evident_not_close_to_airport  
+2. Clean_beach  
+   - Support: clean_beach  
+     - Contrary: no_evident_not_clean_beach"
+318,good_location,"- Close_to_Larnaca_airport  
+  Close_to_beach_and_restaurants  
+  No_evident_not_close_to_Larnaca_airport  
+  No_evident_not_close_to_beach_and_restaurants"
+322,bad_location,"1. **Support**: small  
+   - **Contrary**: have evident small  
+
+2. **Support**: not much else nearby  
+   - **Contrary**: have evident not much else nearby"
+322,good_location,"1. Support: walk  
+   Contrary: no_evident_not_walk  
+
+2. Support: pleasant  
+   Contrary: no_evident_not_pleasant"
+323,good_location,"1. close_to_airport  
+2. very_clean_beach  
+3. no_evident_not_close_to_airport  
+4. no_evident_not_very_clean_beach"
+324,good_location,"1. has_morning_flight  
+2. close_to_airport_in_7_min  
+3. no_evident_not_has_morning_flight  
+4. no_evident_not_close_to_airport_in_7_min"
+325,bad_location,"1. **Support**: has_smell_from_lake  
+   **Contrary**: have_evident_has_smell_from_lake  
+
+2. **Support**: doesn't Depend On_Hotel  
+   **Contrary**: have_evident_doesn't_depend_on_hotel"
+325,good_location,"- Support: near  
+  Contrary: no evident not near  
+
+- Support: quick walk  
+  Contrary: no evident not quick walk"
+327,good_location,"- Claim: good_location  
+- Supports and Contraries:  
+  - close_to_larnaca_airport  
+    - no_evident_not_close_to_larnaca_airport  
+  - clean_beach  
+    - no_evident_not_clean_beach"
+328,bad_location,"1. Supports:  
+- located_in_small_side_street  
+
+2. Contraries:  
+- have evident located_in_small_side_street"
+328,good_location,"1. very close  
+   no evident not very close  
+
+2. only_away  
+   no evident not only_away"
+329,good_location,"- Support: quiet  
+- Contrary: no evident not quiet"
+332,good_location,"- **Support**: close_to_cafe_nero  
+  - **Contrary**: no_evident_not_close_to_cafe_nero  
+
+- **Support**: high_quality  
+  - **Contrary**: no_evident_not_high_quality"
+334,good_location,"- **Support**: close_to_airport  
+  - **Contrary**: no_evident_not_close_to_airport  
+
+- **Support**: close_to_clean_beach  
+  - **Contrary**: no_evident_not_close_to_clean_beach"
+338,good_location,"Here is the ABA format for your request:
+
+1. close_to_airport  
+2. close_to_clean_beach  
+3. walk_distance_to_beach  
+4. walk_distance_to_restaurants  
+5. walk_distance_to_shops  
+6. away_from_traffic  
+
+Contraries:  
+1. no_evident_not_close_to_airport  
+2. no_evident_not_close_to_clean_beach  
+3. no_evident_not_walk_distance_to_beach  
+4. no_evident_not_walk_distance_to_restaurants  
+5. no_evident_not_walk_distance_to_shops  
+6. no_evident_not_away_from_traffic"
+340,bad_location,"- **Support 1**: located_in_far_than_most_hotels  
+  - **Contrary 1**: have_evident_located_in_far_than_most_hotels  
+
+- **Support 2**: area_is_good_for_water_sports_and_quiet_beaches  
+  - **Contrary 2**: have_evident_area_is_good_for_water_sports_and_quiet_beaches"
+344,good_location,"- close_to_beach  
+  no_evident_not_close_to_beach"
+347,good_location,"1. good_location  
+2. near_10_minutes_walk_from_beach  
+3. no_evident_not_near_10_minutes_walk_from_beach  
+4. loads_of_restaurants  
+5. no_evident_not_loads_of_restaurants"
+348,bad_location,"Here is the structured response based on the provided text, following the specified format:
+
+- **Supports**:
+  - ""I do not find aircraft noise bothersome.""
+  - ""The noise from aircraft landing and takeoff can be an issue for those with young families or those seeking a quiet environment.""
+
+- **Contraries**:
+  - ""Have evident that aircraft noise can be bothersome.""
+  - ""Have evident that the noise from aircraft landing and takeoff is not an issue for everyone."""
+349,bad_location,"1. Located in a small side street: have evident located in a small side street  
+2. Pretty far from major tourist spots: have evident pretty far from major tourist spots"
+349,good_location,"- Support: near_bus_stop  
+  Contrary: no_evident_not_near_bus_stop"
+350,good_location,"- close_to_airport  
+  no_evident_not_close_to_airport  
+
+- 6_mins_drive  
+  no_evident_not_6_mins_drive"
+351,good_location,"1. Close_to_mackenzie_beach  
+2. Close_to_bars  
+3. no_evident_not_close_to_mackenzie_beach  
+4. no_evident_not_close_to_bars"
+353,bad_location,"1. Claim: bad_location  
+2. Supports and Contraries:  
+   - Surprised, have evident surprised  
+   - Far, have evident far"
+353,good_location,"- near_airport  
+  no_evident_not_near_airport"
+355,good_location,"1. **Support**: early_flight_from_larnaca_airport  
+   **Contrary**: no_evident_not_early_flight_from_larnaca_airport  
+
+2. **Support**: close_to_beach_strip_with_restaurants  
+   **Contrary**: no_evident_not_close_to_beach_strip_with_restaurants"
+358,good_location,"Here is the structured ABA format based on the given text and conditions:
+
+- **Claim**: good_location  
+  - **Support**: close_to_airport  
+    - **Contrary**: No_evident_not_close_to_airport"
+361,good_location,"- **Supports**: near, Makanzie Beach  
+- **Contraries**: no_evident_not_near, no_evident_not_Makanzie_Beach"
+364,good_location,"1. **Support**: close_to_airport  
+   **Contrary**: no_evident_not_close_to_airport  
+
+2. **Support**: close_to_clean_beach  
+   **Contrary**: no_evident_not_close_to_clean_beach  
+
+3. **Support**: loads_of_bars_and_restaurants  
+   **Contrary**: no_evident_not_loads_of_bars_and_restaurants  
+
+4. **Support**: close_to_5_mins_walk_away  
+   **Contrary**: no_evident_not_close_to_5_mins_walk_away"
+367,good_location,"- close_to_airport  
+  - no_evident_not_close_to_airport  
+- close_to_clean_beach  
+  - no_evident_not_close_to_clean_beach"
+368,good_location,"- **Support**: perfect_location  
+  - **Contrary**: no_evident_not_perfect_location"
+370,good_location,"1. close_to_airport  
+2. close_to_clean_beach  
+3. no_evident_not_close_to_airport  
+4. no_evident_not_close_to_clean_beach"
+372,good_location,"- **Supports**:  
+  close_to_airport (15 minutes drive from the airport)  
+  close_to_city_center (15 walk to the city center)  
+  close_to_nice_beach (about 300 meters to the nice beach)  
+
+- **Contraries**:  
+  no_evident_not_close_to_airport  
+  no_evident_not_close_to_city_center  
+  no_evident_not_close_to_nice_beach"
+373,good_location,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Support**: airport  
+  - Reason: couple_of_nights  
+
+- **Contrary**: no evident not airport"
+374,good_location,"- Close_to_airport  
+  No_evident_not_close_to_airport  
+
+- Very_clean_beach  
+  No_evident_not_very_clean_beach"
+376,good_location,"- Close_to_beach  
+  No evident not close_to_beach"
+377,good_location,"1. Close_to_beach  
+   No_evident_not_close_to_beach  
+
+2. Near_airport  
+   No_evident_not_near_airport  
+
+3. Near_bus_station  
+   No_evident_not_near_bus_station"
+380,good_location,"1. **Support**: close_to_airport  
+   **Contrary**: no_evident_not_close_to_airport  
+
+2. **Support**: close_to_beaches  
+   **Contrary**: no_evident_not_close_to_beaches  
+
+3. **Support**: close_to_entertainment  
+   **Contrary**: no_evident_not_close_to_entertainment"
+381,good_location,"1. excellent_location  
+2. walking_distance_to_beach  
+3. close_to_airport  
+
+Contrary:  
+4. no_evident_not_excellent_location  
+5. no_evident_not_walking_distance_to_beach  
+6. no_evident_not_close_to_airport"
+382,good_location,"- **Support 1:** close_to_airport  
+  - **Contrary 1:** no_evident_not_close_to_airport  
+
+- **Support 2:** 7-minute_walking_distance  
+  - **Contrary 2:** no_evident_not_7-minute_walking_distance"
+388,good_location,"- location_near_airport, no_evident_not_location_near_airport  
+- location_at_beach, no_evident_not_location_at_beach"
+389,good_location,"- **Supports**:  
+  - close_to_airport  
+  - clean_beach  
+
+- **Contraries**:  
+  - no_evident_not_close_to_airport  
+  - no_evident_not_clean_beach"
+391,bad_location,"1. **Support**: close_surroundings_are_not_exciting  
+   - **Contrary**: have_evident_close_surroundings_are_not_exciting  
+
+2. **Support**: close_surroundings_are_not_clean  
+   - **Contrary**: have_evident_close_surroundings_are_not_clean"
+391,good_location,"- Close_to_mackenzie_beach  
+  no_evident_not_close_to_mackenzie_beach"
+392,good_location,"- **Support 1**: close_to_airport  
+  - **Contrary 1**: no_evident_not_close_to_airport  
+
+- **Support 2**: clean_beach  
+  - **Contrary 2**: no_evident_not_clean_beach"
+394,good_location,"Here is the text in Assumption-Based Argumentation (ABA) format based on your requirements:
+
+1. **Support**: close_to_airport  
+   **Contrary**: No evident not close_to_airport  
+
+2. **Support**: very_clean_beach  
+   **Contrary**: No evident not very_clean_beach  
+
+3. **Support**: 7_minutes_walk_from_beach_restaurants_and_supermarket  
+   **Contrary**: No evident not 7_minutes_walk_from_beach_restaurants_and_supermarket  
+
+4. **Support**: airport_10_mins_by_taxi  
+   **Contrary**: No evident not airport_10_mins_by_taxi  
+
+5. **Support**: larnaca_centre_10_mins_by_bus_or_about_30_mins_walking  
+   **Contrary**: No evident not larnaca_centre_10_mins_by_bus_or_about_30_mins_walking"
+398,good_location,"1. Walk  
+2. beach_bars  
+3. airport  
+4. no_evident_not_walk  
+5. no_evident_not_beach_bars  
+6. no_evident_not_airport"
+402,good_location,"- Close_to_mackenzie_beach  
+  Short_distance  
+  no_evident_not_close_to_mackenzie_beach  
+  no_evident_not_short_distance"
+406,good_location,"- Claim: good_location  
+- Close_to_makkenzy_beach  
+  - Support: close_to_makkenzy_beach  
+    - Contrary: no_evident_not_close_to_makkenzy_beach"
+407,good_location,"- **Support**: close_to_airport  
+  - **Contrary**: no_evident_not_close_to_airport  
+
+- **Support**: clean_beach  
+  - **Contrary**: no_evident_not_clean_beach"
+410,good_location,"### Supports:
+1. Being close to the airport in Larnaka makes traveling easier.  
+2. Being right next to the Salt Lake is a must-see especially if there is a good sunset.  
+3. Within a 10 minute walk you can be on MacKenzie beach which is well maintained and cleaner than other beaches we seen in Larnaka.  
+4. The hotel is next to a bus stop for travelling between downtown and other locations.  
+5. Very handy since we didn’t hire a car.  
+
+### Contraries:  
+1. No evident not (being close to the airport in Larnaka makes traveling harder).  
+2. No evident not (being right next to the Salt Lake is not a must-see especially if there is no good sunset).  
+3. No evident not (within a 10 minute walk you can’t be on MacKenzie beach which is well maintained and cleaner than other beaches we seen in Larnaka).  
+4. No evident not (the hotel is not next to a bus stop for travelling between downtown and other locations).  
+5. No evident not (Very handy since we didn’t hire a car isn’t not handy since we didn’t hire a car)."
+415,good_location,"- **Supports**:  
+  close_to_mackenzie_beach  
+  has_restaurants_and_lounges  
+
+- **Contraries**:  
+  no_evident_not_close_to_mackenzie_beach  
+  no_evident_not_has_restaurants_and_lounges"
+417,good_location,"1. Close_to_airport  
+2. close_to_clean_beach  
+3. no_evident_not_close_to_airport  
+4. no_evident_not_close_to_clean_beach"
+419,good_location,"- **Support**: close_to_airport  
+  - **Contrary**: no_evident_not_close_to_airport  
+
+- **Support**: clean_beach  
+  - **Contrary**: no_evident_not_clean_beach"
+420,bad_location,"Here is the text generated in ABA format based on your conditions:
+
+**Supports and Contraries:**
+
+- **Support:** a little bit far  
+  **Contrary:** have evident a little bit far"
+421,good_location,"1. Support: cafés  
+   Contrary: no_evident_not_cafés  
+
+2. Support: restaurants  
+   Contrary: no_evident_not_restaurants  
+
+3. Support: nightlife  
+   Contrary: no_evident_not_nightlife"
+422,good_location,"1. Close_to_city  
+2. Accessible_by_any_transportation  
+3. no_evident_not_close_to_city  
+4. no_evident_not_accessible_by_any_transportation"
+423,good_location,"- Close_to_airport  
+  no_evident_not_close_to_airport  
+
+- very_clean_beach  
+  no_evident_not_very_clean_beach"
+424,good_location,"1. Close_to_jogging_trails  
+   no_evident_not_close_to_jogging_trails  
+
+2. Close_to_airport  
+   no_evident_not_close_to_airport"
+425,good_location,"- Accessibility  
+  no_evident_not_accessibility"
+426,bad_location,"1. **Claim**: noise_level_in_week_4_a.m  
+2. **Supports**:  
+   - 2_times_noise_in_week_4_a.m  
+     - have_evident_2_times_noise_in_week_4_a.m"
+427,bad_location,"**Supports and Counterarguments:**
+
+- **Support 1:** located_not_on_beach_front
+- **Counterargument for Support 1:** have_evident_located_not_on_beach_front"
+429,good_location,"1. **Claim**: good_location  
+2. **Supports**:
+   - quiet
+   - location  
+3. **Contraries**:
+   - no evident not quiet
+   - no evident not location"
+431,bad_location,"1. **Support**: small  
+   - **Contrary**: have evident small  
+
+2. **Support**: nothing  
+   - **Contrary**: have evident nothing"
+431,good_location,"1. close_to_bus_stop  
+   no_evident_not_close_to_bus_stop  
+
+2. close_to_town  
+   no_evident_not_close_to_town"
+432,good_location,"Here is the structured ABA format based on your instructions:
+
+**Supports and Contraries:**
+
+1. **close_to_airport**
+   - No evident not close_to_airport
+2. **close_to_clean_beach**
+   - No evident not close_to_clean_beach
+3. **short_walk_to_mcKenzie_beach**
+   - No evident not short_walk_to_mcKenzie_beach"
+434,good_location,"1. Claim: good_location  
+2. Supports: near_airport  
+3. Contraries: no_evident_not_near_airport"
+435,good_location,"- good_location  
+  close_to_airport  
+    no_evident_not_close_to_airport"
+436,good_location,"- close_to_airport  
+- close_to_clean_beach  
+- good_transit_for_short_stay  
+
+- no_evident_not_close_to_airport  
+- no_evident_not_close_to_clean_beach  
+- no_evident_not_good_transit_for_short_stay"
+438,good_location,"1. **Claim**: good_location  
+2. **Supports**:
+   - close_to_larnaka_airport
+   - very_close_to_larnaka_airport  
+3. **Contraries**:
+   - no_evident_not_close_to_larnaka_airport
+   - no_evident_not_very_close_to_larnaka_airport"
+439,good_location,"Supports:  
+close_to_city_centre  
+close_to_airport  
+
+Contraries:  
+no_evident_not_close_to_city_centre  
+no_evident_not_close_to_airport"
+441,bad_location,"1. **Support**: bad location  
+   - **Contrary**: have evident bad location  
+
+2. **Support**: internet issues due to location  
+   - **Contrary**: have evident internet issues due to location  
+
+3. **Support**: far from the center (location)  
+   - **Contrary**: have evident far from the center (location)"
+441,good_location,"- quite, no evident not quite"
+442,bad_location,"1. location  
+2. have_evident_location  
+3. hard  
+4. have_hard_to_find"
+445,good_location,"- next_to_airport  
+  no_evident_not_next_to_airport"
+448,good_location,"1. close_to_airport  
+2. close_to_clean_beach  
+3. no_evident_not_close_to_airport  
+4. no_evident_not_close_to_clean_beach"
+449,good_location,"1. Good location close_to_airport  
+2. No evident not close_to_airport"
+451,good_location,"1. close_from_airport  
+2. close_to_famous_makenzie_beach  
+3. no_evident_not_close_from_airport  
+4. no_evident_not_close_to_famous_makenzie_beach"
+452,good_location,"- **Claim**: good_location  
+- **Supports**:  
+  - close_to_airport  
+  - very_quiet_neighborhood  
+- **Contraries**:  
+  - no_evident_not_close_to_airport  
+  - no_evident_not_very_quiet_neighborhood"
+453,good_location,"- Close_to_airport  
+  Clean_beach  
+  No_evident_not_close_to_airport  
+  No_evident_not_clean_beach"
+454,bad_location,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Support 1**: Surprised at location  
+   - Contrary 1: Have evident, not surprising at location  
+
+2. **Support 2**: Very noisy neighborhood  
+   - Contrary 2: Have evident, neighborhood isn't noisy  
+
+Each support and its corresponding contrary are listed together in a single list without separate sections for supports and contraries. Assumptions or additional claims are omitted as per your instructions."
+455,bad_location,"1. **Support**: bad_location  
+   - The location was not great.  
+
+2. **Contrary**: have evident bad_location  
+   - Have evident the location was actually good.
+
+3. **Support**: located_in_front_of_a_pension_and_so_close_that_people_could_see_the_colour_of_my_underwear  
+   - It’s in front of a pension and so close that people could see the colour of my underwear.  
+
+4. **Contrary**: have evident located_in_front_of_a_pension_and_so_close_that_people_could_see_the_colour_of_my_underwear  
+   - Have evident it’s not actually in front of a pension or too close for people to see the colour of my underwear."
+456,good_location,"1. Support: convenient_by_taxi_to_city_center  
+   Contrary: no_evident_not_convenient_by_taxi_to_city_center  
+
+2. Support: convenient_by_taxi_to_airport  
+   Contrary: no_evident_not_convenient_by_taxi_to_airport  
+
+3. Support: convenient_by_taxi_to_beach  
+   Contrary: no_evident_not_convenient_by_taxi_to_beach"
+457,good_location,"- Support: quiet  
+  Contrary: no_evident_not_quiet  
+
+- Support: close_to_airport  
+  Contrary: no_evident_not_close_to_airport"
+459,bad_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports**:
+  - garbage_truck_passes_at_3_am
+  - incredible_noise
+
+- **Contraries**:
+  - have_evident_garbage_truck_passes_at_3_am
+  - have_evident_incredible_noise"
+460,good_location,"- **Support**: good_location  
+  - **Contrary**: no_evident_not_good_location  
+
+- **Support**: location  
+  - **Contrary**: no_evident_not_location"
+462,good_location,"1. **Supports**:  
+   - excellent  
+   - location  
+
+2. **Contraries**:  
+   - no_evident_not_excellent  
+   - no_evident_not_location"
+465,good_location,"1. **Support**: calm  
+   **Contrary**: no_evident_not_calm  
+
+2. **Support**: close_to_the_beach  
+   **Contrary**: no_evident_not_close_to_the_beach  
+
+3. **Support**: many_restaurants  
+   **Contrary**: no_evident_not_many_restaurants  
+
+4. **Support**: many_coffee_shops  
+   **Contrary**: no_evident_not_many_coffee_shops  
+
+5. **Support**: very_close  
+   **Contrary**: no_evident_not_very_close"
+466,good_location,"- Close_to_airport  
+  - no_evident_not_close_to_airport  
+
+- Nice_place_to_stay  
+  - no_evident_not_nice_place_to_stay"
+471,bad_location,"1. **Support**: a little way  
+   **Contrary**: have evident a little way  
+
+2. **Support**: main town  
+   **Contrary**: have evident main town"
+471,good_location,"Here is the structured ABA format based on your input:
+
+- good_location
+  - very_close
+    - no_evident_not_very_close
+  - close_to_beach
+    - no_evident_not_close_to_beach"
+479,good_location,"1. close_to_airport  
+2. close_to_beach  
+3. no_evident_not_close_to_airport  
+4. no_evident_not_close_to_beach"
+483,good_location,"1. close_to_airport  
+2. close_to_clean_beach  
+3. no_evident_not_close_to_airport  
+4. no_evident_not_close_to_clean_beach"
+484,bad_location,"1. **Support**: location  
+   **Contrary**: have evident location  
+
+2. **Support**: small side street  
+   **Contrary**: have evident small side street  
+
+3. **Support**: far from town  
+   **Contrary**: have evident far from town"
+484,good_location,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your requirements:
+
+**Supports:**
+1. close_to_airport  
+2. convenient  
+
+**Contraries:**  
+1. no_evident_not_close_to_airport  
+2. no_evident_not_convenient"
+489,good_location,"close_to_airport, airport_10_minutes_by_bus, close_to_clean_beach, no_evident_not_close_to_airport, no_evident_not_airport_10_minutes_by_bus, no_evident_not_close_to_clean_beach"
+490,good_location,"1. close_to_airport  
+   no_evident_not_close_to_airport  
+
+2. clean_beach  
+   no_evident_not_clean_beach"
+491,good_location,"- **Support**: close_to_airport  
+  - **Contrary**: no_evident_not_close_to_airport"
+492,bad_location,"1. **Support**: heavy use of tiling  
+   **Contrary**: have evident no control over tiling  
+
+2. **Support**: steadily stream of travelers  
+   **Contrary**: have evident no control over traveler flow"
+492,good_location,"- **Support**: close_to_airport  
+  **Contrary**: no_evident_not_close_to_airport  
+
+- **Support**: ideal_for_late_arrival_or_very_early_departure  
+  **Contrary**: no_evident_not_ideal_for_late_arrival_or_very_early_departure"
+494,good_location,"Supports:
+- close_to_airport
+Contraries:
+- no_evident_not_close_to_airport"
+495,good_location,"Here is the structured ABA format based on your requirements:
+
+- **Supports**:
+  - clean location
+  - close_to_the_beach_and_close_to_the_field
+  - intimate_and_quiet_location
+
+- **Contraries**:
+  - no evident not_clean_location
+  - no evident not_close_to_the_beach_and_close_to_the_field
+  - no evident not_intimate_and_quiet_location"
+496,good_location,"- **Claim**: good_location  
+- **Supports**:  
+  - close_to_airport  
+  - clean_beach  
+- **Contraries**:  
+  - no_evident_not_close_to_airport  
+  - no_evident_not_clean_beach"
+497,good_location,"1. **Claim**: good_location  
+2. **Supports**:
+   - close_to_airport
+     - no_evident_not_close_to_airport
+   - close_to_restaurants_and_snacks
+     - no_evident_not_close_to_restaurants_and_snacks
+   - close_to_clean_beach
+     - no_evident_not_close_to_clean_beach"
+498,bad_location,"1. close  
+   have_evident_close  
+
+2. not_so_easy_with_the_bus  
+   have_evident_not_so_easy_with_the_bus"
+498,good_location,"- close  
+  no_evident_not_close"
+499,good_location,"1. Support: close_to_larnaca_airport  
+2. Contrary: no_evident_not_close_to_larnaca_airport"
+500,bad_location,"1. **Support**: located_in_small_side_street  
+   **Contrary**: have_evident_located_in_small_side_street  
+
+2. **Support**: located_in_alleys  
+   **Contrary**: have_evident_located_in_alleys  
+
+3. **Support**: google_maps_goes_crazy  
+   **Contrary**: have_evident_google_maps_goes_crazy"
+500,good_location,"1. **Support**: close_to_central  
+   **Contrary**: no_evident_not_close_to_central  
+
+2. **Support**: central  
+   **Contrary**: no_evident_not_central"
+501,good_location,"1. **Support**: close_to_airport  
+   - **Contrary**: no_evident_not_close_to_airport  
+
+2. **Support**: close_to_clean_beach  
+   - **Contrary**: no_evident_not_close_to_clean_beach  
+
+3. **Support**: and_close_to_airport  
+   - **Contrary**: no_evident_not_and_close_to_airport"
+503,bad_location,"1. Support: unfriendly  
+   Contrary: have evident_unfriendly  
+
+2. Support: construction  
+   Contrary: have evident_construction  
+
+3. Support: bumpy  
+   Contrary: have evident_bumpy"
+503,good_location,"- Close_to_the_field  
+  no_evident_not_close_to_the_field"
+505,good_location,"1. close_to_city_center  
+2. close_to_airport  
+3. close_to_sea  
+4. no_evident_not_close_to_city_center  
+5. no_evident_not_close_to_airport  
+6. no_evident_not_close_to_sea"
+510,good_location,"1. close_to_airport  
+   no_evident_not_close_to_airport  
+
+2. clean_beach  
+   no_evident_not_clean_beach"
+513,good_location,"1. **Support**: close_to_airport  
+   **Contrary**: no_evident_not_close_to_airport  
+
+2. **Support**: easy_to_get_to  
+   **Contrary**: no_evident_not_easy_to_get_to  
+
+3. **Support**: short_distance_from_promenade  
+   **Contrary**: no_evident_not_short_distance_from_promenade  
+
+4. **Support**: nice_restaurants_on_beach  
+   **Contrary**: no_evident_not_nice_restaurants_on_beach"
+515,good_location,"1. close_to_lake  
+2. close_to_beach  
+3. no_evident_not_close_to_lake  
+4. no_evident_not_close_to_beach"
+518,good_location,"- close_to_airport  
+  no_evident_not_close_to_airport  
+
+- clean_beach  
+  no_evident_not_clean_beach"
+519,good_location,"- Close_to_macKenzie_beach  
+  no_evident_not_close_to_macKenzie_beach"
+527,good_location,"1. **Claim**: good_location  
+2. **Supports**:  
+   - near_Larnaca_airport  
+   - mckenzie_beach  
+3. **Contraries**:  
+   - no_evident_not_near_Larnaca_airport  
+   - no_evident_not_mckenzie_beach"
+528,good_location,"- **Supports**:  
+  near_airport, clean_beach  
+
+- **Contraries**:  
+  no_evident_not_near_airport, no_evident_not_clean_beach"
+530,good_location,"1. easy_location  
+2. quiet_place  
+3. no_evident_not_easy_location  
+4. no_evident_not_quiet_place"
+531,good_location,"- **Supports**:  
+  - close_to_airport  
+  - promenade_by_the_sea  
+
+- **Contraries**:  
+  - no_evident_not_close_to_airport  
+  - no_evident_not_promenade_by_the_sea"
+532,good_location,"Here’s the text converted into Assumption-Based Argumentation (ABA) format based on your instructions:
+
+**Supports:**  
+- close_to_airport  
+
+**Contraries:**  
+- no_evident_not_close_to_airport"
+535,good_location,"1. Close_to_airport  
+   Walk_from_larnaca_center  
+   Beautiful_mackenzie_beach  
+2. Contraries:  
+   no_evident_not_close_to_airport  
+   no_evident_not_walk_from_larnaca_center  
+   no_evident_not_beautiful_mackenzie_beach"
+536,good_location,"1. **Support**: close_to_the_beach  
+   **Contrary**: no_evident_not_close_to_the_beach  
+
+2. **Support**: gastronomy  
+   **Contrary**: no_evident_not_gastronomy  
+
+3. **Support**: the_airport  
+   **Contrary**: no_evident_not_the_airport"
+538,good_location,"- **Support**: close_to_airport  
+  - **Contrary**: no_evident_not_close_to_airport  
+
+- **Support**: easily_accessible_by_taxi  
+  - **Contrary**: no_evident_not_easily_accessible_by_taxi  
+
+- **Support**: there_is_also_a_bus_route_nearby  
+  - **Contrary**: no_evident_not_there_is_also_a_bus_route_nearby"
+540,good_location,"1. Close to the beach  
+2. Close to the airport  
+3. No evident not close to the beach  
+4. No evident not close to the airport"
+541,good_location,"1. close_to_airport  
+2. close_to_mackenzie_beach  
+3. no_evident_not_close_to_airport  
+4. no_evident_not_close_to_mackenzie_beach"
+542,good_location,"1. close_to_airport  
+2. has_restaurants_and_cafes_within_walking_distance  
+3. close_to_beach  
+
+Contrary statements:  
+4. no_evident_not_close_to_airport  
+5. no_evident_not_has_restaurants_and_cafes_within_walking_distance  
+6. no_evident_not_close_to_beach"
+546,good_location,"1. close_to_airport  
+   no_evident_not_close_to_airport  
+
+2. very_clean_beach  
+   no_evident_not_very_clean_beach  
+
+3. walking_distance_to_mackenzie_beach  
+   no_evident_not_walking_distance_to_mackenzie_beach  
+
+4. walking_distance_to_salt_lake  
+   no_evident_not_walking_distance_to_salt_lake"
+547,good_location,"- **Support**: close_to_airport  
+  - **Contrary**: no_evident_not_close_to_airport"
+549,good_location,"- **Claim**: good_location  
+- **Supports**:  
+  - close_to_airport  
+  - clean_beach  
+- **Contraries**:  
+  - no_evident_not_close_to_airport  
+  - no_evident_not_clean_beach"
+551,good_location,"1. **Claim**: good_location  
+2. **Supports**:
+   - close_to_famous_beach
+3. **Contraries** for each support:
+   - no_evident_not_close_to_famous_beach"
+552,good_location,"- Support: close_to_Larnaca_airport  
+  Contrary: no_evident_not_close_to_Larnaca_airport"
+554,good_location,"1. close_to_airport_for_early_departure_or_late_arrival  
+2. close_to_beach_and_its_entertainment  
+3. no_evident_not_close_to_airport_for_early_departure_or_late_arrival  
+4. no_evident_not_close_to_beach_and_its_entertainment  
+5. very_quiet"
+555,good_location,"- Close_to_Larnaca_airport  
+  - no_evident_not_close_to_Larnaca_airport  
+- less_than_10_minutes  
+  - no_evident_not_less_than_10_minutes"
+556,good_location,"1. Close_to_airport  
+2. close_to_early_morning_flight  
+3. no_evident_not_close_to_airport  
+4. no_evident_not_close_to_early_morning_flight  
+5. close_to_clean_beach  
+6. has shuttle_to_field  
+7. no_evident_not_close_to_clean_beach  
+8. no_evident_not_has_shuttle_to_field"
+560,good_location,"- **Support**: close_to_airport  
+  - **Contrary**: no_evident_not_close_to_airport  
+
+- **Support**: good_for_overnight_stay  
+  - **Contrary**: no_evident_not_good_for_overnight_stay  
+
+- **Support**: able_to_handle_late_or_early_flights  
+  - **Contrary**: no_evident_not_able_to_handle_late_or_early_flights"
+562,good_location,"1. close_to_larnaca_airport  
+   no_evident_not_close_to_larnaca_airport  
+
+2. convenient  
+   no_evident_not_convenient"
+565,good_location,"- close_to_airport  
+  no_evident_not_close_to_airport  
+
+- near_mackenzie_beach  
+  no_evident_not_near_mackenzie_beach"
+566,good_location,"**ABA Format for ""Location close to the airport""**
+
+**Supports:**
+1. close_to_airport
+
+**Contraries:**
+1. no_evident_not_close_to_airport"
+569,good_location,"1. **Good location**: excellent_location  
+   - **Support**: close_to_airport  
+     - **Contrary**: no_evident_not_close_to_airport  
+   - **Support**: close_to_boardwalk_and_airport  
+     - **Contrary**: no_evident_not_close_to_boardwalk_and_airport  
+
+2. **Good location**: excellent_location  
+   - **Support**: close_to_clean_beach  
+     - **Contrary**: no_evident_not_close_to_clean_beach"
+571,good_location,"- **Support**: close_to_clean_beach  
+  - **Contrary**: no_evident_not_close_to_clean_beach  
+
+- **Support**: close_to_the_beach  
+  - **Contrary**: no_evident_not_close_to_the_beach"
+579,good_location,"- **Support**: close_to_airport  
+  - **Contrary**: no_evident_not_close_to_airport  
+
+- **Support**: about_10_minutes_drive  
+  - **Contrary**: no_evident_not_about_10_minutes_drive"
+586,good_location,"1. Claim: good_location  
+2. Supports:  
+   - close_to_airport  
+   - convenient_for_short_stay  
+   - near_sea  
+   - promenade  
+   - excellent_restaurants  
+3. Contraries:  
+   - no_evident_not_close_to_airport  
+   - no_evident_not_convenient_for_short_stay  
+   - no_evident_not_near_sea  
+   - no_evident_not_promenade  
+   - no_evident_not_excellent_restaurants"
+587,good_location,"- close_to_airport  
+  no_evident_not_close_to_airport  
+
+- beach  
+  no_evident_not_beach"
+588,good_location,"- **Support**: close_to_everything  
+  **Contrary**: no_evident_not_close_to_everything"
+589,bad_location,"1. Supports:  
+   - Works next door  
+     - have evident Works next door  
+
+2. Contraries:  
+   - do not work next door  
+     - have evident Works next door"
+589,good_location,"- distance_from_airport  
+  no_evident_not_distance_from_airport"
+590,good_location,"- **Supports**:  
+  close_to_airport  
+  close_to_clean_beach  
+
+- **Contraries**:  
+  no_evident_not_close_to_airport  
+  no_evident_not_close_to_clean_beach"
+594,bad_location,"Here is the structured ABA format based on your requirements:
+
+1. **Support**: noisy at night  
+   **Contrary**: have evident noisy at night  
+
+2. **Support**: close to the airport  
+   **Contrary**: have evident close to the airport  
+
+3. **Support**: does not apply to the hotel  
+   **Contrary**: have evident does not apply to the hotel"
+596,bad_location,"- Claim: bad_location  
+- Supports: noisy  
+- Contraries: have_evident_noisy"
+597,good_location,"1. Close_to_sea  
+   No_evident_not_close_to_sea  
+
+2. Close_to_via_dei_premise  
+   No_evident_not_close_to_via_dei_premise  
+
+3. Within_20_minutes_of_historical_center  
+   No_evident_not_within_20_minutes_of_historical_center"
+599,bad_location,"- **Support**: noise_from_nightclub  
+  - **Contrary**: have_evident_noise"
+599,good_location,"- Support: near  
+  Contrary: no_evident_not_near"
+602,good_location,"1. **Support**: close_to_airport  
+   **Contrary**: no_evident_not_close_to_airport  
+
+2. **Support**: very_clean_beach  
+   **Contrary**: no_evident_not_very_clean_beach"
+607,good_location,"1. Close_to_beach_and_airport  
+   - Contrary: no_evident_not_close_to_beach_and_airport  
+
+2. Lots_of_restaurants_nearby  
+   - Contrary: no_evident_not_lots_of_restaurants_nearby  
+
+3. Relatively_quiet_location  
+   - Contrary: no_evident_not_relatively_quiet_location"
+610,good_location,"### Assumption Based Argumentation (ABA) Format:
+
+**Assumption:**  
+close_to_airport  
+close_to_beach  
+
+**Supports:**  
+1. close_to_airport  
+2. close_to_beach  
+
+**Contraries:**  
+1. no_evident_not_close_to_airport  
+2. no_evident_not_close_to_beach  
+
+**Additional Assumptions:**  
+- hotel_quiet"
+611,good_location,"Support: close_to_city_center  
+Contrary: no_evident_not_close_to_city_center  
+
+Support: close_to_beach  
+Contrary: no_evident_not_close_to_beach"
+612,bad_location,"1. **Support**: small  
+   - **Contrary**: have_evident_small  
+
+2. **Support**: side  
+   - **Contrary**: have_evident_side"
+612,good_location,"1. **Support**: close_to_airport  
+   **Contrary**: no_evident_not_close_to_airport  
+
+2. **Support**: 6_minutes_by_car  
+   **Contrary**: no_evident_not_6_minutes_by_car"
+614,good_location,"- **Supports**:  
+  - near_airport  
+  - short_commute  
+
+- **Contraries**:  
+  - no_evident_not_near_airport  
+  - no_evident_not_short_commute"
+616,good_location,"- Claim: good_location  
+  - Supports:  
+    - easy_to_reach  
+      - no_evident_not_easy  
+    - not_too_close  
+      - no_evident_not_not_too_close"
+617,good_location,"- **Claim**: good_location  
+- **Support 1**: central_location  
+- **Contrary 1**: no_evident_not_central_location  
+- **Support 2**: good_location  
+- **Contrary 2**: no_evident_not_good_location"
+618,bad_location,"- **Support**: garbage_truck_at_3am_making_a_lot_of_noise  
+  - **Contrary**: have_evident_garbage_truck_at_3am_making_a_lot_of_noise"
+619,good_location,"- **Claim:** good_location  
+- **Supports:**
+  - well_located_for_the_airport
+  - well_located_for_Larnaca_salt_lake  
+- **Contraries:**
+  - no_evident_not_well_located_for_the_airport
+  - no_evident_not_well_located_for_Larnaca_salt_lake"
+620,good_location,"- **Supports**:  
+  - hotel  
+  - near_airport  
+  - walkable  
+
+- **Contraries**:  
+  - no_evident_not_hotel  
+  - no_evident_not_near_airport  
+  - no_evident_not_walkable"
+623,bad_location,"1. Supports:  
+   - night traffic  
+   - in the area  
+
+2. Contraries:  
+   - have evident night traffic  
+   - have evident in the area"
+623,good_location,"1. **Support 1**: close_to_airport  
+   - Contrary: no_evident_not_close_to_airport  
+
+2. **Support 2**: close_to_beach  
+   - Contrary: no_evident_not_close_to_beach"
+625,good_location,"1. **Claim**: good_location  
+2. **Supports**:
+   - good_for_airport
+   - good_for_beach  
+3. **Contraries**:
+   - no_evident_not_good_for_airport
+   - no_evident_not_good_for_beach"
+627,bad_location,"1. Small side street: have evident located in small side street  
+2. Side street: have evident located in small side street  
+3. Far from city center: have evident located in small side street"
+627,good_location,"Here is the structured ABA format based on your instructions:
+
+1. **Support**: close_to_taxis  
+   - Reasoning: The text mentions taxis costing the same price from anywhere in the city, which implies accessibility or convenience, indirectly relating to location benefits.
+
+2. **Contrary**: no_evident_not_close_to_taxis  
+   - Reasoning: This directly contradicts the support by stating that there is no evidence of being close to taxis.
+
+3. **Support**: same_price_from_anywhere  
+   - Reasoning: The text states that taxis cost the same price from anywhere in the city, indicating uniformity and convenience, which can be associated with location quality.
+
+4. **Contrary**: no_evident_not_same_price_from_anywhere  
+   - Reasoning: This directly contradicts the support by stating that there is no evidence of prices varying or not being accessible from any location.
+
+This response adheres to your specified conditions and format, ensuring all elements are included as per the instructions."
+628,good_location,"1. close_to_airport  
+   no_evident_not_close_to_airport  
+
+2. close_to_city_center  
+   no_evident_not_close_to_city_center"
+632,good_location,"1. **Claim**: good_location  
+2. **Supports**:
+   - close_to_airport
+   - very_clean_beach
+3. **Contraries**:
+   - no_evident_not_close_to_airport
+   - no_evident_not_very_clean_beach"
+633,good_location,"- good_location: close_to_airport  
+  - supports: [close_to_airport]  
+    - contraries: [no_evident_not_close_to_airport]  
+- good_location: very_clean_beach  
+  - supports: [very_clean_beach]  
+    - contraries: [no_evident_not_very_clean_beach]"
+635,good_location,"1. close_to_airport  
+   No evident not close_to_airport  
+
+2. close_to_clean_beach  
+   No evident not close_to_clean_beach"
+636,good_location,"1. Supports:
+   - suited_for_one_night_stay
+   - before_flight
+
+2. Contraries:
+   - no_evident_not_suited_for_one_night_stay
+   - no_evident_not_before_flight"
+637,good_location,"- Close_to_airport  
+  No_evident_not_close_to_airport  
+
+- Clean_beach  
+  No_evident_not_clean_beach"
+639,good_location,"1. Close_to_beach  
+   - Contrary: no_evident_not_close_to_beach  
+
+2. Found_starfish  
+   - Contrary: no_evident_not_found_starfish"
+641,good_location,"- Support: quiet  
+  Contrary: no_evident_not_quiet  
+
+- Support: peaceful  
+  Contrary: no_evident_not_peaceful"
+642,good_location,"- **Support**: close_to_airport  
+  **Contrary**: no_evident_not_close_to_airport"
+644,good_location,"- **Support**: near_airport  
+  - **Contrary**: no_evident_not_near_airport"
+646,good_location,"Here is the text in Assumption-Based Argumentation (ABA) format based on your requirements:
+
+- **Claim**: good_location  
+  - **Supports**:  
+    - close_to_Salt_Lake_and_Mackenzie_Beach  
+    - close_to_bus_stop  
+    - close_to_airport  
+    - promenade_access  
+    - beach_access_via_promenade  
+  - **Contraries**:  
+    - no_evident_not_close_to_Salt_Lake_and_Mackenzie_Beach  
+    - no_evident_not_close_to_bus_stop  
+    - no_evident_not_close_to_airport  
+    - no_evident_not_promenade_access  
+    - no_evident_not_beach_access_via_promenade"
+649,good_location,"- **Claim**: good_location  
+- **Supports**:  
+  - near_airport  
+  - clean_beach  
+- **Contraries**:  
+  - no_evident_not_near_airport  
+  - no_evident_not_clean_beach"
+650,good_location,"1. **Claim**: good_location  
+2. **Supports and Contrarys**:  
+   - **Close to the airport** (support)  
+     - No evident not close_to_airport (contrary)  
+   - **Walking distance to the beach** (support)  
+     - No evident not_walking_distance_to_the_beach (contrary)"
+652,good_location,"Here is the list of supports and their corresponding contraries:
+
+1. close_to_airport  
+2. close_to_clean_beach  
+3. no_evident_not_close_to_airport  
+4. no_evident_not_close_to_clean_beach"
+653,good_location,"1. close_to_airport  
+   no_evident_not_close_to_airport  
+
+2. near  
+   no_evident_not_near  
+
+3. lake  
+   no_evident_not_lake  
+
+4. with  
+   no_evident_not_with  
+
+5. flamingos  
+   no_evident_not_flamingos  
+
+6. in winter  
+   no_evident_not_in_winter"
+654,bad_location,"1. Supports:  
+   - car  
+     - have evident car  
+   - pouring garbage  
+     - have evident pouring garbage  
+   - not worrying about the noise  
+     - have evident not worrying about the noise  
+   - sleeping expensive tourists  
+     - have evident sleeping expensive tourists"
+654,good_location,"- good_mackenzie_beach  
+  - no_evident_not_good_mackenzie_beach"
+655,bad_location,"1. Located_in_small_side_street  
+   have_evident_located_in_small_side_street  
+
+2. Far_from_city_center  
+   have_evident_far_from_city_center"
+655,good_location,"- **Support**: not_far_from_airport  
+  **Contrary**: no_evident_not_not_far_from_airport"
+659,bad_location,"Here is the structured ABA format based on your requirements:
+
+- **Support 1:** Noisy area causes waking at night.
+- **Contrary 1:** Have evident noise causing waking.
+
+- **Support 2:** Terrible force of sounds.
+- **Contrary 2:** Have evident terrible force of sounds."
+661,bad_location,"1. Sleep
+   - have_evident_sleep  
+2. Lightly
+   - have_evident_lightly"
+661,good_location,"1. Support: Proximity_to_airport  
+2. Contrary: no_evident_not_proximity_to_airport"
+662,bad_location,"1. located_in_larnaca, have_evident_located_in_larnaca  
+2. whole_city_stank, have_evident_whole_city_stank"
+662,good_location,"- Support: beach  
+  Contrary: no evident not beach"
+663,bad_location,"1. **Support**: located at a considerable distance  
+   **Contrary**: have evident located at a considerable distance  
+
+2. **Support**: is a walk along the beach promenade  
+   **Contrary**: have evident is a walk along the beach promenade"
+663,good_location,"1. **Support**: close_to_airport  
+   **Contrary**: no_evident_not_close_to_airport  
+
+2. **Support**: close_to_clean_beach  
+   **Contrary**: no_evident_not_close_to_clean_beach  
+
+3. **Support**: relatively_quick  
+   **Contrary**: no_evident_not_relatively_quick  
+
+4. **Support**: not Quick  
+   **Contrary**: no_evident_not_not_Quick"
+665,bad_location,"1. Located_in_small_side_street, have_evident_located_in_small_side_street  
+   - Contrary: have_evident_not_located_in_small_side_street  
+2. noise_from_planes_during_day, have_evident_noise_from_planes_during_day  
+   - Contrary: have_evident_not_noise_from_planes_during_day  
+3. noise_from_garbage_emptying_midnight, have_evident_noise_from_garbage_emptying_midnight  
+   - Contrary: have_evident_not_noise_from_garbage_emptying_midnight"
+665,good_location,"1. **Support**: close_to_airport  
+   **Contrary**: no_evident_not_close_to_airport  
+
+2. **Support**: no_evident_not_noise_during_day  
+   **Contrary**: noise_during_day"
+666,good_location,"1. Close_to_airport  
+   no_evident_not_close_to_airport  
+
+2. very_clean_beach  
+   no_evident_not_very_clean_beach"
+667,good_location,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your instructions:
+
+- **Supports**:  
+  - close_to_bus_stop  
+  - 10_minutes_to_center  
+  - 5_minutes_to_airport  
+
+- **Contraries**:  
+  - no_evident_not_close_to_bus_stop  
+  - no_evident_not_10_minutes_to_center  
+  - no_evident_not_5_minutes_to_airport"
+670,good_location,"1. Close to the airport  
+   - No evident not close to the airport  
+
+2. Nearby bus stop provides access to city center and airport  
+   - No evident not nearby bus stop"
+673,good_location,"1. **Claim**: good_location  
+2. **Supports**:
+   - good_walking_distance
+   - no_evident_not_good_walking_distance"
+676,good_location,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- close_to_salt_lake  
+  - no_evident_not_close_to_salt_lake  
+
+- close_to_sea  
+  - no_evident_not_close_to_sea  
+
+- is_quiet  
+  - no_evident_not_is_quiet  
+
+- near_airport  
+  - no_evident_not_near_airport  
+
+- easy_access_by_transport  
+  - no_evident_not_easy_access_by_transport  
+
+- nearby_activity  
+  - no_evident_not_nearby_activity  
+
+- has_few_shops  
+  - no_evident_not_has_few_shops"
+677,good_location,"- close_to_airport  
+  no_evident_not_close_to_airport  
+
+- very_clean_beach  
+  no_evident_not_very_clean_beach"
+678,good_location,"### Supports and Contraries:
+
+1. **next_to_mackenzie_beach**  
+   - No evident not next_to_mackenzie_beach  
+
+2. **close_to_airport**  
+   - No evident not close_to_airport"
+680,good_location,"Here is the structured ABA format based on your requirements:
+
+1. **Supports:**
+   - close_to_beach
+   - area_with_restaurants_bars
+   - close_to_town_center
+   - close_to_airport
+
+2. **Contraries:**
+   - no evident not close_to_beach
+   - no evident not area_with_restaurants_bars
+   - no evident not close_to_town_center
+   - no evident not close_to_airport"
+681,good_location,"1. **Support**: close_to_airport  
+   **Contrary**: no_evident_not_close_to_airport  
+
+2. **Support**: bus_stops_nearby  
+   **Contrary**: no_evident_not_bus_stops_nearby  
+
+3. **Support**: salt_lake  
+   **Contrary**: no_evident_not_salt_lake  
+
+4. **Support**: close_to_sea  
+   **Contrary**: no_evident_not_close_to_sea"
+684,bad_location,"- noise  
+  have evident noise  
+- discotheque  
+  have evident discotheque"
+685,good_location,"- close_to_airport  
+  no_evident_not_close_to_airport  
+
+- close_to_clean_beach  
+  no_evident_not_close_to_clean_beach"
+687,good_location,"1. Close  
+2. quick_access  
+3. bus_stop_nearby  
+
+Contraries:  
+4. no_evident_not_close  
+5. no_evident_not_quick_access  
+6. no_evident_not_bus_stop_nearby"
+688,good_location,"- close_to_clean_beach  
+  no_evident_not_close_to_clean_beach"
+690,bad_location,"1. **everything_heard**  
+   - have_evident_everything_heard  
+
+2. **wakeup_3_am**  
+   - have_evident_wakeup_3_am"
+690,good_location,"1. **Claim**: good_location  
+2. **Supports**:
+   - convenient
+   - close_to_airport
+   - close_to_sea  
+3. **Contraries**:
+   - no_evident_not_convenient
+   - no_evident_not_close_to_airport
+   - no_evident_not_close_to_sea"
+693,good_location,"Here is the text converted into Assumption-Based Argumentation (ABA) format according to your conditions:
+
+**Supports:**  
+- well_placed  
+- access_to_beach_via_vacant_lot  
+- airport_nearby  
+
+**Contraries:**  
+no_evident_not_well_placed  
+no_evident_not_access_to_beach_via_vacant_lot  
+no_evident_not_airport_nearby"
+694,bad_location,"1. **Support**: area  
+   **Contrary**: have evident area  
+
+2. **Support**: wasteland  
+   **Contrary**: have evident wasteland"
+694,good_location,"- **Claim**: good_location  
+- **Support**: close_to_airport  
+- **Contrary**: no_evident_not_close_to_airport"
+696,good_location,"1. close_to_airport  
+   - no_evident_not_close_to_airport  
+
+2. near_a_beach  
+   - no_evident_not_near_a_beach  
+
+3. good_beach  
+   - no_evident_not_good_beach"
+698,good_location,"- Close_to_airport  
+- Close_to_restaurants  
+- no_evident_not_close_to_airport  
+- no_evident_not_close_to_restaurants"
+700,good_location,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your instructions:
+
+- **Support**: airport  
+  - **Contrary**: no evident not airport  
+
+- **Support**: attached  
+  - **Contrary**: no evident not attached  
+
+Each support and its contrary are listed together, with assumptions omitted as per the instructions."
+701,good_location,"1. Walking_distance_to_the_beach  
+2. Has_several_restaurants  
+3. No_evident_not_walking_distance_to_the_beach  
+4. No_evident_not_has_several_restaurants"
+704,good_location,"- Close_to_Larnaca_Airport  
+  no_evident_not_close_to_Larnaca_Airport  
+
+- close_to_the_beach  
+  no_evident_not_close_to_the_beach"
+706,good_location,"- location  
+  airport  
+  minutes  
+
+- no_evident_not_location  
+- no_evident_not_airport  
+- no_evident_not_minutes"
+708,good_location,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Support**: close_to_airport  
+  - **Contrary**: no_evident_not_close_to_airport  
+
+- **Support**: close_to_beach  
+  - **Contrary**: no_evident_not_close_to_beach"
+713,good_location,"Here is the structured ABA format based on your instructions:
+
+- **Claim**: good_location
+- **Supports**:
+  - close_to_airport
+- **Contraries**:
+  - no_evident_not_close_to_airport"
+718,good_location,"1. near Mackenzie beach  
+   - no evident not near Mackenzie beach  
+
+2. 10 minutes to the airport by bus or taxi  
+   - no evident not 10 minutes to the airport by bus or taxi"
+719,bad_location,"Here is the generated text in ABA format based on your conditions:
+
+1. Supports:
+   - located_in_small_side_street
+   - small
+   - side
+   - street
+
+2. Contraries:
+   - have evident_located_in_small_side_street
+   - have evident_small
+   - have evident_side
+   - have evident_street"
+722,good_location,"1. Close_to_makenzie_beach  
+2. Bus_from_airport  
+3. No_evident_not_close_to_makenzie_beach  
+4. No_evident_not_bus_from_airport"
+726,bad_location,"1. noisy  
+   have evident not noisy  
+
+2. discos  
+   have evident not discos"
+726,good_location,"1. Mackenzie is 5 minutes walk → close  
+   No evident not close  
+
+2. The hotel is conveniently located → conveniently located  
+   No evident not conveniently located"
+727,bad_location,"1. **Support**: intensive_road  
+   **Contrary**: have_evident_intensive_road  
+
+2. **Support**: pass_by_restaurants_and_the_beach  
+   **Contrary**: have_evident_pass_by_restaurants_and_the_beach"
+727,good_location,"- **Supports**:  
+  - Larnaca_airport  
+  - close  
+
+- **Contraries**:  
+  - no_evident_not_Larnaca_airport  
+  - no_evident_not_close"
+730,bad_location,"1. **Support**: proximity_to_airport  
+   **Contrary**: have_evident_proximity_to_airport  
+
+2. **Support**: smell_of_jet_fuel  
+   **Contrary**: have_evident_smell_of_jet_fuel  
+
+3. **Support**: night_disco_near_beach  
+   **Contrary**: have_evident_night_disco_near_beach"
+730,good_location,"1. close_to_airport  
+2. close_to_beach  
+3. no_evident_not_close_to_airport  
+4. no_evident_not_close_to_beach"
+732,good_location,"1. **Support**: near_mackenzie_beach  
+   **Contrary**: no_evident_not_near_mackenzie_beach  
+
+2. **Support**: near_airport  
+   **Contrary**: no_evident_not_near_airport  
+
+3. **Support**: near_salt_lake  
+   **Contrary**: no_evident_not_near_salt_lake"
+733,good_location,"- Support: close_to_waterfront  
+  Contrary: no_evident_not_close_to_waterfront"
+735,good_location,"1. **Supports**:  
+   - close_to_everything  
+   - close_to_a liki_beach_club  
+   - close_to_restaurants  
+   - close_to_cafés  
+
+2. **Contraries**:  
+   - no_evident_not_close_to_everything  
+   - no_evident_not_close_to_a liki_beach_club  
+   - no_evident_not_close_to_restaurants  
+   - no_evident_not_close_to_cafés"
+737,good_location,"- close_to_beach  
+  no_evident_not_close_to_beach"
+739,good_location,"1. near_beach  
+2. near_center  
+3. no_evident_not_near_beach  
+4. no_evident_not_near_center"
+743,bad_location,"1. **Support**: small  
+   - **Contrary**: have_evident_small_location  
+
+2. **Support**: side  
+   - **Contrary**: have_evident_side_street  
+
+3. **Support**: close  
+   - **Contrary**: have_evident_close_location"
+744,bad_location,"- **Support**: sounds_of_airport  
+  - Reason: The text mentions ""sounds of the airport,"" which directly supports the claim.  
+- **Contrary**: have_evident_sounds_of_airport  
+  - Reason: The phrase ""have evident"" is added to create a contrary statement based on the support, maintaining consistency with rule 4 and 5."
+748,good_location,"Here is the structured Assumption-Based Argumentation (ABA) format based on the provided text:
+
+**Supports:**
+1. close_to_airport
+2. no_aircraft_noise
+3. bus_station_nearby
+4. salt_lake_nearby
+
+**Contraries:**
+1. no_evident_not_close_to_airport
+2. no_evident_not_no_aircraft_noise
+3. no_evident_not_bus_station_nearby
+4. no_evident_not_salt_lake_nearby"
+749,good_location,"Supports:
+close_to_field  
+Contraries:  
+no_evident_not_close_to_field"
+750,good_location,"- **Support**: close_to_the_field  
+  **Contrary**: no_evident_not_close_to_the_field"
+751,bad_location,"1. Room located next to another property's pool:  
+   - Supports:  
+     1. Room located next to another property's pool.  
+     2. Room adjacent to another property's pool.  
+   - Contraries:  
+     1. Have evident location next.  
+     2. Have evident adjacency.
+
+2. Too much noise caused shouting:  
+   - Supports:  
+     1. Too much noise caused shouting.  
+     2. Shouting made it impossible to rest.  
+   - Contraries:  
+     1. Have evident cause.  
+     2. Have evident impossibility."
+754,bad_location,"- **Support**: noise  
+  - **Contrary**: have evident noise from the nearby beach until early morning"
+754,good_location,"1. early_morning_flight  
+2. no_evident_not_early_morning_flight"
+756,good_location,"1. **Supports**:  
+   - close_to_beach  
+   - party_mile  
+   - airport  
+   - old_town  
+
+2. **Contraries**:  
+   - no_evident_not_close_to_beach  
+   - no_evident_not_party_mile  
+   - no_evident_not_airport  
+   - no_evident_not_old_town"
+764,bad_location,"1. **Support**: Garbage picked up at 3 AM.  
+2. **Contrary**: Have evident garbage picked up at 3 AM.  
+3. **Support**: Farms nearby and smell of manure.  
+4. **Contrary**: Have evident farms nearby and smell of manure."
+765,bad_location,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your instructions:
+
+- **Support 1**: located_in_small_side_street  
+  - **Contrary 1**: have_evident_located_in_small_side_street  
+
+- **Support 2**: smell_cigarette_smoke  
+  - **Contrary 2**: have_evident_smell_cigarette_smoke"
+765,good_location,"- Bars  
+- Restaurants  
+- no evident not bars  
+- no evident not restaurants"
+767,bad_location,"Supports:
+1. small
+2. far from the beach
+3. windows overlooked the courtyard
+4. courtyard was quite noisy
+
+Contraries for each support:
+
+1. not small
+2. have evident not far from the beach
+3. have evident not windows overlooked the courtyard
+4. have evident not courtyard was quite noisy"
+769,bad_location,"1. walk_to_promenade_of_Larnaca  
+2. walk_to_Lidl  
+3. have_evident_walk_to_promenade_of_Larnaca  
+4. have_evident_walk_to_Lidl"
+769,good_location,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Support**: within_walking_distance  
+   **Contrary**: no_evident_not_within_walking_distance  
+
+2. **Support**: a_couple_of_taverns  
+   **Contrary**: no_evident_not_a_couple_of_taverns  
+
+3. **Support**: near_the_airport  
+   **Contrary**: no_evident_not_near_the_airport"
+770,bad_location,"1. Support: small  
+   Contrary: have evident small  
+
+2. Support: side street  
+   Contrary: have evident side street  
+
+3. Support: stench  
+   Contrary: have evident stench"
+771,bad_location,"1. **Support**: fruit van drove under windows  
+   **Contrary**: have evident fruit van drove under windows  
+
+2. **Support**: seller shouted mouthpiece  
+   **Contrary**: have evident seller shouted mouthpiece"
+771,good_location,"1. close_to_center  
+   no_evident_not_close_to_center  
+
+2. close_to_mackenzie_beach  
+   no_evident_not_close_to_mackenzie_beach  
+
+3. close_to_party_cafes  
+   no_evident_not_close_to_party_cafes"
+773,good_location,"- Close_to_airport  
+  - close_to_airport  
+    + no_evident_not_close_to_airport  
+- Close_to_clean_beach  
+  - close_to_clean_beach  
+    + no_evident_not_close_to_clean_beach"
+776,good_location,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Support**: proximity_to_airport  
+2. **Contrary**: no_evident_not_proximity_to_airport  
+
+3. **Support**: walk_to_sea  
+4. **Contrary**: no_evident_not_walk_to_sea"
+778,good_location,"- Support: close  
+  Contrary: no_evident_not_close"
+779,good_location,"Here is the structured ABA format based on your requirements:
+
+1. **Support**: close_to_airport  
+   **Contrary**: no_evident_not_close_to_airport  
+
+2. **Support**: quiet  
+   **Contrary**: no_evident_not_quiet  
+
+3. **Support**: proximity_to_beach_and_city  
+   **Contrary**: no_evident_not_proximity_to_beach_and_city"
+780,good_location,"- **Support**: near  
+  - **Contrary**: no evident not near  
+
+- **Support**: mackenzie beach  
+  - **Contrary**: no evident not mackenzie_beach"
+784,good_location,"1. Near, close_to_beach  
+   - No evident not near beach  
+2. Near, close_to_airport  
+   - No evident not near airport"
+785,bad_location,"1. **Support**: small side street  
+   **Contrary**: have evident small side street  
+
+2. **Support**: surprised at the location  
+   **Contrary**: have evident surprised at the location"

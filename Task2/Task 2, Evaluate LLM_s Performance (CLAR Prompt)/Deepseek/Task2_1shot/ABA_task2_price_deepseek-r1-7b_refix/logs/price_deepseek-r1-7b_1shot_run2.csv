@@ -1,0 +1,261 @@
+ID,Topic,Output
+4,good_price,"- **Support**: quality  
+  - **Contrary**: no evident not quality  
+
+- **Support**: price  
+  - **Contrary**: no evident not price"
+34,good_price,"- **Support**: value for money  
+- **Contrary**: no evident not value for money"
+44,good_price,"1. good_price  
+   - supports:  
+     * facilities were good  
+     * tariff was charged  
+   - contraries:  
+     * No evident not facilities were good  
+     * No evident not tariff was charged"
+46,good_price,"- **Support**: good  
+  - **Contrary**: no evident not good"
+47,good_price,"- **Support**: good_value_for_money  
+  **Contrary**: no_evident_not_good_value_for_money"
+49,good_price,"great_value_for_money, no_evident_not_great_value_for_money"
+63,good_price,"- **Support**: exceptional  
+  - **Contrary**: no evident not exceptional  
+
+- **Support**: value  
+  - **Contrary**: no evident not value"
+68,good_price,"1. Good  
+   - Contrary: no evident not good  
+
+2. price  
+   - Contrary: no evident not price"
+125,good_price,"Support: reasonable  
+Contrary: no evident not reasonable  
+
+Support: quite reasonable (from ""all that with quite reasonable price"")  
+Contrary: no evident not quite reasonable"
+133,good_price,"- **Support**: great_value_for_money  
+  - **Contrary**: no_evident_not_great_value_for_money"
+136,good_price,"Here is the text converted into ABA format based on your instructions:
+
+- **Supports**:  
+  - low_price  
+  - beautiful_hotel  
+
+- **Contraries**:  
+  - no_evident_not_low_price  
+  - no_evident_not_beautiful_hotel"
+149,good_price,"Supports:  
+- great  
+- for_the_price  
+
+Contraries:  
+- No evident not great  
+- No evident not for_the_price"
+155,good_price,"- value  
+  no_evident_not_value"
+156,good_price,"- **Support**: good  
+  **Contrary**: no_evident_not_good"
+203,good_price,"1. Definitely worth the price  
+   - definitely_worth_the_price  
+     - no_evident_not_definitely  
+     - no_evident_not_worth"
+206,good_price,"- Claim: good_price  
+  Supports and Contraries:  
+    - value  
+      - no_evident_not_value"
+212,good_price,"- **Support**: good_price  
+  - **Contrary**: no_evident_not_good_price"
+230,good_price,"- **Support**: `good_value_for_money`  
+  - **Contrary**: `no_evident_not_good_value_for_money`"
+232,good_price,"Here is the text converted into ABA format based on your conditions:
+
+1. `good_price, great_for_the_price, our_purpose_of_a_late_night_flight_arrival`
+2. `no_evident_not_great_for_the_price`
+3. `no_evident_not_our_purpose_of_a_late_night_flight_arrival`"
+234,good_price,"- Support: good_rate_for_excellent_accommodation  
+  Contrary: no_evident_not_good_rate_for_excellent_accommodation"
+241,bad_price,"1. **Support**: price  
+   - The price was high for what you got.  
+   - have evident_price_was_high  
+
+2. **Support**: unlabeled_shampoo_dispenser  
+   - It only had some random unlabeled shampoo dispenser attached to the shower wall, which seemed cheap considering the hotel cost.  
+   - have evident_unlabeled_shampoo_dispenser_attached_to_the_shower_wall"
+265,good_price,"- **Claim**: good_price  
+  - **Support**: value  
+    - **Contrary**: no evident not value  
+  - **Support**: good_hotel_experience  
+    - **Contrary**: no evident not good_hotel_experience"
+287,good_price,"- Claim: good_price  
+  Supports and Contraries:  
+    - value  
+      - no_evident_not_value"
+290,good_price,"Here is the ABA format based on your conditions:
+
+- **Support**: value  
+  - **Contrary**: no evident not value  
+
+- **Support**: free  
+  - **Contrary**: no evident not free"
+295,good_price,"- **Support**: worth every Euro  
+  - **Contrary**: no evident not worth every Euro"
+313,good_price,"The text is converted into ABA format as follows:
+
+1. **Claim**: good_price  
+2. **Supports and Contraries**:  
+   - value  
+     - no_evident_not_value  
+
+Final response:  
+good_price, value, no_evident_not_value"
+323,good_price,"1. **Support**: value  
+   **Contrary**: no evident not value  
+
+2. **Support**: money  
+   **Contrary**: no evident not money"
+334,good_price,"- Support: economical  
+  Contrary: no evident not economical"
+338,good_price,"- **Support**: value  
+  - **Contrary**: no evident not value"
+340,good_price,"1. **Support**: good value for money  
+   **Contrary**: no evident not good value for money"
+366,good_price,"1. **Claim**: good_price  
+2. **Supports and Contraries**:  
+   - **Support 1**: ""good"" (from ""very good"")  
+     - **Contrary 1**: no_evident_not_good  
+   - **Support 2**: ""not_expensive"" (from ""are not expensive"")  
+     - **Contrary 2**: no_evident_not_not_expensive"
+396,good_price,"- **Support**: great  
+  - **Contrary**: no evident not great  
+
+- **Support**: value  
+  - **Contrary**: no evident not value"
+414,good_price,"- **Claim**: good_price  
+- **Support**: value  
+- **Contrary**: no_evident_not_value"
+416,good_price,"- **Support**: value  
+  - **Contrary**: no evident not value"
+435,bad_price,"Here is the structured ABA format based on your requirements:
+
+- **Claim**: bad_price  
+  - **Supports**:  
+    - priced_like_a_hotel  
+    - expensive_for_what_you_get  
+  - **Contraries**:  
+    - have_evident_priced_like_a_hotel  
+    - have_evident_expensive_for_what_you_get"
+436,bad_price,"1. **Support**: expensive_for_what_you_get  
+   **Contrary**: have_evident_expensive_for_what_you_get  
+
+2. **Support**: better_hotels_in_valencia  
+   **Contrary**: have_evident_better_hotels_in_valencia"
+437,bad_price,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Support**: ""it was a bit expensive""  
+   - This supports the claim ""bad_price.""
+
+2. **Contrary 1**: ""have evident it was a bit expensive""  
+   - This contradicts the claim ""bad_price.""
+
+3. **Contrary 2**: ""have evident bad_price""  
+   - This directly contradicts the claim ""bad_price."""
+460,bad_price,"1. **Support**: rate_was_expensive_for_what_it_offered  
+   **Contrary**: have_evident_rate_was_expensive_for_what_it_offered"
+471,good_price,"- **Support**: exceptional  
+  - **Contrary**: no_evident_not_exceptional  
+
+- **Support**: value  
+  - **Contrary**: no_evident_not_value"
+474,bad_price,"1. **Support**: price  
+   **Contrary**: have evident price  
+
+2. **Support**: overpriced  
+   **Contrary**: have evident overpriced  
+
+3. **Support**: facilities  
+   **Contrary**: have evident facilities"
+505,good_price,"1. **Claim**: good_price  
+2. **Supports**:
+   - right
+3. **Contraries**:
+   - no evident not right"
+510,good_price,"- **Support**: cheap  
+  - **Contrary**: no evident not_cheap"
+524,good_price,"1. **Support**: full_value_for_the_price  
+   **Contrary**: no_evident_not_full_value_for_the_price"
+527,good_price,"- **Support**: value  
+  - **Contrary**: no evident not value"
+556,good_price,"- **Supports**:  
+  - value for money  
+  - price we paid  
+
+- **Contraries**:  
+  - no evident not value for money  
+  - no evident not price we paid"
+580,good_price,"1. **Support**: establishment  
+   **Contrary**: no_evident_not_establishment  
+
+2. **Support**: my_opinion_undervalued  
+   **Contrary**: no_evident_not_my_opinion_undervalued"
+590,good_price,"- **Support**: reasonable_price  
+  **Contrary**: no_evident_not_reasonable_price"
+595,bad_price,"1. **Support**: meal  
+   - **Contrary**: have_evident_meal_not_included  
+
+2. **Support**: not_included  
+   - **Contrary**: have_evident_not_included"
+596,good_price,"1. Clean  
+   - No evident not clean  
+
+2. Cheap  
+   - No evident not cheap  
+
+3. Modern room  
+   - No evident not modern room"
+600,good_price,"1. **Support**: satisfied  
+   - **Contrary**: no evident not satisfied  
+
+2. **Support**: corresponds  
+   - **Contrary**: no evident not corresponds"
+609,bad_price,"1. **Supports:**
+   - price is high
+   - comfort that room gives you
+   - you enter
+
+2. **Contraries:**
+   - have evident price is not high
+   - have evident comfort that room gives you is not there
+   - have evident you do not enter"
+611,good_price,"- **Support**: very  
+  - **Contrary**: no evident not very  
+
+- **Support**: good  
+  - **Contrary**: no evident not good"
+619,good_price,"- ""unbeatable_value_for_money, no_evident_not_unbeatable_value_for_money"""
+631,good_price,"1. **Support**: excellent_price  
+   **Contrary**: no_evident_not_excellent_price  
+
+2. **Support**: excellent_quality_ratio  
+   **Contrary**: no_evident_not_excellent_quality_ratio"
+715,good_price,"- **Support**: price  
+  - **Contrary**: no evident not price"
+737,good_price,"- **Support**: value  
+  - **Contrary**: no evident not value  
+
+This is based on the original text ""Excellent value for money!"" with the following adjustments:  
+1. The claim is extracted as ""good_price"".  
+2. The support is simplified to ""value"" (short word without adjectives).  
+3. A contrary is added for each support, starting with ""no evident not""."
+767,bad_price,"1. average  
+   have evident average  
+
+2. 400 euros  
+   have evident 400 euros"
+770,good_price,"- **Support**: value for money  
+- **Contrary**: no evident not value for money"
+775,good_price,"- perfect_price  
+  - no_evident_not_perfect_price"
+778,good_price,"- **Support**: value  
+  - **Contrary**: no evident not value  
+
+This is the ABA format for the given text ""Excellent value."""

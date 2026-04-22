@@ -1,0 +1,39 @@
+ID,Topic,Output
+161,good_check_out,"1. **Claim**: good_check_out  
+2. **Supports and Contraries**:  
+   - **Support 1**: check_out fast  
+     - **Contrary 1**: no_evident_not_check_out_fast"
+310,good_check_out,"1. **Support**: check_out  
+   **Contrary**: no_evident_not_check_out  
+
+2. **Support**: later  
+   **Contrary**: no_evident_not_later"
+314,good_check_out,"1. **Support**: super fast  
+   - **Contrary**: no evident not super fast  
+
+2. **Support**: check_in_checkout  
+   - **Contrary**: no evident not check_in_checkout"
+542,good_check_out,"- **Support**: fast_check_out  
+  - **Contrary**: no_evident_not_fast_check_out  
+
+- **Support**: We left at night with no problems.  
+  - **Contrary**: no_evident_not_We_left_at_night_with_no_problems."
+639,good_check_out,"1. early_check_in, no_evident_not_early_check_in  
+2. early_check_out, no_evident_not_early_check_out"
+660,good_check_out,"1. good_check_out  
+2. late_arrival  
+3. no_evident_not_late_arrival  
+4. late_departure  
+5. no_evident_not_late_departure"
+711,good_check_out,"- **Support**: fast_check_out  
+  - **Contrary**: no_evident_not_fast_check_out  
+
+This is a single support with its contrary included in the same list."
+769,bad_check_out,"4. the hotel did not allow to turn over a couple of hours before the delayed plane;  
+**Supports:**  
+- did_not_allow  
+- turn_over  
+
+**Contraries (for each support):**  
+- have_evident_did_allow  
+- have_evident_turn_over"

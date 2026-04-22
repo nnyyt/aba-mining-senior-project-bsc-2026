@@ -1,0 +1,1737 @@
+ID,Topic,Output
+1,good_facility,"- **Support**: new_apartment  
+  **Contrary**: no_evident_not_new_apartment  
+
+- **Support**: comfortable_apartment  
+  **Contrary**: no_evident_not_comfortable_apartment"
+2,bad_facility,"1. **Support**: not_big  
+   **Contrary**: have_evident_not_big"
+2,good_facility,"Here is the text processed into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Supports**:  
+  - family_atmosphere  
+  - cozy  
+  - not_big  
+
+- **Contraries**:  
+  - no_evident_not_family_atmosphere  
+  - no_evident_not_cozy  
+  - no_evident_not_not_big"
+53,good_facility,"Here is the structured ABA format based on the given conditions:
+
+- **Claim**: good_facility
+- **Supports**:
+  - nice
+  - renovated
+- **Contraries**:
+  - no_evident_not_nice
+  - no_evident_not_renovated
+
+This format adheres to all specified requirements, ensuring clarity and consistency in the argumentation."
+63,good_facility,"exceptional, high, up_to_4*, no_evident_not_exceptional, no_evident_not_high, no_evident_not_up_to_4*"
+66,good_facility,"Here is the text generated in ABA format based on your conditions:
+
+- **Support**: welcoming_entrance  
+  - **Contrary**: no evident not_welcoming_entrance"
+69,good_facility,"1. place  
+2. people  
+3. no_evident_not_place  
+4. no_evident_not_people"
+70,good_facility,"1. **Claim**: good_facility  
+2. **Supports**:
+   - peaceful
+   - clean  
+3. **Contraries**:
+   - no evident not peaceful
+   - no evident not clean"
+76,good_facility,"- new, no_evident_not_new  
+- clean, no_evident_not_clean"
+80,good_facility,"- new_hotel (no_evident_not_new_hotel)  
+- clean_hotel (no_evident_not_clean_hotel)"
+81,bad_facility,"Here is the ABA format based on your conditions:
+
+- **Supports:**
+  - no_24_hour_reception
+  - not_easy_to_access_entry_at_odd_hours
+
+- **Contraries:**
+  - have_evident_no_24_hour_reception
+  - have_evident_not_easy_to_access_entry_at_odd_hours"
+84,bad_facility,"- no_pool  
+  have_evident_no_pool  
+- have_evident_pool"
+84,good_facility,"Here is the structured response in the required ABA format:
+
+- **Supports:**
+  - spotless_clean_everything
+  - plenty_of_chairs_outside_garden
+
+- **Contraries:**
+  - no_evident_not_spotless_clean_everything
+  - no_evident_not_plenty_of_chairs_outside_garden"
+86,good_facility,"- **Supports**:  
+  - lovely_hotel  
+  - little_hotel  
+  - friendly_staff  
+
+- **Contraries**:  
+  - no_evident_not_lovely_hotel  
+  - no_evident_not_little_hotel  
+  - no_evident_not_friendly_staff"
+88,good_facility,"1. Clean_hotel  
+   no_evident_not_clean_hotel  
+
+2.comfortable_hotel  
+   no_evident_not_comfortable_hotel  
+
+3.little_hotel  
+   no_evident_not_little_hotel  
+
+4.hotel  
+   no_evident_not_hotel"
+90,bad_facility,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Support**: no_own_parking_lot  
+   **Contrary**: have_evident_no_own_parking_lot  
+
+2. **Support**: difficult_to_find_parking  
+   **Contrary**: have_evident_difficult_to_find_parking  
+
+3. **Support**: parking_not_always_easy  
+   **Contrary**: have_evident_parking_not_always_easy"
+94,good_facility,"1. good_facility  
+   modern_facility  
+     no_evident_not_modern_facility"
+98,good_facility,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - nice_hotel
+  - spacious_hotel
+  - clean_hotel
+  - modern_hotel
+
+- **Contraries:**
+  - no_evident_not_nice_hotel
+  - no_evident_not_spacious_hotel
+  - no_evident_not_clean_hotel
+  - no_evident_not_modern_hotel
+
+This format adheres to the conditions specified, ensuring each attribute is presented as a support with its corresponding contrary."
+109,good_facility,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Claim**: good_facility  
+- **Support**: clean  
+- **Contrary**: no_evident_not_clean"
+110,good_facility,"Here is the structured Assumption-Based Argumentation (ABA) format based on the given text:
+
+- **Supports and Contraries:**
+  - **Refurbished**  
+    - No evident not refurbished
+  - **Comfortable**  
+    - No evident not comfortable
+
+This format adheres to the specified conditions, ensuring each support is paired with its contrary without unnecessary adjectives or adverbs."
+112,good_facility,"Here is the structured response based on your requirements:
+
+- nice_hotel  
+- spacious_hotel  
+- clean_hotel  
+- modern_hotel  
+- no_evident_not_nice_hotel  
+- no_evident_not_spacious_hotel  
+- no_evident_not_clean_hotel  
+- no_evident_not_modern_hotel"
+114,bad_facility,"- **Support**: no_pool  
+  - **Contrary**: have_evident_no_pool"
+114,good_facility,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Support**: immaculate_hotel  
+  **Contrary**: no_evident_not_immaculate_hotel  
+
+- **Support**: clean_hotel  
+  **Contrary**: no_evident_not_clean_hotel"
+123,good_facility,"Here is the text in ABA format based on your conditions:
+
+1. **Support**: nice_hotel  
+   **Contrary**: no_evident_not_nice_hotel  
+
+2. **Support**: simple_hotel  
+   **Contrary**: no_evident_not_simple_hotel"
+130,good_facility,"The response to your query about whether the hotel allows staying with animals would involve identifying any specific information related to animal accommodations from the given text. However, based on the provided text:
+
+- **Claim**: good_facility  
+- **Supports**: None (since there is no explicit information about animal accommodations in the original text)  
+- **Contraries**: None  
+
+Thus, the final response would simply be:  
+
+good_facility"
+133,bad_facility,"- **no own parking lot**  
+  - have_evident_no_own_parking_lot  
+- **difficult_to_find_parking**  
+  - have_evident_difficult_to_find_parking  
+- **no swimming pool**  
+  - have_evident_no_swimming_pool"
+134,good_facility,"- **Supports**:  
+  - lovely  
+  - clean  
+
+- **Contraries**:  
+  - no_evident_not_lovely  
+  - no_evident_not_clean"
+135,good_facility,"1. good_facility  
+2. modern  
+3. clean  
+4. no_evident_not_modern  
+5. no_evident_not_clean"
+136,bad_facility,"1. **Support**: disgustingly_bad_outside  
+   **Contrary**: have_evident_disgusting_outside  
+
+2. **Support**: disgustingly_bad_outside  
+   **Contrary**: have_evident_disgusting_outside"
+136,good_facility,"Here is the text converted into ABA format based on your conditions:
+
+1. clean_on_the_inside  
+   no_evident_not_clean_on_the_inside  
+
+2. beautiful_on_the_inside  
+   no_evident_not_beautiful_on_the_inside"
+139,bad_facility,"Here is the structured ABA format based on your requirements:
+
+1. **Support**: doesn't have its own parking lot  
+   **Contrary**: have evident doesn't have its own parking lot  
+
+2. **Support**: difficult to find a parking spot  
+   **Contrary**: have evident difficult to find a parking spot  
+
+3. **Support**: slow elevators  
+   **Contrary**: have evident slow elevators"
+141,good_facility,"1. good_facility = nice_hotel  
+2. good_facility = spacious_hotel  
+3. good_facility = clean_hotel  
+4. good_facility = modern_hotel  
+5. no_evident_not_nice_hotel = no evident not nice_hotel  
+6. no_evident_not_spacious_hotel = no evident not spacious_hotel  
+7. no_evident_not_clean_hotel = no evident not clean_hotel  
+8. no_evident_not_modern_hotel = no evident not modern_hotel"
+149,bad_facility,"The sentence ""Nothing to do with the hotel,"" does not directly relate to the original claim about parking issues at the hotel, so it is not included in the ABA-style response.
+
+If you'd like me to process the existing text again or provide further clarification, feel free to let me know!"
+150,bad_facility,"- **Supports**: no_kiosk, open_24_hours, close_to_hotel  
+- **Contraries**: have_evident_no_kiosk, have_evident_open_24_hours, have_evident_close_to_hotel"
+150,good_facility,"- **Supports**:  
+  - new  
+  - beautiful  
+  - clean  
+
+- **Contraries**:  
+  - no_evident_not_new  
+  - no_evident_not_beautiful  
+  - no_evident_not_clean"
+155,good_facility,"Here is the ABA format based on your request:
+
+- comfortable_hotel  
+  no_evident_not_comfortable_hotel  
+- nice_hotel  
+  no_evident_not_nice_hotel  
+- clean_hotel  
+  no_evident_not_clean_hotel  
+- wonderful_facilities  
+  no_evident_not_wonderful_facilities  
+- brand_new_facilities  
+  no_evident_not_brand_new_facilities  
+- full_equipped_facilities  
+  no_evident_not_full_equipped_facilities  
+
+The claim is ""good_facility""."
+158,good_facility,"1. **Support**: nice_clean  
+   **Contrary**: no_evident_not_nice_clean  
+
+2. **Support**: excellent_service  
+   **Contrary**: no_evident_not_excellent_service"
+160,good_facility,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Claim**: good_facility  
+- **Support**: perfect_hotel  
+  - **Contrary**: no_evident_not_perfect_hotel  
+
+This structure adheres to your requirements: each support is a single word from the original text, and each has its corresponding contrary."
+162,good_facility,"Here is the text in ABA format based on the given conditions:
+
+- **Support**: nice_hotel  
+  - **Contrary**: no_evident_not_nice_hotel  
+
+- **Support**: spacious_hotel  
+  - **Contrary**: no_evident_not_spacious_hotel  
+
+- **Support**: clean_hotel  
+  - **Contrary**: no_evident_not_clean_hotel  
+
+- **Support**: modern_hotel  
+  - **Contrary**: no_evident_not_modern_hotel  
+
+- **Support**: amazing_hotel  
+  - **Contrary**: no_evident_not_amazing_hotel"
+164,good_facility,"1. well_run, no_evident_not_well_run"
+167,good_facility,"Here’s the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Support**: clean  
+  - **Contrary**: no evident not clean  
+
+This means that ""clean"" is a support for the claim ""good_facility,"" and ""no evident not clean"" serves as the contrary."
+169,good_facility,"1. clean_hotel  
+   - no_evident_not_clean_hotel  
+
+2. quiet_hotel  
+   - no_evident_not_quiet_hotel"
+171,bad_facility,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Supports**:  
+  - no_own_parking_lot  
+  - difficult_to_find_parking  
+
+- **Contraries**:  
+  - have_evident_no_own_parking_lot  
+  - have_evident_difficult_to_find_parking"
+172,good_facility,"Here is the ABA format based on your conditions:
+
+1. **Supports:**
+   - everything
+     - no evident not everything
+   - clean
+     - no evident not clean
+
+2. **Contraries:**  
+   (Already included in the supports above)"
+183,good_facility,"1. **very**  
+   - Support: very  
+   - Contrary: no_evident_not_very  
+
+2. **clean**  
+   - Support: clean  
+   - Contrary: no_evident_not_clean  
+
+3. **hotel**  
+   - Support: hotel  
+   - Contrary: no_evident_not_hotel"
+190,good_facility,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **modern_hotel**  
+   - **Contrary**: no_evident_not_modern_hotel  
+
+2. **contemporary_hotel**  
+   - **Contrary**: no_evident_not_contemporary_hotel"
+212,good_facility,"- good_facility: hotel  
+  - support: hotel  
+    - contrary: no_evident_not_hotel  
+  - support: beautiful  
+    - contrary: no_evident_not_beautiful"
+216,good_facility,"- **Support**: new_facilities  
+  - **Contrary**: no_evident_not_new_facilities"
+221,good_facility,"- food  
+- drink  
+- no_evident_not_food  
+- no_evident_not_drink"
+222,good_facility,"1. nice_place  
+2. clean_place  
+3. no_evident_not_nice_place  
+4. no_evident_not_clean_place"
+224,bad_facility,"1. Always_possible  
+   have_evident_always_possible  
+
+2. Not_convenient  
+   have_evident_not_convenient"
+224,good_facility,"1. **Claim**: good_facility  
+2. **Support**: no_complaints  
+3. **Contrary**: no_evident_not_no_complaints"
+226,bad_facility,"1. **Support**: veranda_door  
+   **Contrary**: have_evident_veranda_door  
+
+2. **Support**: main_door  
+   **Contrary**: have_evident_main_door  
+
+3. **Support**: fixable  
+   **Contrary**: have_evident_fixable  
+
+4. **Support**: bed_cover  
+   **Contrary**: have_evident_bed_cover  
+
+5. **Support**: tea_spoon  
+   **Contrary**: have_evident_tea_spoon  
+
+6. **Support**: professional seal  
+   **Contrary**: have_evident_professional seal  
+
+7. **Support**: beach_towel_services  
+   **Contrary**: have_evident_beach_towel_services"
+227,good_facility,"Here is the text in Assumption-Based Argumentation (ABA) format based on your input:
+
+- clean_hotel  
+  no_evident_not_clean_hotel  
+
+- fresh_hotel  
+  no_evident_not_fresh_hotel"
+233,good_facility,"1. property  
+2. clean  
+3. no evident not property  
+4. no evident not clean"
+236,good_facility,"- **Supports**:  
+  - modern_hotel  
+  - good_facility  
+
+- **Contraries**:  
+  - no_evident_not_modern_hotel  
+  - no_evident_not_good_facility"
+239,bad_facility,"1. **Support**: no_own_parking_lot  
+   **Contrary**: have_evident_no_own_parking_lot  
+
+2. **Support**: difficult_to_find_parking  
+   **Contrary**: have_evident_difficult_to_find_parking  
+
+3. **Support**: safety_strip_on_steps  
+   **Contrary**: have_evident_safety_strip_on_steps"
+243,good_facility,"Here is the structured ABA format based on the given text:
+
+1. **Supports:**
+   - nice_hotel
+   - spacious_hotel
+   - clean_hotel
+   - modern_hotel
+   - beautiful_hotel
+
+2. **Contraries:**
+   - no_evident_not_nice_hotel
+   - no_evident_not_spacious_hotel
+   - no_evident_not_clean_hotel
+   - no_evident_not_modern_hotel
+   - no_evident_not_beautiful_hotel
+
+Each support is paired with its corresponding contrary, ensuring that all aspects of the provided text are addressed accurately and concisely."
+245,good_facility,"- Support: happy_service  
+  Contrary: no_evident_not_happy_service"
+246,good_facility,"1. small_hotel  
+2. small_hotel  
+3. no_evident_not_small_hotel  
+4. no_evident_not_small_hotel"
+250,good_facility,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Supports**:  
+  - lovely_room  
+  - modern_lobby  
+  - comfortable_restaurant  
+
+- **Contraries**:  
+  - no_evident_not_lovely_room  
+  - no_evident_not_modern_lobby  
+  - no_evident_not_comfortable_restaurant"
+252,good_facility,"- good_facility
+  - clean
+    - no_evident_not_clean
+  - new
+    - no_evident_not_new"
+254,good_facility,"- **Supports**:  
+  - wonderful_hotel  
+  - modern_hotel  
+  - family_run_hotel  
+  - small_hotel  
+
+- **Contraries**:  
+  - no_evident_not_wonderful_hotel  
+  - no_evident_not_modern_hotel  
+  - no_evident_not_family_run_hotel  
+  - no_evident_not_small_hotel"
+255,good_facility,"Here is the generated ABA format based on your conditions:
+
+1. **Supports:**
+   - cozy_hotel
+   - modern_hotel
+   - clean_hotel
+
+2. **Contraries:**
+   - no_evident_not_cozy_hotel
+   - no_evident_not_modern_hotel
+   - no_evident_not_clean_hotel"
+257,good_facility,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  - modern_hotel
+  - clean_hotel
+
+- **Contraries:**
+  - no_evident_not_modern_hotel
+  - no_evident_not_clean_hotel"
+258,good_facility,"- **Support**: accommodation  
+  - **Contrary**: no evident not accommodation"
+261,good_facility,"1. clean_hotel  
+   no_evident_not_clean_hotel"
+267,good_facility,"1. basic_hotel  
+   no_evident_not_basic_hotel  
+
+2. clean_hotel  
+   no_evident_not_clean_hotel  
+
+3. comfortable_hotel  
+   no_evident_not_comfortable_hotel"
+268,good_facility,"1. Support: nice  
+   Contrary: no evident not nice  
+
+2. Support: spacious  
+   Contrary: no evident not spacious  
+
+3. Support: clean  
+   Contrary: no evident not clean  
+
+4. Support: modern  
+   Contrary: no evident not modern"
+270,good_facility,"Here is the ABA-style text based on your conditions:
+
+- easy, park, outside  
+  no_evident_not_easy, no_evident_notPark, no_evident_notOutside"
+272,good_facility,"1. **Claim**: comfortable_LVH  
+2. **Support 1**: very_comfortable_LVH  
+   - Contrary: no_evident_not_comfortable_LVH  
+3. **Support 2**: clean_LVH  
+   - Contrary: no_evident_not_clean_LVH"
+278,good_facility,"1. clean_hotel  
+2. no_evident_not_clean_hotel"
+279,good_facility,"1. **Supports**:  
+   - neighborhood  
+   - modern  
+
+2. **Contraries**:  
+   - no_evident_not_neighborhood  
+   - no_evident_not_modern"
+282,good_facility,"Here is the ABA format based on your input:
+
+1. **Claim**: good_facility  
+2. **Supports**:  
+   - nice_hotel  
+   - very_nice  
+3. **Contraries**:  
+   - no_evident_not_nice_hotel  
+   - no_evident_not_very_nice"
+283,good_facility,"- Claim: good_facility  
+  - Supports:  
+    - clean_modern  
+      - no_evident_not_clean  
+    - modern_clean  
+      - no_evident_not_modern"
+284,good_facility,"1. clean_La_Veranda  
+2. flexible_with_scheduled  
+3. no_evident_not_clean_La_Veranda  
+4. no_evident_not_flexible_with_scheduled"
+285,good_facility,"Here is the structured ABA format based on the given text:
+
+- **good_facility**
+  - Clean
+    - no evident not clean
+  - Nice
+    - no evident not nice"
+287,good_facility,"- **Supports**:  
+  allowed_dog  
+  booking  
+
+- **Contraries**:  
+  no_evident_not_allowed_dog  
+  no_evident_not_booking"
+288,good_facility,"Here is the text in ABA format based on your conditions:
+
+- **Support**: boutique_hotel  
+  **Contrary**: no_evident_not_boutique_hotel"
+289,good_facility,"- nice_hotel  
+  clean_hotel  
+  no_evident_not_nice_hotel  
+  no_evident_not_clean_hotel"
+295,good_facility,"Here is the structured ABA format based on the provided text:
+
+- **Supports:**
+  - great
+  - new
+  - well furnished
+  - comfortable rooms
+  - feels like home
+
+- **Contraries:**
+  - no evident not great
+  - no evident not new
+  - no evident not well furnished
+  - no evident not comfortable rooms
+  - no evident not feels like home"
+297,good_facility,"- **Supports**:  
+  - recently_refurbished  
+  - very_clean  
+
+- **Contraries**:  
+  - no_evident_not_recently_refurbished  
+  - no_evident_not_very_clean"
+300,bad_facility,"- Support: cold
+  - Reasoning: The temperature was too low for swimming.
+
+- Contrary: have_evident_not_cold
+  - Reasoning: The hotel did not provide warmth, making swimming uncomfortable."
+301,good_facility,"1. **Claim**: nice_ambiance  
+   - **Supports**: xmas_vibes, nice_ambiance  
+   - **Contraries**: no_evident_not_xmas_vibes, no_evident_not_nice_ambiance"
+306,good_facility,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your instructions:
+
+- good_facility
+- nice
+- spacious
+- clean
+- modern
+- no_evident_not_nice
+- no_evident_not_spacious
+- no_evident_not_clean
+- no_evident_not_modern"
+307,good_facility,"1. **Claim**: good_facility  
+2. **Supports**:  
+   - The hotel is modern.  
+   - The hotel is nice.  
+3. **Contraries**:  
+   - No evident not modern hotel.  
+   - No evident not nice hotel."
+308,good_facility,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your instructions:
+
+- **Supports:**
+  - nice
+  - cozy
+  - welcome
+
+- **Contraries:**
+  - no_evident_not_nice
+  - no_evident_not_cozy
+  - no_evident_not_welcome"
+311,good_facility,"1. **Supports:**
+   - pet
+   - recommended
+   - no extra charge
+
+2. **Contraries:**
+   - no evident not pet
+   - no evident not recommended
+   - no evident not no extra charge"
+312,bad_facility,"- tiny_pool  
+  have_evident_tiny_pool"
+312,good_facility,"- place_clean  
+  - no_evident_not_place_clean  
+- everything_clean  
+  - no_evident_not_everything_clean"
+313,good_facility,"Here is the ABA format for the given text based on your conditions:
+
+- **Supports:**
+  - renovated_hotel  
+  - clean_hotel  
+  - quiet_street  
+  - sufficient_parking_facilities  
+
+- **Contraries:**  
+  - no_evident_not_renovated_hotel  
+  - no_evident_not_clean_hotel  
+  - no_evident_not_quiet_street  
+  - no_evident_not_sufficient_parking_facilities"
+314,good_facility,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Supports**:  
+  - fresh  
+  - just  
+  - renovated  
+  - good  
+
+- **Contraries**:  
+  - no_evident_not_fresh  
+  - no_evident_not_just  
+  - no_evident_not_renovated  
+  - no_evident_not_good"
+318,good_facility,"Here is the text formatted according to your instructions:
+
+- **Supports**:  
+  - nice  
+  - cozy  
+  - new  
+  - recently  
+
+- **Contraries**:  
+  - no evident not nice  
+  - no evident not cozy  
+  - no evident not new  
+  - no evident not recently"
+322,good_facility,"Here is the ABA-style argument based on your conditions:
+
+1. good_facility: excellent_everything  
+2. good_facility: clean  
+3. good_facility: spacious  
+4. good_facility: really_nice  
+5. no_evident_not_excellent_everything  
+6. no_evident_not_clean  
+7. no_evident_not_spacious  
+8. no_evident_notreally_nice"
+325,good_facility,"good_facility  
+nice  
+small  
+everything  
+no evident not nice  
+no evident not small  
+no evident not everything"
+335,good_facility,"Here is the structured ABA format based on your requirements:
+
+- **Supports**:  
+  - nice_hotel  
+  - spacious_hotel  
+  - clean_hotel  
+  - modern_hotel  
+  - great_holiday  
+
+- **Contraries**:  
+  - no_evident_not_nice_hotel  
+  - no_evident_not_spacious_hotel  
+  - no_evident_not_clean_hotel  
+  - no_evident_not_modern_hotel  
+  - no_evident_not_great_holiday  
+
+This format adheres to your conditions, ensuring each support is a short word from the original text and each contrary starts with ""no evident not."""
+337,good_facility,"Here is the structured ABA format based on your requirements:
+
+- **Claim**: good_facility  
+  - **Supports** and **Contraries**:  
+    - nice_hotel  
+      - no_evident_not_nice_hotel  
+    - spacious_hotel  
+      - no_evident_not_spacious_hotel  
+    - clean_hotel  
+      - no_evident_not_clean_hotel  
+    - modern_hotel  
+      - no_evident_not_modern_hotel  
+
+This format ensures that each support is paired with its contrary, using the exact vocabulary from the original text and adhering to your specified conditions."
+338,good_facility,"Here is the text generated in Assumption-Based Argumentation (ABA) format based on your instructions:
+
+1. **Claim**: good_facility  
+2. **Supports** and **Contraries**:  
+   - new_building  
+     - no_evident_not_new_building  
+   - new_hotel  
+     - no_evident_not_new_hotel  
+   - clean_building  
+     - no_evident_not_clean_building  
+   - clean_hotel  
+     - no_evident_not_clean_hotel"
+339,good_facility,"1. good_facility  
+2. best_accommodation  
+3. friendly_atmosphere  
+4. comfortable_atmosphere  
+5. no_evident_not_best_accommodation  
+6. no_evident_not_friendly_atmosphere  
+7. no_evident_not_comfortable_atmosphere"
+341,good_facility,"- clean_property  
+- modern_property  
+
+- no_evident_not_clean_property  
+- no_evident_not_modern_property"
+347,good_facility,"1. **Support**: nice_hotel  
+   **Contrary**: no_evident_not_nice_hotel  
+
+2. **Support**: spacious_hotel  
+   **Contrary**: no_evident_not_spacious_hotel  
+
+3. **Support**: clean_hotel  
+   **Contrary**: no_evident_not_clean_hotel  
+
+4. **Support**: modern_hotel  
+   **Contrary**: no_evident_not_modern_hotel"
+348,bad_facility,"1. **Support**: no_own_parking_lot  
+   **Contrary**: have_evident_no_own_parking_lot  
+
+2. **Support**: good_inside  
+   **Contrary**: have_evident_good_inside"
+348,good_facility,"Here is the text converted into an Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Supports:**
+  - inside_excellent
+  - outside_view
+
+- **Contraries:**
+  - no_evident_not_inside_excellent
+  - no_evident_not_outside_view"
+350,good_facility,"- good_facility: easy_parking  
+  - easy_parking  
+    - no evident not easy_parking  
+- good_facility: no evident not easy_parking  
+- good_facility: parking  
+  - parking  
+    - no evident not parking  
+- good_facility: no evident not parking"
+353,bad_facility,"1. **Support**: tiny_pool  
+   **Contrary**: have_evident_tiny_pool"
+353,good_facility,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **simple_hotel**: Simple clear contemporary decoration  
+   - Contrary: no_evident_not_simple_hotel  
+
+2. **clear_hotel**: Simple clear contemporary decoration  
+   - Contrary: no_evident_not_clear_hotel  
+
+3. **contemporary_hotel**: Simple clear contemporary decoration  
+   - Contrary: no_evident_not_contemporary_hotel  
+
+4. **new_hotel**: This hotel being new  
+   - Contrary: no_evident_not_new_hotel"
+357,good_facility,"- good_facility, comfortable_hotel, clean_hotel, no_evident_not_comfortable, no_evident_not_clean_hotel"
+359,good_facility,"- good_facility  
+  nice  
+  spacious  
+  clean  
+  modern  
+  no_evident_not_nice  
+  no_evident_not_spacious  
+  no_evident_not_clean  
+  no_evident_not_modern"
+365,good_facility,"1. **Supports**:  
+   - renovated_hotel  
+   - convenient_hotel  
+
+2. **Contraries**:  
+   - no_evident_not_renovated_hotel  
+   - no_evident_not_convenient_hotel"
+372,good_facility,"1. **Supports:**
+   - bright_hotel
+   - cozy_hotel  
+   - new_hotel  
+
+2. **Contraries:**  
+   - no_evident_not_bright_hotel  
+   - no_evident_not_cozy_hotel  
+   - no_evident_not_new_hotel"
+373,good_facility,"1. Cozy, no_evident_not_cozy  
+2. clean, no_evident_not_clean  
+3. hotel, no_evident_not_hotel  
+4. nice, no_evident_not_nice  
+5. place, no_evident_not_place"
+374,bad_facility,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Support**: no_own_parking_lot  
+   - **Contrary**: have_evident_no_own_parking_lot  
+
+2. **Support**: difficult_to_find_parking  
+   - **Contrary**: have_evident_difficult_to_find_parking"
+375,good_facility,"1. well situated_hotel  
+   no_evident_not_well situated_hotel"
+376,good_facility,"1. **Claim**: good_facility  
+2. **Supports**:  
+   - clean_hotel  
+   - comfortable_hotel  
+   - five_star_hotel  
+   - welcoming_hotel  
+3. **Contraries**:  
+   - no_evident_not_clean_hotel  
+   - no_evident_not_comfortable_hotel  
+   - no_evident_not_five_star_hotel  
+   - no_evident_not_welcoming_hotel"
+381,good_facility,"Here is the ABA format for your text, following all the given conditions:
+
+1. **Supports**:  
+   - interior  
+   - recently  
+   - renovated  
+
+2. **Contraries**:  
+   - no evident not interior  
+   - no evident not recently  
+   - no evident not renovated"
+382,good_facility,"1. **Support**: very.kindly  
+   - **Contrary**: no.evident.not.very.kindly  
+
+2. **Support**: package.received  
+   - **Contrary**: no.evident.not.package.received"
+383,good_facility,"- clean_facility, no_evident_not_clean_facility"
+384,good_facility,"1. Main statement: The Hotel itself was very good_facility.  
+2. Supports and Contraries:  
+   - nice_hotel → no_evident_not_nice_hotel (good_hotel)  
+   - spacious_hotel → no_evident_not_spacious_hotel (large_hotel)  
+   - clean_hotel → no_evident_not_clean_hotel (spotless_hotel)  
+   - modern_hotel → no_evident_not_modern_hotel (contemporary_hotel)"
+386,good_facility,"1. **Supports**:  
+   - nice_hotel  
+   - spacious_hotel  
+   - clean_hotel  
+   - modern_hotel  
+
+2. **Contraries**:  
+   - no_evident_not_nice_hotel  
+   - no_evident_not_spacious_hotel  
+   - no_evident_not_clean_hotel  
+   - no_evident_not_modern_hotel"
+388,good_facility,"- **Support**: brand_new_fittings_and_furniture  
+  - **Contrary**: no_evident_not_brand_new_fittings_and_furniture"
+389,good_facility,"- **Supports**:  
+  - affordable  
+  - clean  
+
+- **Contraries**:  
+  - no_evident_not_affordable  
+  - no_evident_not_clean"
+391,good_facility,"- **Support**: renovated  
+  - **Contrary**: no_evident_not_renovated  
+
+This provides the required support and its corresponding contrary, adhering to all specified conditions."
+395,good_facility,"Here is the text in ABA format based on your conditions:
+
+1. **Support**: amazing_place  
+   **Contrary**: no_evident_not_amazing_place  
+
+2. **Support**: honest_place  
+   **Contrary**: no_evident_not_honest_place"
+396,bad_facility,"1. no_own_parking_lot  
+   have_evident_no_own_parking_lot  
+
+2. difficult_to_find_parking  
+   have_evident_difficult_to_find_parking  
+
+3. need_renovation_lobby_common_areas  
+   have_evident_need_renovation_lobby_common_areas  
+
+4. bad_lighting_common_areas  
+   have_evident_bad_lighting_common_areas"
+405,good_facility,"Here is the text in Assumption-Based Argumentation (ABA) format based on your requirements:
+
+- **Claim**: good_facility  
+- **Supports**:  
+  - food  
+  - facilities  
+- **Contraries**:  
+  - no_evident_not_food  
+  - no_evident_not_facilities"
+406,good_facility,"Here is the ABA format based on your conditions:
+
+- **Supports:**
+  - nice_hotel
+  - spacious_hotel
+  - clean_hotel
+  - modern_hotel
+
+- **Contraries:**
+  - no_evident_not_nice_hotel
+  - no_evident_not_spacious_hotel
+  - no_evident_not_clean_hotel
+  - no_evident_not_modern_hotel"
+408,good_facility,"Here is the ABA format based on your conditions:
+
+1. **Support**: wonderful_place  
+   **Contrary**: no_evident_not_wonderful_place  
+
+2. **Support**: run_by_wonderful_people  
+   **Contrary**: no_evident_not_run_by_wonderful_people"
+409,good_facility,"- **Claim**: good_facility  
+- **Supports**: excellent, exceeded  
+- **Contraries**: no_evident_not_excellent, no_evident_not_exceeded"
+410,good_facility,"1. **Claim**: nice_front  
+2. **Supports**:  
+   - front_place  
+   - unwind_evening  
+3. **Contraries**:  
+   - no_evident_not_nice_front  
+   - no_evident_not_front_place  
+   - no_evident_not_unwind_evening"
+412,bad_facility,"1. **Support**: tall_people  
+   **Contrary**: have_evident_tall_people  
+
+2. **Support**: doorway_to_elevator  
+   **Contrary**: have_evident_doorway_to_elevator"
+415,good_facility,"Supports:  
+- clean_hotel  
+- super_clean  
+
+Contraries:  
+- no_evident_not_clean_hotel  
+- no_evident_not_super_clean"
+416,good_facility,"- Quiet_place  
+  Pet_friendly  
+  no_evident_not_quiet_place  
+  no_evident_not_pet_friendly"
+421,good_facility,"- clean_building  
+  no_evident_not_clean_building  
+
+- made_for_a_comfortable_stay  
+  no_evident_not_made_for_a_comfortable_stay"
+422,good_facility,"Here is the structured ABA format based on your text:
+
+- **Supports:**
+  - new_hotel
+  - renovated_hotel
+  - clean_hotel
+  - comfortable_hotel
+
+- **Contraries:**
+  - no_evident_not_new_hotel
+  - no_evident_not_renovated_hotel
+  - no_evident_not_clean_hotel
+  - no_evident_not_comfortable_hotel"
+425,bad_facility,"1. accessibility, have_evident_accessibility  
+2. not_to_EUregulations, have_evident_not_to_EUregulations  
+3. very_steep, have_evident_very_steep"
+425,good_facility,"1. **Supports**:  
+   - airy_hotel  
+   - light_hotel  
+   - nice_hotel  
+   - very_clean_hotel  
+
+2. **Contraries**:  
+   - no_evident_not_airy_hotel  
+   - no_evident_not_light_hotel  
+   - no_evident_not_nice_hotel  
+   - no_evident_not_very_clean_hotel"
+429,bad_facility,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Support**: no_own_parking_lot  
+   **Contrary**: have_evident_no_own_parking_lot  
+
+2. **Support**: difficult_to_find_parking  
+   **Contrary**: have_evident_difficult_to_find_parking  
+
+3. **Support**: very_limited_parking  
+   **Contrary**: have_evident_very_limited_parking"
+432,bad_facility,"- **Support**: street_parking  
+  **Contrary**: have_evident_street_parking"
+433,bad_facility,"- **Supports**:  
+  - no_own_parking_lot  
+  - difficult_to_find_parking  
+
+- **Contraries**:  
+  - have_evident_no_own_parking_lot  
+  - have_evident_difficult_to_find_parking"
+441,bad_facility,"1. **Support**: bad_internet  
+   **Contrary**: have_evident_bad_internet  
+
+2. **Support**: sluggish_internet  
+   **Contrary**: have_evident_sluggish_internet  
+
+3. **Support**: hard_to_connect  
+   **Contrary**: have_evident_hard_to_connect"
+442,bad_facility,"- **Support**: no_opening_for_season  
+  - **Contrary**: have_evident_no_opening_for_season"
+443,bad_facility,"- **Supports**:  
+  - no_bar  
+  - no_restaurant  
+  - no_pool  
+
+- **Contraries**:  
+  - have_evident_no_bar  
+  - have_evident_no_restaurant  
+  - have_evident_no_pool"
+445,good_facility,"- **Support**: nice_hotel  
+  - **Contrary**: no_evident_not_nice_hotel  
+
+- **Support**: clean_hotel  
+  - **Contrary**: no_evident_not_clean_hotel  
+
+- **Support**: little_hotel  
+  - **Contrary**: no_evident_not_little_hotel"
+451,bad_facility,"- **Support**: cold  
+  - **Contrary**: have_evident_cold  
+
+- **Support**: minimalistic  
+  - **Contrary**: have_evident_minimalistic"
+451,good_facility,"Here is the ABA format based on your input:
+
+**Supports:**
+- neat_hotel  
+- modern_hotel  
+
+**Contraries:**  
+- no_evident_not_neat_hotel  
+- no_evident_not_modern_hotel"
+452,good_facility,"1. clean_hotel  
+   no_evident_not_clean_hotel  
+
+2. COVID_prevention_measures_taken  
+   no_evident_not_COVID_prevention_measures_taken"
+455,bad_facility,"Here is the text formatted according to your instructions:
+
+1. **bad_facility**  
+2. **no_own_parking_lot**, **difficult_to_find_parking**, **bad_maintenance_of_hotel_facilities**, **lack_of_pool**, **broken_lift**, **inaccurate_room_pictures**  
+3. For each support, the contrary is:  
+   - have_evident_no_own_parking_lot  
+   - have_evident_difficult_to_find_parking  
+   - have_evident_bad_maintenance_of_hotel_facilities  
+   - have_evident_lack_of_pool  
+   - have_evident_broken_lift  
+   - have_evident_inaccurate_room_pictures"
+458,bad_facility,"- **Support**: limited_facilities  
+  **Contrary**: have_evidentLimited_facilities"
+468,bad_facility,"- **Support**: bad_cleaning  
+  - **Contrary**: have_evident_bad_cleaning  
+
+Each support is paired with a contrary that starts with ""have_evident"" while using the same word as presented."
+472,good_facility,"1. Very friendly atmosphere.  
+   - Support: friendly_atmosphere  
+   - Contrary: no_evident_not_friendly_atmosphere  
+
+2. A family business where you feel like at home.  
+   - Support: family_business_where_you_feel_like_at_home  
+   - Contrary: no_evident_not_family_business_where_you_feel_like_at_home  
+
+3. The hotel is very comfortable.  
+   - Support: comfortable_hotel  
+   - Contrary: no_evident_not_comfortable_hotel"
+474,bad_facility,"1. **Support**: no_own_parking_lot  
+   **Contrary**: have_evident_no_own_parking_lot  
+
+2. **Support**: difficult_to_find_parking  
+   **Contrary**: have_evident_difficult_to_find_parking"
+479,good_facility,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+**Supports:**
+- friendly_hotel  
+  - no_evident_not_friendly_hotel  
+- clean_hotel  
+  - no_evident_not_clean_hotel  
+
+This format adheres to your requirements, ensuring that each support is a short word from the original text without adjectives or adverbs. Each support is paired with its contrary, starting with ""no evident not."""
+481,good_facility,"1. **Claim**: cleanest_cyprus  
+2. **Support**: clean_cyprus  
+   - **Contrary**: no_evident_not_clean_cyprus"
+482,good_facility,"1. pleasant_accommodation  
+   no_evident_not_pleasant_accommodation  
+2. accommodation  
+   no_evident_not_accommodation"
+485,good_facility,"Here is the structured ABA response based on your conditions:
+
+**Supports:**
+1. wonderful_hotel  
+2. spacious_hotel  
+3. clean_hotel  
+4. all_as_in_the_photo  
+
+**Contraries:**  
+1. no_evident_not_wonderful_hotel  
+2. no_evident_not_spacious_hotel  
+3. no_evident_not_clean_hotel  
+4. no_evident_not_all_as_in_the_photo"
+489,good_facility,"1. **Claim**: good_facility  
+2. **Supports** and **Contraries**:  
+   - Support: nice  
+     Contrary: no_evident_not_nice  
+   - Support: spacious  
+     Contrary: no_evident_not_spacious  
+   - Support: clean  
+     Contrary: no_evident_not_clean  
+   - Support: modern  
+     Contrary: no_evident_not_modern"
+494,good_facility,"- **Claim**: good_facility  
+- **Support**: clean_hotel  
+- **Contrary**: no_evident_not_clean_hotel"
+497,good_facility,"1. **Claim**: good_facility  
+2. **Supports**:  
+   - perfect_hotel  
+   - excellent_hotel  
+   - superb_hotel  
+3. **Contraries**:  
+   - no_evident_not_perfect_hotel  
+   - no_evident_not_excellent_hotel  
+   - no_evident_not_superb_hotel"
+500,bad_facility,"1. **Supports:**
+   - difficult_to_find_parking
+     - have_evident_difficult_to_find_parking
+   - had_to_leave_car_far_away
+     - have_evident_had_to_leave_car_far_away"
+500,good_facility,"1. **Supports**:  
+   - accommodation  
+   - nice  
+
+2. **Contraries**:  
+   - no evident not accommodation  
+   - no evident not nice"
+501,good_facility,"- **Claim**: good_facility  
+  - **Support**: clean_hotel  
+    - **Contrary**: no_evident_not_clean_hotel"
+502,good_facility,"- **Claim**: good_facility  
+- **Support**: clean  
+  - **Contrary**: no_evident_not_clean"
+504,good_facility,"Here is the structured ABA format based on the given text:
+
+- everything
+- perfect
+- boutique_hotel
+- no_evident_not_everything
+- no_evident_not_perfect
+- no_evident_not_boutique_hotel"
+507,good_facility,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. nice_hotel  
+   no_evident_not_nice_hotel  
+
+2. spacious_hotel  
+   no_evident_not_spacious_hotel  
+
+3. clean_hotel  
+   no_evident_not_clean_hotel  
+
+4. modern_hotel  
+   no_evident_not_modern_hotel  
+
+5. furnished_hotel  
+   no_evident_not_furnished_hotel"
+509,good_facility,"- good_facility: nice  
+  no_evident_not_nice  
+
+- good_facility: spacious  
+  no_evident_not_spacious  
+
+- good_facility: clean  
+  no_evident_not_clean  
+
+- good_facility: modern  
+  no_evident_not_modern"
+511,good_facility,"- nice, no_evident_not_nice  
+- spacious, no_evident_not_spacious  
+- clean, no_evident_not_clean  
+- modern, no_evident_not_modern"
+513,good_facility,"1. clean_place, no_evident_not_clean_place  
+2. everything_as_expected, no_evident_not_everything_as_expected"
+515,good_facility,"Here is the text reformatted according to your instructions:
+
+Supports:  
+- clean  
+- new  
+- hotel  
+
+Contraries:  
+- no evident not clean  
+- no evident not new  
+- no evident not hotel"
+517,good_facility,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Support**: very_good_quality_hotel  
+- **Contrary**: no_evident_not_very_good_quality_hotel"
+527,good_facility,"- good_facility: nice_hotel  
+  - nice_hotel  
+  - no_evident_not_nice_hotel  
+
+- good_facility: spacious_hotel  
+  - spacious_hotel  
+  - no_evident_not_spacious_hotel  
+
+- good_facility: clean_hotel  
+  - clean_hotel  
+  - no_evident_not_clean_hotel  
+
+- good_facility: modern_hotel  
+  - modern_hotel  
+  - no_evident_not_modern_hotel"
+528,good_facility,"- clean_hotel  
+  no_evident_not_clean_hotel  
+
+- fresh_hotel  
+  no_evident_not_fresh_hotel"
+530,good_facility,"Here is the ABA format for the given text, following the specified conditions:
+
+**Supports:**
+1. **nice**
+2. **clean**
+
+**Contraries:**
+1. **no evident not nice**
+2. **no evident not clean**"
+532,good_facility,"- **Supports**:  
+  - **free**  
+  - **parking**  
+
+- **Contraries**:  
+  - **no evident not free**  
+  - **no evident not parking**"
+535,good_facility,"Here is the structured ABA format based on your instructions:
+
+- **good_facility**:
+  - small_hotel
+  - modern_hotel
+  - no_evident_not_small_hotel
+  - no_evident_not_modern_hotel"
+536,good_facility,"- **Support**: intimate_hotel  
+  **Contrary**: no_evident_not_intimate_hotel"
+537,good_facility,"- **Support**: cozy_terrace  
+  - **Contrary**: no evident not coozie_terrace"
+543,bad_facility,"Here is the text converted into ABA format based on your conditions:
+
+- little, have_evident_little  
+- evening, have_evident_evening"
+546,good_facility,"- **Supports**:  
+  - nice  
+  - spacious  
+  - clean  
+  - modern  
+
+- **Contraries**:  
+  - no evident not nice  
+  - no evident not spacious  
+  - no evident not clean  
+  - no evident not modern"
+549,good_facility,"1. **Support**: nice_hotel  
+   - **Contrary**: no_evident_not_nice_hotel  
+
+2. **Support**: spacious_hotel  
+   - **Contrary**: no_evident_not_spacious_hotel  
+
+3. **Support**: clean_hotel  
+   - **Contrary**: no_evident_not_clean_hotel  
+
+4. **Support**: modern_hotel  
+   - **Contrary**: no_evident_not_modern_hotel  
+
+5. **Support**: pet_friendly_hotel  
+   - **Contrary**: no_evident_not_pet_friendly_hotel"
+551,good_facility,"1. good_facility: recently_freshened  
+   - no evident not recently_freshened  
+
+2. good_facility: improved  
+   - no evident not improved"
+556,bad_facility,"1. **Support**: no_own_parking_lot  
+   **Contrary**: have_evident_no_own_parking_lot  
+
+2. **Support**: no_pool  
+   **Contrary**: have_evident_no_pool"
+569,good_facility,"- good_facility: recently_renovated  
+  no_evident_not_recently_renovated"
+571,good_facility,"- clean_hotel  
+  no_evident_not_clean_hotel  
+
+- comfortable_hotel  
+  no_evident_not_comfortable_hotel"
+572,bad_facility,"- **elevator_needs_cleaning**, have_evident_elevator_needs_cleaning  
+- **have_evident_elevator_needs_cleaning**"
+574,good_facility,"1. **Support**: amazing_hotel  
+2. **Contrary**: no_evident_not_amazing_hotel"
+581,bad_facility,"Here is the text converted into ABA format based on your conditions:
+
+1. **Supports:**
+   - no_own_parking_lot
+   - difficult_to_find_parking
+
+2. **Contraries:**
+   - have_evident_no_own_parking_lot
+   - have_evident_difficult_to_find_parking"
+586,good_facility,"1. new_hotel  
+2. clean_hotel  
+3. no_evident_not_new  
+4. no_evident_not_clean"
+590,good_facility,"Here is the structured ABA format for the given text:
+
+**Supports:**
+1. lovely
+2. quiet
+3. cozy
+
+**Contraries:**
+1. no_evident_not_lovely
+2. no_evident_not_quiet
+3. no_evident_not_cozy"
+594,good_facility,"1. **Supports:**
+   - refurbished
+   - clean
+   - tidy
+   - cozy
+   - parking
+
+2. **Contraries:**
+   - no evident not_refurbished
+   - no evident not_clean
+   - no evident not_tidy
+   - no evident not_cozy
+   - no evident not_parking"
+603,good_facility,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- clean_accommodation  
+  - no_evident_not_clean_accommodation  
+
+- pleasant_terrace  
+  - no_evident_not_pleasant_terrace"
+610,good_facility,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Support**: quiet_hotel  
+   **Contrary**: no_evident_not_quiet_hotel  
+
+2. **Support**: restaurant  
+   **Contrary**: no_evident_not_restaurant  
+
+3. **Support**: good  
+   **Contrary**: no_evident_not_good"
+615,good_facility,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- Nice_staff; no_evident_not_nice_staff  
+- Good_restaurant; no_evident_not_good_restaurant  
+- Good_hotel; no_evident_not_good_hotel"
+617,good_facility,- neat_hotel
+619,good_facility,"Here’s the text formatted according to your instructions:
+
+1. **Claim**: quiet_hotel  
+2. **Supports**:
+   - nice_hotel
+   - spacious_hotel
+   - clean_hotel
+   - modern_hotel  
+3. **Contraries**:
+   - no_evident_not_nice_hotel
+   - no_evident_not_spacious_hotel
+   - no_evident_not_clean_hotel
+   - no_evident_not_modern_hotel"
+620,good_facility,"1. **Support**: nice_hotel  
+   - **Contrary**: no_evident_not_nice_hotel  
+
+2. **Support**: clean_hotel  
+   - **Contrary**: no_evident_not_clean_hotel  
+
+3. **Support**: near_airport  
+   - **Contrary**: no_evident_not_near_airport"
+627,good_facility,"Here is the structured ABA format based on your requirements:
+
+1. **Stunning_hotel**
+   - Support: stunning_stunning
+   - Contrary: no_evident_not_stunning
+
+2. **aesthetic_and_clean_place**
+   - Support: aesthetic_and_clean_place_aesthetic_and_clean_place
+   - Contrary: no_evident_not_aesthetic_and_clean_place
+
+3. **innovative_interesting_service**
+   - Support: innovative_interesting_service_innovative_interesting_service
+   - Contrary: no_evident_not_innovative_interesting_service
+
+4. **you_can_request_at_push_of_a_button**
+   - Support: you_can_request_at_push_of_a_button_you_can_request_at_push_of_a_button
+   - Contrary: no_evident_not_you_can_request_at_push_of_a_button
+
+5. **you_wont_hear_the_bell**
+   - Support: you_wont_hear_the_bell_you_wont_hear_the_bell
+   - Contrary: no_evident_not_you_wont_hear_the_bell"
+628,good_facility,"- **Claim**: good_facility  
+  - **Supports**: plenty  
+    - **Contrary**: no_evident_not_plenty"
+635,good_facility,"- good_hotel  
+  no_evident_not_good_hotel"
+636,good_facility,"Here is the text processed into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Supports**:  
+   - renovated_hotel  
+   - brilliant_hotel  
+
+2. **Contraries**:  
+   - no_evident_not_renovated_hotel  
+   - no_evident_not_brilliant_hotel"
+643,good_facility,"Here is the text in ABA format based on the given conditions:
+
+- **Support**: welcoming  
+  **Contrary**: no_evident_not_welcoming  
+
+- **Support**: environment  
+  **Contrary**: no_evident_not_environment"
+646,good_facility,"1. clean_hotel  
+   - no_evident_not_clean_hotel  
+
+2. comfortable_hotel  
+   - no_evident_not_comfortable_hotel  
+
+3. place_to_park  
+   - no_evident_not_place_to_park"
+648,bad_facility,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Support**: no_own_parking_lot  
+   **Contrary**: have_evident_no_own_parking_lot  
+
+2. **Support**: difficult_to_find_parking  
+   **Contrary**: have_evident_difficult_to_find_parking"
+649,good_facility,"1. new_hotel  
+   no_evident_not_new_hotel  
+
+2. hotel_hotel  
+   no_evident_not_hotel_hotel"
+650,good_facility,"- cozy_hotel  
+  no_evident_not_cozy_hotel"
+652,good_facility,"Here is the text converted into ABA format based on your conditions:
+
+- nice  
+- spacious  
+- clean  
+- modern  
+- no_evident_not_nice  
+- no_evident_not_spacious  
+- no_evident_not_clean  
+- no_evident_not_modern  
+
+For the new statement ""the accommodation is perfect"":  
+
+- perfect  
+- no_evident_not_perfect"
+653,good_facility,"Here is the structured ABA format based on your instructions:
+
+- **Supports:**
+  - nice_hotel
+  - spacious_hotel
+  - clean_hotel
+  - modern_hotel
+
+- **Contraries:**
+  - no_evident_not_nice_hotel
+  - no_evident_not_spacious_hotel
+  - no_evident_not_clean_hotel
+  - no_evident_not_modern_hotel"
+654,good_facility,"Here is the structured ABA format based on the provided text:
+
+1. Clean:
+   - Support: clean
+   - Contra: no_evident_not_clean
+
+2. Comfortable:
+   - Support: comfortable
+   - Contra: no_evident_not_comfortable
+
+3. Soft bed:
+   - Support: soft
+   - Contra: no_evident_not_soft
+
+4. Cappuccino on soft sofas:
+   - Support: cappuccino
+   - Contra: no_evident_not_cappuccino
+
+This format ensures that each point is supported and its contrary is appropriately addressed, adhering to the given conditions."
+656,good_facility,"- lobby_clean  
+  room_clean  
+  no_evident_not_lobby_clean  
+  no_evident_not_room_clean"
+658,good_facility,"1. **Support**: homely_atmosphere  
+   **Contrary**: no_evident_not_homely_atmosphere  
+
+2. **Support**: atmosphere  
+   **Contrary**: no_evident_not_atmosphere"
+662,good_facility,"- **Supports**: nice_hotel, spacious_hotel, clean_hotel, modern_hotel  
+  - **Contraries**: no_evident_not_nice_hotel, no_evident_not_spacious_hotel, no_evident_not_clean_hotel, no_evident_not_modern_hotel"
+669,good_facility,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - transfer
+  - airport
+
+- **Contraries:**
+  - no evident not transfer
+  - no evident not airport"
+671,bad_facility,"1. **Support**: closed_pool  
+   **Contrary**: have_evident_closed_pool  
+
+2. **Support**: pool_closed  
+   **Contrary**: have_evident_pool_closed"
+671,good_facility,"1. **Pleasantly** -> **no evident not pleasant**
+2. **Surprised** -> **no evident not surprised**
+3. **Appears** -> **no evident not appears**
+4. **To** -> **no evident not to**
+5. **Have** -> **no evident not have**
+6. **Been** -> **no evident not been**
+7. **Renovated** -> **no evident not renovated**"
+673,good_facility,"1. parking_free  
+   no_evident_not_parking_free  
+
+2. front_hotel  
+   no_evident_not_front_hotel  
+
+3. street  
+   no_evident_not_street"
+675,good_facility,"- **Support**: well_kept_hotel  
+  - **Contrary**: no_evident_not_well_kept_hotel"
+678,good_facility,"- **Support**: good_hotel  
+  - **Contrary**: no_evident_not_good_hotel"
+680,good_facility,[ERROR] Timeout after 180s while waiting for model response. Skipping.
+681,good_facility,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- cozy_hotel  
+- no_evident_not_cozy_hotel  
+- stylish_hotel  
+- no_evident_not_stylish_hotel"
+683,good_facility,"Here is the structured ABA format based on the given conditions:
+
+- **Claim**: good_facility (nice_hotel)
+  - **Supports**:
+    - nice
+      - No evident not nice
+    - spacious
+      - No evident not spacious
+    - clean
+      - No evident not clean
+    - modern
+      - No evident not modern
+
+This format adheres to all specified conditions, ensuring clarity and conciseness while addressing both the positive aspects (supports) and potential reservations (contraries)."
+688,good_facility,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- good_facility: 
+  - spacious
+    - no_evident_not_spacious
+  - clean
+    - no_evident_not_clean"
+691,good_facility,"- **Support**: plenty_of_parking  
+  - **Contrary**: no_evident_not_plenty_of_parking"
+693,good_facility,"- Swimming_pool  
+  - Swimming_pool  
+    - No_evident_not_swimming_pool"
+695,good_facility,"- good_facility  
+  nice_hotel  
+    no_evident_not_nice_hotel  
+  spacious_hotel  
+    no_evident_not_spacious_hotel  
+  clean_hotel  
+    no_evident_not_clean_hotel  
+  modern_hotel  
+    no_evident_not_modern_hotel"
+700,bad_facility,"- **Supports**:  
+  - pool  
+  - hole  
+
+- **Contraries**:  
+  - have_evident_pool  
+  - have_evident_hole"
+703,good_facility,"- **Support**: redone  
+  - **Contrary**: no evident not redone"
+706,good_facility,"Here is the text converted into ABA format based on your instructions:
+
+- good_accommodation  
+  - very good_accommodation  
+    - no_evident_not_very_good_accommodation  
+
+- perfect_location  
+  - very perfect_location  
+    - no_evident_not_very_perfect_location  
+
+- near_airport  
+  - 7 minutes from the airport  
+    - no_evident_not_near_airport"
+707,good_facility,"Here is the text in Assumption-Based Argumentation (ABA) format based on your input:
+
+- **Support**: new_hotel  
+  **Contrary**: no_evident_not_new_hotel  
+
+This follows the rules you provided, where each support is paired with a contrary statement starting with ""no evident not""."
+709,good_facility,"1. small_hotel  
+2. well_kept_hotel  
+3. no_evident_not_small_hotel  
+4. no_evident_not_well_kept_hotel"
+711,bad_facility,"- **Supports**:  
+  - no_own_parking_lot  
+  - small_and_dirty  
+
+- **Contraries**:  
+  - have_evident_no_own_parking_lot  
+  - have_evident_small_and_dirty"
+714,good_facility,"Here is the ABA format based on your text:
+
+**Supports:**
+- comfortable  
+- convenient  
+
+**Contraries:**  
+- no evident not comfortable  
+- no evident not convenient"
+715,good_facility,"- **Support**: place  
+  - **Contrary**: no_evident_not_place"
+718,good_facility,"1. good_facility  
+2. nice_hotel  
+3. spacious_hotel  
+4. clean_hotel  
+5. modern_hotel  
+6. no_evident_not_nice_hotel  
+7. no_evident_not_spacious_hotel  
+8. no_evident_not_clean_hotel  
+9. no_evident_not_modern_hotel"
+720,good_facility,"Here is the text processed into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- clean_hotel  
+- modern_hotel  
+- hotel  
+- no_evident_not_clean_hotel  
+- no_evident_not_modern_hotel  
+- no_evident_not_hotel"
+727,good_facility,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Claim**: possible_with_animals  
+   **Support**: with_animals  
+   **Contrary**: no_evident_not_with_animals  
+
+2. **Claim**: possible_with_animals  
+   **Support**: possible  
+   **Contrary**: no_evident_not_possible"
+729,good_facility,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Supports**:  
+  - clean_hotel  
+  - equipped_hotel  
+
+- **Contraries**:  
+  - no_evident_not_clean_hotel  
+  - no_evident_not_equipped_hotel"
+730,good_facility,"1. nice_hotel  
+2. newly_refurbished_hotel  
+3. clean_hotel  
+4. modern_hotel  
+5. no_evident_not_nice_hotel  
+6. no_evident_not_newly_refurbished_hotel  
+7. no_evident_not_clean_hotel  
+8. no_evident_not_modern_hotel"
+733,bad_facility,"1. young_hotel  
+2. not_everything_perfect  
+3. have_evident_young_hotel  
+4. have_evident_not_everything_perfect"
+733,good_facility,"- new_hotel  
+  - no_evident_not_new_hotel"
+738,good_facility,"- new_furniture  
+  no_evident_not_new_furniture  
+
+- new_hotel  
+  no_evident_not_new_hotel"
+739,good_facility,"- good_facility: nice  
+  no_evident_not_nice  
+
+- good_facility: clean  
+  no_evident_not_clean"
+749,good_facility,"1. Suitable_hotel  
+   nice_hotel  
+     no_evident_not_nice_hotel  
+2. Suitable_hotel  
+   spacious_hotel  
+     no_evident_not_spacious_hotel  
+3. Suitable_hotel  
+   clean_hotel  
+     no_evident_not_clean_hotel  
+4. Suitable_hotel  
+   modern_hotel  
+     no_evident_not_modern_hotel"
+768,bad_facility,"1. Swimming_pool  
+2. Deckchairs  
+3. Billiards  
+4. have_evident_swimming_pool  
+5. have_evident_deckchairs  
+6. have_evident_billiards"
+773,good_facility,"1. compact_room  
+   - no_evident_not_compact_room  
+
+2. clean_hotel  
+   - no_evident_not_clean_hotel  
+
+3. modern_hotel  
+   - no_evident_not_modern_hotel"
+777,good_facility,"Here is the text processed into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Supports**:  
+   - wonderful_hotel  
+   - cozy_hotel  
+
+2. **Contraries**:  
+   - no_evident_not_wonderful_hotel  
+   - no_evident_not_cozy_hotel"
+780,good_facility,"Here’s the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Cozy**  
+   - Cozy  
+     - No evident not cozy  
+
+2. **Hotel**  
+   - Hotel  
+     - No evident not hotel"
+783,good_facility,"- tidy_hotel  
+  no_evident_not_tidy_hotel  
+
+- modern_hotel  
+  no_evident_not_modern_hotel"

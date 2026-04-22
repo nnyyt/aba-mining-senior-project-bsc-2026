@@ -1,0 +1,141 @@
+ID,Prompt,Topic,Test 2
+125,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""bad_taxi_issue"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] Taxi drivers who cooperate with hotel, both times, from airport and back, charged 2-3 EUR above the price agreed with the hotel (20 EUR). To clarify, it is not about the money, I would certainly give that money as a tip, but feeling that someone is cheating you and stilling money from you is really awkward and ugly, especially when you are alone with small child in the middle of the night and have no alternative way of transport.
+
+---
+ASSISTANT:
+charge_above_price_taxi, no_alternative_transport_at_midnight, have_evident_charge_above_price_taxi, have_evident_no_alternative_transport_at_midnight
+
+---
+USER:
+[Text] Taxi drivers who cooperate with hotel, both times, from airport and back, charged 2-3 EUR above the price agreed with the hotel (20 EUR). To clarify, it is not about the money, I would certainly give that money as a tip, but feeling that someone is cheating you and stilling money from you is really awkward and ugly, especially when you are alone with small child in the middle of the night and have no alternative way of transport.",bad_taxi_issue,"charge_above_price_taxi, no_alternative_transport_at_midnight, have_evident_charge_above_price_taxi, have_evident_no_alternative_transport_at_midnight"
+346,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""bad_taxi_issue"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] Taxi drivers who cooperate with hotel, both times, from airport and back, charged 2-3 EUR above the price agreed with the hotel (20 EUR). To clarify, it is not about the money, I would certainly give that money as a tip, but feeling that someone is cheating you and stilling money from you is really awkward and ugly, especially when you are alone with small child in the middle of the night and have no alternative way of transport.
+
+---
+ASSISTANT:
+charge_above_price_taxi, no_alternative_transport_at_midnight, have_evident_charge_above_price_taxi, have_evident_no_alternative_transport_at_midnight
+
+---
+USER:
+[Text] Booked a taxi from the airport was a no show.",bad_taxi_issue,"no_show_taxi, have_evident_no_show_taxi"
+568,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""bad_taxi_issue"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] Taxi drivers who cooperate with hotel, both times, from airport and back, charged 2-3 EUR above the price agreed with the hotel (20 EUR). To clarify, it is not about the money, I would certainly give that money as a tip, but feeling that someone is cheating you and stilling money from you is really awkward and ugly, especially when you are alone with small child in the middle of the night and have no alternative way of transport.
+
+---
+ASSISTANT:
+charge_above_price_taxi, no_alternative_transport_at_midnight, have_evident_charge_above_price_taxi, have_evident_no_alternative_transport_at_midnight
+
+---
+USER:
+[Text] The taxi driver who picked us up for the short drive to the airport ripped us off. Be sure to negotiate the price beforehand. It's your own fault!",bad_taxi_issue,"rip_off_passenger, negotiate_price_beforehand, have_evident_rip_off_passenger, have_evident_negotiate_price_beforehand"
+615,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""bad_taxi_issue"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] Taxi drivers who cooperate with hotel, both times, from airport and back, charged 2-3 EUR above the price agreed with the hotel (20 EUR). To clarify, it is not about the money, I would certainly give that money as a tip, but feeling that someone is cheating you and stilling money from you is really awkward and ugly, especially when you are alone with small child in the middle of the night and have no alternative way of transport.
+
+---
+ASSISTANT:
+charge_above_price_taxi, no_alternative_transport_at_midnight, have_evident_charge_above_price_taxi, have_evident_no_alternative_transport_at_midnight
+
+---
+USER:
+[Text] We had ordered a shuttle and thought it was specific to the hotel but it turned out to be just a lambda taxi, the problem is that we waited for it for 40 minutes because it was late but nobody warned us. We had to pay it straight away when we thought it would be included in the hotel bill at the end of the stay. It would be better to indicate directly that it is independent of the hotel, we would not have waited in front of other taxis and tried to reach everyone...",bad_taxi_issue,"waited_40_minutes_taxi, paid_immediately_taxi, have_evident_waited_40_minutes_taxi, have_evident_paid_immediately_taxi"
+660,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_taxi_issue"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] We arrived at 2:30 am at the airport, a shuttle taxi to the hotel was waiting for us.
+
+---
+ASSISTANT:
+taxi_waiting_for_us, no_evident_not_taxi_waiting_for_us
+
+---
+USER:
+[Text] We arrived at 2:30 am at the airport, a shuttle taxi to the hotel was waiting for us.",good_taxi_issue,"taxi_waiting_for_us, no_evident_not_taxi_waiting_for_us"
+666,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""bad_taxi_issue"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] Taxi drivers who cooperate with hotel, both times, from airport and back, charged 2-3 EUR above the price agreed with the hotel (20 EUR). To clarify, it is not about the money, I would certainly give that money as a tip, but feeling that someone is cheating you and stilling money from you is really awkward and ugly, especially when you are alone with small child in the middle of the night and have no alternative way of transport.
+
+---
+ASSISTANT:
+charge_above_price_taxi, no_alternative_transport_at_midnight, have_evident_charge_above_price_taxi, have_evident_no_alternative_transport_at_midnight
+
+---
+USER:
+[Text] Unfortunately, the organized taxi came too late/ a bit chaotic.",bad_taxi_issue,"taxi_late, taxi_chaotic, have_evident_taxi_late, have_evident_taxi_chaotic"
+689,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""bad_taxi_issue"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] Taxi drivers who cooperate with hotel, both times, from airport and back, charged 2-3 EUR above the price agreed with the hotel (20 EUR). To clarify, it is not about the money, I would certainly give that money as a tip, but feeling that someone is cheating you and stilling money from you is really awkward and ugly, especially when you are alone with small child in the middle of the night and have no alternative way of transport.
+
+---
+ASSISTANT:
+charge_above_price_taxi, no_alternative_transport_at_midnight, have_evident_charge_above_price_taxi, have_evident_no_alternative_transport_at_midnight
+
+---
+USER:
+[Text] When the booked taxi didn't show up at 3 in the morning, the Htl owner drove me to the airport himself after I rang him out of bed....",bad_taxi_issue,"no_taxi_arrival_morning, have_evident_no_taxi_arrival_morning"

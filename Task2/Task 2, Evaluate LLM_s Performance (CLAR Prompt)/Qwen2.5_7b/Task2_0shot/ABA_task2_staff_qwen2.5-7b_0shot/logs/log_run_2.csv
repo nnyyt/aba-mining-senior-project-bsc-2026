@@ -1,0 +1,2358 @@
+ID,Output
+1,"good_staff
+staff_helpful
+staff_easy_communicate_with
+no_evident_not_staff_helpful
+no_evident_not_staff_easy_communicate_with"
+2,"good_staff
+nice_staff
+helpful_staff
+no_evident_not_nice_staff
+no_evident_not_helpful_staff"
+4,"good_staff
+no_evident_not_good_staff"
+8,"good_staff no evident not good_staff
+good_staff no evident not good_staff"
+9,"helpful_host  
+no_evident_not_helpful_host
+
+nearby_bus  
+no_evident_not_nearby_bus
+
+town-centre  
+no_evident_not_town-centre
+
+airport  
+no_evident_not_airport"
+11,"good_staff
+no_evident_not_good_staff
+
+good_staff
+no_evident_not_good_staff
+
+good_staff
+no_evident_not_good_staff"
+12,"good_staff
+staff_helpful
+staff_friendly
+staff_out_of_their_way
+no_evident_not_staff_helpful
+no_evident_not_staff_friendly
+no_evident_not_staff_out_of_their_way"
+13,"good_staff
+welcoming no_evident_not_welcoming
+family no_evident_not_family"
+14,"- bad_staff
+- have evident difficulty in communication
+- have evident lack of language proficiency
+- have evident poor English skills"
+15,"good_staff
+staff
+no_evident_not_staff
+
+good_staff
+helpful
+no_evidient_not_helpful
+
+good_staff
+knowledgeable
+no_evident_not_knowledgeable
+
+good_staff
+friendly
+no_evident_not_friendly"
+17,"owner_staff_friendly
+no_evident_not_owner_staff_friendly
+
+staff_supportive
+no_evident_not_staff_supportive"
+18,"friendly reception and dining staff
+no evident not friendly reception and dining staff"
+20,"friendly stuff
+unfriendly stuff"
+21,"staff good_staff
+no evident not staff good_staff
+
+owners good_staff
+no evident not owners good_staff
+
+Richard buys food good_staff
+no evident not Richard buys food good_staff
+
+owners kind good_staff
+no evident not owners kind good_staff"
+22,"staff accomodating
+staff not accomodating"
+26,"good_staff
+staff_wonderful
+staff_friendly
+receptionist
+Maria_nice
+Maria_amazing
+no_evident_not_staff_wonderful
+no_evident_not_staff_friendly
+no_evident_not_receptionist
+no_evident_not_Maria_nice
+no_evident_not_Maria_amazing"
+27,"friendly staff
+no evident not friendly staff"
+28,"staff polite
+staff caring
+no evident not staff polite
+no evident not staff caring"
+29,"good_staff
+staff_helpful
+no_evident_not_staff_helpful
+staff_lovely
+no_evident_not_staff_lovely"
+30,"staff were lovely
+service was great
+no evident not staff were lovely
+no evident not service was great"
+31,"friendly staff
+no evident not friendly staff"
+32,"good_staff
+no_evident_not_good_staff"
+33,"good_staff
+helpful_staff
+no_evident_not_helpful_staff
+knowledgeable_staff
+no_evident_not_knowledgeable_staff
+friendly_staff
+no_evident_not_friendly_staff"
+34,"welcoming
+no evident not welcoming
+
+good_staff
+no evident not good_staff"
+36,"good_staff
+no_evident_not_good_staff
+
+clear_explanation
+no_evident_not_clear_explanation"
+37,"caring
+no evident not caring
+
+good_staff
+no evident not good_staff"
+41,"good_staff
+staff_friendly
+staff_helpful
+no_evident_not_staff_friendly
+no_evident_not_staff_helpful"
+42,"good_staff
+no_evident_not_good_staff
+
+clean_rooms
+no_evident_not_clean_rooms
+
+friendly_receptionists
+no_evident_not_friendly_receptionists
+
+efficient_service
+no_evident_not_efficient_service"
+44,"good_staff
+warm_welcome
+no_evident_not_warm_welcome
+dining_staff
+no_evident_not_dining_staff"
+47,"staff helped  
+staff organised  
+taxi collected  
+no evident not staff helped  
+no evident not staff organised  
+no evident not taxi collected"
+48,"good_staff
+no_evident_not_good_staff"
+51,"good_staff
+helpful
+not_helpful
+friendly
+not_friendly"
+56,"good_staff
+no_evident_not_good_staff"
+57,"staff ordered taxi  
+staff helped  
+no evident not staff ordered taxi  
+no evident not staff helped"
+58,"nice and helpful
+no evident not nice and helpful
+
+helpful
+no evident not helpful"
+61,"service
+no evident not service"
+62,"caring
+helpful
+no evident not caring
+no evident not helpful"
+64,"reached_out
+no_evident_not_reached_out
+
+provided_instructions
+no_evident_not_provided_instructions
+
+detailed_instructions
+no_evident_not_detailed_instructions
+
+advanced_notification
+no_evident_not_advanced_notification"
+66,"friendly no evident not friendly
+lovely smile no evident not lovely smile"
+67,"friendly staff
+no evident not friendly staff"
+68,"friendly good_staff
+no evident not friendly good_staff"
+69,"good_staff
+no_evident_not_good_staff
+
+lovely_place
+no_evident_not_lovely_place
+
+lovely_people
+no_evident_not_lovely_people"
+70,"friendly no evident not friendly
+helpful no evident not helpful"
+71,"good_staff
+no_evident_not_good_staff"
+73,"staff assisting  
+no evident not assisting  
+staff doing best  
+no evident not doing best  
+staff always  
+no evident not always"
+74,"good_staff
+no_evident_not_good_staff"
+77,"good_staff
+helpful
+not_helpful
+eager
+not_eager
+assist
+no evident not_assist"
+78,"staff
+friendly
+no evident not staff
+no evident not friendly"
+79,"friendly no evident not friendly
+helpful no evident not helpful"
+82,"good_staff
+no_evident_not_good_staff"
+83,"good_staff
+nice_staff
+friendly_staff
+no_evident_not_nice_staff
+no_evident_not_friendly_staff"
+84,"good_staff
+no_evident_not_good_staff
+
+staff_serving_values_customer
+no_evident_not_staff_serving_values_customer
+
+very_polite
+no_evident_not_very_polite
+
+caring
+no_evident_not_caring
+
+could_not_seem_to_do_enough_for_guests
+no_evident_not_could_not_seem_to_do_enough_for_guests"
+85,"friendly personnel
+no evident not friendly personnel"
+85,"cleaning finished late have evident bad_staff
+cleaning finished late have evident good_staff"
+86,"staff friendly
+staff unfriendly
+
+good_staff"
+87,"good_staff
+no_evident_not_good_staff
+
+good_staff
+no_evident_not_good_staff"
+88,"friendly staff
+unfriendly staff
+
+good_staff"
+91,"good_staff
+helpful
+no_evident_not_helpful
+friendly
+no_evident_not_friendly"
+94,"good_staff
+staff
+no_evident_not_staff
+
+Amazing staff,  
+staff
+no_evident_not_staff"
+96,"good_staff
+nice
+no_evident_not_nice"
+97,"service was excellent
+service was poor
+no evident not service was excellent
+no evident not service was poor"
+99,"good_staff
+wonderful_support
+no_evident_not_wonderful_support
+
+good_staff
+helpful_support
+no_evident_not_helpful_support
+
+good_staff
+knowledgeable_support
+no_evident_not_knowledgeable_support
+
+good_staff
+friendly_support
+no_evident_not_friendly_support"
+100,"good_staff
+staff
+no_evident_not_staff
+polite
+no_evident_not_polite"
+101,"good_staff
+hospitable
+no_evident_not_hospitable
+helpful
+no_evident_not_helpful"
+102,"friendly staff
+unfriendly staff"
+105,"good_staff
+no_evident_not_good_staff
+
+good_staff
+no_evident_not_good_staff"
+106,"bad_staff
+staff_have_evident_lack_of_english
+staff_have_evident_lack_of_english bad_staff
+staff_have_evident_improvement_needed bad_staff
+staff_have_evident_improvement_needed bad_staff
+have_evident_staff_know_good_english bad_staff
+have_evident_staff_know_good_english bad_staff"
+109,"good_staff
+helpful_staff
+no_evident_not_helpful_staff
+knowledgeable_staff
+no_evident_not_knowledgeable_staff
+friendly_staff
+no_evident_not_friendly_staff"
+113,"good_staff
+staff_excellent
+staff_accommodating
+no_evident_not_staff_excellent
+no_evident_not_staff_accommodating"
+114,"staff emailed  
+no evident not staff emailed  
+
+staff asked about arrival time  
+no evident not staff asked about arrival time  
+
+staff provided information on bus routes  
+no evident not staff provided information on bus routes  
+
+staff made arrangements for key collection  
+no evident not staff made arrangements for key collection"
+115,"good_staff
+no_evident_not_good_staff"
+118,"perfect
+no evident not perfect
+
+good_staff
+no evident not good_staff"
+119,"good_staff
+no evident not good_staff
+
+good_staff
+no evident not good_staff"
+120,"good_staff
+helpful_staff
+no_evident_not_helpful_staff
+knowledgeable_staff
+no_evident_not_knowledgeable_staff
+attentive_staff
+no_evident_not_attentive_staff"
+122,"good_staff
+no_evident_not_good_staff
+
+good_staff
+no_evident_not_good_staff"
+123,"friendly supportive no evident not friendly
+helpful supportive no evident not helpful"
+124,"staff friendly
+staff unfriendly"
+126,"helpful, no evident not helpful,
+friendly, no evident not friendly,"
+129,"- good_staff
+- no_evident_not_good_staff
+- kind
+- no_evident_not_kind
+- helpful
+- no_evident_not_helpful"
+131,"good_staff
+nice
+no_evident_not_nice"
+132,"friendly no evident not friendly
+helpful no evident not helpful
+impeccable no evident not impeccable
+service no evident not service"
+133,"- good_staff
+- no evident not helpful
+- good_staff
+- no evident not polite"
+134,"staff friendly
+no evident not friendly
+staff great
+no evident not great"
+135,"good_staff
+Richard_star
+no_evident_not_Richard_star"
+137,"friendly staff
+no evident not friendly staff"
+138,"helpful, no evident not helpful,
+kind, no evident not kind,"
+141,"wonderful staff
+no evident not wonderful staff"
+142,"convenient staff
+not convenient staff
+
+friendly staff
+no evident not friendly staff"
+145,"good_staff
+friendly
+no_evident_not_friendly
+made_possible
+no_evident_not_made_possible"
+146,"good_staff
+no_evident_not_good_staff
+
+friendly
+no_evident_not_friendly"
+147,"good_staff
+staff
+no_evident_not_staff
+amazing
+no_evident_not_amazing"
+149,"good_staff
+friendly_staff
+let_us_into_room
+arranged_taxi
+no_evident_not_friendly_staff
+no_evident_not_let_us_into_room
+no_evident_not_arranged_taxi"
+153,"staff checked us in quickly
+staff stored luggage
+staff called a taxi
+no evident not staff checked us in quickly
+no evident not staff stored luggage
+no evident not staff called a taxi"
+154,"good_staff
+staff
+no_evident_not_staff
+
+good_staff
+lovely
+no_evident_not_lovely"
+158,"good_staff
+staff_are_great
+no_evident_not_staff_are_great"
+159,"friendly staff
+no evident not friendly staff"
+162,"good_staff
+no_evident_not_good_staff
+
+good_staff
+no_evident_not_good_staff"
+164,"good_staff
+staff_accommodating
+staff_friendly
+no_evident_not_staff_accommodating
+no_evident_not_staff_friendly"
+165,"friendly staff
+no evident not friendly staff"
+167,"good_staff
+staff
+no_evident_not_staff
+service
+no_evident_not_service"
+169,"friendly
+helpful
+no evident not friendly
+no evident not helpful"
+171,"- good_staff
+- no_evident_not_good_staff"
+172,"friendly
+no evident not friendly"
+173,"good_staff
+friendly
+kind
+helpful
+no_evident_not_friendly
+no_evident_not_kind
+no_evident_not_helpful"
+177,"nice and helpful no evident not nice and helpful
+extremely agile to respond no evident not extremely agile to respond"
+180,"friendly staff
+no evident not friendly staff"
+181,"warm welcoming, good_staff.
+warm welcoming, no evident not good_staff."
+182,"good_staff
+no_evident_not_good_staff
+
+clean_rooms
+no_evident_not_clean_rooms
+
+friendly_customerservice
+no_evident_not_friendly_customerservice
+
+efficient_checkin
+no_evident_not_efficient_checkin"
+183,"friendly
+unfriendly no evident not friendly"
+185,"accommodated no evident not accommodated
+clear instructions no evident not clear instructions
+congenial no evident not congenial
+manager no evident not manager
+kitchen manager no evident not kitchen manager"
+186,"friendly staff
+unfriendly staff"
+192,"good_staff
+amazing
+no_evident_not_amazing"
+193,"good_staff
+helpful
+not_helpful"
+194,"friendly people
+no evident not friendly people"
+195,"friendly
+unfriendly
+
+good_staff
+bad_staff"
+198,"staff friendly
+no evident not friendly
+
+staff relatives
+no evident not relatives"
+199,"service
+smile
+
+no evident not service
+no evident not smile"
+202,"good_staff
+nice
+no_evident_not_nice"
+203,"friendly
+no evident not friendly"
+204,"friendly
+no evident not friendly
+
+good_staff"
+206,"good_staff welcoming owners
+good_staff no evident not welcoming owners"
+207,"staff
+no evident not staff
+
+good_staff
+no evident not good_staff"
+209,"friendly people
+no evident not friendly people"
+210,"friendly
+unfriendly"
+211,friendly support helpful no evident not friendly no evident not helpful
+212,"staff friendly
+staff helpful
+no evident not staff friendly
+no evident not staff helpful"
+214,"- organised
+- no evident not organised
+- arranged
+- no evident not arranged
+- booked
+- no evident not booked"
+221,"tracked_flight no_evident_not_tracked_flight
+offered_food_and_drink no_evidient_not_offered_food_and_drink
+friendly_staff no_evident_not_friendly_staff
+welcoming_owner no_evident_not_welcoming_owner"
+223,"good_staff
+no_evident_not_good_staff
+
+good_indications
+no_evident_not_good_indications
+
+helpful_desk
+no_evident_not_helpful_desk"
+224,"friendly supportive  
+helpful unhelpful  
+no evident not friendly no evident not supportive  
+no evident not helpful no evident not friendly"
+226,"good_staff
+no_evident_not_good_staff
+
+helpful
+no_evident_not_helpful
+
+pleasant
+no_evident_not_pleasant
+
+speak_perfect_english
+no_evident_not_speak_perfect_english"
+227,"good_staff
+late_check_in
+simple
+no_evident_not_kind_hosts_made_late_check_in_simple
+no_evident_not_very_kind_hosts_made_late_check_in_simple"
+228,"good_staff welcome  
+good_staff smile  
+good_staff home  
+no evident not good_staff welcome  
+no evident not good_staff smile  
+no evident not good_staff home"
+229,"good_staff
+no_evident_not_good_staff
+
+good_staff
+no_evident_not_good_staff"
+231,"friendly staff
+unfriendly staff"
+235,"welcoming  
+no evident not welcoming  
+
+good_staff  
+no evident not good_staff"
+240,"warm welcome, reachable, informative, reassurring, 5 star
+
+no evident not warm welcome, no evident not reachable, no evident not informative, no evident not reassurring, no evident not 5 star"
+241,"staff friendly
+staff lend adaptor
+no evident not staff friendly
+no evident not staff lend adaptor"
+242,"- good_staff
+- no_evident_not_accommodating
+- no_evident_not_kind"
+245,"great_staff
+no_evident_not_great_staff
+
+welcoming
+no_evident_not_welcoming"
+246,"friendly supportive  
+helpful unhelpful  
+no evident not friendly no evident not helpful"
+248,"staff kind
+staff professional
+staff polite
+staff helpful
+no evident not staff kind
+no evident not staff professional
+no evident not staff polite
+no evident not staff helpful"
+250,"family friendly
+family no evident not friendly
+
+hoteliers nice
+hoteliers no evident not nice"
+251,"friendly staff
+no evident not friendly staff"
+252,"friendly
+no evident not friendly
+
+good_staff
+no evident not good_staff"
+254,"helpful  
+no evident not helpful  
+
+good_staff  
+no evident not good_staff"
+255,"good_staff
+friendly
+attentive
+no_evident_not_friendly
+no_evident_not_attentive"
+257,"good_staff
+staff
+no_evident_not_staff
+
+supportive
+no_evident_not_supportive
+
+friendly
+no_evident_not_friendly
+
+helpful
+no_evident_not_helpful"
+258,"good_staff
+staff
+no_evident_not_staff
+
+wonderful
+staff
+no_evident_not_wonderful
+
+staff
+staff
+no_evident_not_staff"
+259,"friendly staff
+not friendly staff
+
+helpful staff
+not helpful staff"
+260,"friendly staff
+unfriendly staff"
+262,"staff_attentive
+no_evident_not_staff_attentive
+
+staff_helpful
+no_evident_not_staff_helpful
+
+arranged_car
+no_evident_not_arranged_car
+
+showed_room
+no_evident_not_show_room"
+264,"friendly staff
+no evident not friendly staff"
+265,"warm welcome
+no evident not warm welcome"
+266,"good_staff
+no_evident_not_good_staff"
+267,"helpful_staff
+no_evident_not_helpful_staff
+
+staff_arranged
+no_evident_not_staff_arranged
+
+taxi_arranged
+no_evident_not_taxi_arranged
+
+airport_to_hotel
+no_evident_not_airport_to_hotel"
+268,"staff helpful staff not helpful
+staff friendly staff not friendly"
+269,"good_staff
+no_evident_not_super_friendless"
+270,"good_staff
+helpful
+no evident not helpful
+
+friendly
+no evident not friendly
+
+knowledgeable
+no evident not knowledgeable
+
+responsive
+no evident not responsive"
+272,"good_staff
+nice
+no_evident_not_nice
+
+good_staff
+helpful
+no_evident_not_helpful"
+274,"good_staff
+valet
+no evident not valet
+check-in
+no evident not check-in
+cleaning_staff
+no evident not cleaning_staff"
+275,"staff good_staff
+no evident not good_staff
+
+staff helped
+no evident not helped
+
+staff made_enjoyable
+no evident not made_enjoyable"
+276,"good_staff
+no_evident_not_good_staff
+
+good_staff
+no_evident_not_good_staff"
+277,"good_staff
+staff_helpful
+no_evident_not_staff_helpful
+staff_exceptional
+no_evident_not_staff_exceptional"
+278,"good_staff
+wonderful
+friendly
+welcoming
+no evident not wonderful
+no evident not friendly
+no evident not welcoming"
+281,"owner_staff_welcoming
+no_evident_not_owner_staff_welcoming
+
+staff_helpful
+no_evident_not_staff_helpful
+
+took_time_print_flight_doc
+no_evident_not_took_time_print_flight_doc
+
+booked_taxis
+no_evident_not_booked_taxis
+
+flight_cancelled_kept_room_longer
+no_evident_not_flight_cancelled_kept_room_longer"
+282,"good_staff
+staff_helpful
+staff_friendly
+no_evident_not_staff_helpful
+no_evident_not_staff_friendly"
+283,"staff was friendly. They were responsive.
+no evident not staff was friendly. no evident not they were responsive."
+284,"good_staff
+staff_excellent
+no_evident_not_staff_excellent"
+288,"friendly
+no evident not friendly
+
+helpful
+no evident not helpful"
+290,"good_staff
+happy
+no_evident_not_happy
+
+above_and_beyond
+no_evident_not_above_and_beyond
+
+help
+no_evident_not_help
+
+Covid_restrictions
+no_evident_not_Covid_restrictions
+
+airport
+no_evident_not_airport"
+291,"friendly staff
+no evident not friendly staff"
+293,"good_staff
+helpful
+no_evident_not_helpful
+friendly
+no_evident_not_friendly"
+295,"staff polite; staff not polite;
+hosts kind; hosts not kind;
+smiling people; no evident not smiling people;"
+298,"stuff were super nice!
+stuff were not super nice!"
+299,"good_staff
+welcoming
+no_evident_not_welcoming
+friendly
+no_evident_not_friendly"
+300,"good_staff
+helpful
+no evident not helpful
+friendly
+no evident not friendly
+welcoming
+no evident not welcoming
+felt_like_home
+no evident not_felt_like_home"
+301,"staff
+no evident not staff
+
+good_staff
+no evident not good_staff"
+303,"welcoming
+no evident not welcoming
+
+helpful
+no evident not helpful
+
+happy to help
+no evident not happy to help"
+304,"staff gave recommendations
+no evident not staff gave recommendations
+
+staff recommended places
+no evident not staff recommended places
+
+staff helped with roaming
+no evident not staff helped with roaming"
+305,"good_staff
+staff_accommodating
+staff_easy_to_deal_with
+staff_gone_above_and_beyond
+no_evident_not_staff_accommodating
+no_evident_not_staff_easy_to_deal_with
+no_evident_not_staff_gone_above_and_beyond"
+306,"good_staff
+no_evident_not_good_staff"
+307,"arranged  
+no evident not arranged  
+taxi  
+no evident not taxi  
+airport  
+no evident not airport  
+15  
+no evident not 15  
+€  
+no evident not €"
+308,"good_staff
+no_evident_not_good_staff
+
+good_staff
+no_evident_not_good_staff"
+309,"management/husband_and_wife/were_fantastic
+no_evident_not_management/husband_and_wife/are_fantastic
+
+all_staff/fantastic
+no_evident_not_all_staff/are_fantastic"
+311,"staff welcoming
+staff helpful
+staff quick response
+no evident not staff welcoming
+no evident not staff helpful
+no evident not staff quick response"
+312,"staff kind
+staff helpful
+staff flexible
+no evident not staff kind
+no evident not staff helpful
+no evident not staff flexible"
+313,"good_staff
+super_friendly_staff
+no_evident_not_super_friendly_staff"
+315,"staff friendly
+no evident not friendly
+
+staff all very friendly
+no evident not all friendly"
+316,"very accommodating  
+no evident not very accommodating  
+
+welcoming  
+no evident not welcoming"
+318,"staff friendly
+staff helpful
+no evident not staff friendly
+no evident not staff helpful"
+319,"waiting_for_me_after_hours
+no_evident_not_waiting_for_me_after_hours
+
+arriving_on_time
+no_evident_arriving_on_time
+
+usual_open_hours
+no_evident_usual_open_hours"
+322,"got_ready
+no_evident_not_got_ready
+had_room
+no_evident_not_had_room"
+323,"good_staff
+nice
+no_evident_not_nice
+welcoming
+no_evident_not_welcoming"
+324,"good_staff
+helpful
+not_helpful"
+327,"host kind
+host helpful
+host smile
+host energy
+host hospitality
+no evident not host kind
+no evident not host helpful
+no evident not host smile
+no evident not host energy
+no evident not host hospitality"
+330,"staff good_staff
+no evident not staff good_staff
+
+staff customer-centric
+no evident not staff customer-centric
+
+staff kind
+no evident not staff kind"
+331,"welcoming
+no evident not welcoming
+
+good_staff
+no evident not good_staff"
+332,"good_staff
+helped_book_taxi
+no_evident_not_helped_book_taxi
+provided_good_price
+no_evident_not_provided_good_price"
+334,"staff friendly
+no evident not staff friendly
+
+helpful
+no evident not helpful"
+335,"friendly
+unfriendly
+
+good_staff
+bad_staff"
+336,"good_staff
+no_evident_not_good_staff"
+337,"good_staff
+no_evident_not_good_staff
+
+excellent_owners
+no_evident_not_excellent_owners"
+338,"family running this hotel are friendly
+family running this hotel are welcoming
+they gave us a free room upgrade
+no evident not friendly
+no evident not welcoming
+no evident not gave us a free room upgrade"
+339,"good_staff
+no_evident_not_good_staff"
+341,"owners lovely
+owners made sure
+no evident not owners lovely
+no evident not owners made sure"
+342,"good_staff
+friendly
+no_evident_not_friendly
+helped
+no_evident_not_helped"
+343,"staff good
+no evident not staff good
+
+friendly staff
+no evident not friendly staff
+
+owner took us to our room
+no evident not owner took us to our room
+
+gave us a prime parking spot
+no evident not gave us a prime parking spot
+
+introduced us to his daughter
+no evident not introduced us to his daughter
+
+daughter was super nice and helpful
+no evident not daughter was super nice and helpful"
+344,"staff very good
+staff very good no evident not good
+staff helpful
+staff helpful no evident not helpful"
+346,"good_staff
+good_communication
+no_evident_not_good_communication"
+347,"good_staff
+friendly
+keen_toplease
+no_evident_not_friendly
+no_evident_not_keen_toplease"
+348,"staff welcoming
+owners welcoming
+no evident not staff welcoming
+no evident not owners welcoming"
+349,"friendly
+helpful
+no evident not friendly
+no evident not helpful"
+350,"good_staff
+staff_helpful
+no_evident_not_staff_helpful
+staff_lovely
+no_evident_not_staff_lovely"
+353,"friendly staff
+no evident not friendly staff"
+353,"bad_staff
+have evident poor organisation
+have evident lack of collaboration
+have evident unfriendly attitude
+have evident good communication skills
+have evident efficient planning"
+354,"nice_staff
+no_evident_not_nice_staff"
+356,"communication_prior_to_arriving_was_brilliant
+staff_were_friendly
+staff_were_polite
+nothing_was_too_much_for_them
+always_willing_to_help
+made_our_stay_enjoyable
+
+no_evident_not_communication_prior_to_arriving_was_brilliant
+no_evident_not_staff_were_friendly
+no_evident_not_staff_were_polite
+no_evident_not_nothing_was_too_much_for_them
+no_evident_not_always_willing_to_help
+no_evident_not_made_our_stay_enjoyable"
+357,"friendly
+unfriendly"
+362,"good_staff
+staff_kind
+staff_helpful
+no_evident_not_staff_kind
+no_evident_not_staff_helpful"
+363,"good_staff
+no_evident_not_good_staff
+
+good_staff
+no_evident_not_good_staff"
+364,"friendly
+accommodating
+no evident not friendly
+no evident not accommodating"
+367,"friendly staff
+no evident not friendly staff"
+371,"good_staff
+no_evident_not_good_staff"
+372,"good_staff
+helpful
+not_helpful
+good_staff
+knowledgeable
+no_evident_not_knowledgeable
+good_staff
+friendly
+not_friendly"
+373,"wonderful staff
+no evident not wonderful staff"
+375,"good_staff
+helpful
+no_evident_not_helpful
+
+friendly
+no_evident_not_friendly"
+377,"staff polite
+staff helpful
+no evident not staff polite
+no evident not staff helpful"
+378,"good_staff
+friendly
+no_evident_not_friendly"
+379,"staff good
+no evident not staff good
+
+Hotel administrator help
+no evident not Hotel administrator help
+
+helped good
+no evident not helped good
+
+taxi good
+no evident not taxi good"
+380,"staff good  
+no evident not staff good  
+staff able  
+no evident not staff able  
+satisfied  
+no evident not satisfied"
+381,"friendly
+no evident not friendly
+
+good_staff
+no evident not good_staff"
+382,"facilitated_shuttle_service
+no_evident_not_facilitated_shuttle_service
+
+responsive
+no_evident_not_responsive
+
+reachable_via_whatsapp
+no_evident_not_reachable_via_whatsapp
+
+accommodate_needs
+no_evident_not_accommodate_needs"
+383,"friendly
+helpful
+no evident not friendly
+no evident not helpful"
+384,"good_staff
+no_evident_not_good_staff
+
+good_staff
+no_evident_not_good_staff"
+385,"good_staff
+no_evident_not_good_staff"
+386,"friendly, welcoming and accommodating
+no evident not friendly
+no evident not welcoming and accommodating
+
+multiple converters
+no evident not multiple converters
+
+luggage scale
+no evident not luggage scale"
+388,"friendly employees no evident not friendly employees
+effective employees no evident not effective employees
+owners are friendly no evident not friendly owners
+owners are effective no evident not effective owners"
+389,"good_staff
+professional_staff
+friendly_staff
+no_evident_not_professional_staff
+no_evident_not_friendly_staff"
+390,"good_staff
+no_evident_not_good_staff"
+392,"friendly staff!
+no evident not friendly staff!"
+393,"good_staff
+no_evident_not_good_staff"
+394,"check_in_quick
+no_evident_not_check_in_quick
+
+hotel_managers_polite
+no_evident_not_hotel_managers_polite
+
+hotel_managers_friendly
+no_evident_not_hotel_managers_friendly"
+396,"good_staff
+fantastic
+no_evident_not_fantastic
+
+good_staff
+helpful
+no_evident_not_helpful
+
+good_staff
+knowledgeable
+no_evident_not_knowledgeable
+
+good_staff
+friendly
+no_evident_not_friendly"
+399,"good_staff
+no_evident_not_good_staff
+
+staff_cared
+no_evident_not_staff_cared
+
+owners_present
+no_evident_not_owners_present"
+400,"friendly no evident not friendly
+kind-hearted no evident not kind-hearted
+recommending no evident not recommending
+places of interest no evident not places of interest
+routes no evident not routes"
+401,"friendly staff
+no evident not friendly staff"
+402,"good_staff
+staff_superb
+no_evident_not_staff_superb"
+403,"good_staff
+no evident not good_staff
+good_hospitality
+no evident not good_hospitality
+smiling_people
+no evident not smiling_people"
+405,"mum&children  
+no evident not mum&children  
+
+invite  
+no evident not invite  
+
+kind  
+no evident not kind  
+
+ready to help  
+no evident not ready to help  
+
+sit with them  
+no evident not sit with them  
+
+relax  
+no evident not relax  
+
+drink at night  
+no evident not drink at night"
+408,"good_staff
+no_evident_not_good_staff"
+409,"good_staff
+helpful
+no evident not helpful
+kind
+no evident not kind
+professional
+no evident not professional"
+410,"good_staff
+staff_friendly
+staff_warm
+staff_helpful
+staff_willing_to_do_more
+no_evident_not_staff_friendly
+no_evident_not_staff_warm
+no_evident_not_staff_helpful
+no_evident_not_staff_willing_to_do_more"
+414,"good_staff
+staff
+no_evident_not_staff
+great_staff
+no_evident_not_great_staff"
+415,"welcoming
+no evident not welcoming
+
+good_staff
+no evident not good_staff"
+416,"good_staff
+no_evident_not_good_staff"
+417,"friendly staff
+unfriendly staff"
+419,"friendly
+helpful
+no evident not friendly
+no evident not helpful"
+421,"good_staff
+staff_welcomed_me
+no_evident_not_staff_welcomed_me
+staff_was_helpful
+no_evident_not_staff_was_helpful"
+422,"good_staff
+no_evident_not_good_staff
+
+good_service
+no_evident_not_good_service
+
+welcomed
+no_evident_not_welcomed"
+423,"staff was amazing
+staff was welcoming
+no evident not staff was amazing
+no evident not staff was welcoming"
+424,"super friendly staff
+no evident not super friendly staff"
+427,"good_staff
+staff_helpful
+no_evident_not_staff_helpful"
+433,"good_staff
+no_evident_not_polite
+no_evident_not_friendly"
+433,"- requested  
+- got  
+- appreciate  
+- prompted  
+- check out  
+- normal time  
+- 12pm  
+- next customers  
+- arrive  
+- granted  
+- late check out  
+- clerk  
+- apologised  
+- have evident requested  
+- have evident got  
+- have evident appreciated  
+- have evident prompted  
+- have evident check out  
+- have evident normal time  
+- have evident 12pm  
+- have evident next customers  
+- have evident arrive  
+- have evident granted  
+- have evident late check out  
+- have evident clerk  
+- have evident apologised"
+436,"good_staff
+no_evident_not_good_staff
+
+good_staff
+no_evident_not_good_staff"
+438,"friendly people
+no evident not friendly people"
+440,"friendly staff
+unfriendly staff"
+443,"friendly staff
+no evident not friendly staff"
+444,"bad_staff
+have evident couldn't_wait
+have evident standing_next_to_door
+have evident cleaning_room
+have evident left_without_changing_bandage
+have evident changed_bandage_outside"
+447,"good_staff
+lovely
+no_evident_not_lovely"
+448,"good_staff
+staff_excellent
+no_evident_not_staff_excellent"
+449,"bad_staff have evident double_booking
+bad_staff have evident no_alternative_booking"
+450,"good_staff
+friendly_staff
+no_evident_not_friendly_staff
+helpful_staff
+no_evident_not_helpful_staff"
+452,"friendly welcoming staff
+no evident not friendly welcoming staff"
+453,"bad_staff have evident requested_double_bed
+bad_staff have evident received_single_beds_next_to_each_other
+bad_staff have evident requested_double_bed
+bad_staff have evident received_two_single_beds_next_to_each_other"
+455,"asked to see the room before paying have evident bad_staff
+have evident bad_staff"
+456,"good_staff
+no_evident_not_good_staff
+
+clean_place
+no_evident_not_clean_place
+
+comfortable_guests
+no_evident_not_comfortable_guests
+
+hard_working_employees
+no_evident_not_hard_working_employees"
+456,"bad_staff have evident refused  
+bad_staff have evident charged  
+
+have evident refused bad_staff  
+have evident charged bad_staff"
+460,"staff was very polite.
+staff was not very polite."
+461,"good_staff
+no_evident_not_kind
+good_staff
+no_evident_not_responsive"
+461,"cleaned out
+have evident cleaned in
+
+threw out
+have evident threw away
+
+meant to be a gift
+have evident intended for
+
+cost us 25 euros
+have evident priced at
+
+asked if they had seem them
+have evident questioned about
+
+brought them out of the trash room
+have evident retrieved from garbage
+
+offered to spray them
+have evident sprayed
+
+tried, but should be refunding us
+have evident attempted, yet ought to compensate
+
+only things near the garbage should be thrown out
+have evident only items in trash area discarded
+
+stuff next to guests' belongings
+have evident objects beside visitors' possessions
+
+extremely disappointed
+have evident very upset
+
+acceptable to take an edible gift out of a trash room
+have evident proper to remove eatable from waste area"
+467,"good_staff
+no_evident_not_good_staff
+
+liked_smiling_welcome
+no_evident_not_liked_smiling_welcome
+
+happy_welcome
+no_evident_not_happy_welcome"
+468,"good_staff
+nice_staff
+no_evident_not_nice_staff"
+469,"good_staff
+helpful
+not_helpful
+knowledgeable
+not_knowledgeable"
+470,"nice no evident not nice
+friendly no evident not friendly"
+471,"good_staff
+helpful
+not_helpful
+good_staff
+knowledgeable
+no_evident_not_knowledgeable
+good_staff
+friendly
+not_friendly"
+473,"friendly staff
+friendly staff no evident not friendly staff
+service
+service no evident not service"
+476,"staff_kindness
+no_evident_not_staff_kindness
+
+staff_helpful
+no_evident_not_staff_helpful"
+477,"good_staff
+kind_staff
+no_evident_not_kind_staff"
+478,"staff_kindness
+no_evident_not_staff_kindness
+
+staff_helpful
+no_evident_not_staff_helpful"
+479,"friendly host
+no evident not friendly host"
+480,"french speaking
+competent
+no evident not french speaking
+no evident not competent"
+481,"good_staff
+kind
+welcoming
+no_evident_not_kind
+no_evident_not_welcoming"
+482,"helpful reception
+no evident not helpful reception"
+483,"staff friendly
+staff happy
+staff ready
+no evident not staff friendly
+no evident not staff happy
+no evident not staff ready"
+484,"good_staff
+staff_kind
+staff_helpful
+no_evident_not_staff_kind
+no_evident_not_staff_helpful"
+485,"good_staff
+no_evident_not_good_staff"
+489,"friendly staff
+no evident not friendly staff
+
+very good advice
+no evident not very good advice"
+491,"listening  
+no evident not listening  
+
+good_staff  
+no evident not good_staff"
+493,"hosts  
+no evident not hosts"
+494,"staff kind
+staff unkind"
+496,"friendly service
+no evident not friendly service"
+497,"staff welcoming  
+staff helpful  
+no evident not welcoming  
+no evident not helpful"
+498,"great welcome no evident not great welcome
+very pleasant contact no evident not very pleasant contact
+very helpful no evident not very helpful"
+499,"good_staff
+helpful_staff
+not_helpful_staff"
+502,"good_staff
+no_evident_not_good_staff"
+503,"nice
+no evident not nice"
+505,"friendly staff
+no evident not friendly staff"
+507,"willingly arranged  
+no evident not willing arranged  
+
+arranged  
+no evident not arranged  
+
+ride  
+no evident not ride  
+
+airport  
+no evident not airport  
+
+for us  
+no evident not for us"
+509,"good_staff
+nice_staff
+helpful_staff
+no_evident_not_nice_staff
+no_evident_not_helpful_staff"
+512,"available no evident not available
+helps no evident not helps"
+515,"good_staff
+nice_staff
+no_evident_not_nice_staff"
+516,"staff are friendly
+staff are not friendly
+
+good_staff
+no evident not good_staff"
+517,"friendly
+unfriendly
+
+good_staff
+bad_staff"
+519,"staff polite
+staff helpful
+no evident not staff polite
+no evident not staff helpful"
+521,"hosts
+no evident not hosts"
+522,"friendly staff
+no evident not friendly staff"
+523,"good_staff
+helps_with_questions_and_problems
+smiling_patience
+changed_to_family_room
+great_recommendations
+order_taxis
+help_with_car_rental
+celebrated_birthday
+
+no_evident_not_helps_with_questions_and_problems
+no_evident_not_smiling_patience
+no_evident_not_changed_to_family_room
+no_evident_not_great_recommendations
+no_evident_not_order_taxis
+no_evident_not_help_with_car_rental
+no_evident_not_celebrated_birthday"
+524,"good_staff
+professional
+no_evident_not_professional
+good_staff
+trained
+no_evident_not_trained
+good_staff
+knowledgeable
+no_evident_not_knowledgeable
+good_staff
+reliable
+no_evident_not_reliable"
+527,"friendly
+no evident not friendly
+
+good_staff"
+529,"good_staff
+no_evident_not_good_staff
+
+staff
+no_evident_not_staff
+
+10/10
+no_evident_not_10/10"
+530,"good_staff
+nice_staff
+polite_staff
+no_evident_not_nice_staff
+no_evident_not_polite_staff"
+531,"good_staff
+no_evident_not_good_staff"
+535,"- friendly
+- helpful
+- no evident not friendly
+- no evident not helpful"
+536,"service
+no evident not service
+
+level
+no evident not level"
+539,"staff ready to help
+no evident not staff ready to help
+
+staff at any hour
+no evident not staff at any hour"
+540,"good_staff
+no_evident_not_good_staff
+
+staff_on_last_day_kept_suitcases_in_custody_for_whole_day
+no_evident_not_staff_on_last_day_kept_suitcases_in_custody_for_whole_day"
+541,"staff courteous
+staff helpful
+no evident not courteous
+no evident not helpful"
+542,"good_staff
+no_evident_not_good_staff
+
+good_room
+no_evident_not_good_room
+
+free_service
+no_evident_not_free_service
+
+balcony
+no_evident_not_balcony"
+544,"sense_of_hospitality
+no_evident_not_sense_of_hospitality
+
+good_staff
+no_evident_not_good_staff"
+549,"good_staff
+staff
+no_evident_not_staff
+
+nice
+no_evident_not_nice"
+550,"good_staff helped
+no evident not good_staff helped
+
+good_staff always present
+no evident not good_staff always present"
+551,"good_staff
+welcoming
+no_evident_not_welcoming
+smiling
+no_evident_not_smiling
+available
+no_evident_not_available
+satisfy_you
+no_evident_not_satisfy_you
+reception
+no_evident_not_reception
+restaurant
+no_evident_not_restaurant
+four_languages
+no_evident_not_four_languages
+Greek
+no_evident_not_Greek
+English
+no_evident_not_English
+French
+no_evident_not_French
+Arabic
+no_evident_not_Arabic"
+553,"nice staff
+no evident not nice staff"
+554,"friendly welcome
+pleasant welcome
+no evident not friendly welcome
+no evident not pleasant welcome"
+555,"good_staff
+no_evident_not_good_staff
+
+good_staff
+no_evidient_not_good_staff"
+556,"staff charming  
+staff kind  
+staff smiles  
+staff agrees  
+no evident not charming  
+no evident not kind  
+no evident not smiles  
+no evident not agrees"
+557,"- kindness
+- no evident not kindness"
+558,"arrival  
+no evident not arrival  
+
+good_staff  
+presence  
+no evident not presence  
+
+good_staff  
+efficiency  
+no evident not efficiency"
+560,"bad_staff
+have evident complaints
+have evident unfulfilled promises
+
+bad_staff
+have evident dishonesty
+have evident false assurances"
+561,"staff kindness
+no evident not staff kindness"
+564,"good_staff
+kind
+helpful
+no_evident_not_kind
+no_evident_not_helpful"
+565,"staff_attentive
+no_evident_not_attentive
+
+owners_helped
+no_evident_not_owners_helped"
+566,"staff speaks French
+no evident not staff speaks French
+
+staff is kind
+no evident not staff is kind"
+567,"service helped no evident not service helped
+helped no evident not helped"
+569,"staff charming
+staff kind
+room upgraded
+taxi arranged
+charged decently
+
+no evident not charming
+no evident not kind
+no evident not upgraded
+no evident not arranged
+no evident not charged"
+570,"welcoming
+not welcoming
+
+kind
+not kind
+
+friendly
+not friendly"
+572,"friendly no evident not friendly
+helpful people both at the reception and in the restaurant, no evident not helpful
+attentive people both at the reception and in the restaurant, no evident not attentive"
+575,"personal attention
+no evident not personal attention"
+576,"- good_staff
+- no_evident_not_pleasant
+- no_evident_not_attentive"
+578,"good_staff
+arranged_taxis
+no_evident_not_arranged_taxis
+service_good
+no_evident_not_service_good"
+580,"good_staff
+available_staff
+pleasant_staff
+professional_staff
+no_evident_not_available_staff
+no_evident_not_pleasant_staff
+no_evident_not_professional_staff"
+581,"welcoming
+no evident not welcoming
+
+good_staff"
+582,"- good_staff
+- no_evident_not_good_staff"
+584,"good_staff
+no_evident_not_good_staff"
+585,"friendly staff
+courteous staff
+no evident not friendly staff
+no evident not courteous staff"
+586,"friendly
+welcoming
+no evident not friendly
+no evident not welcoming"
+587,"supports: staff  
+staff no evident not staff  
+
+supports: nice  
+nice no evident not nice"
+589,"clear_information no_evident_not_clear_information  
+precise_information no_evident_not_precise_information  
+effort_made no_evident_not_effort_made  
+sympathy_shown no_evident_not_sympathy_shown"
+590,"good_staff
+helpful_staff
+no_evident_not_helpful_staff"
+594,"nice welcoming staff
+kindly settled early
+no evident not nice welcoming staff
+no evident not kindly settled early"
+598,"good_staff
+staff
+no_evident_not_staff
+
+nice
+no_evident_not_nice
+
+very
+no_evident_not_very
+
+nice
+no_evident_not_nice"
+599,"friendly staff
+no evident not friendly staff"
+602,"good_staff
+no_evident_not_good_staff
+
+friendly_greeting
+no_evident_not_friendly_greeting
+
+warm_welcome
+no_evident_not_warm_welcome"
+603,"friendly staff
+no evident not friendly staff"
+605,"good_staff
+no_evident_not_good_staff"
+606,"good_staff thinks_of_details
+good_staff happy_to_help
+good_staff takes_care_of_passengers
+no_evident_not_thinks_of_details
+no_evident_not_happy_to_help
+no_evident_not_takes_care_of_passengers"
+607,"friendly staff
+no evident not friendly staff"
+611,"good_staff
+kindness_support
+availability_support
+no_evident_not_kindness
+no_evident_not_availability"
+612,"managers_kind_caring
+no_evident_not_managers_kind_caring
+
+managers_speak_French
+no_evident_not_managers_speak_French
+
+helped_find_rental_car
+no_evident_not_helped_find_rental_car
+
+accompanied_advised
+no_evident_not_accompanied_advised"
+613,"friendly staff
+no evident not friendly staff"
+614,"staff friendly
+staff unfriendly
+
+communication fluid
+communication not fluid"
+615,"staff good
+staff bad
+
+restaurant good
+restaurant bad
+
+hotel good
+hotel bad"
+615,bad_staff wait for 40 minutes have evident wait for 40 minutes bad_staff pay immediately have evident pay immediately bad_staff no warning given have evident no warning given bad_staff extra cost unexpected have evident extra cost unexpected
+616,"good_staff
+friendly_staff
+helpful_staff
+no_evident_not_friendly_staff
+no_evident_not_helpful_staff"
+617,"good_staff
+nice_staff
+no_evident_not_nice_staff"
+619,"good_staff
+no_evident_not_fluent_french
+good_staff
+no_evident_not_speaks_fluent_french"
+620,"friendly try to help
+no evident not friendly try to help"
+621,"owner amazing
+owner nice
+answers everything
+no evident not owner amazing
+no evident not owner nice
+no evident not answers everything"
+622,"good_staff
+staff_friendly
+no_evident_not_staff_friendly"
+624,"take care of that - no evident not take care of that
+well-being - no evident not well-being
+guests - no evident not guests"
+626,"good_staff
+no_evident_not_good_staff
+
+good_staff
+no_evident_not_good_staff"
+627,"good_staff
+no_evident_not_good_staff
+
+good_staff
+no_evident_not_good_staff"
+628,"good_staff
+no_evident_not_good_staff
+
+good_staff
+no_evident_not_good_staff"
+629,"welcome no evident not pleasant
+helped no evident not helped"
+630,"good_staff
+friendly_staff
+helpful_staff
+no_evident_not_friendly_staff
+no_evident_not_helpful_staff"
+633,"waited_for_us no_evident_not_waited_for_us
+friendly no_evident_not_unfriendly"
+634,"good_staff kindness
+good_staff no evident not kindness"
+635,"friendly
+unfriendly no evident not friendly"
+636,"friendly staff
+unfriendly staff"
+637,"friendly reception
+no evident not friendly reception"
+638,"service
+courtesy
+staff
+no evident not service
+no evident not courtesy"
+639,"accommodated no evident not accommodated
+nice no evident not nice
+arranged no evident not arranged"
+640,"- good_staff
+- no_evident_not_good_staff
+
+- gave_instructions
+- no_evident_not_gave_instructions
+
+- picked_up_at_bus_stop
+- no_evident_not_picked_up_at_bus_stop"
+641,"friendly staff
+unfriendly staff"
+642,"speak_French
+no_evident_not_speak_French
+
+caring
+no_evident_not_caring
+
+welcome_24_hours
+no_evident_not_welcome_24_hours"
+643,"courtesy, no evident not courteous
+
+helpfulness, no evident not helpful
+
+knowledgeable, no evident not knowledgeable
+
+reliable, no evident not reliable"
+644,"friendly welcome
+no evident not friendly welcome"
+646,good_staff allow leave things no_evident_not_allow_leave_things
+648,"good_staff
+nice_staff
+no_evident_not_nice_staff"
+649,"friendly staff
+no evident not friendly staff"
+650,"good_staff
+polite
+no_evident_not_polite
+pleasant
+no_evident_not_pleasant"
+651,"good_staff
+pleasant_staff
+no_evident_not_pleasant_staff"
+653,"nice_staff
+no_evident_not_nice_staff"
+654,"good_staff
+always_friendly
+no_evident_not_always_friendly
+
+every_day_cleaning
+no_evident_not_every_day_cleaning"
+655,"warm welcome
+caring welcome
+no evident not warm welcome
+no evident not caring welcome"
+656,"staff
+no evident not staff"
+657,"friendly staff
+unfriendly staff"
+658,"takes care of guests
+no evident not takes care of guests
+
+good_staff
+no evident not good_staff"
+659,"any problems are solved instantly. no evident not any problems are solved instantly.
+The staff is excellent. no evident not The staff is excellent.
+everyone is definitely polite. no evident not everyone is definitely polite.
+smiling. no evident not smiling."
+660,available caring no evident not available no evident not caring
+662,"good_staff
+no_evident_not_good_staff
+
+helpful_staff
+no_evident_not_helpful_staff
+
+waited_for_us_until_2_in_the_morning
+no_evident_not_waited_for_us_until_2_in_the_morning"
+663,"fast transfer organized by the hotel
+no evident not fast transfer organized by the hotel"
+666,"friendly staff/owners
+not friendly staff/owners
+
+helpful staff/owners
+not helpful staff/owners"
+667,"friendly_staff
+no_evident_not_friendly_staff
+
+immediate_solved
+no_evident_not_immediate_solved"
+670,"good_staff welcome  
+good_staff evident  
+no_evident_not_good_staff welcome  
+no_evident_not_good_staff evident"
+673,"friendly staff
+unfriendly staff"
+674,"good_staff
+staff_competent
+no_evident_not_staff_competent"
+675,"friendly service
+no evident not friendly service"
+676,"responsive no evident not responsive
+kind no evident not kind
+feel at home no evident not feeling at home"
+679,"good_staff
+top_notch
+notop_notch
+
+staff_was
+was
+was_not
+
+good
+good
+no_good
+
+staff
+staff
+no_staff"
+680,"nice_hosts
+no_evident_not_nice_hosts"
+683,"- friendly
+- no evident not friendly"
+684,"good_staff
+no_evident_not_good_staff
+
+good_staff
+no_evident_not_good_staff"
+685,"good_staff
+no_evident_not_good_staff"
+686,"friendly reception
+no evident not friendly reception"
+687,"good_staff
+owner_ready_to_help
+staff_ready_to_help
+helped_immediately_with_adapters
+no_evident_not_owner_ready_to_help
+no_evident_not_staff_ready_to_help
+no_evident_not_helped_immediately_with_adapters"
+688,"nice owner
+no evident not nice owner"
+689,"good_staff
+no_evident_not_good_staff
+
+good_staff
+no_evident_not_good_staff"
+691,"good_staff
+staff_nice
+staff_kind
+no_evident_not_staff_nice
+no_evident_not_staff_kind"
+692,"good_staff
+no_evident_not_good_staff
+
+helpful_staff
+no_evident_not_helpful_staff
+
+have_adapters
+no_evident_not_have_adapters"
+694,"- The hosts are friendly.
+- no evident not The hosts are friendly."
+695,"family_business
+owners_friendly
+no_evident_not_family_business
+no_evident_not_owners_friendly"
+697,"responsive staff
+no evident not responsive staff"
+698,"welcome warm staff  
+welcome efficient staff  
+no evident not warm welcome staff  
+no evident not efficient welcome staff"
+699,"good_staff
+no_evident_not_good_staff"
+701,"friendly
+helpful
+no evident not friendly
+no evident not helpful"
+702,"good_staff
+staff
+no_evident_not_staff
+
+nice
+no_evident_not_nice
+
+helpful
+no_evident_not_helpful
+
+friendly
+no_evident_not_friendly"
+703,"staff_kind
+no_evident_not_staff_kind
+staff_helpful
+no_evident_not_staff_helpful
+good_staff"
+705,"good_staff
+pleasant_staff
+no_evident_not_pleasant_staff"
+708,"good_staff
+no_evident_not_good_staff"
+709,"good_staff
+no_evident_not_good_staff"
+711,"nice staff
+no evident not nice staff"
+714,"quiet
+friendly
+no evident not quiet
+no evident not friendly"
+716,"good_staff
+pleasant_staff
+no_evident_not_pleasant_staff"
+717,"good_staff
+accommodating
+nice
+helpful
+top
+no_evident_not_accommodating
+no_evident_not_nice
+no_evident_not_helpful
+no_evident_not_top"
+718,"good_staff
+nice_staff
+no_evident_not_nice_staff"
+721,"helpful people, Nice staff
+unhelpful people, no evident not nice staff"
+722,"good_staff
+no_evident_not_super_polite_and_helpful_staff"
+725,"constructive_attitude
+no_evident_not_constructive_attitude
+
+good_staff
+no_evident_not_good_staff"
+726,"friendly staff
+no evident not friendly staff"
+727,"good_staff
+no_evident_not_good_staff
+
+good_staff
+no_evidient_not_good_staff"
+729,"good_staff
+no_evident_not_good_staff
+
+nice
+no_evident_not_nice
+
+helpful
+no_evident_not_helpful"
+732,"good_staff
+welcoming
+not_welcoming
+friendly
+not_friendly"
+733,"friendly
+no evident not friendly
+
+everything possible
+no evident not everything possible
+
+compensate
+no evident not compensate
+
+inconveniences
+no evident not inconveniences"
+735,"- WE HAVE ALREADY TALKED TO THE STAFF
+- THEY ARE PREPARING A LOT
+- POOL
+- PLAY ROOM
+- ROOF GARDEN
+- NO EVIDENT NOT WE HAVE ALREADY TALKED TO THE STAFF
+- NO EVIDENT NOT THEY ARE PREPARING A LOT
+- NO EVIDENT NOT POOL
+- NO EVIDENT NOT PLAY ROOM
+- NO EVIDENT NOT ROOF GARDEN"
+736,"good_staff
+friendly
+not_friendly
+good_staff
+helpful
+unhelpful
+good_staff
+knowledgeable
+unknowledgeable
+good_staff
+reliable
+unreliable"
+739,"communicates
+no evident not communicates
+
+staff
+no evident not staff"
+746,"- spoke_cypriot
+- kind
+- willing_for_help
+- no_evident_not_spoke_cypriot
+- no_evident_not_kind
+- no_evident_not_willing_for_help"
+746,"bad_staff
+have evident refusal
+have evident unacceptability
+have evident language barrier
+have evident assurance breach"
+750,"bad_staff
+have evident no_staff_at_night
+bad_staff
+have evident no_trained_staff_at_night"
+758,"- bad_staff
+- have evident misunderstanding
+- have evident unhelpfulness"
+763,"warm welcome
+no evident not warm welcome"
+764,"no_mask_have_evident_no_mask
+no_mask_have_evident_mask"
+765,"good_staff
+no_evident_not_good_staff
+
+good_staff
+no_evident_not_good_staff"
+770,"staff pleasant
+staff helpful
+no evident not staff pleasant
+no evident not staff helpful"
+771,"staff
+no evident not staff"
+774,"staff
+no evident not staff
+
+good_staff
+no evident not good_staff"
+775,"welcome
+no evident not welcome
+
+arriving
+no evident not arriving
+
+4am
+no evident not 4am"
+777,"responsive_staff
+no_evident_not_responsive_staff
+
+with_smile
+no_evident_not_with_smile"
+779,"good_staff welcome  
+good_staff evident  
+no_evident_not_welcome  
+good_staff French  
+no_evident_not_French"
+783,"great_willingness
+no_evident_not_great_willingness
+
+good_staff
+no_evident_not_good_staff"
+784,"friendly service
+warm service
+no evident not friendly service
+no evident not warm service"
+785,"good_staff
+staff_kind
+staff_helpful
+no_evident_not_staff_kind
+no_evident_not_staff_helpful"
+85,good_staff,"friendly personnel
+no evident not friendly personnel"
+353,good_staff,"friendly staff
+no evident not friendly staff"
+433,good_staff,"good_staff
+no_evident_not_polite
+no_evident_not_friendly"
+456,good_staff,"good_staff
+no_evident_not_good_staff
+
+clean_place
+no_evident_not_clean_place
+
+comfortable_guests
+no_evident_not_comfortable_guests
+
+hard_working_employees
+no_evident_not_hard_working_employees"
+461,good_staff,"good_staff
+no_evident_not_kind
+good_staff
+no_evident_not_responsive"
+615,good_staff,"staff good
+staff bad
+
+restaurant good
+restaurant bad
+
+hotel good
+hotel bad"
+746,good_staff,"- spoke_cypriot
+- kind
+- willing_for_help
+- no_evident_not_spoke_cypriot
+- no_evident_not_kind
+- no_evident_not_willing_for_help"

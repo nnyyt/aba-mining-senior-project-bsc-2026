@@ -1,0 +1,21 @@
+ID,Prompt,Topic,Output,Error
+2,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""bad_room"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] The floor is not cleaned enough, full of dust, water does not drain and floods the room
+
+---
+ASSISTANT:
+not_clean_enough_floor, dust_on_floor, water_does_not_drain, floods_room, have_evident_not_clean_enough_floor, have_evident_dust_on_floor, have_evident_water_does_not_drain, have_evident_floods_room
+
+---
+USER:
+[Text] The room was very clean, well decorated and modern, although not big.",bad_room,"not_big_room, have_evident_not_big_room",

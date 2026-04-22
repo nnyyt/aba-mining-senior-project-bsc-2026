@@ -1,0 +1,2613 @@
+ID,Claim,Output
+1,good_location,"good_location
+close airport
+no evident not close airport
+to very clean beach
+no evident not to very clean beach"
+3,good_location,"good_location
+bus stop
+very close
+no evident not very close
+airport
+near the airport
+no evident not near the airport"
+5,good_location,"good_location
+easy stroll
+no evident not easy stroll
+numerous nice restaurants
+no evident not numerous nice restaurants
+a great beach
+no evident not a great beach"
+8,good_location,"good_location
+nice
+no evident not nice"
+10,good_location,"quiet location
+no evident not quiet"
+11,good_location,"good_location
+minutes walk
+2 euros
+no evident not minutes walk
+no evident not 2 euros"
+13,good_location,"good_location
+short drive to the airport
+no evident not short drive to the airport
+short walk from the promenade
+no evident not short walk from the promenade
+coffee shops
+no evident not coffee shops
+restaurants
+no evident not restaurants"
+14,good_location,"good_location
+restaurants
+bars
+walking distance
+no evident not restaurants
+no evident not bars
+no evident not walking distance"
+15,good_location,"good_location
+Airport
+nearby beach
+no evident not Airport
+no evident not beach"
+15,bad_location,"bad_location
+busses to the centre
+have evident busses to the centre
+frequent busses to the centre
+have evident frequent busses to the centre"
+18,good_location,"good_location
+Bus every 20 minutes to the centre of Larnaka
+no evident not Bus
+no evident not every
+no evident not minutes
+no evident not centre
+no evident not Larnaka"
+19,good_location,"good_location
+Close to airport
+no evident not close airport"
+26,good_location,"good_location
+beach
+no evident not beach
+lake
+no evident not lake"
+27,good_location,"good_location
+airport
+no evident not airport
+flying
+no evident not flying
+Larnaca
+no evident not Larnaca"
+28,bad_location,"bad_location
+Surrounding buildings are under construction.
+Have evident surrounding buildings are under construction.
+Surrounding buildings are poorly lit.
+Have evident surrounding buildings are poorly lit."
+30,good_location,"good_location
+drive
+no evident not drive
+short
+no evident not short
+airport
+no evident not airport"
+31,good_location,"good_location
+beach
+airport
+no evident not beach
+no evident not airport"
+36,bad_location,"location
+side street
+have evident location
+have evident side street"
+36,good_location,"good_location
+walk
+10-minute
+sea front
+no evident not walk
+no evident not 10-minute
+no evident not sea front"
+37,good_location,"good_location
+runs
+no evident not runs
+close
+no evident not close"
+40,good_location,"good_location
+Airport
+Mackenzie beach
+no evident not Airport
+no evident not Mackenzie beach"
+41,good_location,"good_location
+5 lins away from the airport by car
+no evident not 5 lins away from the airport by car
+5 mins walk to the beach
+no evident not 5 mins walk to the beach"
+41,bad_location,"bad_location
+kitchen shuts
+have evident kitchen shuts
+food to be had
+have evident food to be had"
+44,bad_location,"bad_location
+noise
+have evident silence
+later
+have evident early"
+45,good_location,"good_location
+beach
+5 minutes
+walk away
+no evident not beach
+no evident not 5 minutes
+no evident not walk
+no evident not away"
+45,bad_location,"bad_location
+runway
+have evident runway
+noise
+have evident noise
+plane
+have evident plane"
+49,good_location,"good_location
+airport
+sea
+no evident not airport
+no evident not sea"
+50,good_location,"good_location
+airport
+no evident not airport
+close
+no evident not close"
+51,good_location,"near airport
+no evident not near airport"
+53,good_location,"good_location
+close to the airport
+no evident not close to the airport
+Mackenzie Beach
+no evident not Mackenzie Beach"
+55,good_location,"good_location
+airport transfers
+no evident not airport transfers"
+56,good_location,"good_location
+airport
+no evident not airport
+prime location
+no evident not prime location"
+57,good_location,"good_location
+walk
+no evident not walk
+restaurants
+no evident not restaurants"
+58,good_location,"good_location
+Close to the airport
+no evident not close"
+58,bad_location,"bad_location
+noise
+have evident noise
+planes
+have evident planes"
+59,good_location,"good_location
+airport
+convenient
+overnight
+no evident not airport
+no evident not convenient
+no evident not overnight"
+62,good_location,"good_location
+near airport
+no evident not near airport
+near beach
+no evident not near beach"
+64,good_location,"good_location
+proximity
+no evident not proximity
+close
+no evident not close
+airport
+no evident not airport"
+64,bad_location,"bad_location
+noise
+planes
+airport
+close
+have evident noise
+have evident planes
+have evident airport
+have evident close"
+65,good_location,"good_location
+easy to get
+no evident not easy to get
+great
+no evident not great"
+66,good_location,"good_location
+The location was perfect for the airport.
+no evident not the location was perfect for the airport.
+The fish and steak restaurant around the corner was great value.
+no evident not the fish and steak restaurant around the corner was great value.
+The fish and steak restaurant was friendly.
+no evident not the fish and steak restaurant was friendly."
+71,good_location,"good_location
+steps
+minutes
+no evident not steps
+no evident not minutes"
+71,bad_location,"bad_location
+there is no shop
+have evident no pharmacy
+there is no pharmacy
+have evident no shop"
+74,good_location,"good_location
+parking places
+no evident not parking places
+beach
+no evident not beach
+Salt Lake
+no evident not Salt Lake
+airport
+no evident not airport"
+76,good_location,"good_location
+nearby the beach
+no evident not nearby the beach
+perfect location
+nearby the beach
+no evident not nearby the beach"
+80,good_location,"good_location
+walking distance
+no evident not walking distance"
+81,good_location,"good_location
+Close to the airport
+no evident not close"
+82,good_location,"great location
+no evident not location
+no evident not location"
+83,bad_location,"location was far from centre
+have evident location was near centre"
+88,good_location,"good_location
+easily reached
+no evident not easily reached
+airport"
+91,good_location,"good_location
+Close
+no evident not close"
+93,good_location,"good_location
+walkable
+no evident not walkable"
+95,good_location,"good_location
+airport
+no evident not airport
+perfect location
+no evident not location"
+98,good_location,"good_location
+close to the airport
+no evident not close to the airport
+offers some nice places
+no evident not offers some nice places
+at least a two-nights stay
+no evident not at least a two-nights stay
+mackenzie beach
+no evident not mackenzie beach
+long
+no evident not long
+some cool and fancy bars
+no evident not some cool and fancy bars
+salt lake
+no evident not salt lake"
+102,good_location,"good_location
+Airport
+Makenzie beach
+touristic area
+bus stop
+Airport
+Makenzie beach
+touristic area
+bus stop
+no evident not Airport
+no evident not Makenzie beach
+no evident not touristic area
+no evident not bus stop"
+104,good_location,"good_location
+Quiet
+no evident not quiet"
+106,good_location,"good_location
+proximity
+no evident not proximity
+airport"
+107,good_location,"good_location
+airport
+no evident not airport
+convenient
+no evident not convenient"
+109,good_location,"good_location
+airport
+no evident not airport
+convenient
+no evident not convenient
+late flights
+no evident not late flights
+overnight stay
+no evident not overnight stay"
+111,good_location,"good_location
+airport
+Mackenzie beach
+no evident not airport
+no evident not Mackenzie beach"
+114,good_location,"good_location
+taxi
+no evident not ten minutes
+shuttle bus
+no evident not fifteen minutes
+connecting buses
+no evident not via Larnaca
+McKenzie beach
+no evident not close by
+food restaurants
+no evident not ten minute walk"
+115,good_location,"good_location
+airport
+near
+mackenzie beach
+no evident not airport
+no evident not near"
+116,good_location,"good_location
+close
+no evident not close
+air
+no evident not air
+conditioned
+no evident not conditioned
+airport
+no evident not airport"
+117,good_location,"good_location
+it takes five minutes
+no evident not it takes five minutes
+the beach is ten minutes
+no evident not the beach is ten minutes"
+118,good_location,"location near the airport and beach
+no evident not airport
+no evident not beach
+no evident not airport
+no evident not beach"
+119,good_location,"good_location
+airport
+beach
+no evident not airport
+no evident not beach"
+120,good_location,"good_location
+close to airport
+no evident not close to airport"
+123,good_location,"good_location
+close airport
+no evident not close airport"
+123,bad_location,"bad_location
+area
+was
+noisy
+have evident area was quiet
+have evident area was peaceful"
+125,good_location,"good_location
+close beach
+perfect transport
+close beach
+no evident not close beach
+perfect transport
+no evident not perfect transport"
+126,bad_location,"bad_location
+It was loud outside.
+Have evident loud outside.
+It was a bit loud outside.
+Have evident bit loud outside."
+129,good_location,"good_location
+Makenzie close
+no evident not close
+Makenzie perfect
+no evident not perfect"
+131,bad_location,"bad_location
+far
+have evident far
+far
+have evident far"
+134,good_location,"good_location
+beach
+bars
+no evident not beach
+no evident not bars"
+137,good_location,"great location
+no evident not location
+no evident not location"
+139,good_location,"good_location
+proximity to the airport
+no evident not proximity to the airport"
+140,good_location,"good_location
+close to the airport
+no evident not close to the airport"
+142,good_location,"good_location
+near
+beach
+no evident not near
+Mackenzie"
+143,good_location,"good_location
+airport
+no evident not airport
+close
+no evident not close"
+145,good_location,"good_location
+airport
+Makenzie
+blue flag beach
+5 min walk
+no evident not airport
+no evident not Makenzie
+no evident not blue flag beach
+no evident not 5 min walk"
+148,good_location,"good_location
+airport
+no evident not airport
+close"
+149,good_location,"good_location
+beachside cafes
+treacherous
+no evident not beachside cafes
+no evident not treacherous"
+152,good_location,"good_location
+close bars
+close airport
+close bars
+no evident not close bars
+close airport
+no evident not close airport"
+155,good_location,"good_location
+near the airport
+no evident not near the airport"
+156,good_location,"good_location
+near airport
+no evident not near airport
+few hours
+no evident not few hours
+catching plane
+no evident not catching plane"
+157,good_location,"good_location
+7 minutes walking to the beach
+no evident not 7 minutes walking to the beach"
+158,good_location,"good_location
+beach
+no evident not beach"
+159,good_location,"good_location
+airport
+no evident not airport
+close
+no evident not close"
+168,good_location,"good_location
+near airport
+short walking distance beach
+short walking distance restaurants
+no evident not near airport
+no evident not short walking distance beach
+no evident not short walking distance restaurants"
+169,good_location,"good_location
+5 min drive
+no evident not 5 min drive
+prior"
+171,good_location,"good_location
+steps
+few
+salt lake
+McKenzie Beach
+cafes
+bars
+nearby
+no evident not steps
+no evident not few
+no evident not salt lake
+no evident not McKenzie Beach
+no evident not cafes
+no evident not bars
+no evident not nearby"
+177,good_location,"good_location
+beach
+airport
+no evident not beach
+no evident not airport"
+179,good_location,"good_location
+Quiet
+no evident not quiet
+Close
+no evident not close"
+182,good_location,"good_location
+Airport
+Closure
+no evident not Airport
+no evident not Closure"
+183,good_location,"good_location
+beach
+no evident not beach
+very close"
+185,good_location,"good_location
+airport
+no evident not airport
+which
+no evident not which
+was"
+185,bad_location,"bad_location
+access car
+have evident access car
+use hotel
+have evident use hotel
+base
+have evident base"
+190,good_location,"good_location
+Convenient
+no evident not convenient"
+191,good_location,"good_location
+beside airport
+no evident not beside airport
+beside airport
+no evident not beside airport"
+193,good_location,"good_location
+beach
+airport
+transfer
+no evident not beach
+no evident not airport
+no evident not transfer"
+195,bad_location,"bad_location
+Not too close to the beach
+have evident not too close to the beach"
+195,good_location,"good_location
+airport
+no evident not airport"
+197,good_location,"good_location
+Mackenzy beach
+restaurants
+not that far away
+no evident not Mackenzy beach
+no evident not restaurants"
+199,good_location,"good_location
+beach
+restaurants
+cafés
+5 minute walk
+no evident not beach
+no evident not restaurants
+no evident not cafés
+no evident not 5 minute walk"
+202,good_location,"good_location
+close beach
+close restaurants
+no evident not close beach
+no evident not close restaurants"
+204,good_location,"good_location
+easy access
+no evident not easy access
+convenient
+no evident not convenient
+close proximity"
+206,good_location,"good_location
+beach
+less than
+five minutes
+no evident not beach
+no evident not less than
+no evident not five minutes"
+208,good_location,"good_location
+easy parking
+no evident not easy parking
+quiet area
+no evident not quiet area"
+210,good_location,"fine location
+no evident not fine"
+211,good_location,"good_location
+airport
+town
+no evident not airport
+no evident not town"
+211,bad_location,"bad_location
+half an hour walking to town
+have evident half an hour walking to town"
+219,bad_location,"bad_location
+air traffic
+have evident air traffic
+noise"
+220,good_location,"good_location
+walk airport
+no evident not walk airport
+b4 highway
+no evident not b4 highway"
+226,bad_location,"bad_location
+room
+was
+warm
+turned off
+completely empty
+shop
+kiosk
+nearby
+fill"
+227,good_location,"good_location
+Close to airport.
+no evident not close"
+228,good_location,"location is convenient
+no evident not convenient
+quiet
+no evident not quiet"
+231,good_location,"good_location
+supports:
+situated
+contraries:
+no evident not situated
+supports:
+ideal
+contraries:
+no evident not ideal
+supports:
+for
+contraries:
+no evident not for
+supports:
+airport
+contraries:
+no evident not airport"
+232,good_location,"good_location
+airport
+no evident not airport
+late
+flight
+no evident not flight"
+233,bad_location,"bad_location
+shop
+have everything
+cafe
+shop
+have evident everything
+cafe"
+234,good_location,"good_location
+beach
+no evident not beach
+bars
+no evident not bars
+restaurants
+no evident not restaurants"
+235,good_location,"good_location
+no evident not location
+no evident not location"
+236,good_location,"good_location
+bus route
+airport
+10 minutes
+no evident not bus route
+no evident not airport
+no evident not 10 minutes"
+238,good_location,"close to the airport
+no evident not close"
+239,good_location,"good_location
+Not far from the sea
+no evident not far from the sea"
+240,good_location,"good_location
+beach
+restaurants
+no evident not beach
+no evident not restaurants"
+241,good_location,"location was perfect
+no evident not walking
+no evident not close"
+243,good_location,"good_location
+near beaches
+no evident not near beaches
+restaurants
+no evident not restaurants"
+246,good_location,"good_location
+airport
+no evident not airport
+10 minutes
+no evident not 10 minutes"
+246,bad_location,"bad_location
+it’s amongst buildings
+have evident it’s amongst buildings
+it’s amongst buildings
+have evident it’s amongst buildings
+it’s amongst buildings
+have evident it’s amongst buildings"
+250,good_location,"good_location
+walk
+to beach
+to restaurants
+no evident not walk
+no evident not to beach
+no evident not to restaurants"
+253,good_location,"good_location
+cleanliness
+no evident not cleanliness
+quietness
+no evident not quietness"
+254,good_location,"good_location
+airport
+no evident not airport
+works
+no evident not works"
+255,good_location,"good_location
+beach
+no evident not beach
+airport
+no evident not airport
+steps
+no evident not steps"
+257,good_location,"good_location
+quiet
+no evident not quiet"
+259,good_location,"good_location
+easy drive
+no evident not easy drive
+then airport"
+260,good_location,"good_location
+Mackenzie Beach
+downtown
+40 mins
+3 km
+no evident not Mackenzie Beach
+no evident not downtown
+no evident not 40 mins
+no evident not 3 km"
+262,good_location,"good_location
+taxi
+€20
+late
+no evident not taxi
+no evident not €20
+no evident not late"
+268,good_location,"good_location
+Easy walk to Mackenzie Beach
+no evident not easy walk to Mackenzie Beach
+short journey from airport
+no evident not short journey from airport"
+271,good_location,"good_location
+Near beach
+Near restaurants
+Public bus station
+Close airport
+no evident not Near beach
+no evident not Near restaurants
+no evident not Public bus station
+no evident not Close airport"
+272,good_location,"good_location
+Near Mackenzie beach
+no evident not Near Mackenzie beach
+very close to the center
+no evident not very close to the center"
+276,good_location,"good_location
+45 min walk to airport
+no evident not 45 min walk to airport"
+278,good_location,"good_location
+easy
+no evident not easy
+airport"
+279,good_location,"good_location
+drive
+no evident not drive
+approx
+no evident not approx
+minute
+no evident not minute
+drive
+no evident not drive
+historical
+no evident not historical
+area
+no evident not area"
+280,bad_location,"bad_location
+restaurants very close
+have evident restaurants very close
+lovely restaurants
+have evident lovely restaurants
+sea front
+have evident sea front
+airport
+have evident airport
+Limassol
+have evident Limassol"
+280,good_location,"good_location
+restaurants
+lovely
+sea front
+Limassol
+airport
+no evident not restaurants
+no evident not lovely
+no evident not sea front
+no evident not Limassol
+no evident not airport"
+281,good_location,"good_location
+airport
+no evident not airport
+restaurants
+no evident not restaurants"
+282,good_location,"good_location
+close beach
+no evident not close beach
+quiet place
+no evident not quiet place"
+284,good_location,"good_location
+restaurants
+on the beach
+quite close
+hotel
+staff
+kindly told
+no evident not restaurants
+no evident not on the beach
+no evident not quite close
+no evident not hotel
+no evident not staff
+no evident not kindly told"
+286,good_location,"good_location
+airport
+no evident not airport
+convenient
+no evident not convenient"
+288,good_location,"good_location
+airport
+no evident not airport
+city center
+no evident not city center
+salt lake
+no evident not salt lake
+flaming
+no evident not flaming"
+288,bad_location,"bad_location
+distant
+have evident distant
+city
+have evident city
+center
+have evident center"
+289,good_location,"good_location
+Taxi fare to airport around 15-18 euro
+no evident not Taxi fare to airport around 15-18 euro"
+290,good_location,"good_location
+value
+no evident not value
+excellent
+no evident not excellent
+money
+no evident not money"
+291,good_location,"good_location
+Close to the airport
+no evident not close"
+292,good_location,"good_location
+only 8 minutes by car
+no evident not only 8 minutes by car"
+295,good_location,"location is good
+only 20 minutes away from the centre
+located in a quiet area
+no evident not only 20 minutes away from the centre
+no evident not located in a quiet area"
+298,good_location,"good_location
+bus 425
+airport
+hotel
+somewhere
+no evident not bus 425
+no evident not airport
+no evident not hotel
+no evident not somewhere"
+299,good_location,"good_location
+public transportations
+no evident not public transportations
+café
+no evident not café
+center
+no evident not center"
+300,good_location,"good_location
+1. close
+no evident not close
+2. minute
+no evident not minute
+3. beach
+no evident not beach
+4. restaurants
+no evident not restaurants"
+301,good_location,"good_location
+Quiet
+no evident not quiet
+area"
+304,good_location,"good_location
+bus station
+no evident not bus station
+nice
+city
+no evident not city
+restaurants
+no evident not restaurants
+bars
+no evident not bars
+shops
+no evident not shops
+beach shores
+no evident not beach shores
+relax
+no evident not relax"
+307,good_location,"good_location
+city
+no evident not city
+accommodation
+one night
+no evident not one night
+before departure
+no evident not before departure"
+310,good_location,"good_location
+close airport
+no evident not close airport
+close beach
+no evident not close beach
+close restaurants
+no evident not close restaurants"
+312,good_location,"good_location
+beach
+five minute walk
+airport
+no evident not beach
+no evident not five minute walk
+no evident not airport"
+313,good_location,"good_location
+street
+parking
+facilities
+street
+no evident not street
+parking
+no evident not facilities"
+314,good_location,"good_location
+in 5 minutes from airport
+no evident not in 5 minutes from airport"
+316,good_location,"good_location
+beach
+marina
+no evident not beach
+no evident not marina"
+318,good_location,"good_location
+beach
+restaurants
+6
+10
+minutes
+Larnaca"
+322,good_location,"good_location
+walk
+pleasant
+sea
+no evident not walk
+no evident not pleasant
+no evident not sea"
+322,bad_location,"bad_location
+there was not much else
+have evident there was not much else
+close by
+have evident close by"
+323,good_location,"location
+no evident not location
+Makenzie Beach
+no evident not Makenzie Beach
+restaurants
+no evident not restaurants
+patio restaurant
+no evident not patio restaurant
+meal
+no evident not meal
+cocktail
+no evident not cocktail"
+324,good_location,"good_location
+airport
+7 min drive
+away
+no evident not airport
+no evident not 7 min drive
+no evident not away"
+325,good_location,"good_location
+not far from the airport
+no evident not proximity
+5 min walk to the beach
+no evident not distance"
+325,bad_location,"smell from the lake
+have evident bad_location
+it doesn’t depend on the hotel
+have evident bad_location"
+327,good_location,"good_location
+close to Larnaca Airport
+no evident not close to Larnaca Airport"
+328,good_location,"good_location
+beach
+close
+bus
+50 meters
+airport
+no evident not beach
+no evident not close
+no evident not bus
+no evident not 50 meters
+no evident not airport"
+328,bad_location,"bad_location
+odor
+sewage
+drains
+smell
+street
+have evident odor
+have evident sewage
+have evident drains
+have evident smell
+have evident street"
+329,good_location,"good_location
+and quiet
+no evident not quiet"
+332,good_location,"good_location
+Cafe Nero
+10 minutes
+perfect
+no evident not Cafe Nero
+no evident not 10 minutes
+no evident not perfect"
+334,good_location,"good_location
+Location is great
+no evident not location"
+338,good_location,"good_location
+walking distance
+beach
+restaurants
+shops
+away
+traffic
+walking distance
+no evident not beach
+no evident not restaurants
+no evident not shops
+no evident not away
+no evident not traffic"
+340,bad_location,"bad_location
+trek
+have evident trek
+water sports
+have evident water sports
+quieter beaches
+have evident quieter beaches"
+344,good_location,"good_location
+beach
+no evident not beach
+5 min
+walk"
+347,good_location,"good_location
+beach
+no evident not beach
+restaurants
+no evident not restaurants"
+348,bad_location,"bad_location
+noise does not bother
+noise from aircraft landing
+noise from aircraft taking off
+young family
+quiet area
+noise does not bother have evident
+noise from aircraft landing have evident
+noise from aircraft taking off have evident
+young family have evident
+quiet area have evident"
+349,good_location,"good_location
+bus stop
+no evident not bus stop"
+349,bad_location,"bad_location
+far
+have evident distance
+far
+have evident proximity"
+350,good_location,"good_location
+6 mins drive
+no evident not 6 mins drive"
+351,good_location,"good_location
+Close to Mackenzie beach
+no evident not close to Mackenzie beach
+bars
+no evident not close to bars"
+353,good_location,"good_location
+Near
+no evident not near
+airport"
+353,bad_location,"bad_location
+Far from centre town
+have evident far from centre town"
+355,good_location,"good_location
+beach strip
+nearby restaurants
+early flight
+Larnaka airport
+no evident not beach strip
+no evident not nearby restaurants
+no evident not early flight
+no evident not Larnaka airport"
+358,good_location,"good_location
+airport
+no evident not airport
+close"
+361,good_location,"good_location
+Makanzie Beach
+no evident not Makanzie Beach"
+364,good_location,"good_location
+bars
+restaurants
+5 mins
+walk
+beach
+bars
+no evident not bars
+restaurants
+no evident not 5 mins
+walk
+no evident not beach"
+367,good_location,"good_location
+town
+no evident not town
+travelers
+no evident not travelers
+larnaca
+no evident not larnaca"
+368,good_location,"good_location
+location
+no evident not location
+perfect
+no evident not perfect"
+370,good_location,"good_location
+airport
+sea
+no evident not airport
+no evident not sea"
+372,good_location,"good_location
+15 minutes drive from the airport
+no evident not 15 minutes drive from the airport
+15 walk to the city center
+no evident not 15 walk to the city center
+about 300 meters to the nice beach
+no evident not about 300 meters to the nice beach"
+373,good_location,"good_location
+airport
+no evident not airport
+quickly
+no evident not quickly
+couple
+no evident not couple
+nights
+no evident not nights"
+374,good_location,"good_location
+city
+no evident not city"
+376,good_location,"good_location
+5 minute walk to the beach
+no evident not 5 minute walk to the beach"
+377,good_location,"good_location
+beach
+airport
+bus station
+no evident not beach
+no evident not airport
+no evident not bus station"
+380,good_location,"good_location
+it is close to airport
+no evident not it is close to airport
+it is close to beaches
+no evident not it is close to beaches
+it is close to entertainment
+no evident not it is close to entertainment"
+381,good_location,"good_location
+walking distance beach
+no evident not walking distance beach
+close airport
+no evident not close airport"
+382,good_location,"good_location
+airport
+beach
+7min
+no evident not airport
+no evident not beach
+no evident not 7min"
+388,good_location,"good_location
+airport
+beach
+no evident not airport
+no evident not beach"
+389,good_location,"good_location
+airport
+no evident not airport
+beach
+no evident not beach
+restaurants
+no evident not restaurants
+amenities
+no evident not amenities"
+391,good_location,"good_location
+5 min walk
+no evident not 5 min walk"
+391,bad_location,"bad_location
+close surroundings are not that exciting
+close surroundings are not clean
+have evident close surroundings are not that exciting
+have evident close surroundings are not clean"
+392,good_location,"good_location
+city
+no evident not city
+nice
+no evident not nice"
+394,good_location,"good_location
+beach
+restaurants
+supermarket
+airport
+bus
+walking
+no evident not beach
+no evident not restaurants
+no evident not supermarket
+no evident not airport
+no evident not bus
+no evident not walking"
+398,good_location,"good_location
+walk
+short
+beach bars
+airport
+Close
+no evident not walk
+no evident not short
+no evident not beach bars
+no evident not airport"
+402,good_location,"good_location
+near beach
+no evident not near beach
+just walk"
+406,good_location,"good_location
+walk
+Makkenzy beach
+planes landing
+no evident not walk
+no evident not Makkenzy beach
+no evident not planes landing"
+407,good_location,"good_location
+city
+no evident not city
+hotel
+no evident not hotel
+location
+no evident not location"
+410,good_location,"location is amazing
+being close to airport
+no evident not being close to airport
+being next to salt lake
+no evident not being next to salt lake
+within 10 minute walk
+no evident not within 10 minute walk
+on MacKenzie beach
+no evident not on MacKenzie beach
+well maintained
+no evident not well maintained
+cleaner than other beaches
+no evident not cleaner than other beaches
+next to bus stop
+no evident not next to bus stop"
+415,good_location,"good_location
+walking distance
+Mackenzie beach
+beach lounges
+restaurants
+walking distance
+no evident not Mackenzie beach
+walking distance
+no evident not beach lounges
+walking distance
+no evident not restaurants"
+417,good_location,"good_location
+Close to airport
+Just 7-10 min by taxi
+15€
+no evident not Close to airport
+no evident not Just 7-10 min by taxi
+no evident not 15€"
+419,good_location,"good_location
+city
+no evident not city
+park
+no evident not park
+beach
+no evident not beach"
+420,bad_location,"bad_location
+A LITTLE BIT FAR FROM SEA
+have evident distance
+have evident sea"
+421,good_location,"good_location
+steps to Makenzy beach
+steps to cafés
+steps to restaurants
+easy access to nightlife
+no evident not steps to Makenzy beach
+no evident not steps to cafés
+no evident not steps to restaurants
+no evident not easy access to nightlife"
+422,good_location,"good_location
+close city
+no evident not close city
+very accessible
+no evident not very accessible
+by any transportation
+no evident not by any transportation"
+423,good_location,"good_location
+beach
+transportation
+no evident not beach
+no evident not transportation"
+424,good_location,"good_location
+trails
+airport
+no evident not trails
+no evident not airport"
+425,good_location,"good_location
+accessibility
+no evident not accessibility
+where
+no evident not where
+wanted
+no evident not wanted
+to be
+no evident not to be"
+426,bad_location,"bad_location
+noise
+have evident noise
+people
+have evident people
+rubbish
+have evident rubbish
+lorries
+have evident lorries"
+427,bad_location,"it was not on the beach front
+have evident it was not
+we were under the impression
+have evident it was"
+429,good_location,"good_location
+Quiet
+no evident not quiet"
+431,good_location,"good_location
+around the corner
+no evident not around the corner"
+431,bad_location,"bad_location
+Nothing close.
+Have evident nothing close.
+There.
+Have evident there."
+432,good_location,"good_location
+Short walk to McKenzie beach
+no evident not short walk to McKenzie beach"
+434,good_location,"good_location
+Near
+no evident not near
+airport"
+435,good_location,"good_location
+close to the airports
+no evident not close to the airports"
+436,good_location,"good_location
+Central location
+no evident not central location
+location
+no evident not location"
+438,good_location,"good_location
+airport
+no evident not airport
+very close"
+439,good_location,"good_location
+city centre
+airport
+no evident not city centre
+no evident not airport"
+441,bad_location,"bad_location
+bit
+have evident bit
+far
+have evident far
+center
+have evident center"
+441,good_location,"good_location
+Area
+no evident not Area
+around"
+442,bad_location,"bad_location
+It was hard.
+Have evident hard.
+It was little.
+Have evident little.
+It was to find.
+Have evident to find."
+445,good_location,"good_location
+next to the airport
+no evident not next to the airport"
+448,good_location,"good_location
+beach
+no evident not beach
+makenzie"
+449,good_location,"good_location
+Close to the airport
+no evident not close"
+451,good_location,"good_location
+airport
+beach
+no evident not airport
+no evident not beach"
+452,good_location,"good_location
+airport
+no evident not airport
+quiet
+no evident not quiet
+neighbourhood
+no evident not neighbourhood"
+453,good_location,"good_location
+close to beach
+no evident not close to beach"
+454,bad_location,"bad_location
+noisy neighborhood
+have evident noisy neighborhood
+very noisy"
+455,bad_location,"bad_location
+It’s in front of a pension
+have evident it’s in front of a pension
+people could see the colour
+have evident people could see the colour"
+456,good_location,"good_location
+Convenient
+no evident not convenient
+airport
+no evident not airport
+beach
+no evident not beach
+city Center
+no evident not city Center"
+457,good_location,"good_location
+airport
+no evident not airport
+quietness
+no evident not quietness"
+459,bad_location,"bad_location
+truck passes
+noise incredible
+truck passes
+have evident noise incredible"
+460,good_location,"good_location
+Location was excellent
+no evident not excellent"
+462,good_location,"good_location
+city
+no evident not city
+excellent location,
+beach
+no evident not beach
+excellent location,
+mountains
+no evident not mountains"
+465,good_location,"good_location
+close to the beach
+close to the bus station
+no evident not close to the beach
+no evident not close to the bus station"
+466,good_location,"good_location
+airport
+no evident not airport
+nice
+no evident not nice
+place
+no evident not place
+stay
+no evident not stay
+late
+no evident not late
+night
+no evident not night"
+471,good_location,"good_location
+beach
+no evident not beach"
+471,bad_location,"bad_location
+a little way
+have evident town
+main
+have evident town"
+479,good_location,"good_location
+proximity airport
+no evident not proximity airport
+beach
+no evident not beach
+numerous restaurants
+no evident not numerous restaurants"
+483,good_location,"good_location
+close to airport
+no evident not close to airport
+close to beach
+no evident not close to beach"
+484,good_location,"good_location
+close to the airport
+no evident not close to the airport"
+484,bad_location,"bad_location
+just far
+have evident just near"
+489,good_location,"good_location
+beach
+airport
+bus
+no evident not beach
+no evident not airport
+no evident not bus"
+490,good_location,"good_location
+proximity to the airport
+no evident not proximity to the airport"
+491,good_location,"good location
+airport
+no evident not airport
+easy access
+no evident not easy
+transportation
+no evident not transportation
+nearby city
+no evident not nearby
+population
+no evident not population
+economic growth
+no evident not economic"
+492,good_location,"good_location
+airport
+no evident not airport
+late
+no evident not late
+early
+no evident not early
+departure
+no evident not departure"
+492,bad_location,"bad_location
+noise
+have evident noise
+travelers
+have evident travelers
+tiling
+have evident tiling
+airport
+have evident airport"
+494,good_location,"good_location
+very close
+no evident not very close"
+495,good_location,"good_location
+close
+no evident not close
+close
+no evident not close
+close to the beach
+no evident not close to the beach
+close to the field
+no evident not close to the field
+Intimate
+no evident not not intimate
+quiet
+no evident not not quiet"
+496,good_location,"good_location
+close to the airport
+no evident not close to the airport"
+497,good_location,"good_location
+location close to the airport
+location close to the beach
+location close to restaurants
+location close to snacks
+no evident not location close to the airport
+no evident not location close to the beach
+no evident not location close to restaurants
+no evident not location close to snacks"
+498,good_location,"good_location
+access airport is close
+no evident not access airport is close"
+498,bad_location,"bad_location
+bus
+have evident bus
+airport
+have evident airport
+easy
+have evident easy"
+499,good_location,"good_location
+close airport
+no evident not close airport"
+500,good_location,"good_location
+It is central
+no evident not central"
+500,bad_location,"finding it
+have evident location
+located
+have evident alley
+google maps
+have evident crazy
+photo
+have evident locate"
+501,good_location,"good_location
+close to the airport
+no evident not close to the airport"
+503,good_location,"good_location
+Close to the field
+no evident not close to the field"
+503,bad_location,"bad_location
+roads are bumpy
+have evident roads are smooth
+construction
+have evident construction is absent"
+505,good_location,"good_location
+city center
+airport
+sea
+no evident not city center
+no evident not airport
+no evident not sea"
+510,good_location,"good_location
+proximity to the airport
+no evident not proximity to the airport"
+515,good_location,"good_location
+Close to the lake
+no evident not close to the lake
+Close to the beach
+no evident not close to the beach"
+518,good_location,"good_location
+quiet
+no evident not quiet"
+519,good_location,"good_location
+beach
+no evident not beach
+near"
+527,good_location,"good_location
+near airport
+near beach
+no evident not near airport
+no evident not near beach"
+528,good_location,"good_location
+airport
+no evident not airport
+met
+no evident not met
+expectations
+no evident not expectations"
+530,good_location,"good_location
+beach
+no evident not beach
+easy
+no evident not easy
+quiet
+no evident not quiet
+place
+no evident not place"
+531,good_location,"good_location
+airport
+promenade
+sea
+airport
+no evident not airport
+promenade
+no evident not promenade
+sea
+no evident not sea"
+532,good_location,"good_location
+proximity to the airport
+no evident not proximity to the airport"
+535,good_location,"good_location
+walk
+10 minute walk
+beautiful
+no evident not 10 minute walk
+walk
+30 minute walk
+center
+no evident not 30 minute walk"
+536,good_location,"good_location
+close to the beach
+no evident not close to the beach
+gastronomy
+no evident not gastronomy
+the airport
+no evident not the airport"
+538,good_location,"good_location
+easily accessible
+no evident not easily accessible
+bus route
+no evident not bus route"
+540,good_location,"good_location
+beach
+airport
+8 minutes
+car
+no evident not beach
+no evident not airport
+no evident not 8 minutes
+no evident not car"
+541,good_location,"good_location
+walking along the sea
+no evident not walking along the sea
+airport
+no evident not airport
+Mackenzie Beach
+no evident not Mackenzie Beach
+Finikoudes
+no evident not Finikoudes"
+542,good_location,"good_location
+restaurants
+cafes
+walking distance
+no evident not restaurants
+no evident not cafes
+no evident not walking distance"
+546,good_location,"good_location
+Walking distance to Mackenzie Beach
+no evident not walking distance to Mackenzie Beach
+with a late arrival
+no evident not with a late arrival
+planning further travel
+no evident not planning further travel
+by car
+no evident not by car"
+547,good_location,"good_location
+close airport
+no evident not close airport"
+549,good_location,"good_location
+no evident not location
+no evident not location"
+551,good_location,"good_location
+beach
+around
+5
+minutes
+walk
+no evident not beach
+no evident not around
+no evident not 5
+no evident not minutes
+no evident not walk"
+552,good_location,"good_location
+close to airport
+no evident not close to airport
+early morning flight
+no evident not early morning flight"
+554,good_location,"good_location
+airport
+beach
+entertainment
+restaurants
+bars
+no evident not airport
+no evident not beach
+no evident not entertainment
+no evident not restaurants
+no evident not bars"
+555,good_location,"good_location
+Less than 10 minutes
+no evident not less than 10 minutes"
+556,good_location,"good_location
+shuttle to the field
+no evident not shuttle to the field
+convenient for those who need to fly early in the morning
+no evident not convenient for those who need to fly early in the morning"
+560,good_location,"good_location
+airport
+no evident not airport
+good_location
+overnight
+no evident not overnight
+good_location
+late
+no evident not late
+good_location
+early
+no evident not early"
+562,good_location,"good_location
+close airport
+no evident not close airport
+convenient stop
+no evident not convenient stop
+flight landed
+no evident not flight landed
+middle night
+no evident not middle night"
+565,good_location,"good_location
+five minutes to the beach
+no evident not five minutes to the beach
+near the airport
+no evident not near the airport
+near Mackenzie beach
+no evident not near Mackenzie beach"
+566,good_location,"good_location
+airport
+no evident not airport
+close"
+569,good_location,"good_location
+walk
+no evident not walk
+7
+minutes
+no evident not minutes
+walk
+no evident not walk
+boardwalk
+no evident not boardwalk
+airport
+no evident not airport
+7
+minutes
+no evident not minutes
+walk
+no evident not walk"
+571,good_location,"good_location
+To the beach on foot 5 minutes.
+no evident not 5 minutes.
+To the beach on foot 5 minutes.
+no evident not minutes."
+579,good_location,"good_location
+airport
+10 minutes
+no evident not airport
+no evident not 10 minutes"
+586,good_location,"good_location
+near airport
+no evident not near airport
+near sea
+no evident not near sea
+near promenade
+no evident not near promenade
+near restaurants
+no evident not near restaurants"
+587,good_location,"good_location
+close to the airport
+no evident not close to the airport
+close to the beach
+no evident not close to the beach"
+588,good_location,"good_location
+close to everything
+no evident not close to everything"
+589,good_location,"distance from the airport, no evident not proximity
+convenience, no evident not access"
+589,bad_location,"bad_location
+owners can’t do anything
+have evident owners can’t do anything"
+590,good_location,"good_location
+beach
+airport
+no evident not beach
+no evident not airport"
+594,bad_location,"bad_location
+noise
+have evident noise
+airport
+have evident airport"
+596,bad_location,"bad_location
+noisy
+have evident noisy
+outside"
+597,good_location,"good_location
+sea
+no evident not sea
+via dei premises
+no evident not via dei premises
+historic
+no evident not historic
+center
+no evident not center"
+599,good_location,"good_location
+transit
+near
+airport
+no evident not transit
+no evident not near
+no evident not airport"
+599,bad_location,"bad_location
+Noise
+have evident lack
+lack
+have evident disruption"
+602,good_location,"good_location
+airport
+no evident not airport"
+607,good_location,"good_location
+restaurants nearby
+no evident not restaurants nearby
+beach
+no evident not beach
+airport
+no evident not airport
+quiet location
+no evident not quiet location"
+610,good_location,"good_location
+beach
+no evident not beach
+airport
+no evident not airport
+restaurant
+no evident not restaurant"
+611,good_location,"good_location
+proximity city center
+no evident not proximity city center
+proximity beach
+no evident not proximity beach"
+612,good_location,"good_location
+airport
+6 minutes
+no evident not airport
+no evident not 6 minutes"
+612,bad_location,"bad_location
+light
+have evident light
+outside
+have evident outside
+times
+have evident times"
+614,good_location,"good_location
+bus
+no evident not bus
+5min
+no evident not 5min"
+616,good_location,"good_location
+reach
+easy
+parties
+night
+reach
+easy
+no evident not reach
+no evident not easy
+no evident not parties
+no evident not night"
+617,good_location,"good_location
+city_center
+no evident not city_center
+access
+no evident not access
+convenience
+no evident not convenience
+transport
+no evident not transport
+proximity
+no evident not proximity
+development
+no evident not development
+growth
+no evident not growth
+investment
+no evident not investment
+value
+no evident not value"
+618,bad_location,"bad_location
+noise
+have evident noise
+truck
+have evident truck
+3am
+have evident 3am
+making
+have evident making"
+619,good_location,"good_location
+airport
+salt lake
+perfect
+no evident not airport
+no evident not salt lake
+no evident not perfect"
+620,good_location,"good_location
+walk to the embankment
+no evident not walk to the embankment
+clean hotel
+no evident not clean hotel
+near the airport
+no evident not near the airport"
+623,good_location,"good_location
+airport
+beach
+no evident not airport
+no evident not beach"
+623,bad_location,"bad_location
+night traffic
+have evident lack roads
+night traffic
+have evident increased volume"
+625,good_location,"good_location
+airport
+beach
+no evident not airport
+no evident not beach"
+627,bad_location,"bad_location
+A bit far
+have evident far
+far
+have evident far"
+627,good_location,"good_location
+taxis
+same price
+anywhere in the city
+no evident not taxis
+no evident not same price
+no evident not anywhere in the city"
+628,good_location,"good_location
+bus
+no evident not bus
+city_center
+no evident not city_center
+dead_end
+no evident not dead_end
+quiet_street
+no evident not quiet_street"
+632,good_location,"good_location
+bus connection
+no evident not bus connection
+airport
+no evident not airport
+city center
+no evident not city center
+Mackenzie Beach
+no evident not Mackenzie Beach
+bars
+no evident not bars
+restaurants
+no evident not restaurants"
+633,good_location,"good_location
+close to the airport
+no evident not close to the airport"
+635,good_location,"good_location
+bus
+walk
+walk
+no evident not bus
+no evident not walk
+no evident not walk"
+636,good_location,"good_location
+city
+no evident not city
+before
+no evident not before
+flight
+no evident not flight"
+637,good_location,"good_location
+airport
+no evident not airport"
+639,good_location,"good_location
+beach
+no evident not beach
+starfish
+no evident not starfish"
+641,good_location,"good_location
+peaceful
+no evident not peaceful
+area"
+642,good_location,"good_location
+airport
+no evident not airport
+very close
+no evident not very close"
+644,good_location,"good_location
+near the airport
+no evident not near the airport"
+646,good_location,"good_location
+bus stop
+no evident not bus stop
+Salt Lake
+no evident not Salt Lake
+Mackenzie Beach
+no evident not Mackenzie Beach
+airport
+no evident not airport
+promenade
+no evident not promenade
+St. Lazarus
+no evident not St. Lazarus"
+649,good_location,"good_location
+noise from the street
+no evident not noise from the street
+landing planes
+no evident not landing planes
+taking off planes
+no evident not taking off planes"
+650,good_location,"good_location
+Walking distance to the beach
+no evident not walking distance"
+652,good_location,"good_location
+close to the airport
+no evident not close to the airport"
+653,good_location,"good_location
+near the airport
+no evident not near the airport
+near the lake
+no evident not near the lake
+with flamingos
+no evident not with flamingos
+(in winter)
+no evident not (in winter)"
+654,good_location,"good
+no evident not good
+beach"
+654,bad_location,"bad_location
+car came
+have evident car came
+garbage cans
+have evident garbage cans
+night
+have evident night
+car poured
+have evident car poured
+depths
+have evident depths
+noise
+have evident noise
+tourists
+have evident tourists
+expensive
+have evident expensive"
+655,good_location,"good_location
+airport
+no evident not airport
+far"
+655,bad_location,"bad_location
+far
+have evident far
+city
+have evident city
+center
+have evident center"
+659,bad_location,"very noisy
+have evident accumulation
+passing cars
+have evident accumulation
+airplanes
+have evident accumulation
+slamming trunk
+have evident accumulation"
+661,good_location,"good_location
+proximity to the airport
+no evident not proximity to the airport"
+661,bad_location,"bad_location
+aircraft noise
+have evident disturbance
+sleep lightly
+have evident disturbance"
+662,good_location,"good_location
+beach
+walking distance
+no evident not beach
+no evident not walking distance"
+662,bad_location,"bad_location
+city stank
+have evident city stank
+fertilized Larnaca
+have evident fertilized Larnaca"
+663,good_location,"good_location
+close to the beach
+no evident not close to the beach
+relatively quickly
+no evident not relatively quickly"
+663,bad_location,"bad_location
+walk
+have evident walk
+far
+have evident far
+2.5 km
+have evident 2.5 km
+beach promenade
+have evident beach promenade"
+666,good_location,"good_location
+Quiet
+no evident not quiet"
+667,good_location,"good_location
+bus stop
+10 minutes
+center
+5 minutes
+airport
+no evident not bus stop
+no evident not 10 minutes
+no evident not center
+no evident not 5 minutes
+no evident not airport"
+670,good_location,"good_location
+nearby airport
+nearby bus stop
+access city center
+access airport
+no evident not nearby airport
+no evident not nearby bus stop
+no evident not access city center
+no evident not access airport"
+673,good_location,"good_location
+walking distance
+Mackenzie Beach
+no evident not walking distance
+no evident not Mackenzie Beach"
+677,good_location,"good_location
+ok for the sea
+no evident not ok for the sea"
+678,good_location,"good_location
+beach
+airport
+5 minutes
+car
+no evident not beach
+no evident not airport
+no evident not 5 minutes
+no evident not car"
+680,good_location,"good_location
+beach
+no evident not beach
+restaurants
+no evident not restaurants
+bars
+no evident not bars
+town center
+no evident not town center
+30’
+no evident not 30’
+airport
+no evident not airport
+5’
+no evident not 5’"
+681,good_location,"good_location
+bus stops nearby
+no evident not bus stops nearby
+salt lake
+no evident not salt lake
+5 minutes walk to the sea
+no evident not 5 minutes walk to the sea"
+684,bad_location,"bad_location
+noise
+have evident silence
+light
+have evident darkness
+music
+have evident disruption"
+685,good_location,"good_location
+no evident not location
+no evident not location"
+687,good_location,"good_location
+bus stop
+no evident not bus stop
+beach
+no evident not beach
+calm pace
+no evident not calm pace"
+688,good_location,"good_location
+close to the beach
+no evident not close to the beach"
+690,good_location,"good_location
+airport
+no evident not airport
+sea
+no evident not sea"
+690,bad_location,"bad_location
+garbage truck loaded tanks
+have evident garbage truck loaded tanks
+loaded tanks
+have evident loaded tanks"
+693,good_location,"good_location
+access to the beach
+crossing a vacant lot
+no evident not access to the beach
+nearby airport
+but the taxi price
+same as from the center of Larnaca
+no evident not nearby airport
+no evident not but the taxi price
+no evident not same as from the center of Larnaca"
+694,good_location,"good_location
+Close to the airport.
+no evident not close"
+694,bad_location,"bad_location
+wasteland
+have evident wasteland"
+696,good_location,"good_location
+Near beach
+no evident not near beach
+6 minutes
+no evident not 6 minutes"
+698,good_location,"good_location
+restaurants
+no evident not convenient
+no evident not well located"
+700,good_location,"good_location
+it's attached
+no evident not it's attached"
+701,good_location,"good_location
+walking distance
+beach
+restaurants
+walking distance
+no evident not distance
+beach
+restaurants
+walking distance
+no evident not distance
+beach
+restaurants"
+704,good_location,"good_location
+airport
+beach
+no evident not airport
+no evident not beach"
+706,good_location,"good_location
+airport
+no evident not airport
+7
+no evident not 7
+minutes
+no evident not minutes
+from
+no evident not from"
+708,good_location,"good_location
+airport
+no evident not airport
+way
+no evident not way"
+713,good_location,"close to the airport
+no evident not close"
+718,good_location,"good_location
+bus
+taxi
+no evident not bus
+no evident not taxi"
+719,bad_location,"bad_location
+street
+have evident street
+hotel
+have evident hotel
+location
+have evident location"
+722,good_location,"good_location
+bus
+no evident not bus
+Makenzie beach
+no evident not Makenzie beach
+airport
+no evident not airport
+noise
+no evident not noise
+discomfort
+no evident not discomfort"
+726,good_location,"good_location
+Mackenzie is 5 minutes walk.
+no evident not Mackenzie is 5 minutes walk.
+The hotel is very conveniently located.
+no evident not The hotel is very conveniently located."
+726,bad_location,"bad_location
+discos
+have evident noise
+Mackenzie
+have evident noise"
+727,good_location,"good_location
+close
+no evident not close"
+727,bad_location,"bad_location
+intensive road
+have evident intensive road
+beach
+have evident beach
+road
+have evident road"
+730,good_location,"good_location
+close to airport
+no evident not close to airport
+close to beach
+no evident not close to beach"
+730,bad_location,"bad_location
+noise
+have evident noise
+smell
+have evident smell
+disco
+have evident disco"
+732,good_location,"good_location
+airport
+no evident not airport
+beach
+no evident not beach
+salt lake
+no evident not salt lake"
+733,good_location,"good_location
+waterfront
+no evident not waterfront"
+735,good_location,"good_location
+Alyki beach club
+restaurants
+cafés
+no evident not Alyki beach club
+no evident not restaurants
+no evident not cafés"
+737,good_location,"good_location
+Close to the beach
+no evident not close to the beach"
+739,good_location,"good_location
+beach
+center
+no evident not beach
+no evident not center"
+743,bad_location,"bad_location
+airport
+close
+not
+advertised
+airport
+close
+have evident
+airport
+close
+have evident
+airport
+close
+have evident
+airport
+close"
+744,bad_location,"bad_location
+noise
+have evident silence
+traffic
+have evident stillness
+planes
+have evident quiet"
+748,good_location,"good_location
+bus station nearby
+no evident not bus station nearby
+salt lake nearby
+no evident not salt lake nearby"
+749,good_location,"location
+close to the field
+no evident not close
+field"
+750,good_location,"good_location
+field
+no evident not field"
+751,bad_location,"bad_location
+noise
+have evident noise
+shouting
+have evident shouting
+unable
+have evident unable"
+754,good_location,"good_location
+early morning flight
+no evident not early morning flight"
+754,bad_location,"bad_location
+noise
+have evident noise
+beach
+have evident beach
+early morning"
+756,good_location,"good_location
+beach
+party_mile
+airport
+old_town
+no evident not beach
+no evident not party_mile
+no evident not airport
+no evident not old_town"
+764,bad_location,"bad_location
+farms nearby
+have evident farms nearby
+concentrated manure
+have evident concentrated manure"
+765,good_location,"good_location
+Bars
+Restaurants
+nearby
+no evident not bars
+no evident not restaurants
+no evident not nearby"
+765,bad_location,"bad_location
+smoke
+have evident smoke
+cigarettes
+have evident cigarettes"
+767,bad_location,"bad_location
+noise
+have evident noise
+windows
+have evident windows
+courtyard
+have evident courtyard"
+769,good_location,"good_location
+beach
+taverns
+airport
+no evident not beach
+no evident not taverns
+no evident not airport"
+769,bad_location,"bad_location
+walk promenade Larnaca
+have evident walk promenade Larnaca
+walk Lidl
+have evident walk Lidl"
+770,bad_location,"bad_location
+constant stench
+have evident constant stench
+outside
+have evident outside"
+771,bad_location,"bad_location
+shouted into mouthpiece
+have evident shouted into mouthpiece
+almost every day
+have evident almost every day
+under windows
+have evident under windows"
+771,good_location,"good_location
+Walking distance to the center
+no evident not walking distance to the center
+Mackenzie beach
+no evident not Mackenzie beach
+all party cafes
+no evident not all party cafes"
+773,good_location,"good_location
+airport
+no evident not airport
+Mackenzie Beach
+no evident not Mackenzie Beach
+asphalt
+no evident not asphalt
+off-road
+no evident not off-road"
+776,good_location,"good_location
+proximity to the airport
+no evident not proximity to the airport
+walk to the sea
+no evident not walk to the sea"
+778,good_location,"good_location
+Close to the airport.
+no evident not close"
+779,good_location,"location close to the airport
+no evident not proximity
+proximity to the beach
+no evident not city
+city is a significant asset
+no evident not bus stop
+bus stop near the hotel
+no evident not city center
+city center
+no evident not airport"
+780,good_location,"good_location
+location near mackenzie beach
+no evident not location
+no evident not near
+no evident not mackenzie
+no evident not beach"
+784,good_location,"good_location
+proximity beach
+no evident not proximity beach
+proximity airport
+no evident not proximity airport"
+785,bad_location,"bad_location
+Garbage heap in the bin
+have evident garbage heap in the bin
+next to the hotel
+have evident next to the hotel"
+128,good_location,"close to the airport
+no evident not close"153,good_location,"good_location
+after a late flight
+no evident not after a late flight
+very close to the airport
+no evident not very close to the airport"
+513,good_location,"good_location
+easy to get
+no evident not easy to get
+short distance
+no evident not short distance
+promenade
+no evident not promenade
+nice restaurants
+no evident not nice restaurants
+on the beach
+no evident not on the beach"
+665,good_location,"good_location
+airport
+noise
+planes
+taking off
+night
+no evident not airport
+no evident not noise
+no evident not planes
+no evident not taking off
+no evident not night"
+665,bad_location,"bad_location
+noise from planes
+have evident noise
+garbage containers
+have evident noise"
+676,good_location,"good_location
+shops nearby
+no evident not few
+quiet place
+no evident not few
+airport near
+no evident not few"

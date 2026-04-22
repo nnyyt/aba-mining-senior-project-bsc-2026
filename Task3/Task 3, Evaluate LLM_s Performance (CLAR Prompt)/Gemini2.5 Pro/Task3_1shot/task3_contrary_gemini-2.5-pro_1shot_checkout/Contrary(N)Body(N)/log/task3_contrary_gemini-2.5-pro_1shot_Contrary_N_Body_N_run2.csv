@@ -1,0 +1,6 @@
+Timestamp,Run,ID,PhraseA,PhraseB,Prompt,RawOutput
+2026-01-29 23:54:51,2,1,have_evident_staff_not_allow_late_check-out_for_delay_plane,staff_not_allow_late_check-out_for_delay_plane,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Example] Phrase B is no_one_answer_phone. Phrase A is no_evident_not_prompt_response_staff. Answer is 'Yes'.
+
+[Question] Phrase B is staff_not_allow_late_check-out_for_delay_plane. Phrase A is have_evident_staff_not_allow_late_check-out_for_delay_plane.",No

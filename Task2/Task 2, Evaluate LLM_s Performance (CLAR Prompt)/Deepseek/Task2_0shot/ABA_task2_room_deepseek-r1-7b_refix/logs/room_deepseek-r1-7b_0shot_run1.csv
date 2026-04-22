@@ -1,0 +1,4755 @@
+ID,Topic,Output
+2,bad_room,"1. very clean  
+2. well decorated  
+3. modern  
+4. not big  
+
+1. have evident very clean  
+2. have evident well decorated  
+3. have evident modern  
+4. have evident not big"
+2,good_room,"Here is the structured ABA format based on your requirements:
+
+1. Clean  
+   No evident not clean  
+
+2. Decorated  
+   No evident not decorated  
+
+3. Modern  
+   No evident not modern"
+4,good_room,"1. No mess  
+   - Contrary: no evident not mess  
+
+This response adheres to the specified conditions by providing a single support (""no mess"") with its corresponding contrary, formatted correctly within a list structure."
+5,good_room,"Here is the structured ABA format based on the provided text and conditions:
+
+**Supports:**
+1. Clean
+2. Modern
+3. Comfortable beds
+
+**Contraries:**
+1. No evident not clean
+2. No evident not modern
+3. No evident not comfortable beds"
+6,good_room,"Here is the structured ABA format based on the provided conditions:
+
+- **Support 1:** exceptionally clean  
+  **Contrary 1:** No evident not exceptionally clean.
+
+- **Support 2:** really comfortable  
+  **Contrary 2:** No evident not really comfortable."
+10,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Support:** modern room  
+  **Contrary:** no evident not modern room  
+
+- **Support:** comfortable bed  
+  **Contrary:** no evident not comfortable bed"
+11,good_room,"Here is the text generated in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. The rooms are spacious.  
+   No evident not spacious.
+
+2. The rooms are clean.  
+   No evident not clean.
+
+3. I even got an upgrade.  
+   No evident not got an upgrade."
+12,good_room,"Here is the structured ABA format based on your requirements:
+
+- Clean
+  - No evident not clean
+Comfortable
+  - No evident not comfortable"
+13,good_room,"1. lovely  
+   no evident not lovely  
+
+2. new  
+   no evident not new  
+
+3. clean  
+   no evident not clean  
+
+4. comfortable  
+   no evident not comfortable  
+
+5. mattress was to my taste  
+   no evident not (mattress was to my taste)"
+14,bad_room,"1. You can hear
+   - have evident: You cannot hear
+
+2. airplanes coming and leaving
+   - have evident: airplanes do not come and leave
+
+3. from the airport all the time
+   - have evident: they do not come and leave from the airport at all times"
+16,good_room,"Here is the generated ABA format based on your requirements:
+
+Supports:
+- liked
+- spacious
+- clean
+- window view
+
+Contraries:
+- No evident not liked
+- No evident not spacious
+- No evident not clean
+- No evident not window view"
+17,good_room,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  - balcony
+  - view
+  - sea
+  - surrounding area
+
+- **Contraries:**
+  - No evident not balcony
+  - No evident not view
+  - No evident not sea
+  - No evident not surrounding area"
+20,good_room,"1. Clean  
+   No evident not clean"
+21,good_room,"- **Supports:**
+  - Clean
+  - Nice
+  - Comfortable
+
+- **Contraries:**
+  - No evident not clean
+  - No evident not nice
+  - No evident not comfortable"
+22,bad_room,"Here is the structured ABA format based on the given text, following the user's instructions:
+
+1. **Supports:**
+   - needed drawers
+   - fridge could have been put on
+   - took a while to get hot
+
+2. **Contraries:**
+   - have evident needed drawers
+   - have evident fridge could have been put on
+   - have evident took a while to get hot
+
+Each support is paired with its contrary, starting with ""have evident"" followed by the same word from the original text. This structure adheres to the user's conditions and format requirements."
+22,good_room,"1. New  
+   No evident not new  
+
+2. Clean shiny tiled floors  
+   No evident not clean shiny tiled floors  
+
+3. Bathroom tiles  
+   No evident not bathroom tiles  
+
+4. Comfortable bed  
+   No evident not comfortable bed  
+
+5. Lots of room for me to put my things  
+   No evident not lots of room for me to put my things"
+23,good_room,"Here is the generated ABA format based on your requirements:
+
+- Claim: good_room  
+  Supports:  
+    - beds  
+      Contraries:  
+        - No evident not beds"
+24,good_room,"Here is the text in Assumption Based Argumentation (ABA) format based on your conditions:
+
+- **Support**: love  
+  **Contrary**: No evident not loved  
+
+- **Support**: mattress  
+  **Contrary**: No evident not mattress"
+25,good_room,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  - clean
+  - quiet
+
+- **Contraries:**
+  - No evident not clean
+  - No evident not quiet"
+26,good_room,"1. Size  
+2. Layout  
+3. Bathroom  
+4. Balcony  
+
+5. no evident not size  
+6. no evident not layout  
+7. no evident not bathroom  
+8. no evident not balcony"
+27,good_room,"Here is the structured ABA format based on your instructions:
+
+comfort, no evident not comfortable,
+clean, no evident not clean,
+
+This format includes both supports and their respective contraries, adhering to all specified conditions."
+29,good_room,"- Clean: no evident not clean  
+- Functional: no evident not functional"
+30,good_room,"ABA Format:
+
+- Claim: good_room  
+- Supports:  
+  - room  
+  - spotless  
+- Contraries:  
+  - No evident not room  
+  - No evident not spotless"
+31,good_room,"- Clean  
+  No evident not clean  
+
+- Comfortable  
+  No evident not comfortable"
+32,good_room,"Here is the structured ABA format based on the provided text, adhering to all specified conditions:
+
+- **Supports:**
+  - bed
+  - rooms
+
+- **Contraries:**
+  - No evident not bed.
+  - No evident not rooms."
+33,bad_room,"Here is the structured ABA format based on the given text:
+
+1. **Support:** Little noisy  
+   **Contrary:** Have evident quiet  
+
+2. **Support:** Evening time  
+   **Contrary:** Have evident daytime  
+
+3. **Support:** Street side  
+   **Contrary:** Have evident house side"
+33,good_room,"- Support: clean room  
+  Contrary: no evident not clean room  
+
+- Support: furniture together  
+  Contrary: no evident not furniture together  
+
+- Support: your stay max comfortable  
+  Contrary: no evident not your stay max comfortable"
+34,bad_room,"1. has too much hooks  
+   have evident too much hooks  
+
+2. has trip hazard on walls  
+   have evident trip hazard on walls"
+35,bad_room,"- The room had bad heating. Have evident bad heating.
+
+- We didn't manage to have hot water. Have evident we didn't manage to have hot water."
+36,bad_room,"bad_room  
+short_words  
+beds  
+pillows  
+
+have evident bad_beds  
+have evident bad_pillows"
+36,good_room,"1. No issues  
+   - Contrary: There were some issues  
+
+2. Clean  
+   - Contrary: Not clean  
+
+3. Comfortable  
+   - Contrary: Not comfortable"
+37,good_room,"- **Claim**: good_room  
+  - **Support**: clean  
+    - **Contrary**: no evident not clean  
+  - **Support**: clean  
+    - **Contrary**: no evident not clean"
+38,good_room,"Here is the structured ABA format based on the given conditions:
+
+- **Supports:**
+  - great
+  - rooms
+  - nice
+  - cool
+
+- **Contraries:**
+  - no evident not great
+  - no evident not rooms
+  - no evident not nice
+  - no evident not cool"
+39,good_room,"Here is the structured ABA format based on the given text:
+
+- **Supports and Contraries:**
+  - Clean
+    - No evident not clean
+  - Spacious
+    - No evident not spacious"
+40,bad_room,"1. Bad_room: No net curtain or blind.  
+2. Bad_room: No blind.  
+3. Bad_room: No net curtain.  
+
+Contraries:  
+4. Have evident no net curtain or blind.  
+5. Have evident no blind.  
+6. Have evident no net curtain."
+41,good_room,"1. Clean  
+   - No evident not clean  
+
+2. good_room  
+   - No evident not good_room"
+42,good_room,"Supports:
+- clean
+- bright
+
+Contraries:
+- no evident not clean
+- no evident not bright"
+43,good_room,"- good_room  
+  - clean  
+    no evident not clean  
+  - spacious  
+    no evident not spacious  
+  - practical  
+    no evident not practical"
+45,good_room,"1. Support: clean  
+   Contrary: no evident not clean"
+48,good_room,"**Assumption Based Argumentation (ABA) Format:**
+
+1. **Claim:** good_room  
+2. **Supports and Contraries:**  
+   - Clean, No evident not clean  
+   - Comfortable, No evident not comfortable"
+49,good_room,"- **Supports:**
+  - two rooms
+  - sufficient for a family of 5
+
+- **Contraries:**
+  - No evident not two rooms
+  - No evident not sufficient for a family of 5"
+50,bad_room,"Supports:
+- not
+- soundproof
+
+Contraries:
+- have evident not
+- have evident soundproof"
+51,good_room,"- Clean room  
+  No evident not clean room"
+53,good_room,"Here is the structured ABA format based on the given text:
+
+- **Supports**:
+  - bed
+  - comfortable
+
+- **Contraries**:
+  - No evident not bed
+  - No evident not comfortable
+
+This format adheres to all specified conditions, ensuring clarity and correctness."
+54,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - nice
+  - clean
+
+- **Contraries:**
+  - no evident not nice
+  - no evident not clean"
+55,bad_room,"- **bad_room**: many  
+  - have evident many  
+- **bad_room**: do not have many  
+  - have evident do not have many"
+56,good_room,"1. Support: comfortable
+2. Contrary: no evident not comfortable"
+57,good_room,"Here is the structured ABA format based on your requirements:
+
+1. **Supports and Contraries**
+
+   - **Clean**: Clean
+     - **Contrary**: No evident not clean
+   - **Comfortable**: Comfortable
+     - **Contrary**: No evident not comfortable"
+58,bad_room,"1. Bad_room: not soundproof  
+2. Bad_room: hear the planes  
+3. have evident: not soundproof  
+4. have evident: hear the planes"
+62,bad_room,"- **Supports:**
+  - Our son had a folding bed
+  - which could have been better
+  - especially considering how comfortable the regular beds were
+
+- **Contraries:**
+  - have evident Our son had a folding bed
+  - have evident which could have been better
+  - have evident especially considering how comfortable the regular beds were"
+62,good_room,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  - Comfortable beds
+  - Best linen and duvets
+  - In room mini bar+ tea/ coffee
+  - Good AC
+
+- **Contraries:**
+  - No evident not comfortable beds in my room.
+  - No evident not best linen and duvets in my room.
+  - No evident not in room mini bar in my room.
+  - No evident not good AC in my room.
+
+Each support is paired with its contrary, adhering to the specified conditions."
+64,good_room,"Supports:
+- new
+- clean
+
+Contraries:
+- No evident not new
+- No evident not clean"
+65,good_room,"- Clean  
+  No evident not clean  
+
+- Comfortable  
+  No evident not comfortable"
+66,good_room,"Here is the structured ABA format based on the given text:
+
+- The place is spotless.  
+  No evidence not spotless.  
+
+- The place is very comfortable.  
+  No evidence not very comfortable."
+68,good_room,"Supports:
+- clean
+- bright
+
+Contraries:
+- no evident not clean
+- no evident not bright"
+70,good_room,"- Peaceful  
+  No evident not peaceful  
+
+- Clean  
+  No evident not clean"
+73,good_room,"ABA Format:
+
+- Support: room  
+  Contrary: no evident not room"
+74,good_room,"Supports:
+1. clean
+2. cozy ones
+3. beds
+
+Contraries:
+1. No evident not clean.
+2. No evident not cozy ones.
+3. No evident not beds."
+75,bad_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - No balcony made us disappointed.
+  - Expected more than just a room.
+
+- **Contraries:**
+  - have evident no balcony.
+  - have evident expected more than just a room."
+76,good_room,"- Support: new  
+  Contrary: no evident not new  
+
+- Support: clean  
+  Contrary: no evident not clean"
+78,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - clean
+  - nice room
+  - big bathroom
+
+- **Contraries:**
+  - no evident not clean
+  - no evident not nice room
+  - no evident not big bathroom"
+79,good_room,"**ABA Format Response:**
+
+- **Claim**: good_room
+  - **Supports**:
+    - new
+      - no evident not new
+    - clean
+      - no evident not clean
+    - setup
+      - no evident not setup"
+81,good_room,"Here is the structured ABA format based on the given text:
+
+1. Clean room.
+2. Spacious room.
+3. No evident not clean room.
+4. No evident not spacious room.
+
+This format adheres to all specified conditions, ensuring clarity and correctness."
+82,good_room,"- Clean  
+  No evident not clean  
+
+- Modern  
+  No evident not modern"
+83,good_room,"1. good_room  
+2. clean  
+   - no evident not clean  
+3. comfortable  
+   - no evident not comfortable"
+85,bad_room,"Here is the structured ABA format based on the given conditions:
+
+**Supports:**
+1. room
+2. not_clean
+3. check_in
+
+**Contraries:**
+1. have evident room
+2. have evident not_clean
+3. have evident check_in"
+89,good_room,"Here is the structured ABA format based on the given conditions:
+
+- Clean bed  
+No evident not clean bed.  
+Comfortable bed  
+No evident not comfortable bed.
+
+This presentation adheres to the specified requirements, ensuring clarity and correctness in each component."
+90,good_room,"- Clean  
+  No evident not clean  
+
+This provides the required supports and their contraries in ABA format."
+91,good_room,"1. **Claim**: good_room  
+2. **Supports**:
+   - nice
+   - clean  
+3. **Contraries**:
+   - no evident not nice
+   - no evident not clean"
+92,bad_room,"1. Bad soundproofed  
+   have evident bad  
+
+2. Soundproofed  
+   have evident soundproofed"
+93,good_room,"Supports:
+new
+comfortable
+
+Contraries:
+no evident not new
+no evident not comfortable"
+95,good_room,"- Clean  
+  No evident not clean  
+
+- Quiet  
+  No evident not quiet"
+96,bad_room,"- Support: dirty
+- Contrary: have evident dirty"
+96,good_room,"Here is the structured ABA format based on your instructions:
+
+- **Support 1:** The room is very.
+- **Contrary 1:** No evident not the room is very.
+
+- **Support 2:** The room is comfortable.
+- **Contrary 2:** No evident not the room is comfortable."
+98,bad_room,"**ABA Format:**
+
+**Supports:**
+1. thick
+2. too
+
+**Contraries:**
+1. have evident thick
+2. have evident too"
+99,good_room,"- Clean  
+  No evident not clean  
+
+This provides the required supports and their contraries in ABA format."
+100,good_room,"1. Clean  
+No evident not clean"
+101,bad_room,"1. Support: cupboard  
+   Contrary: have evident cupboard  
+
+2. Support: wardrobe  
+   Contrary: have evident wardrobe"
+102,good_room,"- Claim: good_room
+- Supports:
+  - Rooms are nice
+  - Rooms are modern
+  - Rooms are clean
+- Contraries:
+  - No evident not nice
+  - No evident not modern
+  - No evident not clean"
+103,bad_room,"**Supports:**
+1. no_soap
+2. shampoo
+3. hand_soap
+
+**Contraries:**
+1. have_evident_no_soap
+2. have_evident_shampoo
+3. have_evident_hand_soap"
+103,good_room,"1. Refurbished  
+   No evident not refurbished  
+
+2. Spacious  
+   No evident not spacious  
+
+3. Nice view of the salt lake by the terrace  
+   No evident not nice view of the salt lake by the terrace"
+105,good_room,"1. Clean  
+2. Spacious  
+3. No evident not clean  
+4. No evident not spacious"
+106,good_room,"- Support: comfortable beds  
+  Contrary: no evident not comfortable beds"
+107,good_room,"ABA Format:
+
+- Good_room  
+  - Large  
+    - No evident not large  
+  - Newly redecorated  
+    - No evident not newly redecorated  
+  - Contemporary style  
+    - No evident not contemporary style  
+  - Very comfortable  
+    - No evident not very comfortable"
+109,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports**:
+  - lovely rooms
+  - comfortable beds
+
+- **Contraries**:
+  - No evident not lovely rooms
+  - No evident not comfortable beds"
+111,good_room,"Here is the structured ABA format based on your requirements:
+
+- Spotless
+  - Contrary: no evident not spotless  
+- Clean
+  - Contrary: no evident not clean"
+113,good_room,"Here is the text in ABA format based on your requirements:
+
+- **Supports:**
+  - nice
+  - clean
+
+- **Contraries:**
+  - no evident not nice
+  - no evident not clean"
+114,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Claim**: good_room  
+  - **Supports**:
+    - air_con
+    - fridge
+    - water_bottle  
+  - **Contraries**:
+    - No evident not air_con.
+    - No evident not fridge.
+    - No evident not water_bottle."
+116,good_room,"1. Clean [no evident not clean]
+2. Conditioned [no evident not conditioned]
+3. Airport [no evident not airport]"
+118,good_room,"1. **Support**: perfect  
+   **Contrary**: no evident not perfect"
+119,good_room,"1. Clean  
+   no evident not clean  
+
+2. Comfortable  
+   no evident not comfortable  
+
+3. Fridge  
+   no evident not fridge  
+
+4. Kettle  
+   no evident not kettle  
+
+5. Shower  
+   no evident not shower  
+
+6. Air con  
+   no evident not air con  
+
+7. Worked  
+   no evident not worked"
+120,bad_room,"- Support 1: small  
+  Contrary 1: have evident that the room was not small.
+
+- Support 2: adequate  
+  Contrary 2: have evident that the room was not adequate."
+122,good_room,"- Support: clean  
+  Contrary: no evident not clean"
+125,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - clean
+  - super comfy
+
+- **Contraries:**
+  - no evident not clean
+  - no evident not super comfy
+
+This list combines all supports and their corresponding contraries, adhering to the specified conditions."
+126,good_room,"Here is the structured ABA format based on your requirements:
+
+1. **Supports:**
+   - bathroom is nice
+   - room is equipped
+   - smelled nice
+
+2. **Contraries:**
+   - No evident not bathroom is nice
+   - No evident not room is equipped
+   - No evident not smelled nice
+
+This format adheres to the conditions specified, ensuring each support and its corresponding contrary are clearly presented without additional information or opinions."
+127,good_room,"- Claim: good_room
+  - [Arg1] very clean
+    - No evident not clean
+  - [Arg2] modern
+    - No evident not modern"
+128,good_room,"Here is the generated ABA format based on your conditions:
+
+Supports:  
+very clean  
+comfortable  
+
+Contraries:  
+no evident not very clean  
+no evident not comfortable"
+129,good_room,"1. Good size  
+2. Clean  
+3. Comfortable bed  
+4. No evident not good size  
+5. No evident not clean  
+6. No evident not comfortable"
+131,good_room,"- Support: clean  
+  Contrary: No evident not clean"
+132,good_room,"Supports:
+1. comfortable bed
+2. cozy atmosphere
+3. plenty of storage space
+
+Contraries:
+4. no evident not comfortable bed
+5. no evident not cozy atmosphere
+6. no evident not plenty of storage space"
+133,good_room,"- **Supports:**
+  - room
+  - clean
+  - bed
+  - comfortable
+
+- **Contraries:**
+  - No evident not clean
+  - No evident not comfortable"
+134,good_room,"- **Claim**: good_room  
+  - **Supports**:  
+    - ""good"" (from ""lovely"")  
+    - ""clean""  
+  - **Contraries**:  
+    - ""no evident not good""  
+    - ""no evident not clean"""
+137,bad_room,"**ABA Format for ""The smell in the bathroom""**
+
+**Supports:**
+1. The room has a smell.
+2. The smell is bad.
+3. The bathroom has an unpleasant odor.
+
+**Contraries:**
+1. The room does not have a bad smell.
+2. The smell is not bad.
+3. The bathroom has no unpleasant odor."
+137,good_room,"1. Clean - no evident not clean  
+2. Comfortable - no evident not comfortable"
+138,good_room,"- Claim: good_room  
+- Supports and Contraries:
+  - clean (room)
+    - no evident not clean
+  - bathroom
+    - no evident not bathroom"
+140,good_room,"1. Clean  
+   No evident not clean  
+
+2. Cozy atmosphere  
+   No evident not cozy atmosphere"
+144,good_room,"- nice, no evident not nice  
+- clean, no evident not clean"
+145,good_room,"Here is the text generated in Assumption Based Argumentation (ABA) format based on your conditions:
+
+1. The room was super clean.  
+   No evident not clean.
+
+2. Everything in the room was new.  
+   No evident not new.
+
+3. The room was cosy.  
+   No evident not cosy.
+
+4. The bathroom had a spacious cabin shower.  
+   No evident not spacious.
+
+5. The bed was very comfy.  
+   No evident not comfy.
+
+6. The pillows were good.  
+   No evident not good."
+146,good_room,"Here is the text generated in Assumption Based Argumentation (ABA) format based on your conditions:
+
+- Support: hotel  
+  Contrary: No evident not hotel  
+
+- Support: good rooms  
+  Contrary: No evident not good rooms  
+
+- Support: clean  
+  Contrary: No evident not clean  
+
+- Support: smart  
+  Contrary: No evident not smart  
+
+- Support: comfortable  
+  Contrary: No evident not comfortable"
+148,good_room,"- Supports:
+  - bed.
+  
+- Contraries:
+  - No evident not bed."
+149,good_room,"- Clean: super clean  
+  No evident not super clean  
+
+- Modern: modern  
+  No evident not modern  
+
+- Comfortable: comfortable  
+  No evident not comfortable"
+152,good_room,"ABA Format:
+
+1. Clean rooms.  
+   - Support: clean rooms.  
+     Contrary: no evident not clean rooms.  
+
+2. Clean rooms.  
+   - Support: clean rooms.  
+     Contrary: no evident not clean rooms."
+153,good_room,"1. **Supports:**
+   - good_room
+   - beautiful
+   - spotless
+   - comfortable
+   - air-conditioned
+   - great
+   - shower
+
+2. **Contraries:**
+   - no evident not good_room
+   - no evident not beautiful
+   - no evident not spotless
+   - no evident not comfortable
+   - no evident not air-conditioned
+   - no evident not great
+   - no evident not shower"
+154,bad_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - Would have liked more TV channels
+  - More TV channels
+  - Like RT Russia Today
+
+- **Contraries:**
+  - Have evident not to like more TV channels
+  - Have evident not to like RT Russia Today"
+155,good_room,"Here is the structured ABA format based on the given text:
+
+Supports:
+1. nice shower
+2. nice bed
+
+Contraries:
+1. no evident not nice shower
+2. no evident not nice bed"
+156,good_room,"Here is the text generated in ABA format based on your requirements:
+
+- **Supports:**
+  - great
+  - comfy
+  - air-conditioned
+  - clean
+
+- **Contraries:**
+  - no evident not great
+  - no evident not comfy
+  - no evident not air-conditioned
+  - no evident not clean"
+157,good_room,"1. good_room
+2. modern (no evident not modern)
+3. clean (no evident not clean)"
+159,good_room,"1. **Claim**: good_room  
+2. **Support 1**: Clean rooms  
+   - **Contrary 1**: No evident not clean rooms"
+161,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - cleanness
+  - quietness
+  - beauty
+
+- **Contraries:**
+  - no evident not cleanness
+  - no evident not quietness
+  - no evident not beauty"
+165,good_room,"Supports:
+- clean
+- modern
+
+Contraries:
+- No evident not clean
+- No evident not modern"
+166,good_room,"ABA Format:
+
+good_room  
+Support: clean  
+Contrary: no evident not clean  
+
+Support: homely  
+Contrary: no evident not homely"
+167,good_room,"Here is the structured ABA format based on your requirements:
+
+1. Clean  
+   - Support: clean  
+     Contrary: no evident not clean  
+
+2. Place  
+   - Support: place  
+     Contrary: no evident not place"
+168,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - room
+  - clean
+
+- **Contraries:**
+  - no evident not room
+  - no evident not clean"
+171,good_room,"Here is the structured ABA format based on the provided conditions:
+
+1. **Support**: electronic system  
+   **Contrary**: No evident not electronic system  
+
+2. **Support**: cleaning up  
+   **Contrary**: No evident not cleaning up  
+
+3. **Support**: not wanting to be disturbed  
+   **Contrary**: No evident not wanting to be disturbed"
+173,good_room,"ABA Format:
+
+- Clean
+  - No evident not clean
+- Clean
+  - No evident not clean
+- Clean
+  - No evident not clean
+- Comfy
+  - No evident not comfy
+- Good smell
+  - No evident not good smell"
+176,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - sufficiently spacious
+  - clean
+
+- **Contraries:**
+  - No evident not sufficiently spacious
+  - No evident not clean"
+178,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Support:** relaxing  
+  **Contrary:** no evident not relaxing  
+
+- **Support:** comfortable  
+  **Contrary:** no evident not comfortable"
+179,bad_room,"Here is the structured ABA format based on the given text:
+
+1. **Support**: TV channel selection is bad_room.
+   - **Contrary**: Have evident bad_room TV channel selection.
+
+2. **Support**: TV channel selection would have been good.
+   - **Contrary**: Have evident TV channel selection would have been good.
+
+This structure adheres to all specified conditions, ensuring each support has a corresponding contrary without using synonyms or unnecessary adjectives/verbs."
+179,good_room,"Supports:
+1. Very
+2. Clean
+
+Contraries:
+1. No evident not very
+2. No evident not clean"
+180,bad_room,"1. Support: AC was a bit loud  
+   Contrary: have evident loudness  
+
+2. Support: the people in the next hotel were also loud  
+   Contrary: have evident noise"
+180,good_room,"- Claim: good_room
+  - Supports:
+    - Sparkling clean
+    - Comfy
+  - Contraries:
+    - No evident not sparkling clean
+    - No evident not comfy"
+181,good_room,"Here is the ABA formatted text based on the given conditions:
+
+- **Supports:**
+  - big
+  - clean
+
+- **Contraries:**
+  - No evident not big
+  - No evident not clean"
+189,good_room,"1. Clean  
+   No evident not clean  
+
+2. Modern  
+   No evident not modern  
+
+3. Large  
+   No evident not large"
+190,bad_room,"- **Supports:**
+  - small
+  - lack
+  - balcony
+
+- **Contraries:**
+  - have evident large
+  - have evident lack
+  - have evident balcony"
+191,good_room,"- Support: clean  
+  Contrary: no evident not clean"
+192,good_room,"- Clean  
+  No evident not clean  
+
+- Good  
+  No evident not good"
+193,good_room,"- Good room (claim)  
+  - Clean (support)  
+    - No evident not clean (contrary)  
+  - Spacious (support)  
+    - No evident not spacious (contrary)"
+194,good_room,"- Support: a/c  
+  Contrary: no evident not a/c  
+
+This response adheres to the specified conditions by providing only the necessary elements without additional information or assumptions."
+195,good_room,"Supports:
+- Clean
+- Spacious
+- Friendly
+- New
+- Modern
+
+Contraries:
+- No evident not clean
+- No evident not spacious
+- No evident not friendly
+- No evident not new
+- No evident not modern"
+196,bad_room,"Here is the structured ABA format based on your requirements:
+
+- **Claim**: bad_room
+- **Supports**:
+  - mattresses
+  - hard
+- **Contraries**:
+  - have evident do not exist (mattresses)
+  - have evident not hard (hard)
+
+This response adheres to all specified conditions, ensuring clarity and correctness."
+198,good_room,"Here is the structured ABA format based on the given text:
+
+**Supports:**
+1. clean
+2. well organized
+
+**Contraries:**
+3. no evident not clean
+4. no evident not well organized"
+199,good_room,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  - it is clean
+  - it is beautiful
+
+- **Contraries:**
+  - No evident not it is clean
+  - No evident not it is beautiful"
+200,good_room,"1. good_room  
+2. clean  
+3. no evident not clean  
+4. new  
+5. no evident not new"
+202,good_room,"Here is the text formatted according to your instructions, incorporating the claim ""good_room,"" supports with short words and no adjectives/adverbs, their contraries, and ensuring clarity:
+
+1. Clean room  
+   No evident not clean  
+
+2. Brightly lit  
+   No evident not brightly lit  
+
+3. Warmly decorated  
+   No evident not warmly decorated"
+203,good_room,"- Clean: The room was very clean. No evident not clean.
+- Ac worked: The ac worked well. No evident not ac worked."
+208,bad_room,"- Claim: bad_room
+  - Support 1: There is hair on the floor.
+    - Contrary 1: Have evident hair on the floor.
+  - Support 2: From previous visitors.
+    - Contrary 2: Have evident from previous visitors.
+  - Support 3: It should be cleaned better.
+    - Contrary 3: Have evident it should be cleaned better."
+209,bad_room,"Here is the structured ABA format based on your requirements:
+
+**Supports:**
+1. Noisy
+2. Could hear everything
+
+**Contraries:**
+1. Have evident noisy
+2. Have evident could hear everything"
+209,good_room,"1. **Claim**: good_room  
+2. **Supports** and **Contraries**:  
+   - Support: nice  
+     Contrary: no evident not nice  
+   - Support: really  
+     Contrary: no evident not really"
+210,good_room,"1. Good  
+   No evident not good  
+
+2. Good  
+   No evident not good  
+
+3. Good  
+   No evident not good"
+213,bad_room,"- Support: bad  
+  - Contrary: have evident bad  
+
+- Support: bad  
+  - Contrary: have evident bad"
+215,good_room,"- Clean  
+  No evident not clean  
+
+- Simple  
+  No evident not simple"
+216,good_room,"Supports:
+1. The room is very clean.
+2. The bed is comfortable.
+
+Contraries:
+1. The room is not very clean.
+2. The bed is not comfortable."
+218,good_room,"1. Clean room  
+   No evident not clean  
+
+2. Bed  
+   No evident not bed"
+219,good_room,"1. Clean room  
+2. comfy beds  
+3. nice showers  
+
+Contrary:  
+4. no evident not clean room  
+5. no evident not comfy beds  
+6. no evident not nice showers"
+220,bad_room,"Here is the structured ABA format based on the given conditions:
+
+1. **Support 1**: TV is limited in choices.
+   - **Contrary 1**: have evident evidence that TV offers many choices.
+
+2. **Support 2**: TV is only a news channel.
+   - **Contrary 2**: have evident evidence that it has other types of channels available.
+
+This format adheres to the specified conditions, ensuring each support is accompanied by its corresponding contrary statement."
+220,good_room,"Supports and Contraries
+
+1. airy room  
+   - no evident not airy  
+
+2. comfortable room  
+   - no evident not comfortable  
+
+3. super fast wifi  
+   - no evident not super fast"
+221,bad_room,"1. mini fridge  
+   have evident mini fridge  
+
+2. cool our water bottles  
+   have evident cool our water bottles"
+221,good_room,"1. Clean  
+   No evident not clean  
+
+2. Adequate size  
+   No evident not adequate size  
+
+3. Nice balcony  
+   No evident not nice balcony"
+222,good_room,"1. was → No evident not was  
+2. nice → No evident not nice"
+224,good_room,"Supports:
+1. nights
+2. sleep
+
+Contraries:
+1. No evident not nights
+2. No evident not sleep"
+226,bad_room,"- **Supports:**
+  - nothing fancy
+  - no local shop/kiosk nearby
+  - small fridge in the room was warm (turned off)
+  - only half a glass wall covers the shower
+
+- **Contraries:**
+  - have evident nothing fancy
+  - have evident no local shop/kiosk nearby
+  - have evident small fridge in the room was warm (turned off)
+  - have evident only half a glass wall covers the shower"
+226,good_room,"1. Clean rooms.  
+   No evident not clean rooms.  
+
+2. Modern aircon.  
+   No evident not modern aircon.  
+
+3. Quiet room.  
+   No evident not quiet room.  
+
+4. Excellent room service.  
+   No evident not excellent room service.  
+
+5. Plenty of electricity outlets.  
+   No evident not plenty of electricity outlets.  
+
+6. Using UK-adapters to use standard EU-plugs.  
+   No evident not using UK-adapters to use standard EU-plugs.  
+
+7. Best hotel bed ever.  
+   No evident not best hotel bed ever."
+227,good_room,"Here is the structured ABA format based on the given text:
+
+- **Supports**:
+  - Room
+  - Family
+
+- **Contraries**:
+  - No evident not room.
+  - No evident not family.
+
+This approach ensures each support has its corresponding contrary, addressing both aspects of the original statement succinctly."
+228,good_room,"Supports:  
+- balcony  
+
+Contraries:  
+- no evident not balcony"
+230,good_room,"Supports:
+- clean
+- bright
+
+Contraries:
+- no evident not clean
+- no evident not bright"
+231,good_room,"good_room  
+rooms  
+no evident not rooms  
+clean  
+no evident not clean"
+232,good_room,"Here is the structured ABA format based on the given conditions:
+
+- Everything  
+  No evident not everything  
+
+- was  
+  No evident not was  
+
+- clean  
+  No evident not clean  
+
+- nice  
+  No evident not nice"
+233,good_room,"- good_room
+  - big room
+    - No evident not big room
+  - new room
+    - No evident not new room
+  - clean room
+    - No evident not clean room"
+235,good_room,"Supports:
+- clean
+  - Contrary: no evident not clean"
+236,good_room,"1. Support: small
+   Contrary: No evident not small
+
+2. Support: comfortable
+   Contrary: No evident not comfortable
+
+3. Support: bathroom
+   Contrary: No evident not bathroom
+
+4. Support: good size
+   Contrary: No evident not good size
+
+5. Support: well appointed
+   Contrary: No evident not well appointed"
+237,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - clean
+  - comfortable
+
+- **Contraries:**
+  - No evident not clean
+  - No evident not comfortable"
+238,bad_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - There is a stingy smell.
+  - The room is quite small.
+
+- **Contraries:**
+  - There is a stingy smell have evident that it is not good.
+  - The room is quite small have evident that it is not large."
+239,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - light
+  - airy
+  - clean
+
+- **Contraries:**
+  - No evident not light
+  - No evident not airy
+  - No evident not clean"
+240,good_room,"Supports:  
+1. warm welcome  
+2. comfortable stay  
+3. very clean  
+
+Contraries:  
+1. no evident not warm welcome  
+2. no evident not comfortable stay  
+3. no evident not very clean"
+241,bad_room,"Here is the structured ABA format based on the given text:
+
+1. bad_room because it was expensive.
+2. bad_room because it was randomly placed.
+3. bad_room because it was unlabeled.
+4. bad_room because it was either body or hair shampoo.
+5. have evident that it was expensive.
+6. have evident that it was randomly placed.
+7. have evident that it was unlabeled.
+8. have evident that it was either body or hair shampoo.
+
+This format includes all the necessary supports and their corresponding contraries, adhering to the specified conditions."
+241,good_room,"1. Support: spacious room  
+   Contrary: no evident not spacious room  
+
+2. Support: minifridge  
+   Contrary: no evident not minifridge  
+
+3. Support: large bathroom  
+   Contrary: no evident not large bathroom  
+
+4. Support: very clean and comfy bed  
+   Contrary: no evident not very clean and comfy bed  
+
+5. Support: lovely little balcony  
+   Contrary: no evident not lovely little balcony"
+242,good_room,"- Claim: good_room  
+  Supports: clean, comfortable, pleasant  
+  Contraries: No evident not clean, No evident not comfortable, No evident not pleasant"
+245,good_room,"1. Clean  
+2. Room service keeps it clean  
+3. No evident not clean  
+4. No evident not room service keeps it clean"
+246,good_room,"Here is the generated ABA format based on your conditions:
+
+1. Nice size  
+2. Very clean  
+3. Modern  
+4. Family room  
+5. Double room  
+6. Perfect for our quick stay  
+
+Contraries:  
+1. no evident not nice size  
+2. no evident not very clean  
+3. no evident not modern  
+4. no evident not family room  
+5. no evident not double room  
+6. no evident not perfect for our quick stay"
+247,good_room,"Here is the text generated in Assumption Based Argumentation (ABA) format based on your conditions:
+
+- **Supports**:  
+  - cleanliness is important  
+
+- **Contraries**:  
+  - No evident not cleanliness is important"
+248,bad_room,"Here is the structured ABA format based on the provided text:
+
+1. limited TV channels
+   - have evident enough TV channels
+
+2. only in the evening you can actually find something to watch
+   - have evident plenty of channels available
+
+3. about 10 channels are available
+   - have evident more than ten channels are present
+
+4. mostly Greek and Russian channels
+   - have evident many more channels in Greek and Russian"
+248,good_room,"1. Support: comfortable  
+   Contrary: no evident not comfortable"
+250,good_room,"1. Support: lovely  
+   Contrary: no evident not lovely  
+
+2. Support: modern  
+   Contrary: no evident not modern  
+
+3. Support: comfortable  
+   Contrary: no evident not comfortable"
+252,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - clean
+  - new
+
+- **Contraries:**
+  - no evident not clean
+  - no evident not new"
+253,good_room,"- Cleanliness  
+  No evident not cleanliness.  
+
+- Quietness  
+  No evident not quietness."
+254,good_room,"Here is the structured ABA format based on the provided text:
+
+- **Supports and Contraries:**
+  1. Spotless  
+     No evident not spotless
+  2. Fantastic  
+     No evident not fantastic
+  3. True to life  
+     No evident not true to life"
+255,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - spacious
+  - new
+
+- **Contraries:**
+  - No evident not spacious
+  - No evident not new"
+256,good_room,"1. Clean: No evident not clean  
+2. Modern: No evident not modern"
+259,bad_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - bathroom floor got wet
+  - shower
+  - two foot towels rather than just one
+
+- **Contraries:**
+  - have evident bathroom floor got wet
+  - have evident two foot towels rather than just one"
+260,good_room,"- Comfort able  
+  No evident not comfortable  
+  No evident not able"
+261,good_room,"ABA Format:
+
+- Clean
+  - No evident not clean
+- Cozy
+  - No evident not cozy"
+262,good_room,"Here is the structured ABA format based on the given text:
+
+1. Clean  
+   - No evident not clean
+
+2. We slept well  
+   - No evident not we slept well
+
+3. In a comfy  
+   - No evident not in a comfy"
+263,good_room,"Supports:  
+1. room was big enough with comfy beds for family of four  
+2. liked having a small balcony for outdoor space  
+
+Contraries:  
+1. no evident not big enough with comfy beds for family of four  
+2. no evident not having a small balcony for outdoor space"
+264,good_room,"Here is the ABA formatted text based on the given conditions:
+
+- Clean beds  
+  no evident not clean beds  
+
+- Comfortable beds  
+  no evident not comfortable beds"
+265,good_room,"Here is the structured ABA format based on the given text:
+
+- clean  
+  - no evident not clean  
+
+- comfortable  
+  - no evident not comfortable"
+266,good_room,"1. Clean  
+   - Contrary: no evident not clean"
+268,good_room,"1. Rooms - No evident not rooms
+2. Bathroom - No evident not bathroom
+3. Balcony with sea view - No evident not balcony with sea view"
+269,good_room,"- Clean  
+  - no evident not clean"
+270,good_room,"1. **Support**: Rooms are good  
+   **Contrary**: No evident not good  
+
+2. **Support**: Clean rooms  
+   **Contrary**: No evident not clean"
+275,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports**:
+  - clean
+  - comfortable
+
+- **Contraries**:
+  - no evident not clean
+  - no evident not comfortable"
+276,bad_room,"Here is the structured ABA format based on the given conditions:
+
+- Supports:
+  - locks
+  - on
+  - windows
+  - didn’t seem secure
+
+- Contraries:
+  - have evident locks
+  - have evident on
+  - have evident windows
+  - have evident didn’t seem secure"
+277,bad_room,"Here is the structured ABA format based on the provided conditions:
+
+**Supports:**
+1. wanted shampoo
+2. wanted body soap
+3. wanted hair conditioner
+
+**Contraries:**
+1. have evident wanted shampoo
+2. have evident wanted body soap
+3. have evident wanted hair conditioner"
+279,good_room,"Here is the structured ABA format based on the given text:
+
+- **Support:** bed linens were wonderful  
+  **Contrary:** No evident not wonderful  
+
+- **Support:** mattress was neither too hard nor soft  
+  **Contrary:** No evident not neither too hard nor soft"
+280,good_room,"1. Smart rooms  
+   No evident not smart rooms  
+
+2. Modern rooms  
+   No evident not modern rooms  
+
+3. Family feel  
+   No evident not family feel  
+
+4. Friendly  
+   No evident not friendly  
+
+5. Bonus  
+   No evident not bonus  
+
+6. Lots of space  
+   No evident not lots of space"
+283,good_room,"Here is the text in Assumption-Based Argumentation (ABA) format based on your requirements:
+
+1. **Support**: clean  
+   **Contrary**: no evident not clean  
+
+2. **Support**: modern  
+   **Contrary**: no evident not modern"
+284,bad_room,"Here is the ABA-style argument formatted according to your instructions:
+
+**Supports:**
+- bad_room
+  - have evident bad_room
+    - lack of light
+      - have evident lack of light
+        - poor lighting conditions
+          - have evident poor lighting conditions
+            - insufficient natural illumination
+              - have evident insufficient natural illumination
+                - inadequate artificial lighting
+                  - have evident inadequate artificial lighting
+- bad_room
+  - have evident bad_room
+    - poor ventilation
+      - have evident poor ventilation
+        - lack of airflow
+          - have evident lack of airflow
+            - insufficient air circulation
+              - have evident insufficient air circulation
+                - inadequate cooling or heating systems
+                  - have evident inadequate cooling or heating systems
+
+Each support is followed by a contrary that begins with ""have evident"" and uses the same word as the support. This ensures clarity, conciseness, and adherence to your specified conditions."
+284,good_room,"1. **Support**: provided everything needed  
+   **Contrary**: no evident not provided everything needed  
+
+2. **Support**: even a bottle of water in the room!  
+   **Contrary**: no evident not even a bottle of water in the room!"
+285,bad_room,"Here is the structured ABA format based on the given conditions:
+
+1. hot water  
+2. takes too long  
+3. room  
+
+4. have evident flow in hot water  
+5. have evident taking too long is not the case  
+6. have evident issues in the room"
+287,bad_room,"Here is the structured ABA format based on the given text:
+
+1. Some smell from bathroom.
+2. have evident some smell from bathroom.
+3. Some smell from water.
+4. have evident some smell from water.
+
+This format adheres to all specified conditions, ensuring each support is followed by its respective contrary statement without any additional assumptions or claims."
+287,good_room,"Here is the structured ABA format based on your requirements:
+
+- **good_room**
+  - **very clean**  
+    - **no evident not very clean**
+  - **nice bed and linen**  
+    - **no evident not nice bed and linen**
+
+This format adheres to all specified conditions, ensuring clarity and conciseness with exact vocabulary from the original text."
+289,bad_room,"Here is the structured ABA format based on your requirements:
+
+- **Support 1:** The room does not maintain noise insulation.
+- **Contrary 1:** Have evident this is typical in the area."
+290,good_room,"1. The room was good. No evident not good.  
+2. The location was excellent value for money. No evident not excellent value for money.  
+3. I was upgraded a room free of charge. No evident not free of charge.  
+4. The balcony view was lovely. No evident not lovely."
+291,good_room,"1. Clean cozy  
+   No evident not clean  
+2. Cozy  
+   No evident not cozy"
+292,bad_room,"- **Supports:**
+  - Smart television
+  - did not work
+
+- **Contraries:**
+  - have evident Smart television
+  - have evident did not work"
+294,good_room,"- Clean  
+  No evident not clean  
+
+- Basic  
+  No evident not basic"
+295,good_room,"Here is the structured ABA format based on the provided text:
+
+- **Supports:**
+  - new
+  - well furnished
+  - comfortable
+  - cleaned every day
+  - wifi is strong all the time
+
+- **Contraries:**
+  - No evident not new
+  - No evident not well furnished
+  - No evident not comfortable
+  - No evident not cleaned every day
+  - No evident not wifi is strong all the time"
+296,bad_room,"ABA Format Text:
+
+Supports:
+1. Fix
+2. Problem
+
+Contraries:
+- Have evident Fix
+- Have evident Problem"
+297,good_room,"- Supports:
+  - refurbished
+  - clean
+  
+- Contraries:
+  - No evident not refurbished
+  - No evident not clean"
+298,good_room,"1. **Claim:** good_room  
+   - **Support 1:** big room  
+     - **Contrary 1:** No evident not big  
+   - **Support 2:** good clean  
+     - **Contrary 2:** No evident not good clean  
+   - **Support 3:** comfortable bed  
+     - **Contrary 3:** No evident not comfortable  
+
+This structure ensures each point is addressed with its respective support and contrary, adhering to the specified conditions."
+299,good_room,"Here is the structured ABA format based on the provided text:
+
+- **Supports:**
+  - newly renovated
+  - fully functional
+  - comfortable
+  - clean
+
+- **Contraries:**
+  - no evident not newly renovated
+  - no evident not fully functional
+  - no evident not comfortable
+  - no evident not clean
+
+This format ensures each support is paired with its contrary, using the exact vocabulary from the original text and adhering to all specified conditions."
+300,good_room,"Here is the structured ABA format based on the given text:
+
+1. Clean  
+   No evident not clean  
+
+2. Spacious  
+   No evident not spacious  
+
+3. Rich  
+   No evident not rich  
+
+4. Priced  
+   No evident not priced"
+302,good_room,"Here is the generated text in ABA format based on your conditions:
+
+- **Support**: clean  
+  - **Contrary**: no evident not clean"
+304,good_room,"Here is the structured ABA format based on your requirements:
+
+1. **Supports:**
+   - Clean room
+   - Bed sheets are super clean
+   - Toilet is super clean
+   - Comfortable bed
+
+2. **Contraries:**
+   - No evident not clean (Clean room)
+   - No evident not clean (Bed sheets are super clean)
+   - No evident not clean (Toilet is super clean)
+   - No evident not comfortable (Comfortable bed)"
+310,good_room,"- Support: clean  
+  Contrary: no evident not clean"
+311,good_room,"Here is the structured ABA format based on your requirements:
+
+- Clean
+  - No evident not clean
+- Nice
+  - No evident not nice
+- Freshly
+  - No evident not freshly
+- Decorated
+  - No evident not decorated"
+312,bad_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - bad smell
+  - bad plumbing
+
+- **Contraries:**
+  - have evident bad smell
+  - have evident bad plumbing"
+315,good_room,"Here is the structured ABA format based on the provided text and conditions:
+
+1. **Supports:**
+   - was clean
+   - No evident not clean
+
+This format adheres to the user's instructions by providing each support followed by its corresponding contrary, ensuring clarity and conciseness without unnecessary adjectives or adverbs."
+316,good_room,"- Support: nice addition  
+  Contrary: no evident not nice addition  
+
+- Support: very clean and tidy room  
+  Contrary: no evident not very clean and tidy room"
+318,bad_room,"1. Safety box wasn’t working.  
+   - Support: safety box wasn’t working.  
+   - Contrary: have evident that safety box was functional if refurbishment were complete.
+
+2. Could do with one more double hook in bathroom for towels.  
+   - Support: need additional double hook in bathroom.  
+   - Contrary: have evident that there wasn't a need for an additional double hook."
+319,bad_room,"1. **Supports:**
+   - very clean
+   - a bit small
+
+2. **Contraries:**
+   - have not enough cleanliness
+   - have not much space"
+319,good_room,"1. very clean  
+2. a bit small  
+3. the bathroom was spacious  
+4. the bed was comfortable  
+
+1. No evident not clean  
+2. No evident not small  
+3. No evident not spacious  
+4. No evident not comfortable"
+321,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - Well-organized
+  - Clean
+
+- **Contraries:**
+  - No evident not organized
+  - No evident not clean"
+323,bad_room,"- Supports:
+  - small
+  - bad
+
+- Contraries:
+  - Have evident: The rooms are not sufficiently small.
+  - Have evident: The rooms are not bad."
+323,good_room,"1. **Support**: clean  
+   - **Contrary**: no evident not clean  
+
+2. **Support**: modern  
+   - **Contrary**: no evident not modern  
+
+3. **Support**: comfortable  
+   - **Contrary**: no evident not comfortable  
+
+4. **Support**: nice  
+   - **Contrary**: no evident not nice  
+
+5. **Support**: fridge  
+   - **Contrary**: no evident not fridge  
+
+6. **Support**: coffee making  
+   - **Contrary**: no evident not coffee making  
+
+7. **Support**: AC  
+   - **Contrary**: no evident not AC  
+
+8. **Support**: spotless  
+   - **Contrary**: no evident not spotless  
+
+9. **Support**: comfortable  
+   - **Contrary**: no evident not comfortable  
+
+10. **Support**: nice balcony  
+    - **Contrary**: no evident not nice balcony"
+324,bad_room,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  - noise
+  - hallway
+  - very loud
+  - doors
+  - not soundproofed
+  - couldn't sleep
+  - 11, 12 AM
+
+- **Contraries:**
+  - have evident noise from hallway was very loud because doors are not soundproofed and we couldn't sleep around 11 or 12 AM.
+  - have evident hallway had a lot of noise due to doors not being soundproofed which made it hard to sleep at 11, 12 AM.
+  - have evident very loud noise from the hallway was an issue because doors weren't soundproofed making it difficult to sleep around midnight.
+  - have evident doors were not soundproofed so there was a lot of noise in the hallway which affected our ability to sleep at 11 or 12 AM.
+  - have evident couldn't sleep due to noise from the hallway caused by doors that weren't soundproofed and it happened around 11, 12 AM.
+  - have evident noise from the hallway was too much because doors weren't soundproofed making it hard to sleep at 11 or 12 AM.
+
+This format ensures each support is paired with a contrary starting appropriately, all using exact vocabulary without additional descriptors."
+324,good_room,"1. excellent  
+   No evident not excellent  
+
+2. very clean  
+   No evident not very clean  
+
+3. fairly new  
+   No evident not fairly new"
+325,good_room,"- **Support**: clean  
+  - **Contrary**: no evident not clean"
+326,good_room,"Here is the structured ABA format based on the given text:
+
+- Clean  
+  no evident not clean  
+
+- Renovated  
+  no evident not renovated"
+328,bad_room,"1. Crowded  
+   - have evident crowded  
+
+2. Evident odor of sewage  
+   - have evident evidnet odor of sewage"
+328,good_room,"Here is the structured ABA format based on your requirements:
+
+- Everything clean  
+  - No evident not everything clean  
+
+- Bed comfortable  
+  - No evident not bed comfortable  
+
+- Bathroom spacious  
+  - No evident not bathroom spacious"
+331,good_room,"**ABA Format Response:**
+
+- **Claim:** good_room
+- **Supports:** [clean, fresh, nice, peaceful]
+- **Contraries:** [no evident not clean, no evident not fresh, no evident not nice, no evident not peaceful]"
+332,bad_room,"1. bad_room  
+   supports: ""bad"" ""not great""  
+   contraries: have evident ""good""  
+   
+2. bad_room  
+   supports: ""wifi"" ""strong wifi""  
+   contraries: have evident ""weak wifi"""
+332,good_room,"1. Clean  
+   - No evident not clean  
+
+2. Comfortable  
+   - No evident not comfortable"
+333,bad_room,"**ABA Format for ""bad_room"":**
+
+- **Supports:**
+  - size
+  - room
+  - small
+
+- **Contraries:**
+  - Have evident size
+  - Have evident room
+  - Have evident small"
+334,good_room,"1. Clean  
+2. Hygiene  
+3. No evident not clean  
+4. No evident not hygiene"
+335,good_room,"Here is the text in ABA format based on your conditions:
+
+- Supports:
+  - modern
+  - clean
+  - friendly
+
+- Contraries:
+  - No evident not modern
+  - No evident not clean
+  - No evident not friendly"
+336,good_room,"1. Tasteful  
+   - No evident not tasteful  
+
+2. Comfortable  
+   - No evident not comfortable"
+338,bad_room,"Here is the structured ABA format based on the given conditions:
+
+- **Supports**:
+  - With locked windows
+  - With locked balcony doors
+
+- **Contraries**:
+  - have evident that with locked windows there is still noise
+  - have evident that with locked balcony doors there is still noise"
+338,good_room,"Here is the structured ABA format based on the given text:
+
+1. **Support 1**: fully stocked  
+   - **Contrary 1**: No evident not fully stocked.
+
+2. **Support 2**: coffee and tea-making facilities  
+   - **Contrary 2**: No evident not coffee and tea-making facilities.
+
+This presentation adheres to all specified conditions, ensuring clarity, conciseness, and logical structure without any additional explanations or formatting beyond the required list."
+339,good_room,"1. Clean rooms  
+   No evident not clean rooms  
+
+2. Strong wi-fi at any time  
+   No evident not strong wi-fi at any time"
+340,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - room
+  - balcony
+
+- **Contraries:**
+  - No evident not room
+  - No evident not balcony"
+344,good_room,"- Claim: good_room  
+  Supports:  
+    - comfortable  
+      Contrary: no evident not comfortable  
+    - clean  
+      Contrary: no evident not clean"
+345,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - modern
+  - clean
+
+- **Contraries:**
+  - No evident not modern
+  - No evident not clean"
+346,good_room,"1. No mess  
+   - Contrary: no evident not mess  
+
+This response adheres to the specified conditions by providing a single support (""no mess"") with its corresponding contrary, formatted correctly within a list structure."
+347,bad_room,"1. Clean: bad_room  
+   Have evident clean.  
+
+2. Compact: bad_room  
+   Have evident compact."
+347,good_room,"1. Clean  
+   No evident not clean  
+
+2. Everything needed  
+   No evident not everything needed"
+349,bad_room,"1. Slight smell in the toilet after night. Have evident slight smell in the toilet after night.
+2. Smell in the toilet after night. Have evident smell in the toilet after night."
+349,good_room,"- Support: room  
+  Contrary: no evident not room  
+
+- Support: bed  
+  Contrary: no evident not bed"
+350,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - nice
+  - clean
+  - comfortable
+  - bed
+
+- **Contraries:**
+  - no evident not nice
+  - no evident not clean
+  - no evident not comfortable
+  - no evident not bed"
+351,good_room,"Here is the structured ABA format based on the provided text:
+
+- **Supports:**
+  - Clean room
+  - Modern room
+  - Comfortable bed
+  - Great air conditioning
+
+- **Contraries:**
+  - no evident not clean room
+  - no evident not modern room
+  - no evident not comfortable bed
+  - no evident not great air conditioning"
+352,good_room,"Here is the text in ABA format based on your conditions:
+
+- **Supports:**
+  - clean
+  - beds
+
+- **Contraries:**
+  - No evident not clean
+  - No evident not beds"
+353,bad_room,"Here is the structured ABA format based on your requirements:
+
+1. **Supports**:
+   - Weak WiFi can cause bad rooms.
+   - People often spend more time in these areas.
+   - They need internet access for various activities.
+
+2. **Contraries** (each support has a contrary):
+   - have evident Weak WiFi can cause bad rooms.
+   - have evident People often spend more time in these areas.
+   - have evident They need internet access for various activities.
+
+This format adheres to your instructions by providing the claim, short and direct supports, their respective contraries starting with ""have evident,"" and no additional assumptions or claims."
+353,good_room,"- Claim: good_room  
+  - Supports:
+    - clean room
+    - comfortable room
+    - balcony
+  - Contraries:
+    - no evident not clean room
+    - no evident not comfortable room
+    - no evident not balcony"
+354,good_room,"**ABA Format Response**
+
+- **Supports:**  
+  - Clean  
+  - Home experience  
+
+- **Contraries:**  
+  - No evident not clean  
+  - No evident not home experience"
+356,good_room,- Clean; no evident not clean
+362,good_room,"1. Support 1: has a balcony  
+2. Support 2: overlooking Makenzy and Salt Lake  
+3. Contrary 1: no evident not has a balcony  
+4. Contrary 2: no evident not overlooking Makenzy and Salt Lake"
+367,good_room,"- nice room  
+  no evident not nice room  
+
+- comfortable beds  
+  no evident not comfortable beds  
+
+- nice bathroom  
+  no evident not nice bathroom"
+368,good_room,"1. No mess  
+   - Contrary: no evident not mess  
+
+This response adheres to the specified conditions by providing a single support (""no mess"") with its corresponding contrary, formatted correctly within a list structure."
+369,bad_room,"- Claim: bad_room
+  - Supports:
+    - bathroom floor sink was closed with tapes
+      - have evident bathroom floor sink not being closed with tapes
+    - there were bugs under it
+      - have evident there not being bugs under it"
+370,good_room,"1. Clean  
+2. Renovated  
+3. Run  
+
+4. No evident not clean  
+5. No evident not renovated  
+6. No evident not run"
+372,bad_room,"Here is the ABA formatted text based on your requirements:
+
+- **Support**: only 3 channels  
+  - **Contrary**: have evident only 3 channels  
+
+- **Support**: unmentioned variety or diversity  
+  - **Contrary**: have evident unmentioned variety or diversity"
+374,good_room,"1. **Supports**:  
+   - large  
+   - clean  
+   - modern  
+   - comfy  
+
+2. **Contraries**:  
+   - No evident not large  
+   - No evident not clean  
+   - No evident not modern  
+   - No evident not comfy"
+375,good_room,"- Claim: good_room  
+  Supports:  
+    - stylish  
+      Contrary: No evident not stylish.  
+    - very comfortable  
+      Contrary: No evident not very comfortable."
+377,good_room,"- Rooms  
+  No evident not rooms  
+
+- Clean  
+  No evident not clean"
+378,good_room,"1. Clean  
+   No evident not clean  
+
+2. Comfortable  
+   No evident not comfortable"
+379,good_room,"1. Clean  
+   No evident not clean  
+
+2. Rooms  
+   No evident not rooms  
+
+3. Comfortable  
+   No evident not comfortable  
+
+4. Beds  
+   No evident not beds"
+380,good_room,"- Spacy  
+  No evident not spacy  
+
+- Quiet  
+  No evident not quiet  
+
+- Tidy  
+  No evident not tidy  
+
+- Modern  
+  No evident not modern"
+382,good_room,"Supports:
+- clean
+
+Contraries:
+- no evident not clean"
+384,good_room,"Here is the text generated in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- Supports:  
+  - new  
+  - clean  
+
+- Contraries:  
+  - no evident not new  
+  - no evident not clean"
+386,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - completely renovated
+  - stunning
+  - air conditioning systems
+  - chilled
+
+- **Contraries:**
+  - no evident not completely renovated
+  - no evident not stunning
+  - no evident not air conditioning systems
+  - no evident not chilled"
+388,good_room,"1. Clean  
+   No evident not clean  
+
+2. Quite  
+   No evident not quite"
+391,good_room,"Here is the structured ABA format based on the given text:
+
+- **Supports**:
+  - Good rooms are nice
+  - Good rooms are clean
+
+- **Contraries**:
+  - No evident not nice
+  - No evident not clean"
+392,good_room,"ABA Format:
+
+1. **Support**: excellent  
+   **Contrary**: No evident not excellent.
+
+2. **Support**: rooms  
+   **Contrary**: No evident not rooms."
+393,good_room,"Here is the generated ABA text based on your conditions:
+
+- Clean  
+  No evident not clean.
+
+- Modern  
+  No evident not modern."
+394,good_room,"1. Clean rooms  
+   No evident not clean rooms  
+
+2. Good quality bed linen and towels  
+   No evident not good quality bed linen and towels  
+
+3. A/C  
+   No evident not A/C  
+
+4. Flat screen tv  
+   No evident not flat screen tv"
+396,good_room,"1. Clean rooms  
+   No evident not clean  
+
+2. Renovated rooms  
+   No evident not renovated"
+398,bad_room,"Here is the structured ABA format based on the given conditions:
+
+1. **Support:** Netflix  
+   - **Contrary:** Have evident Netflix  
+
+2. **Support:** Unexpected surprise  
+   - **Contrary:** Have evident unexpected surprise  
+
+3. **Support:** Difficult to sign back out of account  
+   - **Contrary:** Have evident difficult to sign back out of account  
+
+4. **Support:** No views  
+   - **Contrary:** Have evident no views  
+
+5. **Support:** Small room (specifically small)  
+   - **Contrary:** Have evident small room (specifically small)"
+398,good_room,"1. Clean  
+   No evident not clean  
+
+2. Modern  
+   No evident not modern  
+
+3. Unexpected surprise  
+   No evident not a surprise"
+399,good_room,"ABA Format:
+
+Supports:
+- clean
+- ready
+- time
+- check_in
+
+Contraries:
+- no_evident_not_clean
+- no_evident_not_ready
+- no_evident_not_time
+- no_evident_not_check_in"
+400,bad_room,"1. **Support**: no clothes dryer  
+   **Contrary**: have evident that having dryers is essential for comfort  
+
+2. **Support**: only one bottle of water  
+   **Contrary**: have evident that having sufficient water is crucial for a comfortable stay"
+401,good_room,"1. Good room (claim)
+   - Fresh
+     - No evident not fresh
+   - Clean
+     - No evident not clean"
+402,good_room,"Here is the structured ABA format based on the given text:
+
+- Clean
+  - No evident not clean
+- Spacious
+  - No evident not spacious"
+404,bad_room,"1. Small
+2. Rooms
+3. Have evident small
+4. Have evident rooms"
+405,good_room,"- The rooms  
+  No evident not The rooms  
+
+- very good bedding  
+  No evident not very good bedding"
+406,bad_room,"Here is the structured ABA format based on the given conditions:
+
+1. **Support**: Lock on the balcony's door was broken.
+   - **Contrary**: Have evident lock on the balcony's door wasn't broken (they said they repaired it but when asked, it wasn't done).
+
+2. **Support**: The lock wasn't closing as it should because of a crack in the wall.
+   - **Contrary**: Have evident lock wasn't closing properly due to no crack.
+
+3. **Support**: Noise from street entered through the crack.
+   - **Contrary**: Have evident noise didn't enter because there was no crack (this might not be accurate, so adjust as needed).
+
+4. **Support**: Almost broke shower door because opening it touched toilet.
+   - **Contrary**: Have evident shower door wasn't broken as opening it didn't touch the toilet.
+
+This structure ensures each support is followed by a contrary statement starting with ""have evident,"" using exact vocabulary from the original text without adding synonyms or unnecessary adjectives."
+406,good_room,"1. **Supports**:  
+   - modern  
+   - clean  
+   - good bed linen  
+   - furniture  
+
+2. **Contraries**:  
+   - No evident not modern  
+   - No evident not clean  
+   - No evident not good bed linen  
+   - No evident not furniture"
+407,good_room,"Here is the text generated in Assumption Based Argumentation (ABA) format based on your conditions:
+
+- **Claim**: good_room  
+- **Supports**:  
+  - nice  
+  - modern  
+  - bedroom  
+- **Contraries**:  
+  - No evident not nice  
+  - No evident not modern  
+  - No evident not bedroom"
+409,good_room,"1. high standard  
+   No evident not high standard  
+
+2. clean  
+   No evident not clean"
+410,bad_room,"**ABA Format:**
+
+1. **Supports:**
+   - The room lacked a bar for hanging clothes.
+
+2. **Contraries:**
+   - have evident that lack of a bar is not an issue.
+   - have evident that having a bar isn't necessary.
+
+This structure ensures each support is addressed with its respective contraries, maintaining clarity and adherence to the specified conditions."
+410,good_room,"Here is the structured ABA format based on your text:
+
+**Supports:**
+1. Clean
+2. Modern
+3. Amazing
+4. Nice addition
+5. Comfortable bed
+6. Great bedding
+7. Reasonably priced
+8. Well stocked
+9. Perfect AC
+10. Good Wi-Fi
+
+**Contraries:**
+1. No evident not clean
+2. No evident not modern
+3. No evident not amazing
+4. No evident not nice addition
+5. No evident not comfortable bed
+6. No evident not great bedding
+7. No evident not reasonably priced
+8. No evident not well stocked
+9. No evident not perfect AC
+10. No evident not good Wi-Fi"
+412,good_room,"- Superbly refurbished  
+  No evident not superbly refurbished.  
+
+- High-tech displays  
+  No evident not high-tech displays.  
+
+- Clean/DnD outside  
+  No evident not clean/DnD outside."
+414,good_room,"Here is the text in ABA format based on your conditions:
+
+- Clean  
+  No evident not clean  
+
+- Modern  
+  No evident not modern"
+415,good_room,"1. Clean  
+   - No evident not clean"
+417,good_room,"1. Clean rooms  
+2. Fresh rooms  
+3. All you need  
+
+1. No evident not clean rooms  
+2. No evident not fresh rooms  
+3. No evident not all you need"
+418,bad_room,"Here is the generated text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+**Supports:**
+1. bottle empty
+2. aircon had just one uncontrolled speed
+3. no adapters for cy sockets
+4. blanket was too warm
+
+**Contraries:**
+1. have evident that the bottle is not empty
+2. have evident that aircon has controlled speeds
+3. have evident that there are adapters available
+4. have evident that the blanket is comfortable"
+419,good_room,"- Claim: good_room
+  - Support: comfortable
+    - Contrary: no evident not comfortable"
+422,good_room,"Here is the structured ABA format based on your requirements:
+
+1. **Supports:**
+   - The room is completely new.
+   - The room is very clean.
+   - The mini bar was really well equipped.
+   - The mini bar was very cheap.
+
+2. **Contraries:**
+   - No evident not completely new.
+   - No evident not very clean.
+   - No evident not really well equipped.
+   - No evident not very cheap.
+
+This format ensures that each support is paired with its contrary, using the exact wording from the original text without adding any additional information or opinions."
+423,good_room,"1. Clean  
+   No evident not clean  
+
+2. Comfortable  
+   No evident not comfortable  
+
+3. Variety of snacks  
+   No evident not variety of snacks  
+
+4. Affordable price  
+   No evident not affordable price"
+424,good_room,"1. Sufficient space.  
+   No evident not sufficient space.  
+
+2. Can fit a family of five.  
+   No evident can fit a family of five."
+425,good_room,"Supports and Contraries:
+
+1. Room sizes
+   - No evident not room sizes.
+
+2. Excellent
+   - No evident not excellent."
+426,good_room,"1. bed
+2. duvet and pillows
+3. shower
+4. No evident not bed
+5. No evident not duvet and pillows
+6. No evident not shower"
+427,good_room,"- Spotlessly  
+  - no evident not spotlessly  
+- Clean  
+  - no evident not clean"
+428,bad_room,"**ABA Format for ""bad_room"" Claim**
+
+- **Supports:**
+  - Not enough pillows cause discomfort.
+  - Lack of pillows affects sleep quality.
+
+- **Contraries:**
+  - Have evident not enough pillows do not cause discomfort.
+  - Have evident lack of pillows do not affect sleep quality."
+428,good_room,"Here is the text in Assumption Based Argumentation (ABA) format based on your conditions:
+
+**Supports:**  
+1. very  
+2. clean  
+
+**Contraries:**  
+1. No evident not very  
+2. No evident not clean"
+429,bad_room,"1. Bad_room  
+   - have soft  
+     - have not soft  
+   - have uncomfortable  
+     - have comfortable"
+430,bad_room,"- **Support**: Windows should be closed  
+  - **Contrary**: have evident that windows being open cause bad_room  
+
+This response adheres to the specified conditions by using short words without adjectives or adverbs for clarity, providing each support with a corresponding contrary starting with ""have evident,"" and ensuring all terms are consistent with the original text."
+431,good_room,"Here is the structured ABA format based on the given conditions:
+
+- **Supports:**
+  - large
+  - balcony
+
+- **Contraries:**
+  - No evident not large
+  - No evident not having a balcony"
+432,good_room,"1. Clean  
+   No evident not clean  
+
+3. Comfortable  
+   No evident not comfortable  
+
+5. Cute  
+   No evident not cute"
+433,bad_room,"Here is the structured ABA format based on the given text:
+
+1. **Supports:**
+   - bad placement
+   - bad edges
+   - bad bin
+   - bad mirror
+   - bad curtains
+
+2. **Contraries:**
+   - have evident bad placement
+   - have evident bad edges
+   - have evident bad bin
+   - have evident bad mirror
+   - have evident bad curtains
+
+Each support is paired with a contrary that starts with ""have evident,"" ensuring clarity and adherence to the conditions provided. The vocabulary used matches exactly from the original text without introducing any synonyms or unnecessary adjectives/adverbs."
+433,good_room,"1. Support: liked the size  
+2. Support: liked the bed  
+3. Counterpart: No evident not liked the size  
+4. Counterpart: No evident not liked the bed"
+434,bad_room,"1. Some → have evident some
+2. Unpleasant → have evident unpleasant
+3. Smell → have evident smell"
+436,bad_room,"**Assumption Based Argumentation (ABA) Format:**
+
+**Claim:** bad_room
+
+**Supports and Contraries:**
+
+1. **Room is small.**
+   - **Contrary:** Room is not small.
+
+2. **No space for a suitcase.**
+   - **Contrary:** There is space for a suitcase.
+
+3. **No wardrobe space.**
+   - **Contrary:** There is space for a wardrobe.
+
+4. **No sitting area.**
+   - **Contrary:** There is a sitting area.
+
+5. **Terrace is hit by Sun all the time.**
+   - **Contrary:** Terrace is not exposed to direct sunlight.
+
+This structured format ensures each point from the original text is addressed with its corresponding contrary, maintaining clarity and adherence to the given conditions."
+436,good_room,"- Claim: good_room
+- Support 1: The room was clean.
+- Contrary 1: No evident not the room was clean."
+437,bad_room,"Supports:
+- Rooms
+- Small
+- Suite
+
+Contraries:
+Have evident rooms.
+Have evident small.
+Have evident suite."
+437,good_room,"1. Clean  
+   No evident not clean.
+
+2. Comfortable  
+   No evident not comfortable."
+438,bad_room,"1. Bad heating: The duvet was for the winter and even with 23 degrees Celsius on the a/c it was unbearable!  
+   - Contrary: Have evident bad heating.
+
+2. Uncomfortable: The duvet was for the winter and even with 23 degrees Celsius on the a/c it was unbearable!  
+   - Contrary: Have evident uncomfortable.
+
+3. Noisy windows: We could not open the windows because it was very very noisy.  
+   - Contrary: Have evident noisy windows.
+
+4. Unusable electrical appliances: The room had a hair dryer and a kettle that we could not use because the plugs did not fit the sockets...So no use of that service in the room either!  
+   - Contrary: Have evident unusable electrical appliances.
+
+5. No adapters: The room had a hair dryer and a kettle that we could not use because the plugs did not fit the sockets...So no use of that service in the room either!  
+   - Contrary: Have evident no adapters."
+438,good_room,"Here is the structured ABA format based on your requirements:
+
+**Supports:**
+1. spacious
+2. clean
+
+**Contraries:**
+1. No evident not spacious
+2. No evident not clean"
+439,bad_room,"[bad_room]
+[supports]
+small
+have evident large
+[/supports]"
+440,bad_room,"1. **Argument**: bad_room  
+2. **Supports and Contraries**:  
+   - Support: cleaned  
+     Contrary: have evident that the room was not properly cleaned  
+   - Support: superficially  
+     Contrary: have evident that the cleaning was not thorough  
+   - Support: medium nice  
+     Contrary: have evident that the room did not achieve its intended state  
+   - Support: hair not being removed  
+     Contrary: have evident that the cleaning effort was incomplete"
+440,good_room,"1. Claim: good_room
+   - Support 1: very
+     - Counterargument: no evident not very
+   - Support 2: modern
+     - Counterargument: no evident not modern"
+441,bad_room,"Here is the structured ABA format based on your requirements:
+
+1. **Support**: cold floor  
+2. **Contrary**: have evident cold floor"
+441,good_room,"1. The room was PERFECT.
+2. No evident not perfect."
+442,bad_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - The room is cold.
+  
+- **Contraries:**
+  - The room has evident coldness.
+
+This format adheres to the guidelines of using short, direct statements without adjectives or unnecessary words, and each contrary starts with ""have evident."""
+443,good_room,"- **Support**: clean room  
+  **Contrary**: no evident not clean room  
+
+This response adheres to the specified ABA format requirements, ensuring clarity and conciseness while accurately reflecting the original text's intent."
+444,good_room,"Here is the structured ABA format based on the given text:
+
+**Supports:**
+- nice
+- clean
+
+**Contraries:**
+- no evident not nice
+- no evident not clean"
+447,bad_room,"A1. bad_room: Uncomfortable bed and pillows  
+A2. bad_room: Television not working  
+
+Contrary: Have evident bed and pillows are comfortable  
+Contrary: Have evident television is working"
+448,bad_room,"1. Support: lack of complimentary coffee/tea refill  
+   Contrary: have evident lack of complimentary coffee/tea refill  
+
+2. Support: lack of fridge contents refill  
+   Contrary: have evident lack of fridge contents refill  
+
+3. Support: lack of thin curtains allowing light  
+   Contrary: have evident lack of thin curtains allowing light"
+448,good_room,"1. clean room  
+2. comfortable bed  
+3. no evident not clean room  
+4. no evident not comfortable bed"
+450,good_room,"1. Clean  
+   No evident not clean  
+
+2. Well-maintained furniture  
+   No evident not well-maintained furniture"
+451,bad_room,"ABA Format:
+
+1. UnUnfortunately Situated
+   - have evident bad_room because of being situated on outside bar area.
+2. Pillow Is Not Comfortable
+   - have evident bad_room because pillows are uncomfortable.
+3. Shower Is Open
+   - have evident bad_room due to shower being open.
+4. Floor Is Wet
+   - have evident bad_room as floor is wet.
+
+This format ensures each support is clearly listed with its corresponding contrary, maintaining clarity and adherence to the specified conditions."
+453,bad_room,"1. Back door balcony wouldn’t lock (electronic).  
+   Have evident back door balcony wouldn’t lock (electronic).  
+
+2. Balcony in other bedroom wouldn’t lock (electronic).  
+   Have evident balcony in other bedroom wouldn’t lock (electronic)."
+455,bad_room,"1. Support: aircon was too strong  
+   Contrary: have evident aircon wasn't too strong  
+
+2. Support: noisy (I’ve asked quiet room)  
+   Contrary: have evident noisy (I’ve asked quiet room)"
+455,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - clean
+  - pictures are accurate
+
+- **Contraries:**
+  - No evident not clean
+  - No evident not pictures are accurate"
+456,bad_room,"1. **Support**: The bathroom and shower glass door inside get messy.  
+   **Contrary**: Have evident the bathroom and shower glass door inside do not get messy.  
+
+2. **Support**: It gets messy.  
+   **Contrary**: Have evident it does not get messy."
+456,good_room,"Here is the structured ABA format based on the given text:
+
+**Supports:**
+1. Rooms exist.
+2. Rooms are well maintained.
+
+**Contraries:**
+1. No evident not rooms exist.
+2. No evident not rooms are well maintained."
+457,bad_room,"- furnished  
+  have evident bad_room"
+458,bad_room,"Here is the text generated in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Support:** Noisy  
+   **Contrary:** There is evidence of renovation work in progress.
+
+2. **Support:** rod  
+   **Contrary:** There is evident evidence of a missing rod for hangers due to renovation work.
+
+3. **Support:** hangers  
+   **Contrary:** There is evident evidence of a missing hanger due to renovation work.
+
+4. **Support:** safe  
+   **Contrary:** There is evident evidence of a safe not being fixed due to renovation work."
+459,bad_room,"Here is the structured ABA format based on the given text:
+
+- **Support**: no  
+  **Contrary**: have evident no"
+459,good_room,"Supports:
+1. comfortable
+2. bed
+3. room
+4. new
+
+Contraries:
+1. no evident not comfortable
+2. no evident not bed
+3. no evident not room
+4. no evident not new"
+460,bad_room,"1. No cleaning service the 4 days I stayed  
+2. No emptying garbage can  
+3. Had to ask for fresh towels  
+4. Have evident no cleaning service  
+5. Have evident no emptying garbage can  
+6. Have evident had to ask for fresh towels"
+460,good_room,"Here is the text formatted according to your instructions:
+
+Supports:
+1. very
+2. clean
+
+Contraries:
+3. no evident not very
+4. no evident not clean"
+461,bad_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - Our plumbing had complications.
+  - Our plumbing had complications again.
+
+- **Contraries:**
+  - Have evident our plumbing had complications.
+  - Have evident our plumbing had complications again."
+462,good_room,"1. Clean  
+   No evident not clean  
+
+2. Modern  
+   No evident not modern"
+463,good_room,"1. Cleanliness  
+   - no evident not cleanliness"
+464,bad_room,"- **Supports**:  
+  - fan  
+  - bathroom  
+  - window  
+
+- **Contraries**:  
+  - have evident fan  
+  - have evident bathroom  
+  - have evident window"
+464,good_room,"- **Supports**:  
+  - nice_clean  
+  - two_beds_set_up_as_we_requested  
+
+- **Contraries**:  
+  - no evident not nice_clean  
+  - no evident not two_beds_set_up_as_we_requested"
+465,good_room,"Here is the structured ABA format based on the provided text:
+
+- **Supports:**
+  - fresh
+  - clean
+  - modern
+
+- **Contraries:**
+  - No evident not fresh
+  - No evident not clean
+  - No evident not modern
+
+Each support and its corresponding contrary are clearly listed, adhering to the specified format."
+468,good_room,"1. **Supports:**
+   - Room
+   - Nice
+   - Clean
+
+2. **Contraries:**
+   - No evident not room
+   - No evident not nice
+   - No evident not clean"
+469,good_room,"1. good_room (updated)  
+   No evident not updated  
+
+2. good_room (clean)  
+   No evident not clean"
+470,good_room,"- **Supports**: nice, clean  
+  - **Contraries**: No evident not nice, No evident not clean"
+471,good_room,"Supports:
+1. very clean
+2. modern
+3. comfortable bed
+4. good shower
+
+Contraries:
+1. No evident not very clean
+2. No evident not modern
+3. No evident not comfortable bed
+4. No evident not good shower"
+473,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Support**: nice  
+  - **Contrary**: no evident not nice  
+
+- **Support**: clean  
+  - **Contrary**: no evident not clean"
+474,good_room,"Here is the structured ABA format based on the provided text:
+
+- Clean  
+  no evident not clean  
+
+- smart devices  
+  no evident not smart devices"
+475,bad_room,"- The floor is not cleaned enough; have evident that the floor is clean.
+- full of dust; have evident that the floor is empty of dust.
+- water does not drain and floods the room; have evident that water drains properly and doesn't flood."
+476,good_room,"- **Claim**: good_room  
+  - **Supports**:  
+    - small  
+      - No evident not small  
+    - big  
+      - No evident not big"
+477,good_room,"- **Supports**: excellent, clean  
+  - **Contraries**: no evident not excellent, no evident not clean"
+478,good_room,"ABA Format:
+- Support: clean
+- Contrary: no evident not clean"
+479,good_room,"1. good_room
+2. functionally furnished
+3. no evident not functionally furnished
+4. Balcony with courtyard or street view
+5. no evident not Balcony with courtyard or street view"
+482,bad_room,"1. Support: rooms  
+   Contrary: have evident rooms"
+482,good_room,"Here is the structured ABA format for the given text about ""cleanliness"":
+
+**Supports:**
+1. Cleanliness is important.
+2. Clean rooms are comfortable.
+3. Clean rooms reduce dust.
+4. Clean rooms prevent bacteria growth.
+5. Clean rooms enhance well-being.
+
+**Contraries:**
+1. No evident not cleanliness is important.
+2. No evident not clean rooms are comfortable.
+3. No evident not clean rooms reduce dust.
+4. No evident not clean rooms prevent bacteria growth.
+5. No evident not clean rooms enhance well-being.
+
+This format ensures each point about cleanliness has a corresponding contrary, maintaining clarity and logical structure without including assumptions or claims beyond the specified points."
+483,bad_room,"1. bad_room
+   - noise
+     - have evident noise
+   - problems
+     - have evident problems
+   - sealing
+     - have evident sealing
+   - closing
+     - have evident closing"
+484,bad_room,"Here is the structured ABA format based on the provided text:
+
+1. **Assumption 1**: The room's size is considered inadequate.
+   - **Support 1**: Room a bit small
+   - **Contrary 1**: Have evident that room's size is considered adequate.
+
+2. **Assumption 2**: The room has limited space for activities.
+   - **Support 2**: Room a bit small
+   - **Contrary 2**: Have evident that the room has ample space.
+
+This format adheres to all specified conditions, ensuring each support is paired with its contrary and using the original text's vocabulary appropriately."
+484,good_room,"- Claim: good_room
+  - Supports:
+    - nice_room
+      - No evident not nice_room
+    - very_clean
+      - No evident not very_clean"
+486,bad_room,"1. Supports:  
+   - water in the shower  
+   - lukewarm  
+
+2. Contraries:  
+   - have evident water in the shower  
+   - have evident lukewarm"
+486,good_room,"1. Clean  
+   - No evident not clean  
+
+2. Spacious  
+   - No evident not spacious"
+489,good_room,"Here is the structured ABA format based on the given text:
+
+- **good_room**
+  - nice
+    - no evident not nice
+  - comfortable
+    - no evident not comfortable"
+491,bad_room,"- noise
+  - have evident noise
+
+- rooms
+  - have evident rooms
+
+- poorly soundproofed
+  - have evident poorly soundproofed"
+491,good_room,"Here is the structured ABA format based on the given text:
+
+**Supports:**
+1. Practical rooms.
+2. Balconies.
+
+**Contraries:**
+1. No evident not practical rooms.
+2. No evident not balconies."
+492,bad_room,"**ABA Format Generation:**
+
+1. **Claim:** bad_room
+2. **Supports & Contraries:**
+   - **Support 1:** thick bed duvet  
+     **Contrary 1:** Have evident thick bed duvet.
+   - **Support 2:** suffocate underneath  
+     **Contrary 2:** Have evident suffocation under the bed.
+   - **Support 3:** hard bed  
+     **Contrary 3:** Have evident hard bed.
+   - **Support 4:** noisy room due to heavy tiling  
+     **Contrary 4:** Have evident noisy room due to heavy tiling.
+
+This structured approach ensures each support is paired with its contrary, adhering to the specified conditions and maintaining clarity and conciseness."
+493,good_room,"1. Nice  
+   - no evident not nice  
+
+2. Clean  
+   - no evident not clean  
+
+3. Neat  
+   - no evident not neat"
+497,good_room,"1. good_room
+   - spacious, No evident not spacious
+   - clean, No evident not clean"
+499,good_room,"1. Support: had everything you need  
+   Contrary: no evident not had everything you need  
+
+2. Support: had also the bathroom  
+   Contrary: no evident not had also the bathroom  
+
+3. Support: clean  
+   Contrary: no evident not clean  
+
+4. Support: cozy  
+   Contrary: no evident not cozy"
+500,bad_room,"**ABA Format Generation**
+
+- **Claim**: bad_room
+  - The upper apartment is considered bad due to noise issues.
+
+- **Supports and Contraries**:
+  - **Support**: noisy (The guests in the upper apartment didn't stop making noise at 3am.)
+    - **Contrary**: have evident noisy (Despite being in an upper apartment, there was evident noise made by the guests at 3am.)
+  
+This structure ensures that each support is concise and uses exact vocabulary from the original text, while each contrary directly addresses the same point with a negative perspective."
+501,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - simple
+  - comfortable
+  - rooms
+  - care
+
+- **Contraries:**
+  - No evident not simple
+  - No evident not comfortable
+  - No evident not rooms
+  - No evident not care"
+503,good_room,"1. Good room: The room is restful.  
+   No evident not: The room is not restful.  
+
+2. Good room: The room is pleasant.  
+   No evident not: The room is not pleasant.  
+
+3. Good room: The room is clean.  
+   No evident not: The room is not clean.  
+
+4. Good room: The room is renovated.  
+   No evident not: The room is not renovated.  
+
+5. Good room: The bed is comfortable.  
+   No evident not: The bed is not comfortable.  
+
+6. Good room: The shower is comfortable.  
+   No evident not: The shower is not comfortable."
+505,good_room,"1. Modern  
+   No evident not modern  
+
+2. furnished  
+   No evident not furnished  
+
+3. very clean  
+   No evident not very clean"
+506,good_room,"1. Cleanliness  
+   - Support: cleanliness  
+   - Contrary: no evident not clean  
+
+2. Simple  
+   - Support: simple  
+   - Contrary: no evident not simple  
+
+3. Modern  
+   - Support: modern  
+   - Contrary: no evident not modern"
+507,good_room,"Here is the structured ABA format based on the provided text and conditions:
+
+- **Supports and Contraries List**
+
+  1. **Support:** spacious  
+     **Contrary:** No evident not spacious
+  2. **Support:** above-standard  
+     **Contrary:** No evident not above-standard"
+510,bad_room,"- Third bed is too cramped
+- Minimalist accessories don't fit a baby
+- Have evident third bed isn't suitable because it's too cramped
+- Have evident minimalist accessories do not fit a baby"
+510,good_room,"Here is the structured ABA format based on the given text:
+
+- **Claim:** good_room
+  - **Supports:**
+    1. The room is clean.
+       - **Contrary:** No evident not clean → The room has dirt.
+    2. There is no dust in the room.
+       - **Contrary:** No evident not (there is no dust) → The room has dust.
+    3. Having a clean environment is good for health.
+       - **Contrary:** No evident not having a clean environment is good for health → Having a dirty environment is bad for health.
+
+This format clearly presents each support with its corresponding contrary, ensuring clarity and adherence to the specified conditions."
+512,good_room,"- Support: clean  
+  Contrary: no evident not clean"
+513,bad_room,"Here is the structured ABA format based on the given text:
+
+1. **Support**: The room was tight.
+   - **Contrary**: Have evident tightness.
+
+2. **Support**: Suitable only for one night.
+   - **Contrary**: Have evident suitability only for one night.
+
+This format adheres to all specified conditions, ensuring each support is concise and its contrary is appropriately formulated."
+514,good_room,"- **Claim**: good_room  
+  - **Support**: cleaning  
+    - **Contrary**: no evident not cleaning"
+521,bad_room,"1. **Support**: air conditioner  
+2. **Contrary**: have evident that air conditioner does not cool"
+521,good_room,"Here is the structured ABA format for your claim and supports, including their contraries:
+
+**Supports:**
+1. clean  
+2. organized  
+3. missing  
+4. balcony  
+5. mattress  
+
+**Contraries:**  
+1. no evident not clean  
+2. no evident not organized  
+3. no evident not missing  
+4. no evident not balcony  
+5. no evident not mattress"
+524,good_room,"ABA Text:
+- Cleanliness  
+  No evident not cleanliness"
+525,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - clean
+  - quiet
+  - organized
+
+- **Contraries:**
+  - No evident not clean
+  - No evident not quiet
+  - No evident not organized"
+529,bad_room,"Here is the structured ABA format based on the provided text:
+
+1. The separated rooms are soundproofed using plasterboards designed to create separation.
+2. The balcony furniture is in good condition and could be refurbished.
+3. The bathroom has a comprehensive set of shampoo and related products for pampering.
+
+Contrary statements:
+
+4. have evident: The separated rooms have evident issues despite being soundproofed using plasterboards.
+5. have evident: The balcony furniture has evident problems even though it's in good condition and could be refurbished.
+6. have evident: The bathroom has evident lack despite having a comprehensive set of shampoo and related products for pampering.
+
+This format ensures each support is followed by its corresponding contrary, all referencing the same points as per the original text."
+529,good_room,"1. **Claim**: good_room  
+2. **Supports**:
+   - Cleanliness: Good
+     - No evident not clean
+   - Towels: Good
+     - No evident not good
+   - Design: Good
+     - No evident not good
+   - Furniture: Good
+     - No evident not good"
+531,good_room,"- Clean  
+  No evident not clean  
+
+- Tidy  
+  No evident not tidy  
+
+- Comfortable  
+  No evident not comfortable  
+
+- Beautiful  
+  No evident not beautiful"
+532,good_room,"ABA Format:
+
+Supports:
+1. large
+2. very clean
+
+Contraries:
+1. no evident not large
+2. no evident not very clean"
+538,bad_room,"- **Claim**: bad_room  
+  - **Support**: small rooms may be a problem for longer stays  
+    - **Contrary**: have evident small rooms may not be suitable for longer stays"
+540,bad_room,"- **Support**: smaller  
+  - **Contrary**: have evident that the room is not spacious enough"
+540,good_room,"Here is the structured ABA argument based on the provided text:
+
+- **Support 1:** really soft bed and pillows  
+   - **Contrary:** no evident not really soft bed and pillows  
+
+- **Support 2:** large bathroom and shower  
+   - **Contrary:** no evident not large bathroom and shower  
+
+This format adheres to all specified conditions, ensuring clarity and precision in the argumentation."
+541,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - clean room
+  - good upholstery
+  - modern room
+
+- **Contraries:**
+  - No evident not clean room
+  - No evident not good upholstery
+  - No evident not modern room"
+543,good_room,"Here is the structured ABA format based on the given conditions:
+
+1. Clean → No evident not clean
+2. Modernized → No evident not modernized
+
+This list adheres to all specified requirements, ensuring each support has a corresponding contrary and that terms are directly from the original text without additional opinion or analysis."
+547,good_room,"1. bed  
+   no evident not bed  
+
+2. linen  
+   no evident not linen  
+
+3. cozy  
+   no evident not cozy"
+550,good_room,"Here is the ABA formatted text based on your requirements:
+
+- **Supports:**
+  - big
+  - clean
+  - balcony
+
+- **Contraries:**
+  - No evident not big
+  - No evident not clean
+  - No evident not balcony"
+552,good_room,"Here is the structured ABA format based on the given conditions:
+
+1. pleasant  
+   No evident not pleasant  
+
+2. clean  
+   No evident not clean  
+
+3. comfortable  
+   No evident not comfortable  
+
+4. new  
+   No evident not new  
+
+5. clean  
+   No evident not clean"
+553,good_room,"- Clean  
+  No evident not clean  
+
+- Comfortable  
+  No evident not comfortable"
+554,good_room,"- Clean  
+  No evident not clean  
+
+- Comfortable  
+  No evident not comfortable  
+
+- New  
+  No evident not new"
+555,bad_room,"Here is the structured ABA format for your text:
+
+**Supports:**
+1. Could open  
+2. Was less comfortable  
+3. Are together  
+4. Were less convenient  
+
+**Contraries:**  
+1. Have evident could not open  
+2. Have evident was more comfortable  
+3. Have evident are not together  
+4. Have evident were more convenient"
+555,good_room,"1. Clean room  
+   No evident not clean room  
+
+2. Comfortable bedding  
+   No evident not comfortable bedding"
+556,bad_room,"1. bad_room: The children's third bed was a bit problematic.  
+   - Support: problematic  
+     Contrary: have evident problematic  
+
+2. bad_room: The children's third bed was not very stable.  
+   - Support: not very stable  
+     Contrary: have evident not very stable"
+556,good_room,"1. lovely  
+2. clean  
+3. enough (for a family with 3 children)  
+4. two rooms  
+
+Contraries:  
+1. no evident not lovely  
+2. no evident not clean  
+3. no evident not enough (for a family with 3 children)  
+4. no evident not two rooms"
+557,good_room,"1. Cleanliness  
+2. Orderliness  
+3. No evident not clean  
+4. No evident not orderly"
+558,good_room,"1. Cleanliness  
+   - no evident not cleanliness"
+560,bad_room,"ABA Format:
+
+- Claim: bad_room
+  - Supports:
+    - no
+      - have evident hot water"
+561,good_room,"1. Cleanliness  
+   - no evident not cleanliness"
+562,bad_room,"1. Support: cold; Contrary: have evident not cold  
+2. Support: cold; Contrary: have evident not cold"
+562,good_room,"1. Clean  
+   - No evident not clean  
+
+2. Good  
+   - No evident not good"
+564,good_room,"ABA Format:
+
+- Good_room
+  - Spotless
+    - No evident not spotless
+  - Musky sheets
+    - No evident not musky sheets
+  - Double room
+    - No evident not double room
+  - 4-bed room
+    - No evident not 4-bed room
+  - Two rooms
+    - No evident not two rooms"
+565,good_room,"1. Comfort  
+   No evident not comfortable  
+
+2. Clean  
+   No evident not clean  
+
+3. Clean daily  
+   No evident not cleaned daily"
+569,good_room,"- Rooms are in new condition; no evident not rooms are in new condition.
+- Rooms are in clean condition; no evident not rooms are in clean condition.
+- Smart technology exists; no evident not smart technology exists.
+- Electronic buttons for cleaning requests exist; no evident not electronic buttons for cleaning requests exist.
+- A bell is present; no evident not a bell is present.
+- Remote control of the air conditioner exists; no evident not remote control of the air conditioner exists."
+570,good_room,"1. Everything is clean  
+   No evident not everything is clean  
+
+2. Everything is perfect  
+   No evident not everything is perfect"
+573,bad_room,"- Support: blue light interferes
+  - Contrary: have evident interferes"
+573,good_room,"- Claim: good_room  
+  - Supports:
+    - calm
+      - no evident not calm
+    - comfort
+      - no evident not comfortable
+    - balcony
+      - no evident not balcony
+    - spacious
+      - no evident not spacious"
+576,bad_room,"Here is the structured ABA format based on the given conditions:
+
+**Supports and Contraries:**
+
+1. **Support:** The air conditioning had poor regulation... or cold (and directly to the body)
+   - **Contrary:** Have evident that poor regulation does not lead to cold...
+
+2. **Support:** The air conditioning had poor regulation... or heat
+   - **Contrary:** Have evident that poor regulation does not lead to heat...
+
+This format ensures each support is followed by its corresponding contrary, maintaining clarity and adherence to the specified conditions."
+578,bad_room,"1. Support: one bottle  
+   Contrary: have evident one bottle"
+578,good_room,"Here is the structured ABA format based on the given text:
+
+- **Support 1:** good, firm beds  
+  **Contrary 1:** no evident not good, firm beds  
+
+- **Support 2:** nice air conditioning  
+  **Contrary 2:** no evident not nice air conditioning"
+581,good_room,"Support: clean  
+Contrary: no evident not clean"
+582,good_room,"- Supports:
+  - comfort
+  - layout
+
+- Contraries:
+  - No evident not comfortable
+  - No evident not layout"
+583,good_room,"- **Support**: room comfort  
+  **Contrary**: No evident not room comfort"
+585,good_room,"Here is the structured ABA format based on the given text, following all specified conditions:
+
+Supports:
+1. Clean
+2. Chic
+
+Contraries:
+1. No evident not clean
+2. No evident not chic"
+587,good_room,"- **Support**: clean  
+  **Contrary**: no evident not clean  
+
+This provides the required ABA format with supports and their corresponding contraries."
+589,good_room,"1. Cleanliness  
+   No evident not cleanliness  
+
+2. Quality of bedding  
+   No evident not quality of bedding  
+
+3. Size of the room  
+   No evident not size of the room  
+
+4. Bottle of water available  
+   No evident not bottle of water available"
+590,bad_room,"Here is the structured ABA format based on the provided conditions:
+
+- Crisp linens  
+- White linens  
+- Small room  
+- Cozy room  
+- Very clean room  
+
+And their respective contraries:  
+
+- have evident that they are not necessarily bad.  
+- have evident that they don't imply anything about the room's quality.  
+- have evident it doesn't determine cleanliness or coziness.  
+- have evident it might be too warm or uncomfortable.  
+- have evident it could mean just spotless, without considering context."
+590,good_room,"**ABA Format:**
+
+- **Supports:**
+  - Crisp white linens
+  - Small room
+  - Cozy room
+  - Very clean
+
+- **Contraries:**
+  - No evident not crisp white linens
+  - No evident not small room
+  - No evident not cozy room
+  - No evident not very clean"
+594,bad_room,"Here is the structured ABA format based on your text:
+
+1. folding bed  
+   have evident folding bed was comfortable  
+
+2. couldn't fall asleep  
+   have evident child could fall asleep"
+596,good_room,"- Clean  
+  No evident not clean  
+
+- Cheap  
+  No evident not cheap  
+
+- Modern  
+  No evident not modern"
+597,bad_room,"1. small  
+2. have evident small  
+3. ok  
+4. have evident ok"
+597,good_room,"Here is the structured ABA format based on the given text:
+
+1. **Support**: rooms  
+   **Contrary**: No evident not rooms  
+
+2. **Support**: beds  
+   **Contrary**: No evident not beds"
+599,bad_room,"1. **Support 1**: The room is small.  
+   **Contrary 1**: have evident that having a small room is not evident.
+
+2. **Support 2**: Everything is new and very clean.  
+   **Contrary 2**: have evident that having everything new and very clean is not evident.
+
+3. **Support 3**: Not a comfortable cot, my 12-month-old child was very cramped there.  
+   **Contrary 3**: have evident that having a very cramped cot is not evident."
+599,good_room,"Here is the text formatted according to your instructions:
+
+**Supports:**  
+1. room is small  
+2. everything is new  
+3. everything is clean  
+4. double bed is comfortable  
+5. linen is crisp  
+6. side sea view  
+
+**Contraries:**  
+7. no evident not room is small  
+8. no evident not everything is new  
+9. no evident not everything is clean  
+10. no evident not double bed is comfortable  
+11. no evident not linen is crisp  
+12. no evident not side sea view"
+600,bad_room,"1. Assumption: bad_room because of small  
+   Support: small  
+   Contrary: Have evident small  
+
+2. Assumption: bad_room because of cozy  
+   Support: cozy  
+   Contrary: Have evident cozy  
+
+3. Assumption: bad_room because of modern  
+   Support: modern  
+   Contrary: Have evident modern"
+600,good_room,"Here is the structured ABA format based on the given conditions:
+
+- **Supports and Contraries:**
+  - **small**  
+    No evident not small
+  - **clean**  
+    No evident not clean
+  - **cozy**  
+    No evident not cozy
+  - **modern**  
+    No evident not modern
+
+This format ensures each support is a single word, followed by its contrary starting with ""No evident not"", as required."
+602,good_room,"Here is the structured ABA format based on your requirements:
+
+- Clean  
+  No evident not clean.
+
+- Quiet  
+  No evident not quiet."
+603,bad_room,"1. Quality of television image is poor.  
+   - Have evident quality.
+
+2. Television image has poor quality.  
+   - Have evident television image.
+
+3. Poor quality exists with respect to the television image.  
+   - Have evident poor quality."
+605,good_room,"- Claim: good_room  
+  Supports:  
+    - comfort  
+    - clean  
+    - modern  
+    - pleasant  
+  Contraries:  
+    - No evident not comfortable  
+    - No evident not clean  
+    - No evident not modern  
+    - No evident not pleasant"
+607,bad_room,"Here is the structured ABA format based on the provided conditions:
+
+**Supports:**
+1. not_sealed
+2. can_hear_everything
+3. small
+4. sterile
+
+**Contraries:**
+1. have_evident_not_sealed
+2. have_evident_can_hear_everything
+3. have_evident_small
+4. have_evident_sterile"
+607,good_room,"[ERROR] ReadTimeout: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=180)"
+608,bad_room,"Here is the structured ABA format based on the analysis:
+
+**Support 1:**  
+- **Statement:** The room is uncomfortable.  
+- **Contrary:** Have evident the room is comfortable.
+
+**Support 2:**  
+- **Statement:** The room has a bad view.  
+- **Contrary:** Have evident the room has a good view.
+
+**Support 3:**  
+- **Statement:** The room is small.  
+- **Contrary:** Have evident the room is large.
+
+This format ensures each support and its corresponding contrary are clearly presented, adhering to the user's requirements."
+608,good_room,"Here is the structured ABA format based on the given text:
+
+- **Support 1**: Clean  
+  - **Contrary 1**: No evident not clean  
+
+- **Support 2**: Comfortable  
+  - **Contrary 2**: No evident not comfortable"
+609,bad_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports and Contraries**:
+  - **Support**: room size
+    - **Contrary**: have evident room size
+  - **Support**: just enough
+    - **Contrary**: have evident just enough"
+609,good_room,"1. ""modern""  
+   - Support: ""modern""  
+   - Contrary: ""no evident not modern""
+
+2. ""large""  
+   - Support: ""large""  
+   - Contrary: ""no evident not large""
+
+3. ""good""  
+   - Support: ""good""  
+   - Contrary: ""no evident not good""
+
+4. ""quiet""  
+   - Support: ""quiet""  
+   - Contrary: ""no evident not quiet""
+
+5. ""easy""  
+   - Support: ""easy""  
+   - Contrary: ""no evident not easy""
+
+6. ""clean""  
+   - Support: ""clean""  
+   - Contrary: ""no evident not clean"""
+611,good_room,"1. Comfortable room  
+   No evident not comfortable  
+
+2. Very clean room  
+   No evident not very clean"
+612,good_room,"1. Good - no evident not good  
+2. furnished - no evident not furnished"
+613,bad_room,"1. Bad_room  
+2. Supports:  
+   - Not all rooms  
+     - have evident not all rooms  
+   - I did not  
+     - have evident i did not"
+613,good_room,"Here is the structured ABA format based on the given text:
+
+- **Support 1**: Comfortable bed  
+  - **Contrary 1**: No evident not comfortable bed  
+
+- **Support 2**: Purely.  
+  - **Contrary 2**: No evident not purely."
+614,bad_room,"Here is the structured ABA format based on the given text and conditions:
+
+- **Claim**: bad_room
+- **Supports**:
+  - having 2 small bottles of water
+  - not enough refreshment
+- **Contraries**:
+  - have evident 2 small bottles of water
+  - have evident not enough refreshment
+
+This response adheres to all specified conditions, ensuring clarity and conciseness while maintaining the original text's vocabulary."
+614,good_room,"1. Support: spacious  
+   Contrary: no evident not spacious  
+
+2. Support: comfortable  
+   Contrary: no evident not comfortable"
+615,good_room,"1. Quiet  
+   No evident not quiet  
+
+2. Clean  
+   No evident not clean"
+618,good_room,"- Good room.
+  - Clean
+    - No evident not clean
+  - Space
+    - No evident not space"
+620,good_room,"1. The room has  
+   No evident not The room has  
+
+2. Everything you need  
+   No evident not everything you need"
+622,bad_room,"Here is the structured ABA format based on the given conditions:
+
+1. No balcony.
+   - Have evident no balcony.
+
+2. Lack of space.
+   - Have evident lack of space.
+
+This format adheres to all specified requirements, ensuring clarity and logical structure in presenting each argument and its counterpoint."
+622,good_room,"1. Clean → No evident not clean  
+2. Modern → No evident not modern"
+623,bad_room,"- Claim: bad_room
+- Supports:
+  - blame noisy air conditioning
+  - cause bad_room
+  - make bad_room worse
+- Contraries:
+  - have evident blame
+  - have evident cause
+  - have evident make"
+624,good_room,"- Support: room  
+  Contrary: no evident not room"
+626,good_room,"1. Clean  
+   No evident not clean  
+
+2. Air-conditioned  
+   No evident not air-conditioned  
+
+3. Balcony  
+   No evident not balcony  
+
+4. Mini-bar  
+   No evident not mini-bar"
+628,good_room,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  1. very
+  2. clean
+
+- **Contraries:**
+  1. no evident not very
+  2. no evident not clean"
+630,bad_room,"Here is the structured ABA format based on the given conditions:
+
+1. weak  
+   have evident not strong  
+
+2. at times  
+   have evident never"
+631,good_room,"Supports:  
+1. new  
+2. clean  
+3. modern  
+
+Contraries:  
+1. no evident not new  
+2. no evident not clean  
+3. no evident not modern"
+632,good_room,"1. very nicely furnished  
+   no evident not very nicely furnished  
+
+2. super clean  
+   no evident not super clean"
+633,good_room,"- Clean  
+  - No evident not clean"
+637,good_room,"Here is the text generated in ABA format based on your instructions:
+
+- Support: very  
+  Contrary: no evident not very"
+638,good_room,"- Room  
+  No evident not room  
+
+- Comfort  
+  No evident not comfort"
+639,good_room,"1. **good_room**:  
+   - 1. small  
+     - No evident not small  
+   - 2. beau  
+     - No evident not beau  
+   - 3. clean  
+     - No evident not clean"
+640,bad_room,"1. Support: ""the humid air in the room.""  
+   Contrary: ""have evident that the air is not humid.""
+
+2. Support: ""the air conditioning probably didn't work properly.""  
+   Contrary: ""have evident that the air conditioning does work properly."""
+640,good_room,"Here is the structured ABA format based on the given text:
+
+**Supports:**
+1. Clean
+2. Very clean
+
+**Contraries:**
+1. No evident not clean.
+2. No evident not very clean.
+
+This format adheres to all specified conditions, ensuring clarity and conciseness in each argument."
+641,good_room,"Here is the structured ABA format based on the given text:
+
+**Supports:**
+1. clean everywhere
+2. nice room
+3. nice balcony
+
+**Contraries:**
+1. No evident not clean everywhere
+2. No evident not nice room
+3. No evident not nice balcony"
+643,good_room,"- Clean  
+  No evident not clean  
+
+- Modern  
+  No evident not modern"
+644,bad_room,"- **Claim**: bad_room  
+  - **Supports**:  
+    - lack_of_hair_dryer  
+      - have_evident_lack_of_hair_dryer"
+644,good_room,"1. clean  
+   No evident not clean  
+
+2. bed  
+   No evident not bed  
+
+3. tea  
+   No evident not tea  
+
+4. coffee  
+   No evident not coffee"
+646,good_room,"1. Support: room is good  
+   Contrary: No evident not room is good.  
+
+2. Support: bed is white  
+   Contrary: No evident not bed is white.  
+
+3. Support: shower is good  
+   Contrary: No evident not shower is good.  
+
+4. Support: air conditioner works  
+   Contrary: No evident not air conditioner works."
+647,good_room,"Supports:
+- cleanliness
+- comfort
+
+Contraries:
+- No evident not cleanliness
+- No evident not comfort"
+649,bad_room,"Supports and Contraries:
+
+1. The room was small.
+   - Have evident that the room was not small.
+
+2. Could have been a bit more spacious.
+   - Have evident that the room could not have been more spacious."
+649,good_room,"1. Claim: good_room
+   Premise 1: clean
+   Counter-argument: no evident not clean
+
+2. Claim: good_room
+   Premise 2: comfortable
+   Counter-argument: no evident not comfortable"
+650,bad_room,"Here is the structured ABA format based on the given text, following all specified conditions:
+
+1. Only soap in the shower.
+   - Have evident no shower gel.
+
+2. No shower gel.
+   - Have evident only soap in the shower.
+
+This format ensures each support is paired with its corresponding contrary, maintaining clarity and adherence to the user's guidelines."
+650,good_room,"1. Clean  
+   No evident not clean  
+
+2. Comfortable mattress  
+   No evident not comfortable mattress  
+
+3. Clean bedding  
+   No evident not clean bedding"
+652,good_room,"1. good_room  
+2. Clean room (no evident not clean)  
+3. White (no evident not white)  
+4. Bright (no evident not bright)  
+5. Cozy (no evident not cozy)"
+653,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - Beds are comfortable.
+  - Shower is great.
+
+- **Contraries:**
+  - No evident not beds are comfortable.
+  - No evident not shower is great."
+654,bad_room,"Here is the structured ABA format based on the given text:
+
+**Supports:**
+1. mirrors in the room
+2. they all distorted the image
+
+**Contraries:**
+1. have evident they all made you fatter
+2. have evident rather made you fatter"
+654,good_room,"Here is the structured ABA format based on the given text:
+
+1. Starting from the street terrace
+2. The hall
+3. Up to the room itself
+4. Clean
+5. Comfortable
+6. With a soft bed
+7. No evident not starting from the street terrace
+8. No evident not the hall
+9. No evident not up to the room itself
+10. No evident not clean
+11. No evident not comfortable
+12. No evident not with a soft bed
+
+This list adheres to all specified conditions, ensuring each support is concise and each contrary appropriately formulated."
+655,good_room,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  - very well equipped
+  - clean
+  - comfortable
+
+- **Contraries:**
+  - No evident not equipped
+  - No evident not clean
+  - No evident not comfortable"
+656,good_room,"1. Support: lobby  
+   Contrary: No evident not lobby  
+
+2. Support: room  
+   Contrary: No evident not room"
+657,good_room,"- Cleanliness  
+  No evident not cleanliness  
+
+- Nice rooms  
+  No evident not nice rooms"
+659,good_room,"Here is the structured ABA format based on the provided text:
+
+- Clean  
+  No evident not clean  
+
+- Top notch  
+  No evident not top notch  
+
+- Every day  
+  No evident not every day  
+
+- Taps  
+  No evident not taps  
+
+- Towels  
+  No evident not towels  
+
+- White bedding  
+  No evident not white bedding"
+660,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - room
+  - well
+
+- **Contraries:**
+  - No evident not room
+  - No evident not well"
+661,bad_room,"1. Small rooms have evident small.  
+2. Modern rooms have evident modern."
+661,good_room,"1. small rooms  
+   no evident not small rooms  
+
+2. modern rooms  
+   no evident not modern rooms  
+
+3. good bed  
+   no evident not good bed  
+
+4. very good bathroom  
+   no evident not very good bathroom"
+663,good_room,"1. The room is peaceful.  
+   No evident not peaceful.
+
+2. The room has modern design.  
+   No evident not modern design.
+
+3. The bed is comfortable.  
+   No evident not comfortable.
+
+4. The room is clean.  
+   No evident not clean.
+
+5. The room is large and has a balcony.  
+   No evident not (large and has a balcony).
+
+6. The bathroom is large.  
+   No evident not large.
+
+7. The bathroom has a shower.  
+   No evident not shower.
+
+8. The room is equipped with a kettle.  
+   No evident not equipped with a kettle.
+
+9. The room includes a welcome pack (tea, coffee, water).  
+   No evident not includes a welcome pack."
+664,good_room,"ABA Format:
+
+Supports:
+- clean
+- quality
+
+Contraries:
+- no evident not clean
+- no evident not quality"
+665,bad_room,"Here is the structured ABA format based on your requirements:
+
+- soft  
+  - have evident plastic  
+
+- plastic  
+  - have evident soft"
+666,bad_room,"- **Supports:**
+  - bed
+  - uncomfortable
+
+- **Contraries:**
+  - do not have evident bed
+  - do not have evident uncomfortable"
+667,good_room,"1. Clean  
+   No evident not clean  
+
+2. Room is new  
+   No evident not room is new  
+
+3. Perfect bed  
+   No evident not perfect bed  
+
+4. Towels are perfect  
+   No evident not towels are perfect"
+669,good_room,"Supports:
+1. room
+2. kettle
+3. microwave
+4. spacious bath
+5. view of the beautiful houses
+
+Contraries:
+1. No evident not room
+2. No evident not kettle
+3. No evident not microwave
+4. No evident not spacious bath
+5. No evident not view of the beautiful houses"
+670,bad_room,"1. bad_room: street side rooms are noisier than back-facing ones.  
+   - Support 1: have evident street side rooms being noisier.  
+2. bad_room: back-facing rooms are quieter than street side ones.  
+   - Support 2: have evident back-facing rooms being quieter."
+670,good_room,"1. Clean  
+   No evident not clean  
+
+2. Good design  
+   No evident not good design"
+675,good_room,"Supports:
+1. Very comfortable mattresses
+2. Fridge
+3. Kettle
+4. Very modern new equipment
+
+Contraries:
+No evident not very comfortable mattresses
+No evident not fridge
+No evident not kettle
+No evident not very modern new equipment"
+676,bad_room,"1. Bad_room  
+   - The shower has no door or curtain.  
+     Have evident no door or curtain in the shower.  
+   - Wi-fi is enough for a phone but not sufficient for a laptop.  
+     Have evident insufficient Wi-Fi for laptops in this room."
+676,good_room,"Here is the structured ABA format based on the provided conditions:
+
+**Supports:**
+1. The room has a refrigerator.
+2. The room has a kettle.
+3. The room has mugs (small).
+4. The room's safe was not used.
+5. The room has a TV with 2 channels in the local language, netflix and browser.
+
+**Contraries:**
+1. No evident not the room has a refrigerator.
+2. No evident not the room has a kettle.
+3. No evident not the room has mugs (small).
+4. No evident not the room's safe was not used.
+5. No evident not the room has a TV with 2 channels in the local language, netflix and browser.
+
+This format adheres to all specified conditions, ensuring each support is directly quoted from the text without any additional descriptors, and each contrary begins appropriately as instructed."
+679,bad_room,"**ABA Format:**
+
+- **Claim:** bad_room
+- **Supports:**
+  - lots (quantity of noise)
+    - **Contrary:** have evident that it is not enough or too much.
+  - noise (source of noise)
+    - **Contrary:** have evident that it is not just noise but something else.
+  - from the hallway (location of noise)
+    - **Contrary:** have evident that it is from another area."
+679,good_room,"- **Supports:**
+  - room
+  - bathroom
+  - balcony
+
+- **Contraries:**
+  - no evident not room
+  - no evident not bathroom
+  - no evident not balcony"
+682,bad_room,"1. No other means  
+   Have evident no other means  
+
+2. shampoos  
+   Have evident shampoo  
+
+3. soaps  
+   Have evident soap  
+
+4. gels  
+   Have evident gel"
+685,good_room,"1. perfect cleanliness  
+   No evident not perfect cleanliness  
+
+2. efficient staff  
+   No evident not efficient staff  
+
+3. cozy atmosphere  
+   No evident not cozy atmosphere  
+
+good_room"
+686,good_room,"1. Support: nice  
+2. Support: quiet  
+3. Contrary: no evident not nice  
+4. Contrary: no evident not quiet"
+690,bad_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - thin walls
+  - everything is heard
+
+- **Contraries:**
+  - have evident very thin walls
+  - have evident everything is heard"
+691,good_room,"- Clean  
+  No evident not clean"
+693,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports**: fridge, drinks, delicacies, paying, nice, having, available  
+- **Contraries**: No evident not fridge, No evident not drinks, No evident not delicacies, No evident not paying, No evident not nice, No evident not having, No evident not available"
+694,bad_room,"1. Support: very small  
+   Contrary: have evident that the room is very small  
+
+2. Support: only 3 beds  
+   Contrary: have evident that the room has only 3 beds  
+
+3. Support: just 18 meters  
+   Contrary: have evident that the room is just 18 meters"
+694,good_room,"1. Clean  
+   - No evident not clean.
+
+2. Tidy  
+   - No evident not tidy."
+695,good_room,"1. Clean rooms  
+2. Comfortable beds  
+
+Contraries:  
+1. No evident not clean rooms.  
+2. No evident not comfortable beds."
+697,good_room,"1. Very clean  
+2. Fresh  
+3. Comfortable  
+4. It's new  
+5. Cleaning every day  
+
+Contrary:  
+6. No evident not very clean  
+7. No evident not fresh  
+8. No evident not comfortable  
+9. No evident not it's new  
+10. No evident not cleaning every day"
+698,bad_room,"1. Support: didn't  
+   Contrary: have evident not worked  
+
+2. Support: work  
+   Contrary: have evident didn't work"
+700,bad_room,"Here is the structured ABA format based on your requirements:
+
+1. **Supports and Contraries**
+
+- **Small room**
+  - Have evident small room
+- **one nescafe bag**
+  - Have evident one nescafe bag
+- **no curtain in the bathroom**
+  - Have evident no curtain in the bathroom
+
+This format adheres to all specified conditions, ensuring clarity and correctness."
+700,good_room,"Here is the text formatted according to your instructions:
+
+Supports:
+- great bed
+- excellent cleaning
+
+Contraries:
+- No evident not great bed
+- No evident not excellent cleaning"
+702,bad_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - small
+  - bit
+
+- **Contraries:**
+  - have evident small
+  - have evident bit"
+703,good_room,"- good_room  
+  - clean  
+    - no evident not clean  
+  - comfortable  
+    - no evident not comfortable"
+705,good_room,"- Clean  
+  No evident not clean  
+
+- Tidy  
+  No evident not tidy"
+707,bad_room,"Here is the structured ABA format based on the given text:
+
+1. **Assumption: Small**
+   - Supports:
+     - small
+     - have evident small
+   - Claim: bad_room
+
+2. **Assumption: Room**
+   - Supports:
+     - room
+     - have evident room
+   - Claim: bad_room
+
+3. **Assumption: Family**
+   - Supports:
+     - family
+     - have evident family
+   - Claim: bad_room
+
+Each argument is clearly listed under its assumption, with supports and contraries properly formatted as specified."
+707,good_room,"Here is the structured ABA format based on the given text:
+
+1. **Claim**: good_room  
+2. **Supports and Contraries**:
+   - **Support**: renovated
+     - **Contrary**: no evident not renovated
+   - **Support**: soft blankets
+     - **Contrary**: no evident not soft blankets
+
+This format adheres to the specified conditions, ensuring clarity, conciseness, and proper grammatical structure."
+712,good_room,"Supports:
+1. room
+2. comfortable
+
+Contraries:
+1. No evident not room
+2. No evident not comfortable"
+714,good_room,"Here is the ABA formatted text based on your requirements:
+
+- **Supports:**
+  - Quiet
+  - Spacious
+
+- **Contraries:**
+  - No evident not quiet
+  - No evident not spacious"
+716,bad_room,"Here is the structured ABA format based on your instructions:
+
+1. **lack**  
+   have evident lack  
+
+2. **adapters**  
+   have evident adapters  
+
+3. **sockets**  
+   have evident sockets  
+
+4. **rooms**  
+   have evident rooms"
+716,good_room,"1. **Claim**: good_room
+   - **Support 1**: new rooms are considered good.
+     - **Contrary**: no evident not new rooms are good.
+   
+2. **Claim**: good_room
+   - **Support 2**: clean rooms are considered good.
+     - **Contrary**: no evident not clean rooms are good.
+
+This structured approach ensures each point is clearly separated, adheres to the conditions provided, and maintains clarity without unnecessary elements."
+718,bad_room,"- Support: messy  
+  Contrary: have evident messiness"
+719,good_room,"Here is the structured ABA format based on the given text:
+
+**Supports:**
+1. Clean room
+2. Modern room
+3. Clean bathroom
+4. Air conditioning stays on when leaving room
+5. Air conditioning stays on when opening balcony door
+
+**Contraries:**
+1. No evident not clean
+2. No evident not modern
+3. No evident not clean
+4. No evident not stays on when leaving room
+5. No evident not stays on when opening balcony door"
+720,good_room,"1. Comfortable
+   - No evident not comfortable"
+721,good_room,"Here is the text generated in Assumption Based Argumentation (ABA) format based on your conditions:
+
+1. clean; no evident not clean  
+2. atmosphere; no evident not atmosphere"
+722,bad_room,"1. **Support**: Water leaks from the shower  
+   **Contrary**: Water has evident leaks from the shower  
+
+2. **Support**: Drain is not working well  
+   **Contrary**: Drain has evident issues"
+722,good_room,"**Claim:** good_room  
+
+**Supports:**
+1. Clean  
+2. Comfortable  
+3. Good new furniture  
+
+**Contraries:**
+1. No evident not clean  
+2. No evident not comfortable  
+3. No evident not good new furniture"
+723,bad_room,"1. No TV channels  
+   - Contrary: have evident no TV channels  
+
+2. TV channels exist  
+   - Contrary: have evident TV channels exist"
+724,good_room,"ABA Format:
+
+Supports:
+1. Clean
+   - Contrary: No evident not clean
+
+2. Cleaned
+   - Contrary: No evident not cleaned
+
+3. Spotless (synonym, but condition 3 prohibits synonyms)
+   - Contrary: No evident not spotless
+
+4. Shining (synonym, prohibited)
+   - Contrary: No evident not shining
+
+5. Bright (synonym, prohibited)
+   - Contrary: No evident not bright
+
+6. Polished (synonym, prohibited)
+   - Contrary: No evident not polished
+
+7. Lustrous (synonym, prohibited)
+   - Contrary: No evident not lustrous
+
+8. Sparkling
+   - Contrary: No evident not sparkling
+
+9. Shine
+   - Contrary: No evident not shine
+
+10. Glowing
+    - Contrary: No evident not glowing
+
+Note: Due to condition 3, synonyms like ""Spotless,"" ""Shining,"" etc., are prohibited as they replace the original word ""Clean."" Therefore, only direct uses of ""clean"" and its related forms without introducing new words are considered.
+
+However, strictly adhering to condition 3 (no synonyms), the primary support is ""Clean"" with its contrary. Additional supports may not be feasible without introducing synonyms or creating contrived terms, thus limiting the number of valid supports under these constraints."
+725,bad_room,"1. **Support**: thick  
+   **Contrary**: have evident thin  
+
+2. **Support**: weather  
+   **Contrary**: have evident good"
+726,good_room,"1. Clean  
+   No evident not clean  
+
+2. Comfortable  
+   No evident not comfortable"
+727,good_room,"Here is the structured ABA format based on the given text:
+
+**Supports:**
+1. very
+2. clean
+
+**Contraries:**
+1. No evident not very
+2. No evident not clean"
+730,good_room,"- **Supports**: 
+  - balcony
+  - clean
+
+- **Contraries**:
+  - No evident not balcony
+  - No evident not clean"
+732,good_room,"Here is the ABA formatted text based on your requirements:
+
+- **Supports:**
+  - Everything is clean
+  - Everything is white
+  - Everything is freshly renovated
+
+- **Contraries:**
+  - No evident not everything is clean
+  - No evident not everything is white
+  - No evident not everything is freshly renovated"
+733,good_room,"Here is the text generated in ABA format based on your instructions:
+
+- Support: very  
+  Contrary: no evident not very"
+738,good_room,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  - bed
+  - comfortable
+
+- **Contraries:**
+  - No evident not bed
+  - No evident not comfortable
+
+This format ensures that each support has a corresponding contrary, maintaining clarity and adherence to the specified conditions."
+739,good_room,"1. Support: pleasant atmosphere  
+   Contrary: no evident not pleasant atmosphere  
+
+2. Support: freebies  
+   Contrary: no evident not freebies  
+
+3. Support: affordable mini-bar prices  
+   Contrary: no evident not affordable mini-bar prices"
+741,bad_room,"1. bad_room  
+   noise  
+     have evident noise  
+2. bad_room  
+   uncomfortable beds  
+     have evident uncomfortable beds"
+742,bad_room,"Here is the text formatted according to your instructions:
+
+1. **Supports:**
+   - text
+   - not
+   - clean
+
+2. **Contraries:**
+   - have evident text
+   - have evident not
+   - have evident clean"
+742,good_room,"Here is the structured ABA format based on the given text:
+
+1. **Argument for good_room:**
+   - Premise: comfortable bed
+2. **Counterargument 1:**
+   - Premise: no evident not comfortable bed
+
+This structure adheres to all specified conditions, ensuring clarity and conciseness in each component of the argumentation framework."
+743,good_room,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  - clean
+  - nice
+
+- **Contraries:**
+  - No evident not clean
+  - No evident not nice"
+745,good_room,"Here is the structured ABA format based on the given text:
+
+**Supports:**
+1. clean  
+2. functional  
+
+**Contraries:**  
+3. no evident not clean  
+4. no evident not functional"
+746,good_room,"1. **Support**: room  
+   **Contrary**: No evident not room  
+
+2. **Support**: satisfactory  
+   **Contrary**: No evident not satisfactory"
+747,bad_room,"Here is the structured ABA format based on the given text and conditions:
+
+1. frozen; have evident frozen  
+2. water; have evident water  
+3. bath; have evident bath  
+
+Each line presents a support followed by its corresponding contrary, ensuring clarity and adherence to the specified format."
+747,good_room,"**ABA Format for ""good_room""**
+
+- **Clean**
+  - Statement: Clean
+  - Contrary: No evident not clean
+
+- **Serves the purpose**
+  - Statement: Serves the purpose
+  - Contrary: No evident not serves the purpose
+
+This structure ensures each support is clearly paired with its contrary, adhering to the specified conditions."
+748,bad_room,"Here is the structured ABA format based on the given text:
+
+1. Support: Minibar was empty
+2. Contrary: have evident Minibar was empty
+3. Support: Minibar was not working
+4. Contrary: have evident Minibar was not working
+
+This list adheres to all specified conditions, ensuring each support is followed by its corresponding contrary statement."
+748,good_room,"Here is the structured ABA format based on the given text:
+
+- **Claim:** good_room
+  - **Supports:**
+    1. The room is clean.
+       - **Contrary:** No evident not clean → The room has dirt.
+    2. There is no dust in the room.
+       - **Contrary:** No evident not (there is no dust) → The room has dust.
+    3. Having a clean environment is good for health.
+       - **Contrary:** No evident not having a clean environment is good for health → Having a dirty environment is bad for health.
+
+This format clearly presents each support with its corresponding contrary, ensuring clarity and adherence to the specified conditions."
+749,bad_room,"1. Small room  
+   have evident small room  
+
+2. No view  
+   have evident no view"
+749,good_room,"1. good_room  
+   The room is clean.  
+   No evident not clean."
+752,bad_room,"- bad_room
+  - extremely noisy
+    - have evident extremely noisy"
+752,good_room,"Here is the structured ABA format based on your requirements:
+
+- **Claim:** good_room  
+- **Support 1:** comfortable room  
+  - **Contrary 1:** no evident not a comfortable room  
+- **Support 2:** one night stay  
+  - **Contrary 2:** no evident not staying for one night  
+
+This format adheres to all specified conditions, ensuring clarity and logical structure."
+753,good_room,"Here is the structured ABA format based on your requirements:
+
+- Cleanliness  
+- Spacious  
+- No evident not cleanliness.  
+- No evident not spacious.  
+
+This format adheres to all specified conditions, ensuring clarity and conciseness without any additional information or assumptions."
+755,good_room,"Here is the structured ABA format based on the given text:
+
+- **Supports**:
+  - very
+  - clean
+
+- **Contraries**:
+  - No evident not very
+  - No evident not clean
+
+This format adheres to all specified conditions, ensuring clarity and correctness."
+757,good_room,"- Claim: good_room  
+  Supports: clean, room  
+  Contraries: No evident not clean, No evident not room"
+758,good_room,"ABA Format:
+
+- Support: big room  
+  Contrary: no evident not big room"
+759,bad_room,"1. **Support**: lack of adapters  
+   **Contrary**: have evident lack of adapters  
+
+2. **Support**: sockets  
+   **Contrary**: have evident sockets"
+761,bad_room,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - blankets warm
+  - floor slightly untidy
+  - smell sewage
+
+- **Contraries:**
+  - have evident blankets not warm
+  - have evident floor not slightly untidy
+  - have evident smell not sewage"
+761,good_room,"1. The suite is large because it provides ample space.  
+   No evident not providing ample space.  
+
+2. The beds are comfortable because they offer a restful sleep.  
+   No evident not offering a restful sleep.  
+
+3. It can accommodate a large family of five people because it has enough room.  
+   No evident not having enough room.  
+
+4. The interior is light because it creates a bright atmosphere.  
+   No evident not creating a bright atmosphere."
+762,bad_room,"- Support: The room smelled of sewage.
+  Contrary: Have evident that the room did not smell of sewage."
+763,bad_room,"1. Support: ""terrace noise""  
+   Contrary: have evident quietness  
+
+2. Support: ""first floor""  
+   Contrary: have evident upper floors"
+763,good_room,"**ABA Format:**
+
+1. Comfortable beds are present.  
+   Good_room.
+
+2. Cleanliness is present.  
+   Good_room.
+
+Contraries:
+
+1. No evident not comfortable beds are present.  
+
+2. No evident not cleanliness is present."
+764,bad_room,"1. small room  
+   have evident small room  
+
+2. almost no storage spaces  
+   have evident almost no storage spaces  
+
+3. extremely small balcony  
+   have evident extremely small balcony  
+
+4. frequently disturbed by noise  
+   have evident frequently disturbed by noise  
+
+5. two phone chargers melted/burnt  
+   have evident two phone chargers melted/burnt"
+764,good_room,"Supports:
+1. clean
+2. comfortable
+
+Contraries:
+1. no evident not clean
+2. no evident not comfortable"
+765,bad_room,"Here is the text reformatted into Assumption-Based Argumentation (ABA) format based on your instructions:
+
+1. **Support**: ""can't see""  
+   **Contrary**: have evident.
+
+2. **Support**: ""takes up space""  
+   **Contrary**: has evident.
+
+3. **Support**: ""very low""  
+   **Contrary**: have evident.
+
+4. **Support**: ""not very intimate""  
+   **Contrary**: has evident.
+
+5. **Support**: ""close to the street""  
+   **Contrary**: have evident.
+
+6. **Support**: ""doesn't make sense""  
+   **Contrary**: has evident.
+
+7. **Support**: ""uses only soap""  
+   **Contrary**: has evident.
+
+8. **Support**: ""only 1""  
+   **Contrary**: has evident."
+765,good_room,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Support**: bed is comfortable  
+   **Contrary**: no evident not bed is comfortable  
+
+2. **Support**: shower is good  
+   **Contrary**: no evident not shower is good  
+
+3. **Support**: furniture is new  
+   **Contrary**: no evident not furniture is new  
+
+4. **Support**: bathroom is impeccable  
+   **Contrary**: no evident not bathroom is impeccable"
+766,bad_room,"1. Support: small  
+   Contrary: have evident small  
+
+2. Support: corner  
+   Contrary: have evident corner"
+766,good_room,"1. Maintaining health
+   - No evident not maintaining health.
+2. Preventing diseases
+   - No evident not preventing diseases."
+767,bad_room,"Here is the structured ABA format based on the given conditions:
+
+- **Supports:**
+  1. The windows overlook the courtyard.
+  2. The courtyard is quite noisy.
+
+- **Contraries:**
+  1. have evident windows do not overlook the courtyard.
+  2. have evident courtyard is not quite noisy."
+767,good_room,"Here is the structured ABA format based on the given text:
+
+- **Support**: clean  
+  - **Contrary**: no evident not clean  
+
+- **Support**: spacious  
+  - **Contrary**: no evident not spacious  
+
+This format adheres to the specified conditions, ensuring each support has its corresponding contrary without any additional assumptions or opinions."
+768,good_room,"ABA Format:
+
+- good_room
+  - terrace
+    - no evident not{terrace}
+  - furnished
+    - no evident not{furnished}"
+769,bad_room,"1. Bed linen was never changed; have evident the bed was never cleaned.  
+2. The refrigerator is full of minibar for money, I had to pull everything out so that my products would fit; have evident there was no attempt to organize the space."
+769,good_room,"Here is the structured ABA format based on the provided text:
+
+1. Cleanliness  
+   No evident not clean  
+
+2. Cleaning  
+   No evident not cleaned  
+
+3. Change of towels  
+   No evident not changed"
+770,bad_room,"Here is the structured ABA format based on the given conditions:
+
+**Supports and Contraries:**
+
+1. **lack**: have evident presence
+2. **storage**: have evident availability
+
+This format ensures each support is paired with a contrary that starts with ""have evident"" using the same word, adhering to the specified guidelines."
+770,good_room,"[ERROR] ReadTimeout: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=180)"
+771,bad_room,"1. corridor  
+   have evident poor soundproofing from corridor  
+
+2. soundproofing  
+   have evident poor soundproofing from corridor"
+771,good_room,"Here is the structured ABA format based on your requirements:
+
+Supports:
+1. Clean
+2. Comfortable
+3. Well-maintained
+
+Contraries:
+4. No evident not clean
+5. No evident not comfortable
+6. No evident not well-maintained"
+772,bad_room,"- Claim: bad_room
+  - Supports:
+    1. couldn't close one window
+      - Contrary: have evident that couldn't close one window"
+772,good_room,"1. **Supports**: new, equipment  
+2. **Contraries**: no evident not new, no evident not equipment"
+773,good_room,"Here is the ABA format for your claim ""good_room"" with supports and their contraries:
+
+1. Compact room  
+2. Clean hotel  
+3. 3+ stars  
+
+Contraries:  
+4. No evident not compact room  
+5. No evident not clean hotel  
+6. No evident not 3+ stars"
+774,bad_room,"- Bad_room
+  - supports:
+    - difficulties with the different sockets
+    - provided devices without adapters
+  - contraries:
+    - have evident difficulties with the different sockets
+    - have evident provided devices without adapters"
+774,good_room,"- good_room
+  - comfortable
+    - no evident not comfortable
+  - clean
+    - no evident not clean"
+776,good_room,"- Clean Room: cleanliness  
+  No evident not cleanliness  
+
+- Clean Room: fresh_air  
+  No evident not fresh_air  
+
+- Clean Room: quiet_environment  
+  No evident not quiet_environment"
+779,good_room,"1. Clean  
+   - Contrary: No evident not clean  
+
+2. Sufficiently large  
+   - Contrary: No evident not sufficiently large  
+
+3. Recently cleaned  
+   - Contrary: No evident not recently cleaned  
+
+4. Outdoor balcony  
+   - Contrary: No evident not outdoor balcony  
+
+5. A plus  
+   - Contrary: No evident not a plus"
+780,good_room,"- nice  
+  no evident not nice  
+
+- large  
+  no evident not large"
+781,bad_room,"- **Supports:**
+  - bad_room
+    - bed_frame
+      - have evident bed_frame
+    - structure
+      - have evident structure
+    - dangerous
+      - have evident dangerous
+    - sharp
+      - have evident sharp
+    - corners
+      - have evident corners"
+782,good_room,"- good_room
+  - clean room
+    - No evident not clean
+  - excellent renovation
+    - No evident not excellent
+  - with taste
+    - No evident not with taste
+  - stylish
+    - No evident not stylish
+  - beautiful
+    - No evident not beautiful"
+784,good_room,"- **Supports:**
+  - clean
+  - rooms
+
+- **Contraries:**
+  - no evident not clean
+  - no evident not rooms"
+785,bad_room,"- Supports:
+  - dirty
+  - misleading
+  
+- Contraries:
+  - have evident dirty
+  - have evident misleading"

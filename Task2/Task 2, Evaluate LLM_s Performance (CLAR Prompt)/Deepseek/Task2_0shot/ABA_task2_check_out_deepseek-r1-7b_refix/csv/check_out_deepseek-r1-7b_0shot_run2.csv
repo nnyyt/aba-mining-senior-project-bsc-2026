@@ -1,0 +1,9 @@
+ID,Topic,Test 2
+161,good_check_out,"assumption_the_checkout_process_is_efficient, check_out_time, no_evident_not_checkout_time, this_structure_adheres_to_all_specified_conditions, providing_a_clear_and_concise_argument_with_an_assumption, and_contrary"
+310,good_check_out,"allowed, later, no_evident_not_allowed, no_evident_not_later"
+314,good_check_out,"fast, no_evident_not_fast, super, no_evident_not_super"
+542,good_check_out,"left_at_night, no_problems, no_evident_not_left_at_night, no_evident_not_no_problems"
+639,good_check_out,"the_earlier_check_in, the_earlier_check_out, no_evident_not_the_earlier_check_in, no_evident_not_the_earlier_check_out"
+660,good_check_out,"allowed_us, no_evident_not_allowed_us, at_no_extra_cost, no_evident_not_at_no_extra_cost, late_arrival, no_evident_not_late_arrival, departure_at_1_30_p_m, no_evident_not_departure_at_1_30_p_m"
+711,good_check_out,"late, check_out, no_evident_not_late, no_evident_not_check_out"
+769,bad_check_out,"did_not_allow_turn_over_a_couple_of_hours, have_evidentdid_not_allow_turn_over_a_couple_of_hours"

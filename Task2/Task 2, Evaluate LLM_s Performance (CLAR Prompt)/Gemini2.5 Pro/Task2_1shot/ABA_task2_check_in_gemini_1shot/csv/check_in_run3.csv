@@ -1,0 +1,843 @@
+ID,Row,Prompt,Topic,Test 3
+59,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] Also very easy to check-in if you arrive late at night",good_check_in,"easy_check_in_late_at_night, no_evident_not_easy_check_in_late_at_night"
+60,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] clear instructions left access to our room made easy",good_check_in,"clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room"
+71,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] Got very clear instructions how to get access to our room.",good_check_in,"clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room"
+72,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] I received very clear instructions how to enter the hotel and access my room.",good_check_in,"clear_instructions_to_enter_hotel, no_evident_not_clear_instructions_to_enter_hotel , clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room"
+89,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] instructions for access were sent in advance and absolutely perfect.",good_check_in,"instructions_sent_in_advance, no_evident_not_instructions_sent_in_advance , perfect_instructions, no_evident_not_perfect_instructions"
+92,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] we did late night check in, that was super easy and comfortable",good_check_in,"late_night_check_in, no_evident_not_late_night_check_in , easy_check_in, no_evident_not_easy_check_in , comfortable_check_in, no_evident_not_comfortable_check_in"
+110,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] the self check in was very easy.",good_check_in,"self_check_in_easy, no_evident_not_self_check_in_easy"
+140,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] easy self check-in,",good_check_in,"easy_self_check_in, no_evident_not_easy_self_check_in"
+152,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""bad_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] We had a late check in and there was no one in the hotel to give us keys and the door was locked.
+
+---
+ASSISTANT:
+no_one_gave_keys_on_late_check_in, door_locked_on_late_check_in, have_evident_no_one_gave_keys_on_late_check_in, have_evident_door_locked_on_late_check_in
+
+---
+USER:
+[Text] We had a late check in and there was no one in the hotel to give us keys and the door was locked.",bad_check_in,"no_one_gave_keys_on_late_check_in, door_locked_on_late_check_in, have_evident_no_one_gave_keys_on_late_check_in, have_evident_door_locked_on_late_check_in"
+153,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] lovely friendly staff who checked us in quickly,",good_check_in,"friendly_staff, no_evident_not_friendly_staff , quick_check_in, no_evident_not_quick_check_in"
+158,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] Easy check in at 3am.",good_check_in,"easy_check_in, no_evident_not_easy_check_in"
+163,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] Easy late night check in",good_check_in,"easy_late_night_check_in, no_evident_not_easy_late_night_check_in"
+185,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] The staff accommodated my arrival at 3 a.m. with very clear instructions.",good_check_in,"staff_accommodated_arrival, no_evident_not_staff_accommodated_arrival , clear_instructions, no_evident_not_clear_instructions"
+190,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] We had a very late (1am) self check-in self check-in which worked very well.",good_check_in,"self_check_in_worked_well, no_evident_not_self_check_in_worked_well"
+214,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] I arrived late at night. The hotell made sure I could check in.",good_check_in,"hotel_made_sure_late_check_in, no_evident_not_hotel_made_sure_late_check_in"
+220,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] Excellent communication on late check in process,",good_check_in,"communication_on_late_check_in_process, no_evident_not_communication_on_late_check_in_process"
+221,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] We arrived later than planned due to flight issues but the owner was aware as he had tracked our flight;",good_check_in,"owner_tracked_flight, no_evident_not_owner_tracked_flight"
+227,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] Very kind hosts made late check in simple.",good_check_in,"kind_hosts, no_evident_not_kind_hosts , late_check_in_simple, no_evident_not_late_check_in_simple"
+232,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] We arrived late and got great instructions on how to get in on our own.",good_check_in,"instructions_to_get_in, no_evident_not_instructions_to_get_in"
+276,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] friendly staff who allow you to check in the early hours of morning ,",good_check_in,"friendly_staff, no_evident_not_friendly_staff , allow_check_in_early_hours, no_evident_not_allow_check_in_early_hours"
+283,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] I arrived late at night and it was not a problem,",good_check_in,"late_arrival_not_problem, no_evident_not_late_arrival_not_problem"
+314,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] super fast checkin/checkout",good_check_in,"fast_checkin_checkout, no_evident_not_fast_checkin_checkout"
+365,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] We arrived in the night and were checked-in quickly",good_check_in,"checked_in_quickly, no_evident_not_checked_in_quickly"
+394,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] Check in was quick and easy",good_check_in,"check_in_quick_easy, no_evident_not_check_in_quick_easy"
+399,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] and the room was clean and ready by 12 to check in.",good_check_in,"room_was_clean, no_evident_not_room_was_clean , room_ready_by_12, no_evident_not_room_ready_by_12"
+452,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] easy check-in.",good_check_in,"easy_check_in, no_evident_not_easy_check_in"
+453,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""bad_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] We had a late check in and there was no one in the hotel to give us keys and the door was locked.
+
+---
+ASSISTANT:
+no_one_gave_keys_on_late_check_in, door_locked_on_late_check_in, have_evident_no_one_gave_keys_on_late_check_in, have_evident_door_locked_on_late_check_in
+
+---
+USER:
+[Text] Waited 10 minutes for someone to come greet us for check in, no one on desk 
+ Guy on desk told us we had not paid but we did 
+ then he took a picture of my passport which no hotel does at all which was very strange ?????",bad_check_in,"waited_10_minutes_for_check_in, no_one_on_desk, desk_told_not_paid, desk_took_picture_of_passport, have_evident_waited_10_minutes_for_check_in, have_evident_no_one_on_desk, have_evident_desk_told_not_paid, have_evident_desk_took_picture_of_passport"
+513,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] We arrived late and the directions were clear and easy.",good_check_in,"clear_directions, no_evident_not_clear_directions, , easy_directions, no_evident_not_easy_directions"
+515,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] Thank you very much for being able to move in earlier.",good_check_in,"move_in_earlier, no_evident_not_move_in_earlier"
+538,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] We arrived in the middle of the night and were able to get into the room via self-check-in without any problems.",good_check_in,"self_check_in_without_problems, no_evident_not_self_check_in_without_problems"
+546,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] Purely. no problem with check-in after 12 at night.",good_check_in,"no_problem_with_check-in_after_12_at_night, no_evident_not_no_problem_with_check-in_after_12_at_night"
+564,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] While we arrived after midnight there was a person at the reception to check in.",good_check_in,"person_at_reception_to_check_in, no_evident_not_person_at_reception_to_check_in"
+578,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] Self check-in at night was also very easy.",good_check_in,"self_check_in_easy, no_evident_not_self_check_in_easy"
+589,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] The owners left us clear and precise information for our arrival, sending us photos.",good_check_in,"clear_precise_information_for_arrival, no_evident_not_clear_precise_information_for_arrival, sent_photos, no_evident_not_sent_photos"
+606,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] Our flight was delayed and they took care of us both for late check-in",good_check_in,"took_care_of_late_check_in, no_evident_not_took_care_of_late_check_in"
+614,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] Very friendly staff, and communication with the hotel before our arrival very fluid.",good_check_in,"friendly_staff, no_evident_not_friendly_staff , fluid_communication_before_arrival, no_evident_not_fluid_communication_before_arrival"
+633,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] Even though we arrived at 3 a.m., they waited for us.",good_check_in,"waited_for_us, no_evident_not_waited_for_us"
+639,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] They accommodated us with an earlier check-in and earlier check-out. There is no problem with a later check-in either.",good_check_in,"accommodated_earlier_check_in, no_evident_not_accommodated_earlier_check_in , no_problem_later_check_in, no_evident_not_no_problem_later_check_in"
+660,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] The hotel allowed us, at no extra cost, a late arrival and a late departure (at 1:30 p.m.).",good_check_in,"allowed_late_arrival, no_evident_not_allowed_late_arrival, , allowed_late_departure, no_evident_not_allowed_late_departure, , no_extra_cost, no_evident_not_no_extra_cost"
+775,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] perfect welcome even arriving at 4am",good_check_in,"welcome_at_4am, no_evident_not_welcome_at_4am"
+778,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] Perfect welcome at 1:30 in the morning!",good_check_in,"welcome_at_1:30_in_morning, no_evident_not_welcome_at_1:30_in_morning"
+779,1,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_check_in"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+USER:
+[Text] clear instructions left access to our room made easy
+
+---
+ASSISTANT:
+clear_instructions_to_access_room, no_evident_not_clear_instructions_to_access_room
+
+---
+USER:
+[Text] Check-in at 4am",good_check_in,"check_in_at_4am, no_evident_not_check_in_at_4am"

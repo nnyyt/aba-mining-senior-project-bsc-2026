@@ -1,0 +1,401 @@
+ID,Topic,Output
+4,good_price,"Here is the structured presentation of the arguments based on the given text:
+
+- Assume quality; support price: quality  
+  no evident not quality;
+
+- Assume price; support quality: price  
+  no evident not price;
+
+Each line represents an argument in ABA format, addressing both the positive aspect and its contrary."
+34,good_price,"Here is the structured ABA format based on the given text:
+
+**Supports and Contraries**
+
+1. **Good**
+   - **Contrary:** No evident not good
+
+2. **Value**
+   - **Contrary:** No evident not value
+
+3. **For money**
+   - **Contrary:** No evident not for money
+
+This format adheres to the conditions specified, ensuring each premise is a short word without adjectives or adverbs and each has a corresponding contrary starting with ""no evident not."""
+44,good_price,"- **Supports**:  
+  - facilities  
+  - tariff  
+
+- **Contraries**:  
+  - No evident not facilities  
+  - No evident not tariff"
+46,good_price,"**ABA Argument for ""good_price""**
+
+- **Assumption**: The product offers good value for money.
+- **Support**: value
+- **Contrary**: no evident not value"
+47,good_price,"Here is the structured ABA format based on the given text:
+
+**Supports:**
+- Good
+- Value
+
+**Contraries:**
+- No evident not good
+- No evident not value"
+49,good_price,"Here is the structured ABA format based on the given text:
+
+- Value is good.
+  - No evident not value is good.
+
+- Money is good.
+  - No evident not money is good."
+63,good_price,"Here is the structured ABA format based on the given text, following all specified conditions:
+
+**Supports:**
+- exceptional
+- value
+
+**Contraries:**
+- no evident not exceptional
+- no evident not value"
+68,good_price,"Here is the structured ABA format based on the given conditions:
+
+1. **Support**: price is good  
+   **Contrary**: No evident not price is good  
+
+2. **Support**: value is good  
+   **Contrary**: No evident not value is good"
+125,good_price,"Here is the structured ABA format based on your requirements:
+
+1. All that come with a quite reasonable price.
+2. That is priced at a quite reasonable amount.
+3. No evident not all that come with a quite reasonable price.
+4. No evident not that is priced at a quite reasonable amount.
+
+This list adheres to the conditions specified, ensuring each support has its corresponding contrary without any additional assumptions or claims."
+133,good_price,"- Support: good_price  
+  Contrary: no evident not good_price"
+136,good_price,"1. **Supports:**
+   - hotels are beautiful
+   - price is cheap
+
+2. **Contraries:**
+   - no evident not hotels are beautiful
+   - no evident not price is cheap"
+149,good_price,"Supports:
+- price
+Contraries:
+- No evident not price"
+155,good_price,"1. Support: value  
+2. Contrary: no evident not value"
+156,good_price,"Here is the structured ABA format based on the provided text, adhering to the specified conditions:
+
+- **Claim**: good_price  
+- **Supports and Contraries**:  
+  - **Support**: good  
+    **Contrary**: no evident not good  
+  - **Support**: value  
+    **Contrary**: no evident not value  
+
+This format ensures that each support is a direct term from the original text, followed by its corresponding contrary statement."
+203,good_price,"Here is the text formatted according to your instructions using Assumption Based Argumentation (ABA):
+
+- **Support**: good_price  
+  **Contrary**: no evident not good_price"
+206,good_price,"1. Good price  
+2. No evident not good price"
+212,good_price,"1. **Claim**: The product has good price.
+2. **Support 1**: good  
+   - **Contrary**: no evident not good
+3. **Support 2**: price  
+   - **Contrary**: no evident not price"
+230,good_price,"Here is the structured ABA format based on the given conditions:
+
+- **Claim**: good_price
+  - **Premise 1**: and → **Contrary**: No evident not and
+  - **Premise 2**: very good value → **Contrary**: No evident not very good value"
+232,good_price,"1. Support: great  
+   Contrary: no evident not great  
+
+2. Support: price  
+   Contrary: no evident not price"
+234,good_price,"**ABA Format:**
+
+**Supports:**
+1. good rate
+2. standard of accommodation
+
+**Contraries:**
+- No evident not good rate
+- No evident not standard of accommodation"
+241,bad_price,"1. **Support**: price that it was  
+   **Contrary**: have evident price that it was  
+
+2. **Support**: shampoo dispenser  
+   **Contrary**: have evident shampoo dispenser"
+265,good_price,"1. Good  
+   No evident not good  
+
+2. 50  
+   No evident not 50"
+287,good_price,"1. Good price  
+2. No evident not good price"
+290,good_price,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - good_price
+  - upgraded_room
+  - balcony_view
+
+- **Contraries:**
+  - no_evident_not_good_price
+  - no_evident_not_upgraded_room
+  - no_evident_not_balcony_view"
+295,good_price,"Here is the structured ABA format based on the given text:
+
+- **Claim**: good_price  
+  - **Support 1**: Each Euro  
+    - **Contrary**: No evident not each Euro"
+313,good_price,"Support: value  
+Contrary: no evident not value"
+323,good_price,"[ERROR] ReadTimeout: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=180)"
+334,good_price,"- Very  
+  - No evident not very.  
+- Economic  
+  - No evident not economic."
+338,good_price,"Here is the structured ABA format based on your instructions:
+
+**Supports:**
+1. value
+2. for money
+
+**Contraries:**
+1. no evident not value
+2. no evident not for money"
+340,good_price,"Here is the structured ABA format based on the given text:
+
+- **Supports**:
+  - The product has a good price.
+  
+- **Contraries**:
+  - No evident not the product has a good price.
+
+This approach adheres to the instructions by using short, adjective-free statements and their respective contraries."
+366,good_price,"- **Support 1:** The price of his hotel is very good.
+  - **Contrary 1:** No evident not the price of his hotel is very good.
+  
+- **Support 2:** The prices of the food are not expensive.
+  - **Contrary 2:** No evident not the prices of the food are not expensive."
+396,good_price,"Here is the structured ABA format based on your requirements:
+
+1. **Supports:**
+   - price was great  
+   - price was reasonable  
+
+2. **Contraries:**
+   - no evident not price was great  
+   - no evident not price was reasonable"
+414,good_price,"Here is the structured ABA format based on the given text, following all specified conditions:
+
+- **Claim:** good_price  
+  - **Support:** great  
+    - **Contrary:** no evident not great"
+416,good_price,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - value
+  - money
+
+- **Contraries:**
+  - no evident not value
+  - no evident not money"
+435,bad_price,"**Assumption-Based Argumentation (ABA) Format:**
+
+- **Claim:** bad_price
+- **Supports & Contraries:**
+  - **Support:** have guesthouse_priced_high  
+    **Contrary:** have evident guesthouse_priced_high
+  - **Support:** have guesthouse_overpriced  
+    **Contrary:** have evident guesthouse_overpriced
+
+This structure presents the claim ""bad_price"" with two supports and their respective counterarguments, ensuring each point is clearly addressed without additional assumptions or opinions."
+436,bad_price,"1. **Support**: ""price""  
+   **Contrary**: ""have evident small water bottle""
+
+2. **Support**: ""water bottle""  
+   **Contrary**: ""have evident price"""
+437,bad_price,"**ABA Format Text:**
+
+- **Supports:**
+  - price was high
+  - expensive for what you get
+
+- **Contraries:**
+  - have evident price was not high
+  - have evident expensive for what you get"
+460,bad_price,"1. **Support**: rate  
+   **Contrary**: have no evident value  
+
+2. **Support**: offered  
+   **Contrary**: have no evident offer"
+471,good_price,"Here is the structured ABA format based on the given text:
+
+1. **Assumption**: Exceptional quality  
+   - **Support**: High quality (as part of value)  
+   - **Contrary**: No evident not high quality  
+
+2. **Assumption**: Exceptional features  
+   - **Support**: Good features (another aspect of value)  
+   - **Contrary**: No evident not good features  
+
+3. **Assumption**: Cost-effectiveness  
+   - **Support**: Long-lasting (as part of cost-effectiveness)  
+   - **Contrary**: No evident not long-lasting  
+
+4. **Assumption**: Value for money  
+   - **Support**: Exceptional value for money  
+   - **Contrary**: No evident not exceptional value for money  
+
+This format ensures each support is clearly paired with its contrary, maintaining clarity and conciseness as per the user's instructions."
+474,bad_price,"1. Support: overpriced  
+   Contrary: have evident overpricing"
+505,good_price,"ABA Format: price/performance is totally right.  
+No evident not price/performance is totally right."
+510,good_price,"Here is the structured ABA format based on the given text ""cheap"":
+
+1. **Premise**: cheap  
+   **Contrary**: no evident not cheap  
+
+This provides a clear and concise argument with both the support and its counterargument, adhering to the specified conditions."
+524,good_price,"- Claim: good_price
+- Supports:
+  - The place offers quality products.
+    - No evident not offering quality products.
+  
+  - The prices are reasonable.
+    - No evident not having reasonable prices.
+  
+  - The service is excellent.
+    - No evident not providing excellent service.
+  
+  - The location is convenient.
+    - No evident not being in a convenient location."
+527,good_price,"Here is the structured ABA format based on the given text:
+
+**Supports:**
+1. excellent
+2. value for money
+
+**Contraries:**
+1. no evident not excellent
+2. no evident not value for money"
+556,good_price,"- Support: good value
+  - Counterargument: no evident not good value"
+580,good_price,"1. **Support**: super  
+   **Contrary**: no evident not super  
+
+2. **Support**: undervalued  
+   **Contrary**: no evident not undervalued"
+590,good_price,"Here is the structured ABA format based on your requirements:
+
+**Supports:**
+1. for
+2. price
+
+**Contraries:**
+1. no evident not for
+2. no evident not price"
+595,bad_price,"- **Support**: meal_not_included  
+  - The meal is not included in the price.  
+
+- **Contrary**: have_evident_meal_not_included  
+  - Have evident that the meal is not included in the price."
+596,good_price,"- Claim: good_price
+- Supports:
+  - clean_room (from ""very clean"")
+    - Because: clean
+    - No evident not clean
+  - cheap_room (from ""cheap"")
+    - Because: cheap
+    - No evident not cheap"
+600,good_price,"Here is the structured ABA format based on your requirements:
+
+- Supports:
+  - satisfied
+  - price
+
+- Contraries:
+  - No evident not satisfied
+  - No evident not price"
+609,bad_price,"1. **Support**: price  
+   - **Contrary**: have evident price  
+
+2. **Support**: high  
+   - **Contrary**: have evident high  
+
+3. **Support**: comfort  
+   - **Contrary**: have evident comfort  
+
+4. **Support**: small room  
+   - **Contrary**: have evident small room"
+611,good_price,"- Claim: good_price
+- Support 1: value for money
+- Contrary 1: No evident not value for money"
+619,good_price,"1. Value  
+2. Unbeatable price  
+3. No evident not value  
+4. No evident not unbeatable price"
+631,good_price,"Here is the structured ABA format based on your requirements:
+
+- **Support 1**: The product has a good price.
+- **Contrary 1**: No evident not the product has a good price.
+
+- **Support 2**: The product has a good quality.
+- **Contrary 2**: No evident not the product has a good quality."
+715,good_price,"- Value exceeds cost.  
+  - No evident not value exceeds cost.  
+- Willingly paid.  
+  - No evident not willing to pay."
+737,good_price,"1. **Support**: value  
+   **Contrary**: no evident not-value  
+
+2. **Support**: money  
+   **Contrary**: no evident not-money"
+767,bad_price,"1. average - have evident not average  
+2. 3 stars - have evident not 3 stars  
+3. 400 euros - have evident not 400 euros  
+4. 3 nights - have evident not 3 nights  
+5. bit expensive - have evident not bit expensive"
+770,good_price,"Here is the structured ABA format based on the given text:
+
+**Supports and Contraries**
+
+1. **Good**
+   - **Contrary:** No evident not good
+
+2. **Value**
+   - **Contrary:** No evident not value
+
+3. **For money**
+   - **Contrary:** No evident not for money
+
+This format adheres to the conditions specified, ensuring each premise is a short word without adjectives or adverbs and each has a corresponding contrary starting with ""no evident not."""
+775,good_price,"Here is the structured ABA format based on the given text:
+
+**Supports:**
+1. We expect good_price.
+2. We expect perfect price.
+
+**Contraries:**
+1. No evident not we expect good_price.
+2. No evident not we expect perfect price.
+
+This format adheres to the specified conditions, ensuring clarity and conciseness while accurately reflecting both support and opposition based on the original text."
+778,good_price,"1. **Claim**: good_price  
+2. **Supports**:
+   - value
+   - value  
+3. **Contraries**:
+   - no evident not value
+   - no evident not value"

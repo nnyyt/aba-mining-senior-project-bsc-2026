@@ -1,0 +1,8 @@
+ID,Output
+125,"charge_above_price_taxi, no_alternative_transport_at_midnight, have_evident_charge_above_price_taxi, have_evident_no_alternative_transport_at_midnight"
+346,"no_show_taxi, have_evident_no_show_taxi"
+568,"price_negotiation_needed, have_evident_price_negotiation_needed"
+615,"late_shuttle_arrival, no_warning_about_delay, have_evident_late_shuttle_arrival, independent_shuttle_service, have_evident_independent_shuttle_service"
+660,"taxi_waiting_for_us, no_evident_not_taxi_waiting_for_us"
+666,"late_taxi_service, chaotic_taxi_service, have_evident_late_taxi_service, have_evident_chaotic_taxi_service"
+689,"no_taxi_showed_up, have_evident_no_taxi_showed_up"

@@ -1,0 +1,9 @@
+ID,Topic,Test 3
+161,good_check_out,"fast_check_out, no_evident_not_fast_check_out"
+310,good_check_out,"check_out, no_evident_not_check_out, later, no_evident_not_later"
+314,good_check_out,"super_fast, no_evident_not_super_fast, check_in_checkout, no_evident_not_check_in_checkout"
+542,good_check_out,"fast_check_out, no_evident_not_fast_check_out, we_left_at_night_with_no_problems, no_evident_not_we_left_at_night_with_no_problems"
+639,good_check_out,"early_check_in, no_evident_not_early_check_in, early_check_out, no_evident_not_early_check_out"
+660,good_check_out,"late_arrival, no_evident_not_late_arrival, late_departure, no_evident_not_late_departure"
+711,good_check_out,"fast_check_out, no_evident_not_fast_check_out, this_is_a_single_support_with_its_contrary_included_in_the_same_list"
+769,bad_check_out,"did_not_allow, have_evident_did_not_allow"

@@ -1,0 +1,25 @@
+ID,Prompt,PhraseA,PhraseB,Test 1
+1,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is good_check-out_time. Phrase A is have_evident_staff_not_allow_late_check-out_for_delay_plane.",have_evident_staff_not_allow_late_check-out_for_delay_plane,good_check-out_time,Yes
+2,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is allow_to_check-out_later. Phrase A is have_evident_staff_not_allow_late_check-out_for_delay_plane.",have_evident_staff_not_allow_late_check-out_for_delay_plane,allow_to_check-out_later,Yes
+3,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is fast_check-out. Phrase A is have_evident_staff_not_allow_late_check-out_for_delay_plane.",have_evident_staff_not_allow_late_check-out_for_delay_plane,fast_check-out,Yes
+4,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is no_problem_left_at_night. Phrase A is have_evident_staff_not_allow_late_check-out_for_delay_plane.",have_evident_staff_not_allow_late_check-out_for_delay_plane,no_problem_left_at_night,Yes
+5,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is staff_give_early_check-out. Phrase A is have_evident_staff_not_allow_late_check-out_for_delay_plane.",have_evident_staff_not_allow_late_check-out_for_delay_plane,staff_give_early_check-out,Yes
+6,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is late_departure_no_extra_cost. Phrase A is have_evident_staff_not_allow_late_check-out_for_delay_plane.",have_evident_staff_not_allow_late_check-out_for_delay_plane,late_departure_no_extra_cost,Yes
+7,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is hotel_allow_late_departure. Phrase A is have_evident_staff_not_allow_late_check-out_for_delay_plane.",have_evident_staff_not_allow_late_check-out_for_delay_plane,hotel_allow_late_departure,Yes
+8,"Is phrase B contrary to phrase A? Answer exactly 'Yes' or 'No' only. Don't provide any nonsensical or multilingual garbage text.
+
+[Question] Phrase B is possibility_for_late_check_out. Phrase A is have_evident_staff_not_allow_late_check-out_for_delay_plane.",have_evident_staff_not_allow_late_check-out_for_delay_plane,possibility_for_late_check_out,Yes

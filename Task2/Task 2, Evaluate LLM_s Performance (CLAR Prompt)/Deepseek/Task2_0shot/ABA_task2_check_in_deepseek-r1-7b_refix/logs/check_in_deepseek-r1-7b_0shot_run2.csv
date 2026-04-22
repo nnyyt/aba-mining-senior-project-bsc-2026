@@ -1,0 +1,305 @@
+ID,Topic,Output
+59,good_check_in,"- Claim: good_check_in  
+  - Support 1: easy  
+    - Contrary: No evident not easy  
+  - Support 2: check-in  
+    - Contrary: No evident not check-in  
+  - Support 3: late at night  
+    - Contrary: No evident not late at night"
+60,good_check_in,"Here is the structured ABA format based on the given text:
+
+**Supports:**
+1. Clear instructions
+2. Left access
+3. Made easy
+
+**Contraries:**
+1. No evident not clear instructions
+2. No evident not left access
+3. No evident not made easy
+
+This format presents each support and its corresponding contrary, adhering to the specified conditions without additional assumptions or claims."
+71,good_check_in,"Here is the structured ABA format based on the given text:
+
+**ABA Format:**
+
+- **Supports:**
+  1. instructions
+  2. how to get access
+
+- **Contraries:**
+  1. no evident not instructions
+  2. no evident not how to get access"
+72,good_check_in,"Here is the structured response based on the given text using Assumption Based Argumentation (ABA) format:
+
+1. Support: received clear instructions  
+   Contrary: No evident not received clear instructions  
+
+2. Support: entered hotel  
+   Contrary: No evident not entered hotel  
+
+3. Support: accessed room  
+   Contrary: No evident not accessed room  
+
+Each entry clearly presents the support and its corresponding contrary, adhering to the specified conditions."
+89,good_check_in,"1. Support: sent  
+   Contrary: no evident not sent  
+
+2. Support: perfect  
+   Contrary: no evident not perfect"
+92,good_check_in,"1. **Support**: late night  
+   **Contrary**: no evident not late night  
+
+2. **Support**: super  
+   **Contrary**: no evident not super  
+
+3. **Support**: easy  
+   **Contrary**: no evident not easy"
+110,good_check_in,"Supports:
+1. Check-in was easy.
+2. The check-in process was easy.
+
+Contraries:
+1. No evident not the check-in was easy.
+2. No evident not the check-in process was easy."
+140,good_check_in,"Supports:
+1. easy
+2. self
+3. check-in
+
+Contraries:
+1. no evident not easy
+2. no evident not self
+3. no evident not check-in"
+152,bad_check_in,"1. Late check-in  
+2. No one gave us keys  
+3. Door was locked  
+
+Contrary:  
+4. Have evident late check-in  
+5. Have evident no one gave us keys  
+6. Have evident door was locked"
+153,good_check_in,"1. Friendly staff  
+   No evident not friendly staff  
+
+2. Checked us in quickly  
+   No evident not checked us in quickly"
+158,good_check_in,"- easy  
+  no evident not difficult"
+163,good_check_in,"**ABA Format for ""good_check_in""**
+
+Supports:
+1. easy
+2. night
+3. check
+
+Contraries:
+1. No evident not easy
+2. No evident not night
+3. No evident not check"
+185,good_check_in,"Here is the structured ABA format based on your conditions:
+
+**Supports and Contraries:**
+
+1. **Support:** The staff accommodated my arrival at 3 a.m.
+   - **Contrary:** No evident not... the staff did not accommodate my arrival at 3 a.m.
+
+2. **Support:** The staff provided very clear instructions.
+   - **Contrary:** No evident not... the staff did not provide very clear instructions."
+190,good_check_in,"1. late  
+   No evident not late  
+
+2. worked well  
+   No evident not worked well"
+214,good_check_in,"1. Support: arrived_late  
+   Contrary: no evident not arrived_late  
+
+2. Support: made_sure  
+   Contrary: no evident not made_sure"
+220,good_check_in,"Here is the text in Assumption Based Argumentation (ABA) format based on your conditions:
+
+1. **Supports:**
+   - good
+   - process
+
+2. **Contraries:**
+   - no evident not good
+   - no evident not process"
+221,good_check_in,"Here is the structured ABA format based on your requirements:
+
+- **Support 1**: Owner was aware (from tracking).
+  - **Contrary 1**: No evident not owner was aware of our arrival status.
+
+- **Support 2**: Owner knew about the delay due to flight issues.
+  - **Contrary 2**: No evident not owner knew about the delay."
+227,good_check_in,"Here is the structured ABA format based on your text, adhering to all specified conditions:
+
+- **Support**: kind hosts made late check in simple  
+  - **Contrary**: no evident not kind hosts made late check in simple"
+232,good_check_in,"1. Support: late arrival  
+   Contrary: no evident not being late  
+
+2. Support: got great instructions  
+   Contrary: no evident not getting good instructions"
+276,good_check_in,"1. good_check_in: friendly staff  
+   - no evident not friendly staff  
+
+2. good_check_in: allow you to check in the early hours  
+   - no evident not allow you to check in the early hours"
+283,good_check_in,"Supports:
+1. arrived late
+2. no problem
+
+Contraries:
+1. No evident not arrived late
+2. No evident not no problem"
+314,good_check_in,"Here is the structured ABA format based on your requirements:
+
+- **Claim**: good_check_in
+- **Supports**:
+  - check_in
+  - checkout
+- **Contraries**:
+  - no evident not check_in
+  - no evident not checkout"
+365,good_check_in,"Here is the structured ABA format based on the given text, following the specified conditions:
+
+- **Supports and Contraries:**
+  - **night**  
+    no evident not night  
+  - **quickly**  
+    no evident not quickly  
+
+This format ensures each support is paired with its contrary, using the original words without adding synonyms or further opinions."
+394,good_check_in,"Here is the structured ABA format based on the given text:
+
+1. **Support 1**: Quick  
+   - **Contrary**: No evident not quick.
+
+2. **Support 2**: Easy  
+   - **Contrary**: No evident not easy.
+
+This format adheres to all specified conditions, ensuring clarity and logical structure without including any additional assumptions or claims."
+399,good_check_in,"1. Support: ""room is clean""
+   - Contrary: ""no evident not room is clean""
+
+2. Support: ""room is ready""
+   - Contrary: ""no evident not room is ready""
+
+3. Support: ""check-in time is at 12""
+   - Contrary: ""no evident not check-in time is at 12"""
+452,good_check_in,"- **Support**: check-in is easy  
+  - **Contrary**: No evident not check-in is easy"
+453,bad_check_in,"1. **Support**: Waited 10 minutes for someone to come greet us for check-in, no one on desk.  
+   **Contrary**: Have evident expected someone to come but none arrived.
+
+2. **Support**: Guy on desk told us we had not paid but we did.  
+   **Contrary**: Have evident accused of not paying when payment was made.
+
+3. **Support**: Took a picture of my passport which no hotel does at all which was very strange.  
+   **Contrary**: Have evident hotel wouldn't take pictures of passports, so this action is unusual."
+513,good_check_in,"1. We arrived late  
+   No evident not we arrived late  
+
+2. The directions were clear and easy  
+   No evident not the directions were clear and easy"
+515,good_check_in,"Here is the structured ABA format based on your requirements:
+
+1. **Support**: Thanks moved in early  
+   **Contrary**: No evident not moved in early  
+
+This response adheres to all specified conditions, ensuring clarity and conciseness while maintaining grammatical accuracy."
+538,good_check_in,"1. Support: arrived at night  
+   Contrary: No evident not arrived at night  
+
+2. Support: entered via self-check-in  
+   Contrary: No evident not entered via self-check-in  
+
+3. Support: no problems  
+   Contrary: No evident not no problems"
+546,good_check_in,"1. purely  
+2. check-in after 12 at night  
+3. no evident not purely  
+4. no evident not check-in after 12 at night"
+564,good_check_in,"Supports:
+- after
+  - no evident not after
+
+- midnight
+  - no evident not midnight"
+578,good_check_in,"**Claim**: good_check_in  
+- **Supports**:  
+  - The process of self-check-in at night exists.  
+    - **Contrary**: There is no evident not-process involved in self-check-in at night.  
+  - Self-check-in at night is very easy to perform.  
+    - **Contrary**: There is no evident difficulty in performing self-check-in at night."
+589,good_check_in,"- Support: clear  
+  Contrary: no evident not clear"
+606,good_check_in,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Supports:**
+   - flight was delayed
+   - they took care of us both for late check-in
+
+2. **Contraries:**
+   - No evident not flight was delayed
+   - No evident not they took care of us both for late check-in"
+614,good_check_in,"1. **Support**: friendly staff  
+   **Contrary**: no evident not friendly staff  
+
+2. **Support**: communication with the hotel before our arrival was smooth  
+   **Contrary**: no evident not communication with the hotel before our arrival was smooth"
+633,good_check_in,"ABA Format:  
+Supports:  
+1. arrived at 3 a.m.  
+2. they waited for us  
+
+Contraries:  
+1. No evident not arrived at 3 a.m.  
+2. No evident not they waited for us"
+639,good_check_in,"Here is the text in ABA format based on your conditions:
+
+1. Earlier check-in  
+   - No evident not earlier check-in  
+
+2. Earlier check-out  
+   - No evident not earlier check-out  
+
+3. No problem with later check-in  
+   - No evident not later check-in"
+660,good_check_in,"1. Support: The hotel allowed us a late arrival.  
+   Contrary: No evident not allowing a late arrival.
+
+2. Support: The hotel allowed us a late departure.  
+   Contrary: No evident not allowing a late departure.
+
+3. Support: The hotel provided a late departure at 1:30 p.m.  
+   Contrary: No evident not providing a late departure at 1:30 p.m."
+775,good_check_in,"Here is the structured ABA format based on your requirements:
+
+- **Claim**: good_check_in
+- **Supports**:
+  - perfect welcome (because the text states it's a perfect welcome)
+  - arriving at 4am (since arriving early is mentioned in the text)
+- **Contraries**:
+  - no evident not perfect welcome (opposite of the support ""perfect welcome"")
+  - no evident not arriving at 4am (opposite of the support ""arriving at 4am"")"
+778,good_check_in,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  - check-in at 1:30 in the morning
+  - perfect welcome
+
+- **Contraries:**
+  - no evident not (check-in at 1:30 in the morning)
+  - no evident not (perfect welcome)
+
+This format adheres to all specified conditions, ensuring each support is paired with its contrary."
+779,good_check_in,"Here is the structured ABA format based on the given text:
+
+1. **Argument 1:**
+   - **Assumption:** check_in_good
+   - **Support:** early in the morning (from ""at 4am"")
+   - **Contrary:** no evident not early in the morning
+
+This argument highlights that checking in at 4am is considered good because it represents an early morning time, which may offer a quiet and uninterrupted environment. The contrary suggests that if it's not early in the morning, then check-in might be less preferable for similar reasons."

@@ -1,0 +1,1424 @@
+ID,Topic,Output
+1,good_food,"1. Tasty  
+2. Comfortable evening  
+3. Calm work environment  
+4. No evident not tasty  
+5. No evident not comfortable evening  
+6. No evident not calm work environment"
+2,good_food,"Here is the structured ABA format based on the provided text:
+
+- Supports:
+  - Amazing
+  - Fresh
+  - Handmade
+  - Vegetarian version
+  - Humus
+  - Great
+  - Kind
+  - Helpful
+
+- Contraries:
+  - No evident not amazing
+  - No evident not fresh
+  - No evident not handmade
+  - No evident not vegetarian version
+  - No evident not humus
+  - No evident not great
+  - No evident not kind
+  - No evident not helpful"
+11,good_food,"1. Support: the food is good  
+   Contrary: no evident not the food is good  
+
+2. Support: prices are reasonable  
+   Contrary: no evident not prices are reasonable"
+12,good_food,"1. Taste  
+   No evident not taste  
+
+2. Convenience  
+   No evident not convenience"
+16,good_food,"Here is the structured list of supports and their corresponding contraries in ABA format:
+
+1. **Support**: amazing  
+   **Contrary**: no evident not amazing  
+
+2. **Support**: very tasty  
+   **Contrary**: no evident not very tasty  
+
+3. **Support**: made with a lot of care  
+   **Contrary**: no evident not made with a lot of care  
+
+4. **Support**: olive oil galore  
+   **Contrary**: no evident not olive oil galore  
+
+5. **Support**: herbs  
+   **Contrary**: no evident not herbs"
+18,good_food,"1. good_food
+2. Meals are well prepared.  
+   no evident not well prepared.
+3. Meals have good value.  
+   no evident not good value."
+21,good_food,"Breakfast is absolutely delicious.
+No evident not breakfast is absolutely delicious.
+Lunch is absolutely delicious.
+No evident not lunch is absolutely delicious.
+Dinner is absolutely delicious.
+No evident not dinner is absolutely delicious."
+22,bad_food,"1. [Support]: bad_food  
+   [Contrary]: have evident stodgy  
+
+2. [Support]: bad_food  
+   [Contrary]: have evident stodgy"
+22,good_food,"Supports:
+- The restaurant area is good.
+
+Contraries:
+- No evident not good."
+26,good_food,"Here is the structured ABA format based on the given text:
+
+**Supports:**
+1. The food is good.
+2. The food is cheap.
+
+**Contraries:**
+1. No evident not the food is good.
+2. No evident not the food is cheap.
+
+This presentation adheres to all specified conditions, ensuring clarity and conciseness while maintaining the original vocabulary from the text."
+31,good_food,"Here is the structured ABA format based on the provided text:
+
+**Supports:**
+1. restaurant
+2. food excellent
+3. food reasonably priced
+
+**Contraries:**
+1. no evident not restaurant
+2. no evident not food excellent
+3. no evident not food reasonably priced"
+33,good_food,"1. Breakfast
+   - No evident not breakfast
+2. Save your time
+   - No evident not save your time"
+36,bad_food,"Here is the structured ABA format based on your requirements:
+
+1. **Supports:**
+   - No opening times
+   - No closing times
+
+2. **Contraries:**
+   - Have evident no opening times
+   - Have evident no closing times"
+36,good_food,"1. Support: polite  
+   Contrary: No evident not polite  
+
+2. Support: excellent food  
+   Contrary: No evident not excellent food  
+
+3. Support: passion  
+   Contrary: No evident not passion"
+41,good_food,"Supports:
+1. breakfast
+2. very
+
+Contraries:
+1. no evident not nice breakfast
+2. no evident not good food"
+45,good_food,"1. Good food  
+2. Reasonably priced  
+3. Easy choice compared to usual  
+4. No evident not good food  
+5. No evident not reasonably priced  
+6. No evident not easy choice compared to usual"
+53,good_food,"1. Delicious  
+   No evident not delicious  
+
+2. Breakfasts  
+   No evident not breakfasts"
+56,bad_food,"1. Support: 7  
+2. Contrary: have evident 7  
+3. Support: 8  
+4. Contrary: have evident 8"
+61,good_food,"- good_food
+  - food
+    - no evident not food
+  - range
+    - no evident not range
+  - offered
+    - no evident not offered"
+62,good_food,"1. Restaurant - no evident not restaurant  
+2. Site - no evident not site"
+64,good_food,"Here is the structured ABA format based on the given conditions:
+
+**Supports:**
+1. They made us a pizza.
+2. Pizza was really nice.
+
+**Contraries:**
+1. No evident not they made us a pizza.
+2. No evident not pizza was really nice."
+66,good_food,"- Claim: good_food  
+  Supports:  
+    chic  
+    no evident not chic"
+74,good_food,"Here is the structured ABA format based on your requirements:
+
+- **Supports**:
+  - restaurant
+  - delicious
+
+- **Contraries**:
+  - No evident not restaurant
+  - No evident not delicious
+
+This list adheres to all specified conditions, ensuring clarity and precision without introducing any additional information or assumptions."
+80,good_food,"Here is the structured ABA format based on your requirements:
+
+**Supports:**
+1. delicious
+2. inexpensive
+
+**Contraries:**
+1. no evident not delicious
+2. no evident not inexpensive"
+84,good_food,"Here is the structured ABA format based on your requirements:
+
+1. **Supports:**
+   - very good
+   - plenty of selection
+
+2. **Contraries:**
+   - No evident not very good
+   - No evident not plenty of selection
+
+This list adheres to all specified conditions, ensuring clarity and precision in the ABA format."
+86,good_food,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - breakfast
+  - excellent
+
+- **Contraries:**
+  - No evident not breakfast
+  - No evident not excellent"
+87,good_food,"Supports:
+1. food
+2. delicious
+
+Contraries:
+1. no evident not food
+2. no evident not delicious"
+93,good_food,"- Support: nice restaurant  
+  Contrary: No evident not nice restaurant.  
+
+- Support: nice offer  
+  Contrary: No evident not nice offer."
+94,good_food,"- Support: very tasty food  
+  Contrary: No evident not very tasty food.  
+
+- Support: super service  
+  Contrary: No evident not super service."
+97,good_food,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Supports**:  
+  - food  
+  - excellent  
+
+- **Contraries**:  
+  - no evident not food  
+  - no evident not excellent"
+107,good_food,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - breakfast
+  - excellent
+
+- **Contraries:**
+  - No evident not breakfast
+  - No evident not excellent"
+112,good_food,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - nice
+  - food is good
+  - good food
+  - good service
+
+- **Contraries:**
+  - no evident not nice
+  - no evident not food is good
+  - no evident not good food
+  - no evident not good service"
+118,good_food,"- good
+  - no evident not good
+- 10/10
+  - no evident not 10/10"
+126,good_food,"Here is the structured ABA format based on your requirements:
+
+- **Support**: tasty  
+- **Contrary**: no evident not tasty  
+
+This list adheres to all specified conditions, ensuring clarity and conciseness while accurately reflecting the original statement's meaning."
+132,good_food,"1. Support: delicious  
+   Contrary: No evident not delicious  
+
+2. Support: freshly prepared  
+   Contrary: No evident not freshly prepared"
+134,good_food,"- Support: chef  
+  Contrary: no evident not chef"
+139,good_food,"Here is the structured ABA format based on the given conditions:
+
+- nice
+  - no evident not nice
+- restaurant
+  - no evident not restaurant
+- at
+  - no evident not at
+- hotel
+  - no evident not hotel
+- with
+  - no evident not with
+- external
+  - no evident not external
+- balcony
+  - no evident not balcony"
+140,good_food,"- **Supports**:  
+  - good_breakfast  
+
+- **Contraries**:  
+  - no_evident_not_good_breakfast"
+145,good_food,"1. Ate rich breakfast  
+2. Ate various local food  
+3. No evident not ate rich breakfast  
+4. No evident not ate various local food"
+153,good_food,"[ERROR] ReadTimeout: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=180)"
+155,good_food,"Supports:
+1. fresh
+2. made
+3. prepare
+4. chef
+
+Contraries:
+no evident not fresh
+no evident not made
+no evident not prepare
+no evident not chef"
+158,good_food,"Here is the structured ABA format based on the given text:
+
+- **Claim**: good_food  
+  - **Support**: amazing  
+    - **Contrary**: no evident not amazing  
+  - **Support**: breakfasts  
+    - **Contrary**: no evident not breakfasts"
+162,good_food,"ABA Format:
+
+- Supports: delicious, breakfast  
+- Contraries: no evident not delicious, no evident not breakfast"
+167,good_food,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - food is good
+  - food is excellent
+
+- **Contraries:**
+  - No evident not food is good
+  - No evident not food is excellent"
+168,good_food,"ABA Format:
+
+1. Must try
+   - No evident not must try
+
+2. Pretty delicious
+   - No evident not pretty delicious"
+169,good_food,"Here is the ABA formatted text based on your instructions:
+
+1. Support: We ate 2 meals  
+   Contrary: No evident not we ate 2 meals  
+
+2. Support: both were delish  
+   Contrary: No evident not both were delish  
+
+3. Support: the service was great  
+   Contrary: No evident not the service was great"
+170,good_food,"1. Good_food: excellent  
+   No evident not excellent  
+
+2. Good_food: best  
+   No evident not best"
+180,good_food,"1. Delicious, no evident not delicious
+2. Great, no evident not great"
+183,good_food,"Supports:
+1. The food is good.
+2. The food is excellent.
+
+Contraries:
+1. No evident not the food is good.
+2. No evident not the food is excellent."
+184,good_food,"Here is the text reformatted according to your instructions:
+
+**Supports:**
+1. kind  
+2. friendliness  
+3. delicious  
+4. jasmine burger  
+
+**Contraries:**  
+1. no evident not kind  
+2. no evident not friendliness  
+3. no evident not delicious  
+4. no evident not jasmine burger"
+185,good_food,"Here is the structured ABA format based on the given text:
+
+**Supports and Contraries List:**
+
+1. **Breakfast**
+   - No evident not breakfast
+
+2. **Served**
+   - No evident not served
+
+3. **Until noon**
+   - No evident not until noon"
+190,good_food,"- good_food: excellent_breakfast  
+  - no_evident_not_excellent_breakfast"
+198,good_food,"**ABA Format Text:**
+
+- **Supports:**
+  - Richard as the head of Hotel's restaurant cooks with passion.
+  - He makes almost everything from scratch.
+  - So fresh and good-looking.
+  - He makes a simple breakfast amazing.
+  - His lunch table looks like a feast.
+
+- **Contraries:**
+  - No evident not cooking with passion.
+  - No evident not making almost everything from scratch.
+  - No evident not being so fresh and good-looking.
+  - No evident not making a simple breakfast amazing.
+  - No evident not looking like a feast."
+200,good_food,"1. food is good  
+   No evident not food is good  
+
+2. club sandwich is great  
+   No evident not club sandwich is great"
+209,good_food,"Here is the structured ABA format based on your requirements:
+
+1. Support: we loved the breakfast  
+   Contrary: no evident not we loved the breakfast  
+
+2. Support: we loved the breakfast  
+   Contrary: no evident not we loved the breakfast"
+211,good_food,"ABA Format:
+
+- Claim: good_food
+- Supports:
+  - large size
+  - delicious
+- Contraries:
+  - No evident not large size
+  - No evident not delicious"
+213,good_food,"- Good  
+  - No evident not good  
+
+- Kind  
+  - No evident not kind"
+221,good_food,"1. Breakfast was good.  
+   No evident not breakfast was good.  
+
+2. Breakfast had outstanding taste.  
+   No evident not breakfast had outstanding taste."
+226,good_food,"1. Support: excellent staff  
+   Contrary: no evident not excellent staff  
+
+2. Support: ok restaurant  
+   Contrary: no evident not ok restaurant"
+232,good_food,"Here is the structured response based on your requirements:
+
+- **Support:** The café provided a good early morning meal.  
+  **Contrary:** No evident not a good early morning meal.
+
+- **Support:** The manager catered to our every need.  
+  **Contrary:** No evident not the manager catered to our every need."
+233,good_food,"Here is the structured ABA format based on the provided text:
+
+**Supports:**
+1. The breakfast was amazing.
+2. The management were wonderful.
+3. The location was a bit far from the local shop yet they have everything needed in the cafe.
+
+**Contraries:**
+4. No evident not the breakfast was amazing.
+5. No evident not the management were wonderful.
+6. No evident not the location was a bit far from the local shop yet they have everything needed in the cafe."
+236,good_food,"Here is the structured ABA format based on the provided text and conditions:
+
+1. Breakfast  
+2. Good  
+3. No evident not breakfast.  
+4. No evident not good."
+245,good_food,"Here is the structured ABA format based on your requirements:
+
+1. **Support**: The restaurant at floor level is awesome  
+   **Contrary**: No evident not the restaurant at floor level is awesome  
+
+2. **Support**: Richard is a great chef  
+   **Contrary**: No evident not Richard is a great chef  
+
+3. **Support**: his friendliness will make you want to extend your vacation for sure  
+   **Contrary**: No evident not his friendliness will make you want to extend your vacation for sure  
+
+4. **Support**: We felt like we were part of their community  
+   **Contrary**: No evident not We felt like we were part of their community  
+
+5. **Support**: this is due to their opennes  
+   **Contrary**: No evident not this is due to their opennes"
+246,good_food,"- Good
+  - The food was good.
+    - No evident not good.
+  - The chef was friendly.
+    - No evident not friendly."
+250,good_food,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your instructions:
+
+1. **Support**: ""The rooms, lobby and restaurant were lovely; exceedingely modern, and comfortable.""  
+   - **Contrary**: no evident not The rooms, lobby and restaurant were lovely; exceedingely modern, and comfortable.
+
+2. **Support**: ""We ate dinner at the hotel because we were so impressed with 'chef Richard' and the food was fabulous.""  
+   - **Contrary**: no evident not We ate dinner at the hotel because we were so impressed with 'chef Richard' and the food was fabulous.
+
+3. **Support**: ""The rooms, lobby and restaurant were lovely; exceedingely modern, and comfortable.""  
+   - **Contrary**: no evident not The rooms, lobby and restaurant were lovely; exceedingely modern, and comfortable.
+
+4. **Support**: ""We ate dinner at the hotel because we were so impressed with 'chef Richard' and the food was fabulous.""  
+   - **Contrary**: no evident not We ate dinner at the hotel because we were so impressed with 'chef Richard' and the food was fabulous.
+
+Please note that each support is followed by its corresponding contrary, as per your instructions."
+252,good_food,"Here is the structured ABA format based on your requirements:
+
+- fresh
+  - No evident not fresh
+
+- made
+  - No evident not made
+
+- delicious
+  - No evident not delicious"
+258,good_food,"1. food  
+   no evident not food  
+
+2. tranquil  
+   no evident not tranquil"
+260,good_food,"- Claim: good_food  
+  Supports: delicious, breakfast  
+  Contraries: No evident not delicious, No evident not breakfast"
+262,good_food,"Here is the text formatted according to your instructions:
+
+1. had  
+2. breakfast  
+3. no evident not had  
+4. no evident not breakfast"
+268,good_food,"Supports:
+1. breakfast
+
+Contraries:
+1. No evident not breakfast"
+272,good_food,"- Support: breakfast  
+  Contrary: no evident not breakfast  
+
+- Support: delicious  
+  Contrary: no evident not delicious"
+278,good_food,"- superb  
+No evident not superb"
+279,bad_food,"1. Claim: bad_food  
+2. Supports:
+   - Breakfast is not included in the hotel cost
+   - no menu - you get whatever is served
+3. Contraries:
+   - Breakfast is included in the hotel cost. Have evident, it's not the case.
+   - There is a menu provided at the hotel. Have evident, there isn't one.
+
+The final answer is:
+
+- Breakfast is not included in the hotel cost  
+- no menu - you get whatever is served  
+- Breakfast is included in the hotel cost. Have evident, it's not the case.  
+- There is a menu provided at the hotel. Have evident, there isn't one."
+279,good_food,"**Supports:**
+1. $10 euros
+2. hot breakfast
+3. nice
+
+**Contraries:**
+1. no evident not $10 euros
+2. no evident not hot breakfast
+3. no evident not nice"
+282,good_food,"1. Support: tasty
+2. Contrary: no evident not tasty"
+288,good_food,"- Claim: good_food  
+  Supports:  
+    - good  
+      Contrary: no evident not good  
+    - tasty  
+      Contrary: no evident not tasty"
+290,good_food,"ABA Format:
+
+1. **Supports:**
+   - The breakfast was
+   - good
+
+2. **Contraries:**
+   - No evident not The breakfast was
+   - No evident not good"
+295,good_food,"1. Support: tasty  
+   Contrary: no evident not tasty"
+300,good_food,"1. **Claim**: good_food  
+2. **Supports**:
+   - breakfast
+3. **Contraries**:
+   - No evident not breakfast"
+305,good_food,"1. Supports:
+   - restaurants
+   - richard
+
+2. Contraries:
+   - no evident not restaurants
+   - no evident not richard"
+310,good_food,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - nice
+  - very clean
+
+- **Contraries:**
+  - no evident not nice
+  - no evident not very clean"
+312,good_food,"- good_food
+  - delicious
+    - no evident not delicious"
+322,bad_food,"**Supports:**
+1. More_restaurants.
+2. More_restaurants.
+
+**Contraries:**
+1. Have_evident_more_restaurants.
+2. Have_evident_more_restaurants."
+330,good_food,"1. The breakfast was good.  
+   No evident not the breakfast was good."
+333,good_food,"- Good food (excellent)  
+  No evident not excellent  
+
+- Good food (good)  
+  No evident not good"
+336,good_food,"- Support 1: Dinner and breakfast were freshly made  
+- Contrary 1: No evident not dinners and breakfasts were freshly made  
+- Support 2: very tasty  
+- Contrary 2: No evident not very tasty"
+339,good_food,"- Garnish  
+  No evident not Garnish  
+
+- Restaurant on the ground  
+  No evident not in the restaurant on the ground  
+
+- Kind  
+  No evident not kind person  
+
+- Creative  
+  No evident not creative chef"
+348,good_food,"1. Breakfast is good food.  
+   No evident not (breakfast is good food).  
+
+2. Cypriot breakfast is typical.  
+   No evident not (Cypriot breakfast is typical)."
+353,good_food,"- good_food  
+  - healthy breakfast  
+    + no evident not healthy breakfast"
+355,good_food,"Here is the text in Assumption Based Argumentation (ABA) format based on your conditions:
+
+1. Breakfast in hotel  
+   No evident not breakfast in hotel  
+
+This provides the required structure for supports and their corresponding contraries, adhering to all specified guidelines."
+362,good_food,"Here is the structured ABA format based on your instructions:
+
+**Supports:**
+1. good_food because of really
+2. good_food because of delicious
+3. taste
+4. nutrition
+5. variety
+6. health benefits
+
+**Contraries:**
+1. No evident not good_food because of really
+2. No evident not good_food because of delicious
+3. No evident not taste
+4. No evident not nutrition
+5. No evident not variety
+6. No evident not health benefits"
+366,good_food,"Here is the structured ABA format based on your text:
+
+**Supports:**
+1. The chef is perfect.
+2. He made delicious meals.
+3. His food is better than a 5-star hotel.
+4. Prices are very good.
+5. Prices are not expensive.
+
+**Contraries:**
+1. No evident not perfect.
+2. No evident not made delicious meals.
+3. No evident not better than a 5-star hotel.
+4. No evident not very good.
+5. No evident not not expensive."
+369,good_food,"- Claim: good_food
+- Supports:
+  - amazing
+  - no evident not amazing
+- Contraries:
+  - no evident not amazing
+  - (No second contrary needed as per the single support)"
+373,good_food,"- Supports:
+  - enjoy
+  - delicious
+  
+- Contraries:
+  - No evident not enjoy
+  - No evident not delicious"
+375,good_food,"Supports:
+1. outstanding
+2. delicious
+
+Contraries:
+1. No evident not outstanding
+2. No evident not delicious"
+376,good_food,"1. Support: chef  
+   Contrary: no evident not chef  
+
+2. Support: friendly  
+   Contrary: no evident not friendly"
+377,good_food,"ABA Format:
+
+1. **Claim**: good_food  
+2. **Support**: delicious  
+3. **Contrary**: no evident not delicious"
+378,good_food,"ABA Format:
+
+- Support: was
+  - Contrary: no evident not was"
+379,good_food,"1. Got early breakfast  
+   - Contrary: no evident not got early breakfast  
+
+2. Had nice evening in bar  
+   - Contrary: no evident not had nice evening in bar"
+380,bad_food,"Here is the structured ABA format based on the provided text:
+
+- **Support**: Breakfast has more options.
+- **Contrary**: Breakfast have evident fewer options.
+
+This approach adheres to the conditions specified, ensuring each support and its corresponding contrary are clearly presented without adding unnecessary adjectives or adverbs."
+380,good_food,"Here is the structured ABA format based on the given text:
+
+**Assumption:** Breakfasts are good food.
+
+**Argument 1:**
+- **Support:** Tasty
+- **Therefore, Claim:** Good food.
+- **Contrary:** No evident not tasty.
+
+This structure adheres to all specified conditions by using short words for supports, exact vocabulary from the original text, and appropriately formulating contraries."
+383,good_food,"1. Claim: good_food
+2. Supports:
+   - breakfast
+   - healthy
+3. Contraries:
+   - no evident not breakfast
+   - no evident not healthy"
+386,good_food,"Here is the structured ABA format based on your requirements:
+
+- good_food
+  - friendly
+    - no evident not friendly
+  - welcoming
+    - no evident not welcoming
+  - accommodating
+    - no evident not accommodating"
+393,good_food,"- **Supports:**
+  - price
+  - quality
+
+- **Contraries:**
+  - no evident not price
+  - no evident not quality"
+394,good_food,"ABA Format:
+
+Supports:
+- Service
+- Richard
+
+Contraries:
+- No evident not service
+- No evident not Richard
+
+Claim: good_food"
+400,good_food,"- He is real professional. (Source 1)
+- No evident not real professional.
+- He was always trying to prepare. (Source 2)
+- No evident not always trying to prepare.
+- He offers traditional vegan dishes. (Source 3)
+- No evident not offers traditional vegan dishes.
+
+This list follows the ABA format with each support followed by its corresponding contrary, all derived from the original text without adding any assumptions or further opinions."
+405,good_food,"Supports and Contraries:
+
+1. richard; No evident not richard  
+2. makes; No evident not makes  
+3. know; No evident not know  
+4. years; No evident not years  
+5. kind; No evident not kind  
+6. polite; No evident not polite  
+7. ready; No evident not ready  
+8. help; No evident not help  
+9. eat; No evident not eat  
+10. drink; No evident not drink  
+11. delicious; No evident not delicious"
+407,good_food,"Here is the structured ABA format based on your requirements:
+
+Supports:
+1. Greek
+2. Breakfast
+
+Contraries:
+- no evident not Greek
+- no evident not breakfast"
+409,good_food,"1. Support: delicious
+   Contrary: No evident not delicious
+   
+2. Support: incredible
+   Contrary: No evident not incredible"
+415,good_food,"- Support: great  
+  Contrary: No evident not great"
+424,good_food,"1. Claim: good_food  
+2. Supports:  
+   - fantastic (from ""Fantastic breakfast"")  
+3. Contraries:  
+   - no evident not fantastic"
+425,bad_food,"1. bad_food  
+2. No cereal have evident  
+3. No ordinary tea have evident  
+4. Only Earl Grey have evident  
+5. No proper plan tea have evident"
+431,good_food,"1. good_food
+   - The restaurant was decent (no evident not decent)
+     - The food was decent (no evident not decent)"
+437,bad_food,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - No breakfast included
+  - low quality compared to an original greek breakfast
+
+- **Contraries:**
+  - It is evident that there was no breakfast provided.  
+  - It is evident that it was of low quality compared to an original Greek breakfast.
+
+This format adheres to the conditions specified, ensuring each support has a corresponding contrary starting with ""have evident"" and using the same words from the original text."
+439,bad_food,"[ERROR] ReadTimeout: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=180)"
+439,good_food,"1. Support: Restaurant stayed open reasonably late  
+   Contrary: No evident not stay open reasonably late  
+
+2. Support: I could eat after an evening arrival  
+   Contrary: No evident not could eat after an evening arrival"
+441,good_food,"1. **Support**: great  
+   - **Contrary**: no evident not great  
+
+2. **Support**: excellent  
+   - **Contrary**: no evident not excellent  
+
+3. **Support**: perfect  
+   - **Contrary**: no evident not perfect"
+442,good_food,"- **Supports:**
+  - good_food very filling
+  - good_food located on the table in front of us
+
+- **Contraries:**
+  - No evident not filling
+  - No evident not located on the table in front of us"
+445,bad_food,"- Claim: bad_food  
+  Supports and Contraries:
+    - bad
+      - have evident badness
+    - not good
+      - have evident not goodness
+    - average
+      - have evident averageness"
+446,bad_food,"**ABA Format:**
+
+1. **Support:** did not eat breakfast  
+   **Contrary:** have evident that it is necessary to eat breakfast.
+
+2. **Support:** the food was poor  
+   **Contrary:** have evident that good quality food is expected.
+
+3. **Support:** not considered a place for good food  
+   **Contrary:** have evident that being a bar or restaurant implies it should be a place for good food.
+
+This format ensures each support and its corresponding contrary are clearly presented, adhering to the specified conditions."
+456,bad_food,"1. No free breakfast option (bad_food)
+   - Contrary: Have evident no free breakfast option is not bad_food"
+456,good_food,"1. Support: The food was tasty.
+2. Support: The chef made the food.
+3. Support: The food was prepared by the chef.
+4. Support: The food was cooked by the chef.
+5. Contrary: No evident not tasty.
+6. Contrary: No evident not made.
+7. Contrary: No evident not prepared by the chef.
+8. Contrary: No evident not cooked by the chef."
+458,bad_food,"Here is the structured ABA format based on the given conditions:
+
+1. **Supports:**
+   - limited food options
+   - food is not fresh
+   - food is not nutritious
+   - food is not tasty
+   - food is not healthy
+
+2. **Contraries:**
+   - Have evident limited food options.
+   - Have evident food is not fresh.
+   - Have evident food is not nutritious.
+   - Have evident food is not tasty.
+   - Have evident food is not healthy.
+
+This format ensures each support is paired with a contrary that starts with ""have evident,"" using the same words from the original text without adding adjectives or further opinions."
+465,good_food,"Here is the structured ABA format based on the given text, incorporating all specified conditions:
+
+**Supports and Contraries:**
+
+1. **Support:** good  
+   **Contrary:** no evident not good  
+
+2. **Support:** expectations  
+   **Contrary:** no evident not expectations"
+472,good_food,"- Good food: huge  
+  No evident not huge  
+
+- Good food: delicious  
+  No evident not delicious"
+474,bad_food,"- **Supports:**
+  - very
+  - lunch
+  - breakfast
+
+- **Contraries:**
+  - have evident very bad
+  - have evident lunch bad
+  - have evident breakfast bad"
+477,good_food,"- Support: food  
+  Contrary: no evident not food"
+479,good_food,"Here is the structured ABA format based on your requirements:
+
+**Supports:**
+1. Good breakfast
+2. Directly in the hotel
+3. Various options up to 10 EUR
+
+**Contraries:**
+1. No evident not good
+2. No evident not directly in the hotel
+3. No evident not various options up to 10 EUR"
+484,good_food,"- Good_food  
+  - Dinner  
+    - No evident not dinner  
+  - Evening  
+    - No evident not evening"
+490,good_food,"Supports:
+- excellent
+Contraries:
+- no evident not excellent"
+496,good_food,"1. Support: breakfasts  
+   Contrary: no evident not breakfasts  
+
+2. Support: delicious  
+   Contrary: no evident not delicious"
+497,good_food,"Here is the structured ABA format based on the given text:
+
+- **Support**: diverse dishes  
+  - **Contrary**: no evident not diverse  
+
+This response adheres to the specified conditions, ensuring clarity, conciseness, and proper negation of each support."
+501,bad_food,"**ABA Format Text**
+
+- **Support**: long time  
+  **Contrary**: have evident long time"
+501,good_food,"Here is the structured ABA format based on the given text, following all specified conditions:
+
+**Supports:**
+1. The
+2. Restaurant
+3. In
+4. Hotel
+5. Lobby
+
+**Contraries for each support starting with ""no evident not"":**
+1. No evident not the
+2. No evident not restaurant
+3. No evident not in
+4. No evident not hotel
+5. No evident not lobby"
+505,good_food,"Here is the text generated in Assumption Based Argumentation (ABA) format based on your conditions:
+
+1. Good  
+   (No evident not good)
+
+2. Coffee  
+   (Excellent)  
+   (No evident not excellent)"
+519,good_food,"1. Good food  
+   No evident not good food  
+
+2. Good breakfast  
+   No evident not good breakfast"
+524,good_food,"- good_food
+  - food
+    - no evident not food"
+533,good_food,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  - perfect
+  - affable
+  - fast
+  - delicious
+
+- **Contraries:**
+  - no evident not perfect
+  - no evident not affable
+  - no evident not fast
+  - no evident not delicious"
+534,good_food,"Here is the structured ABA format based on your requirements:
+
+1. **Support**: breakfast  
+2. **Contrary**: No evident not breakfast"
+536,good_food,"- **Supports:**
+  - simple
+  - tasty
+
+- **Contraries:**
+  - No evident not simple
+  - No evident not tasty"
+545,good_food,"ABA Format:
+
+Supports:
+1. dinner
+2. perfect
+
+Contraries:
+1. no evident not dinner
+2. no evident not perfect"
+548,bad_food,"1. Support: have to pay  
+2. Contrary: have evident
+3. Support: for breakfast  
+4. Contrary: have evident"
+548,good_food,"Here is the structured ABA format based on the provided text about Arabic food:
+
+1. Assumption: ""spices""  
+   - Contrary: No evident not using spices.
+
+2. Assumption: ""unique flavor profile""  
+   - Contrary: No evident not having a unique flavor profile.
+
+3. Assumption: ""cultural heritage""  
+   - Contrary: No evident not being from cultural heritage.
+
+4. Assumption: ""flavors and spices""  
+   - Contrary: No evident not using flavors and spices.
+
+5. Assumption: ""varied origins""  
+   - Contrary: No evident not having varied origins.
+
+Each point is structured with an assumption leading to the claim of good_food, followed by a contrary statement that negates the same term used in the support."
+556,good_food,"- good_food: good  
+  - no_evident_not: good"
+557,bad_food,"1. **Support**: Breakfast does not meet quality standards.  
+   **Contrary**: Have evident breakfast meets quality standards.
+
+2. **Support**: Price of €12 is unreasonable.  
+   **Contrary**: Have evident price of €12 is reasonable."
+565,good_food,"Here is the structured ABA format based on the provided text:
+
+- Delicious breakfasts.  
+  No evident not breakfast.  
+
+- Make your day.  
+  No evident not make your day.  
+
+- Tasty and nutritious.  
+  No evident not tasty and nutritious."
+571,good_food,"- Claim: good_food  
+  Supports and Contraries:  
+    - Delicious (No evident not delicious)  
+    - Breakfast (No evident not breakfast)"
+572,good_food,"- Support: friendly  
+  Contrary: No evident not friendly.
+
+- Support: both  
+  Contrary: No evident not both."
+576,good_food,"1. Claim: good_food  
+2. Supports and Contrary:  
+   - Support 1: good  
+     - Counterpart: no evident not good  
+   - Support 2: varied  
+     - Counterpart: no evident not varied  
+   - Support 3: good_prices  
+     - Counterpart: no evident not good_prices"
+578,good_food,"ABA Format:
+
+1. Support: nice
+2. Support: very nice
+3. Support: prepared a fantastic breakfast
+4. Contrary: no evident not very nice
+5. Contrary: no evident not prepared a fantastic breakfast"
+591,good_food,"1. [Support] very varied breakfasts.
+2. [Contrary] no evident not varied."
+593,good_food,"1. The dishes are delicious.  
+2. No evident not the dishes are delicious.  
+3. I recommend eating at Jasmine Garden.  
+4. No evident not I recommend eating at Jasmine Garden."
+594,good_food,"1. **Support**: delicious  
+   **Contrary**: no evident not delicious  
+
+2. **Support**: hotel  
+   **Contrary**: no evident not hotel  
+
+3. **Support**: restaurant  
+   **Contrary**: no evident not restaurant"
+595,bad_food,"Here is the structured ABA format based on the given conditions:
+
+- Supports:
+  - meal
+  - included
+  - price
+
+- Contraries:
+  - have evident meal
+  - have evident included
+  - have evident price
+
+This list combines all supports and their corresponding contraries into a single, organized structure without additional assumptions or opinions."
+597,good_food,"Here is the structured ABA format based on the given text:
+
+1. **Support**: excellent breakfast  
+   **Contrary**: No evident not excellent breakfast.
+
+2. **Support**: meals in the restaurant  
+   **Contrary**: No evident not meals in the restaurant.
+
+3. **Support**: freshly made  
+   **Contrary**: No evident not freshly made.
+
+This format ensures each part of the original text is addressed with its corresponding support and contrary, adhering to all specified conditions."
+599,good_food,"1. good_food
+2. Delicious
+3. breakfast
+4. no evident not Delicious
+5. no evident not breakfast"
+610,good_food,"Here is the structured ABA format based on the given text:
+
+- **Support 1:** breakfast  
+  **Contrary 1:** no evident not breakfast  
+
+- **Support 2:** terrace  
+  **Contrary 2:** no evident not terrace"
+611,good_food,"1. Restaurant  
+2. Offers  
+3. Good  
+4. Quality  
+5. Dishes  
+
+6. No evident not restaurant  
+7. No evident not offers  
+8. No evident not good  
+9. No evident not quality  
+10. No evident not dishes"
+613,good_food,"Support: Breakfast was very good.  
+Contrary: No evident not breakfast was very good."
+615,good_food,"- Claim: good_food
+  - Support 1: positive staff
+    - Counterargument: No evident not positive staff
+  - Support 2: good food and service
+    - Counterargument: No evident not good food and service"
+619,good_food,"1. Dinner is perfect.
+   - No evident not dinner is perfect.
+
+2. Good dinner.
+   - No evident not good dinner."
+621,bad_food,"Here is the structured ABA format based on the given conditions:
+
+**Supports and Contraries:**
+
+1. **Support 1:** Breakfasts have limited variety.
+2. **Contrary 1:** Breakfasts have evident variety.
+
+This structure adheres to the specified conditions, ensuring each support has a corresponding contrary without introducing new elements beyond the original text."
+621,good_food,"ABA Format:
+
+1. Support: not a big variety  
+   Contrary: No evident not a big variety  
+
+2. Support: tasty  
+   Contrary: No evident tasty"
+626,good_food,"1. pasta  
+   No evident not pasta  
+
+2. pizza  
+   No evident not pizza  
+
+3. salads  
+   No evident not salads  
+
+4. burgers  
+   No evident not burgers"
+636,good_food,"Here is the structured ABA format based on the provided text:
+
+**Supports:**
+1. We had dinner at the hotel.
+2. We had dinner at the restaurant.
+3. It was excellent!
+4. The chef gave a personal touch.
+5. The chef understood exactly what we want.
+
+**Contraries:**
+1. No evident not we had dinner at the hotel.
+2. No evident not we had dinner at the restaurant.
+3. No evident not it was excellent!
+4. No evident not the chef gave a personal touch.
+5. No evident not the chef understood exactly what we want.
+
+This format adheres to all specified conditions, ensuring clarity and conciseness while maintaining grammatical correctness."
+639,good_food,"1. small lunch
+   - no evident not small lunch
+2. delicious
+   - no evident not delicious"
+642,good_food,"1. Delicious
+2. Tasty
+3. Healthy
+4. Fresh
+5. Nutritious
+6. Homestyle
+
+No evident not delicious
+No evident not tasty
+No evident not healthy
+No evident not fresh
+No evident not nutritious
+No evident not homestyle"
+643,bad_food,"Here is the structured ABA format based on the given conditions:
+
+1. **Support**: more variety  
+   **Contrary**: have evident more variety  
+
+2. **Support**: disproportionate ratio  
+   **Contrary**: have evident disproportionate ratio"
+646,good_food,"1. Breakfast can be bought directly at the hotel.  
+   No evident not breakfast can be bought directly at the hotel.
+
+2. For only 8 euros breakfast can be bought directly at the hotel.  
+   No evident not for only 8 euros breakfast can be bought directly at the hotel."
+650,good_food,"Here is the generated ABA text based on your instructions:
+
+1. Break of day
+   - Breakfast
+     - No evident not breakfast
+   - Liked
+     - No evident not liked"
+654,good_food,"1. Support: cappuccino  
+   Contrary: No evident not having cappuccino.
+
+2. Support: soft  
+   Contrary: No evident not having soft sofas.
+
+3. Support: tables  
+   Contrary: No evident not going down to the veranda at the tables.
+
+4. Support: wonderful  
+   Contrary: No evident not finding them wonderful."
+658,good_food,"1. Deli - No evident not deli  
+2. Tast - No evident not tast  
+3. Enj - No evident not enj"
+660,good_food,"1. Good  
+   No evident not good  
+
+2. Plentiful  
+   No evident not plentiful"
+663,good_food,"- Good_food
+  - Served on site
+    - No evident not served on site
+  - Ground floor dining room
+    - No evident not ground floor dining room
+  - Front terrace
+    - No evident not front terrace"
+665,bad_food,"1. Support: breakfast was good  
+   Contrary: have evident bread  
+   
+2. Support: had to ask for bread  
+   Contrary: have evident breakfast"
+665,good_food,"[ERROR] ReadTimeout: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=180)"
+669,good_food,"Here is the structured ABA format based on the given text:
+
+- **Supports:**
+  - tasty
+  - affordable
+
+- **Contraries:**
+  - No evident not tasty
+  - No evident not affordable"
+672,good_food,"ABA Format:
+
+1. **Support**: breakfast  
+   **Contrary**: no evident not breakfast  
+
+2. **Support**: good  
+   **Contrary**: no evident not good"
+673,good_food,"1. good_food (delicious)  
+   no evident not delicious  
+
+2. good_food (healthy)  
+   no evident not healthy  
+
+3. good_food (enjoyable)  
+   no evident not enjoyable"
+685,good_food,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - good
+  - only 8€
+
+- **Contraries:**
+  - No evident not good
+  - No evident not only 8€"
+687,bad_food,"- **Supports:**
+  - Breakfast is monotonous
+  - Every day is the same
+
+- **Contraries:**
+  - have evident breakfast is not bad
+  - have evident every day is not the same"
+696,good_food,"1. Support: food at the cafe  
+   Contrary: No evident not food at the cafe"
+702,good_food,"ABA Format:
+
+- Good food (good)
+  - No evident not good
+- Cook (cook)
+  - No evident not cook"
+703,good_food,"1. Full breakfast
+   - No evident not full breakfast
+2. Served
+   - No evident not served
+3. Without time limit
+   - No evident not without time limit"
+710,good_food,"1. restaurant & no evident not restaurant  
+2. good & no evident not good"
+722,good_food,"- Delicious (support): good_food  
+  No evident not delicious (contrary)  
+
+- Breakfast (support): good_food  
+  No evident not breakfast (contrary)  
+
+- On the veranda (support): good_food  
+  No evident not on the veranda (contrary)"
+729,good_food,"ABA Format:
+
+- Support: breakfast  
+  Contrary: no evident not breakfast  
+
+This provides a clear and structured response based on the given text."
+735,good_food,"ABA Format:
+
+- Good food: breakfast  
+  Support: BREAKFAST  
+  Counterpoint: No evident not BREAKFAST  
+
+- Good food: wonderful  
+  Support: WONDERFUL  
+  Counterpoint: No evident not WONDERFUL"
+737,good_food,"ABA Format:
+
+- Support: pleasant  
+  Contrary: no evident not pleasant  
+
+- Support: breakfast  
+  Contrary: no evident not breakfast"
+738,good_food,"1. **Support**: excellent  
+   **Contrary**: no evident not excellent  
+
+Each support is paired with a contrary, using the same word from the original text prefixed with ""no evident not."" The format ensures clarity and adherence to the specified conditions."
+756,bad_food,"- Support: buffet  
+  Reason: The desire for a breakfast buffet suggests an expectation of improvement in food offerings.  
+- Contrary: have evident no buffet  
+  Reason: The absence of a buffet contradicts the expressed need for one, indicating dissatisfaction with current offerings."
+757,bad_food,"- Bad (Support)  
+  Have evident bad  
+
+- Half raw croissant (Support)  
+  Have evident half raw croissant  
+
+- Watery cappuccino (Support)  
+  Have evident watery cappuccino"
+764,good_food,"- Breakfast  
+  - no evident not Breakfast"
+768,bad_food,"Here is the structured ABA format based on the given conditions:
+
+1. **monotonous**  
+   - have evident monotonous  
+
+2. **boring**  
+   - have evident boring  
+
+3. **repetitive**  
+   - have evident repetitive  
+
+4. **same**  
+   - have evident same  
+
+5. **set**  
+   - have evident set"
+771,bad_food,"Here is the structured ABA format based on your requirements:
+
+1. **Support 1**: ""delicious but the same""
+   - **Contrary 1**: ""have evident that bad_food""
+
+2. **Support 2**: ""eat what they bring you""
+   - **Contrary 2**: ""have evident that bad_food"""
+771,good_food,"Here is the structured ABA format based on your requirements:
+
+1. **Support 1**: The breakfast is good.
+   - **Contrary 1**: No evident not the breakfast is good.
+
+2. **Support 2**: The breakfast is consistent.
+   - **Contrary 2**: No evident not the breakfast is consistent."
+777,good_food,"- Delicious  
+  No evident not delicious  
+
+- inexpensive  
+  No evident not inexpensive"
+779,bad_food,"- bad_food
+  - too frugal for the price
+    - have evident too frugal for the price
+  - very slow service
+    - have evident very slow service"
+781,good_food,"Here is the structured ABA format based on the given text:
+
+- **good_food**: because friendly  
+  - no evident not friendly  
+
+- **good_food**: because nice  
+  - no evident not nice  
+
+- **good_food**: because sympathetic  
+  - no evident not sympathetic"
+782,good_food,"Here is the structured ABA format based on the provided text:
+
+- **Supports:**
+  - Tasty
+  - Breakfast
+
+- **Contraries:**
+  - No evident not tasty
+  - No evident not breakfast"

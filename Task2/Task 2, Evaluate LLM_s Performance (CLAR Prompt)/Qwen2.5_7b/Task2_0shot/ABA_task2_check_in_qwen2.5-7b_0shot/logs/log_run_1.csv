@@ -1,0 +1,239 @@
+ID,Output
+59,"good_check_in  
+easy  
+no evident not easy  
+
+late_at_night  
+arrive  
+no evident not arrive"
+60,"clear instructions no evident not clear instructions
+access to our room no evident not access to our room
+made easy no evident not made easy
+no evident not clear instructions
+no evident not access to our room
+no evident not made easy"
+71,"clear_instructions yes evident not clear_instructions
+good_check_in no evident not clear_instructions"
+72,"good_check_in
+clear_instructions
+no_evident_not_clear_instructions
+
+access_to_room
+no_evident_not_access_to_room"
+89,"- instructions for access were sent in advance
+- instructions for access were sent in advance no evident not instructions for access were sent in advance
+- absolutely perfect
+- absolutely perfect no evident not absolutely perfect"
+92,"late night check in good_check_in
+no evident not late night check in good_check_in
+
+easy good_check_in
+no evident not easy good_check_in
+
+comfortable good_check_in
+no evident not comfortable good_check_in"
+110,"self_check_in easy  
+self_check_in easy no evident not easy"
+140,"easy self check-in
+no evident not easy self check-in"
+152,"bad_check_in
+have evident late check_in
+have evident no_one_to_give_keys
+have evident locked_door
+
+bad_check_in
+have evident late check_in
+have evident no_one_to_give_keys
+have evident unlocked_door"
+153,"good_check_in
+staff_checked_us_in_quickly
+no_evident_not_staff_checked_us_in_quickly"
+158,"easy_check_in
+no_evident_not_easy_check_in
+
+good_check_in
+no_evident_not_good_check_in"
+163,"good_check_in
+late
+no_evident_not_late
+night
+no_evident_not_night
+check_in
+no_evident_not_check_in"
+185,"staff accommodated  
+no evident not staff accommodated  
+
+clear instructions  
+no evident not clear instructions"
+190,"good_check_in
+late
+no evident not late
+
+self_check_in
+no evident not self_check_in
+
+worked_well
+no evident not worked_well"
+214,"good_check_in
+check_in
+no_evident_not_check_in
+
+good_check_in
+late_arrival
+no_evident_not_late_arrival"
+220,"good_check_in
+late_check_in_process_communication
+no_evident_not_late_check_in_process_communication"
+221,"good_check_in
+tracked
+no evident not tracked
+
+arrived_late
+no evident not arrived_late
+
+flight_issues
+no evident not flight_issues
+
+aware
+no evident not aware
+
+tracked_flight
+no evident not tracked_flight"
+227,"good_check_in
+late_check_in_simple
+no_evident_not_late_check_in_simple"
+232,"good_check_in
+great_instructions
+late_arrival
+no_evident_not_late_arrival
+got_in_on_own
+no_evident_not_got_in_on_own"
+276,"good_check_in friendly staff no evident not friendly staff
+good_check_in allow you to check in no evident not allow you to check in
+good_check_in early hours of morning no evident not early hours of morning"
+283,"late_arrived no evident not good_check_in  
+not_problem no evident not good_check_in"
+314,"good_check_in
+fast_checkin
+no_evident_not_fast_checkin
+fast_checkout
+no_evident_not_fast_checkout"
+365,"good_check_in
+no evident not quick_check_in
+good_check_in
+no evident not night_arrival"
+394,"check_in_quick
+check_in_easy
+no_evident_not_check_in_quick
+no_evident_not_check_in_easy"
+399,"clean
+no evident not clean
+ready
+no evident not ready
+by_12
+no evident not_by_12
+check_in
+no evident not_check_in"
+452,"good_check_in
+easy_check_in
+no_evident_not_easy_check_in"
+453,"waited 10 minutes have evident waited 10 minutes
+
+no one on desk have evident no one on desk
+
+told us we had not paid have evident told us we had not paid
+
+took a picture of my passport have evident took a picture of my passport"
+513,"- good_check_in
+- directions_clear
+- no_evident_not_directions_clear
+- directions_easy
+- no_evident_not_directions_easy"
+515,"good_check_in
+no evident not good_check_in
+
+good_move_in_earlier
+no evident not good_move_in_earlier"
+538,"good_check_in
+self_check_in
+no_evident_not_self_check_in
+no_problems
+no_evident_no_problems"
+546,"no problem with check-in after 12 at night
+no evident not problem with check-in after 12 at night"
+564,"- good_check_in
+- no evident not good_check_in
+- there was a person
+- no evident not there was a person
+- at the reception
+- no evident not at the reception
+- to check in
+- no evident not to check in"
+578,"self_check_in  
+no evident not self_check_in  
+
+night  
+no evident not night  
+
+easy  
+no evident not easy"
+589,"clear and precise information  
+no evident not clear and precise information
+
+sending us photos  
+no evident not sending us photos"
+606,"good_check_in
+late_check_in
+no_evident_not_late_check_in
+
+flight_delayed
+no_evident_not_flight_delayed
+
+they_cared
+no_evident_not_they_cared"
+614,"good_check_in
+friendly_staff
+no_evident_not_friendly_staff
+fluid_communication
+no_evident_not_fluid_communication"
+633,"waited_for_us
+no_evident_not_waited_for_us
+
+arrived_at_3_a_m
+no_evident_not_arrived_at_3_a_m"
+639,"earlier_check_in  
+no evident not earlier_check_in
+
+later_check_in  
+no evident not later_check_in"
+660,"good_check_in
+late_arrival
+no_evident_not_late_arrival
+late_departure
+no_evident_not_late_departure
+allowed_at_no_extra_cost
+no_evident_allowed_at_extra_cost"
+775,"good_check_in
+welcome
+arriving
+4am
+
+no_evident_not_welcome
+no_evident_not_arriving
+no_evident_not_4am"
+778,"good_check_in
+perfect_welcome
+no_evident_not_perfect_welcome
+morning_arrival
+no_evident_not_morning_arrival
+correct_time_1_30
+no_evident_not_correct_time_1_30"
+779,"good_check_in
+check_in
+no_evident_not_check_in
+
+early_arrival
+no_evident_not_early_arrival
+
+four_am
+no_evident_not_four_am"

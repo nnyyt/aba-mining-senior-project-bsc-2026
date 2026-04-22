@@ -1,0 +1,21 @@
+ID,Topic,Output
+196,bad_booking_issue,"Here is the structured ABA format based on your requirements:
+
+- **Supports**:
+  - paid extra 80 euro due to non-applicable booking.com promotion
+  - checked new dates and found similar cost
+
+- **Contraries**:
+  - have evident paid extra 80 euro due to non-applicable booking.com promotion
+  - have evident checked new dates and found similar cost"
+456,bad_booking_issue,"Here is the structured ABA format based on your requirements:
+
+1. **Claim**: bad_booking_issue  
+2. **Supports**:
+   - price reduction
+   - hotel refused to accept lower price
+   - booking.com's claim about no cancellation charge but charged twice for rebooking
+3. **Contraries**:
+   - have evident price reduction
+   - have evident hotel refused to accept lower price
+   - have evident booking.com's claim about no cancellation charge but charged twice for rebooking"

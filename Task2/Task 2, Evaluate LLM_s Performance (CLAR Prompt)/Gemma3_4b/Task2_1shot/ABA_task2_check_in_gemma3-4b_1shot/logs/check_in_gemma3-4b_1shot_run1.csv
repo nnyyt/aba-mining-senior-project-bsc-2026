@@ -1,0 +1,52 @@
+ID,Output
+59,"easy_check_in, no_evident_not_easy_check_in"
+60,"clear_instruction_to_access_room, no_evident_not_clear_instruction_to_access_room"
+71,"clear_instruction_to_access_room, no_evident_not_clear_instruction_to_access_room"
+72,"received_clear_instruction, no_evident_not_received_clear_instruction"
+89,"instructions_sent_advance, no_evident_not_instructions_sent_advance"
+92,"late_night_check_in, no_evident_not_late_night_check_in, super_easy, no_evident_not_super_easy, comfortable, no_evident_not_comfortable"
+110,"self_check_in_was_easy, no_evident_not_self_check_in_was_easy"
+140,"easy_self_check_in, no_evident_not_easy_self_check_in"
+152,"late_check-in, no_one_give_key, door_locked, have_evident_late_check-in, have_evident_no_one_give_key, have_evident_door_locked"
+153,"lovely_staff, no_evident_not_lovely_staff, who_checked_in_quickly, no_evident_not_who_checked_in_quickly"
+158,"easy_check_in, no_evident_not_easy_check_in"
+163,"easy_late_check_in, no_evident_not_easy_late_check_in"
+185,"staff_accommodated_arrival, no_evident_not_staff_accommodated_arrival"
+190,"late_check_in, no_evident_not_late_check_in"
+214,"arrived_late_at_night, no_evident_not_arrived_late_at_night
+made_sure_check_in, no_evident_not_made_sure_check_in"
+220,"excellent_communication_late_check_in, no_evident_not_excellent_communication_late_check_in"
+221,"flight_issues, no_evident_not_flight_issues"
+227,"very_kind_hosts, no_evident_not_very_kind_hosts"
+232,"arrived_late, no_evident_not_arrived_late
+great_instructions, no_evident_not_great_instructions"
+276,"friendly_staff, no_evident_not_friendly_staff"
+283,late_arrival_no_evident_not_late_arrival
+314,"super_fast_checkin_checkout, no_evident_not_super_fast_checkin_checkout"
+365,"checked_in_quickly, no_evident_not_checked_in_quickly"
+394,"check_in_was_quick, no_evident_not_check_in_was_quick"
+399,"room_was_clean, no_evident_not_room_was_clean"
+452,"easy_check_in, no_evident_not_easy_check_in"
+453,"late_check-in_wait_time, have_evident_late_check-in_wait_time, no_one_on_desk, have_evident_no_one_on_desk, picture_taken, have_evident_picture_taken"
+513,"arrived_late, no_evident_not_arrived_late
+directions_were_clear, no_evident_not_directions_were_clear"
+515,"early_move, no_evident_not_early_move"
+538,"we_arrived_at_night, no_evident_not_we_arrived_at_night
+no_problems, no_evident_not_no_problems"
+546,"pure_check_in, no_evident_not_pure_check_in"
+564,"arrival_after_midnight, no_evident_not_arrival_after_midnight
+person_at_reception, no_evident_not_person_at_reception"
+578,"self_check_in_at_night, no_evident_not_self_check_in_at_night"
+589,"owners_left_information, no_evident_not_owners_left_information
+photos_sent, no_evident_not_photos_sent"
+606,"flight_delayed, no_evident_not_flight_delayed
+they_took_care, no_evident_not_they_took_care"
+614,"friendly_staff, no_evident_not_friendly_staff, fluid_communication, no_evident_not_fluid_communication"
+633,"they_waited_for_us, no_evident_not_they_waited_for_us"
+639,"accommodated_earlier_check_in, no_evident_not_accommodated_earlier_check_in
+no_problem_later_check_in, no_evident_not_no_problem_later_check_in"
+660,"hotel_allowed_late_arrival, no_evident_not_hotel_allowed_late_arrival
+hotel_allowed_late_departure, no_evident_not_hotel_allowed_late_departure"
+775,"perfect_welcome, no_evident_not_perfect_welcome"
+778,"perfect_welcome, no_evident_not_perfect_welcome"
+779,"check_in_at_four_am, no_evident_not_check_in_at_four_am"

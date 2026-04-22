@@ -1,0 +1,1303 @@
+ID,Topic,Output
+1,good_food,"Here is the structured ABA format based on your requirements:
+
+**Supports:**
+1. Tasty food
+2. Comfortable restaurant
+3. Cozy evenings and calm work
+
+**Contraries:**
+1. no evident not tasty food
+2. no evident not comfortable restaurant
+3. no evident not cozy evenings and calm work"
+2,good_food,"1. first_floor_tasty_food  
+   - No evident not_first_floor_tasty_food  
+
+2. comfortable_restaurant_for_cozy_evenings  
+   - No evident_not_comfortable_restaurant_for_cozy_evenings  
+
+3. comfortable_restaurant_for_calm_work  
+   - No evident_not_comfortable_restaurant_for_calm_work  
+
+4. fresh_food  
+   - No evident_not_fresh_food  
+
+5. handmade_food  
+   - No evident_not_handmade_food  
+
+6. vegetarian_food_with_hummus  
+   - No evident_not_vegetarian_food_with_hummus  
+
+7. great_cook  
+   - No evident_not_great_cook  
+
+8. kind_staff  
+   - No evident_not_kind_staff"
+11,good_food,"- great food  
+  very reasonable prices  
+
+- no evident not great food  
+- no evident not very reasonable prices"
+12,good_food,"1. **Supports**:  
+   - good_breakfast  
+   - room_service_available  
+
+2. **Contraries**:  
+   - no_evident_not_good_breakfast  
+   - no_evident_not_room_service_available"
+16,good_food,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Restaurant**:  
+   - No evident not restaurant  
+
+2. **Food**:  
+   - No evident not food  
+
+3. **Tasty**:  
+   - No evident not tasty  
+
+4. **Care**:  
+   - No evident not care  
+
+5. **Olive oil galore**:  
+   - No evident not olive oil galore  
+
+6. **Herbs**:  
+   - No evident not herbs  
+
+7. **Delicious**:  
+   - No evident not delicious"
+18,good_food,"1. **Claim**: good_food  
+2. **Supports**:
+   - tasty
+   - comfortable_restaurant_for_cozy_evenings
+   - comfortable_restaurant_for_calm_work
+3. **Contraries** (for each support):
+   - no_evident_not_tasty
+   - no_evident_not_comfortable_restaurant_for_cozy_evenings  
+   - no_evident_not_comfortable_restaurant_for_calm_work
+
+4. **Supports**:
+   - well_prepared
+   - good_value
+
+5. **Contraries** (for each support):
+   - no_evident_not_well_prepared
+   - no_evident_not_good_value"
+21,good_food,"1. Breakfast is delicious; no evident not breakfast is delicious  
+2. Lunch is delicious; no evident not lunch is delicious  
+3. Dinner is delicious; no evident not dinner is delicious"
+22,bad_food,"Here is the text formatted according to your instructions:
+
+1. bad_food  
+   have_evident_bad_food  
+
+2. too_stodgy  
+   have_evident_too_stodgy"
+22,good_food,"1. **Support**: restaurant_area  
+2. **Contrary**: no_evident_not_restaurant_area  
+
+3. **Support**: nice  
+4. **Contrary**: no_evident_not_nice"
+26,good_food,"- restaurant  
+  no_evident_not_restaurant  
+
+- cheap  
+  no_evident_not_cheap"
+31,good_food,"1. Claim: good_food  
+2. Supports:  
+   - food_excellent  
+   - reasonably_priced  
+3. Contraries:  
+   - no_evident_not_food_excellent  
+   - no_evident_not_reasonably_priced"
+33,good_food,[ERROR] Timeout after 180s while waiting for model response. Skipping.
+36,bad_food,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Support**: no  
+  - **Contrary**: have evident_no  
+
+This captures the idea that there was no information about opening or closing times, which could be seen as a negative aspect."
+36,good_food,"1. excellent_food  
+   no_evident_not_excellent_food  
+
+2. passion_in_presentation  
+   no_evident_not_passion_in_presentation"
+41,good_food,"1. tasty  
+2. comfortable_restaurant_for_cozy_evenings  
+3. comfortable_restaurant_for_calm_work  
+4. no_evident_not_tasty  
+5. no_evident_not_comfortable_restaurant_for_cozy_evenings  
+6. no_evident_not_comfortable_restaurant_for_calm_work"
+45,good_food,"1. Good_food  
+2. very_reasonably_priced  
+3. an_easy_choice_to_eat_at_the_hotel  
+4. no_evident_not_good_food  
+5. no_evident_not_very_reasonably_priced  
+6. no_evident_not_an_easy_choice_to_eat_at_the_hotel"
+53,good_food,"1. Support: delicious  
+   Contrary: no_evident_not_delicious  
+
+2. Support: breakfasts  
+   Contrary: no_evident_not_breakfasts"
+56,bad_food,"1. **Claim**: bad_food  
+2. **Supports**:
+   - great_breakfast
+   - have_evident_great_breakfast  
+3. **Contraries** (for each support):
+   - have_evident_great_breakfast"
+61,good_food,"Here is the structured ABA format based on the given conditions:
+
+- **Supports:**
+  - tasty
+  - food
+  - comfortable
+  - restaurant
+
+- **Contraries:**
+  - no_evident_not_tasty
+  - no_evident_not_comfortable
+
+This format adheres to the specified guidelines, ensuring that each support is paired with its contrary and that all necessary elements are included without unnecessary adjectives or adverbs."
+62,good_food,"Supports:
+- Restaurant
+- On_site
+
+Contraries:
+- No evident not restaurant
+- No evident not on_site"
+64,good_food,"1. **Claim**: good_food  
+2. **Supports**:  
+   - tasty_food  
+   - comfortable_restaurant_for_cozy_evenings  
+   - comfortable_restaurant_for_calm_work  
+3. **Contraries**:  
+   - no_evident_not_tasty_food  
+   - no_evident_not_comfortable_restaurant_for_cozy_evenings  
+   - no_evident_not_comfortable_restaurant_for_calm_work"
+66,good_food,"Here is the structured ABA response based on your requirements:
+
+- **Supports:**
+  - chic_bar
+  - chic_coffee_shop
+
+- **Contraries:**
+  - no_evident_not_chic_bar
+  - no_evident_not_chic_coffee_shop"
+74,good_food,"Here’s the updated ABA format incorporating your new sentence:
+
+1. **Support**: tasty_food  
+   **Contrary**: no_evident_not_tasty_food  
+
+2. **Support**: comfortable_restaurant_for_cozy_evenings  
+   **Contrary**: no_evident_not_comfortable_restaurant_for_cozy_evenings  
+
+3. **Support**: comfortable_restaurant_for_calm_work  
+   **Contrary**: no_evident_not_comfortable_restaurant_for_calm_work  
+
+4. **Support**: restaurant  
+   **Contrary**: no_evident_not_restaurant"
+80,good_food,"1. Supports:
+   - delicious
+   - inexpensive
+   
+2. Contraries:
+   - no_evident_not_delicious
+   - no_evident_not_inexpensive"
+84,good_food,"Here is the text formatted according to your specifications:
+
+**Supports and Contraries:**
+
+1. **The breakfast was good.**
+   - **Contrary:** No evident not the breakfast was good.
+
+2. **Of selection.**
+   - **Contrary:** No evident not of selection."
+86,good_food,"1. **Claim**: excellent_breakfast  
+2. **Support**: breakfast  
+3. **Contrary**: no_evident_not_breakfast  
+4. **Support**: excellent"
+87,good_food,"- **Claim**: good_food  
+- **Support**: nice  
+- **Contrary**: no evident not nice"
+93,good_food,"1. nice_restaurant  
+2. same_building  
+3. welcoming  
+4. nice_offer  
+
+Contraries:  
+5. no_evident_not_nice_restaurant  
+6. no_evident_not_same_building  
+7. no_evident_not_welcoming  
+8. no_evident_not_nice_offer"
+94,good_food,"good_food  
+tasty_food  
+super_service  
+no_evident_not_tasty_food  
+no_evident_not_super_service"
+97,good_food,"- **Claim**: good_food  
+  - **Support**: excellent  
+    - **Contrary**: no evident not excellent"
+107,good_food,"1. **Claim**: excellent_breakfast  
+2. **Support**: breakfast  
+3. **Contrary**: no_evident_not_breakfast  
+4. **Support**: excellent"
+112,good_food,"1. **Support**: restaurant  
+   **Contrary**: no evident not_restaurant  
+
+2. **Support**: food  
+   **Contrary**: no evident not_food  
+
+3. **Support**: service  
+   **Contrary**: no evident not_service"
+118,good_food,"- **Support**: delicious_hotel_restaurant  
+- **Contrary**: no_evident_not_delicious_hotel_restaurant"
+126,good_food,"1. tasty  
+   no_evident_not_tasty  
+
+2. comfortable_restaurant_for_cozy_evenings  
+   no_evident_not_comfortable_restaurant_for_cozy_evenings  
+
+3. comfortable_restaurant_for_calm_work  
+   no_evident_not_comfortable_restaurant_for_calm_work"
+132,good_food,"1. good_food  
+   - Supports: delicious, freshly prepared, many_choices  
+     Contraries: no_evident_not_delicious, no_evident_not_freshly_prepared, no_evident_not_many_choices"
+134,good_food,"Here is the structured ABA format based on your conditions and the provided text:
+
+**Supports:**
+- tasty_food
+- comfortable_restaurant_for_cozy_evenings
+- comfortable_restaurant_for_calm_work
+- great_chef
+
+**Contraries:**
+- no_evident_not_tasty_food
+- no_evident_not_comfortable_restaurant_for_cozy_evenings
+- no_evident_not_comfortable_restaurant_for_calm_work
+- no_evident_not_great_chef"
+139,good_food,"- **Support**: nice_restaurant  
+  - **Contrary**: no_evident_not_nice_restaurant  
+
+- **Support**: external_balcony  
+  - **Contrary**: no_evident_not_external_balcony"
+140,good_food,"- [Support]: breakfast  
+- [Contrary]: no_evident_not_breakfast"
+145,good_food,"1. **Supports:**
+   - rich_breakfast_with_various_local_food
+   - dinner_on_the_terrace_everything_was_tasty
+
+2. **Contraries:**
+   - No_evident_not_rich_breakfast_with_various_local_food
+   - No_evident_not_dinner_on_the_terrace_everything_was_tasty"
+153,good_food,"1. **Support**: beautiful  
+   **Contrary**: no_evident_not_beautiful  
+
+2. **Support**: fresh  
+   **Contrary**: no_evident_not_fresh  
+
+3. **Support**: very reasonably  
+   **Contrary**: no_evident_not_very_reasonably  
+
+4. **Support**: priced  
+   **Contrary**: no_evident_not_priced"
+155,good_food,"1. enjoyed_dinner  
+2. everything_freshmade  
+3. no_evident_not_dinner  
+4. no_evident_not_everything_freshmade"
+158,good_food,"1. **Support**: amazing_breakfasts  
+   **Contrary**: no_evident_not_amazing_breakfasts"
+162,good_food,"Here is the structured response based on your requirements:
+
+- **Support**: delicious_breakfast  
+  - This supports the claim ""good_food"" by indicating that the breakfast was described as delicious.  
+  - The contrary for this support would be: no_evident_not_delicious_breakfast  
+
+This format adheres to all specified conditions, ensuring clarity and precision in the argumentation."
+167,good_food,"1. **Support**: the_food  
+   **Contrary**: no_evident_not_the_food  
+
+2. **Support**: super_excellent  
+   **Contrary**: no_evident_not_super_excellent"
+168,good_food,"1. delicious_food; worth_trying  
+2. no_evident_not_delicious_food; no_evident_not_worth_trying"
+169,good_food,"1. delish  
+   no_evident_not_delish  
+
+2. great_service  
+   no_evident_not_great_service"
+170,good_food,"- excellent  
+- best that I've ever tasted  
+- no evident not excellent  
+- no evident not best that I've ever tasted"
+180,good_food,"- Support 1: [croissants]  
+- Contrary 1: no_evident_not_croissants"
+183,good_food,"Here is the text generated in ABA format based on your conditions:
+
+1. tasty_food  
+   no evident not tasty_food  
+
+2. comfortable_restaurant_for_cozy_evenings  
+   no evident not comfortable_restaurant_for_cozy_evenings  
+
+3. comfortable_restaurant_for_calm_work  
+   no evident not comfortable_restaurant_for_calm_work  
+
+4. the_food_is_terric  
+   no evident not the_food_is_terric"
+184,good_food,"1. **Supports**:  
+   - chef_was_kind  
+   - food_was_delicious  
+   - jasmine_burger  
+
+2. **Contraries**:  
+   - no_evident_not_chef_was_kind  
+   - no_evident_not_food_was_delicious  
+   - no_evident_not_jasmine_burger"
+185,good_food,"1. good_food  
+2. tasty_food  
+3. comfortable_restaurant_for_cozy_evenings  
+4. comfortable_restaurant_for_calm_work  
+5. no_evident_not_tasty_food  
+6. no_evident_not_comfortable_restaurant_for_cozy_evenings  
+7. no_evident_not_comfortable_restaurant_for_calm_work"
+190,good_food,"- **Support**: good_breakfast  
+  - **Contrary**: no_evident_not_good_breakfast"
+198,good_food,"Here is the structured ABA format based on your conditions:
+
+- **Supports**:  
+  - amazing  
+  - passion  
+  - everything_from_scratch  
+  - simple_breakfast  
+  - lunch_table  
+
+- **Contraries**:  
+  - no_evident_not_amazing  
+  - no_evident_not_passion  
+  - no_evident_not_everything_from_scratch  
+  - no_evident_not_simple_breakfast  
+  - no_evident_not_lunch_table"
+200,good_food,"1. **Support**: ""topnotch""  
+   - **Contrary**: ""no evident not_topnotch""
+
+2. **Support**: ""best_club_sandwich""  
+   - **Contrary**: ""no evident not_best_club_sandwich"""
+209,good_food,"1. good_food  
+2. tasty  
+3. comfortable_restaurant_for_cozy_evenings  
+4. comfortable_restaurant_for_calm_work  
+5. no_evident_not_tasty  
+6. no_evident_not_comfortable_restaurant_for_cozy_evenings  
+7. no_evident_not_comfortable_restaurant_for_calm_work"
+211,good_food,"1. Support: enormous_size  
+   Contrary: no_evident_not_enormous_size  
+
+2. Support: very_delicious  
+   Contrary: no_evident_not_very_delicious"
+213,good_food,"1. **Support**: good_food  
+   **Contrary**: no_evident_not_good_food  
+
+2. **Support**: kind  
+   **Contrary**: no_evident_not_kind"
+221,good_food,"1. **Support**: outstanding_breakfast  
+   **Contrary**: no_evident_not_outstanding_breakfast"
+226,good_food,"Here are the ABA arguments based on your input:
+
+- **Claim**: excellent_staff  
+  - Support: excellent staff/owners  
+  - Contrary: no evident not excellent staff/owners  
+
+- **Claim**: ok_restaurant  
+  - Support: an ok restaurant  
+  - Contrary: no evident not ok_restaurant"
+232,good_food,"1. **Support**: late_breakfast  
+   **Contrary**: no_evident_not_late_breakfast  
+
+2. **Support**: manager_catered_to_every_need  
+   **Contrary**: no_evident_not_manager_catered_to_every_need"
+233,good_food,"1. **Support**: amazing_breakfast  
+   **Contrary**: no_evident_not_amazing_breakfast  
+
+2. **Support**: beautiful_setting  
+   **Contrary**: no_evident_not_beautiful_setting  
+
+3. **Support**: everything_in_the_cafe  
+   **Contrary**: no_evident_not_everything_in_the_cafe"
+236,good_food,"1. **good_breakfast**  
+   - **Support**: ""Breakfast as an extra was good.""  
+     - **Contrary**: ""no_evident_not_good_breakfast"""
+245,good_food,"1. **Support**: tasty_food  
+   - **Contrary**: no_evident_not_tasty_food  
+
+2. **Support**: awesome  
+   - **Contrary**: no_evident_not-awesome"
+246,good_food,"- good  
+  no_evident_not_good"
+250,good_food,"chefRichard, food_fabulous, no_evident_not_chefRichard, no_evident_not_food_fabulous"
+252,good_food,"1. **Support**: freshly_made  
+   **Contrary**: no_evident_not_freshly_made  
+
+2. **Support**: delicious  
+   **Contrary**: no_evident_not_delicious"
+258,good_food,"good_food, no_evident_not_food, tranquility, no_evident_not_tranquility"
+260,good_food,"good_food, breakfast"
+262,good_food,"Here is the structured response in ABA format based on your requirements:
+
+1. **Supports**:
+   - good_food
+   - excellent_breakfast
+
+2. **Contraries**:
+   - no_evident_not_good_food
+   - no_evident_not_excellent_breakfast"
+268,good_food,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Claim**: good_breakfast  
+- **Supports**:  
+  - breakfast (no evident not_breakfast)  
+  - available (no evident_not_available)"
+272,good_food,"- **Claim**: good_food  
+- **Support**: delicious_breakfast  
+- **Contrary**: no_evident_not_delicious_breakfast"
+278,good_food,"Here is the text generated in ABA format based on your conditions and the provided sentence:
+
+- Supports:  
+  - tasty_food  
+  - comfortable_restaurant_for_cozy_evenings  
+  - comfortable_restaurant_for_calm_work  
+  - superb_food  
+
+- Contraries (for each support):  
+  - no_evident_not_tasty_food  
+  - no_evident_not_comfortable_restaurant_for_cozy_evenings  
+  - no_evident_not_comfortable_restaurant_for_calm_work  
+  - no_evident_not_superb_food"
+279,bad_food,"- **Supports**:  
+  - not_included_breakfast  
+  - no_menu  
+
+- **Contraries**:  
+  - have_evident_not_included_breakfast  
+  - have_evident_no_menu"
+279,good_food,"1. **Support**: small_restaurant  
+   **Contrary**: no_evident_not_small_restaurant  
+
+2. **Support**: hotel_lobby  
+   **Contrary**: no_evident_not_hotel_lobby  
+
+3. **Support**: $10_euros  
+   **Contrary**: no_evident_not_$10_euros  
+
+4. **Support**: very_nice_hot_breakfast  
+   **Contrary**: no_evident_not_very_nice_hot_breakfast"
+282,good_food,"1. **Support**: tasty  
+   - **Contrary**: no_evident_not_tasty"
+288,good_food,"1. good_breakfast  
+   - good  
+     - no_evident_not_good  
+   - tasty  
+     - no_evident_not_tasty"
+290,good_food,"good, no evident not good"
+295,good_food,"### Supports and Contraries:
+
+1. **warm_and_cozy_place**  
+   - No evident not warm_and_cozy_place  
+
+2. **tasty_breakfasts_every_morning**  
+   - No evident not tasty_breakfasts_every_morning  
+
+3. **awesome_people**  
+   - No evident not awesome_people"
+300,good_food,"- **Supports**: presentable, tasty  
+- **Contraries**: no_evident_not_presentable, no_evident_not_tasty"
+305,good_food,"1. **Support**: tasty  
+   - **Contrary**: no_evident_not_tasty_food  
+
+2. **Support**: comfortable_restaurant_for_cozy  
+   - **Contrary**: no_evident_not_comfortable_restaurant_for_cozy  
+
+3. **Support**: calm_work  
+   - **Contrary**: no_evident_not_calm_work"
+310,good_food,"1. Breakfasts_were_nice  
+2. clean_restaurant  
+3. no_evident_not_breakfasts_were_nice  
+4. no_evident_not_clean_restaurant"
+312,good_food,"1. good_food  
+2. tasty  
+3. good  
+4. no_evident_not_tasty  
+5. no_evident_not_good"
+322,bad_food,"It seems like your request is incomplete or unclear. Could you please provide more context or clarify what you mean by ""More restaurants""? I would be happy to help format it according to ABA standards if you can specify how this should be incorporated into the argumentation framework."
+330,good_food,"1. **Claim**: good_food  
+2. **Supports**:
+   - tasty
+     - no evident not tasty food
+   - comfortable_restaurant
+     - no evident not comfortable_restaurant_for_cozy_evenings
+   - calm_work
+     - no evident not calm_work"
+333,good_food,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+1. **Supports**:  
+   - **tasty_food**  
+   - **comfortable_restaurant_for_cozy_evenings**  
+   - **comfortable_restaurant_for_calm_work**
+
+2. **Contraries**:  
+   - **no_evident_not_tasty_food**  
+   - **no_evident_not_comfortable_restaurant_for_cozy_evenings**  
+   - **no_evident_not_comfortable_restaurant_for_calm_work**
+
+Each support is paired with its corresponding contrary, following the specified format."
+336,good_food,"1. good_food  
+2. dinner  
+3. breakfast  
+4. no_evident_not_dinner  
+5. no_evident_not_breakfast"
+339,good_food,"1. **Support**: ""garnish_restaurant_on_the_ground_is_amazing""  
+   **Contrary**: ""no_evident_not_garnish_restaurant_on_the_ground_is_amazing""
+
+2. **Support**: ""owner_is_a_very_kind_person""  
+   **Contrary**: ""no_evident_not_owner_is_a_very_kind_person""
+
+3. **Support**: ""creative_chef""  
+   **Contrary**: ""no_evident_not_creative_chef"""
+348,good_food,"1. typical_cypriot_breakfast  
+   no_evident_not_typical_cypriot_breakfast  
+
+2. good_food  
+   no_evident_not_good_food"
+353,good_food,"1. **Support**: healthy_breakfast  
+   **Contrary**: no_evident_not_healthy_breakfast  
+
+2. **Support**: breakfast_menu  
+   **Contrary**: no_evident_not_breakfast_menu  
+
+3. **Support**: near_transport  
+   **Contrary**: no_evident_not_near_transport"
+355,good_food,"great_breakfast, breakfast, no_evident_not_breakfast"
+362,good_food,"1. **Support**: I recommend_breakfasts  
+   **Contrary**: No evident not_breakfasts  
+
+2. **Support**: delicious_breakfasts  
+   **Contrary**: No evident not_delicious_breakfasts"
+366,good_food,"1. **Supports**:  
+   - delicious_breakfast  
+   - lunch  
+   - dinner  
+   - 5star_hotel  
+   - excellent_chef  
+   - perfect  
+   - absolutely_fantastic  
+
+2. **Contraries** (for each support):  
+   - no_evident_not_delicious_breakfast  
+   - no_evident_not_lunch  
+   - no_evident_not_dinner  
+   - no_evident_not_5star_hotel  
+   - no_evident_not_excellent_chef  
+   - no_evident_not_perfect  
+   - no_evident_not_absolutely_fantastic"
+369,good_food,"- good_food  
+  - amazing  
+    - no_evident_not_amazing"
+373,good_food,"1. **Support**: tasty  
+   - **Contrary**: no evident not tasty  
+
+2. **Support**: comfortable  
+   - **Contrary**: no evident not comfortable  
+
+3. **Support**: cozy evenings  
+   - **Contrary**: no evident not cozy evenings  
+
+4. **Support**: calm work  
+   - **Contrary**: no evident not calm work  
+
+5. **Support**: delicious breakfast  
+   - **Contrary**: no evident not delicious breakfast"
+375,good_food,"1. **Support**: outstanding  
+   - **Contrary**: no_evident_not_outstanding  
+
+2. **Support**: delicious  
+   - **Contrary**: no_evident_not_delicious  
+
+3. **Support**: even_the_simplest_food_was_made_to_taste_exceptional  
+   - **Contrary**: no_evident_not_even_the_simplest_food_was_made_to_taste_exceptional"
+376,good_food,"1. **Claim**: chef_is_incredible_and_very_friendly  
+2. **Supports**:
+   - incredible
+   - very
+   - friendly  
+3. **Contraries**:
+   - no evident not incredible
+   - no evident not very
+   - no evident not friendly"
+377,good_food,"- **Support**: delicious  
+  - **Contrary**: no_evident_not_delicious"
+378,good_food,"Here’s the text in Assumption-Based Argumentation (ABA) format based on your instructions:
+
+- **Claim**: good_food  
+- **Support**: delicious  
+- **Contrary**: no_evident_not_delicious"
+379,good_food,"- got  
+- nice_evening_in_bar  
+- no_evident_not_got  
+- no_evident_not_nice_evening_in_bar"
+380,bad_food,"- **Support**: more  
+- **Contrary**: have evident more"
+380,good_food,"good_food  
+tasty  
+no_evident_not_tasty"
+383,good_food,"- **Support**: good_breakfast  
+  - **Contrary**: no_evident_not_good_breakfast"
+386,good_food,"1. good_food  
+   - friendly  
+     - no_evident_not_friendly  
+   - welcoming  
+     - no_evident_not_welcoming  
+   - accommodating  
+     - no_evident_not_accommodating"
+393,good_food,"- good_food
+  - tasty_food
+    - no_evident_not_tasty_food
+  - comfortable_restaurant_for_cozy_evenings
+    - no_evident_not_comfortable_restaurant_for_cozy_evenings
+  - comfortable_restaurant_for_calm_work
+    - no_evident_not_comfortable_restaurant_for_calm_work
+  - reasonably_priced
+    - no_evident_not_reasonably_priced
+  - quality
+    - no_evident_not_quality"
+394,good_food,"Here’s the ABA response based on your text ""Great service by Richard (bar manager):""
+
+1. **good_service**
+2. **no_evident_not_great_service**"
+400,good_food,"Here is the structured ABA format based on your requirements:
+
+**Supports:**
+1. The personnel, especially the Chief, is a real professional.
+2. The personnel, especially the Chief, prepares traditional vegan dishes of local cuisine.
+
+**Contraries:**
+- No evident not the personnel, especially the Chief, is a real professional.
+- No evident not the personnel, especially the Chief, prepares traditional vegan dishes of local cuisine."
+405,good_food,"1. rich  
+2. years_before  
+3. kind  
+4. polite  
+5. ready_to_help_with_whatsoever_you_want_to_eat_and_drink  
+
+6. no_evident_not_rich  
+7. no_evident_not_years_before  
+8. no_evident_not_kind  
+9. no_evident_not_polite  
+10. no_evident_not_ready_to_help_with_whatsoever_you_want_to_eat_and_drink"
+407,good_food,"**ABA Format for ""Nice Greek Breakfast""**
+
+**Supports:**
+1. tasty_greek_breakfast
+
+**Contraries:**
+1. no_evident_not_tasty_greek_breakfast"
+409,good_food,"1. good_food  
+   - food  
+     no_evident_not_food  
+   - service  
+     no_evident_not_service"
+415,good_food,"1. tasty_food  
+   - no_evident_not_tasty_food  
+
+2. comfortable_restaurant_for_cozy_evenings  
+   - no_evident_not_comfortable_restaurant_for_cozy_evenings  
+
+3. comfortable_restaurant_for_calm_work  
+   - no_evident_not_comfortable_restaurant_for_calm_work  
+
+4. awesome_breakfast  
+   - no_evident_not_awesome_breakfast"
+424,good_food,"- **Claim**: great_breakfast  
+- **Support**: great_breakfast  
+  - **Contrary**: no_evident_not_great_breakfast"
+425,bad_food,"Here is the text converted into ABA format based on your conditions:
+
+- **Support**: no_cereal  
+  **Contrary**: have_evident_no_cereal  
+
+- **Support**: no_tea  
+  **Contrary**: have_evident_no_tea  
+
+- **Support**: no_plan_tea  
+  **Contrary**: have_evident_no_plan_tea"
+431,good_food,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Claim**: decent_restaurant  
+- **Supports**:
+  - decent_restaurant
+- **Contraries**:
+  - no_evident_not_decent_restaurant"
+437,bad_food,"Here is the text in Assumption-Based Argumentation (ABA) format based on your requirements:
+
+- **Support 1**: no_breakfast_included  
+- **Contrary 1**: have_evident_no_breakfast_included  
+- **Support 2**: low_quality  
+- **Contrary 2**: have_evident_low_quality"
+439,bad_food,"- narrow set of choices, a narrow set of choices, have evident narrow set of choices, have evident a narrow set of choices"
+439,good_food,"1. **Claim**: good_food  
+2. **Supports**:
+   - restaurant_stayed_open
+   - reasonably_late
+3. **Contraries**:
+   - no_evident_not_restaurant_stayed_open
+   - no_evident_not_reasonably_late"
+441,good_food,"**ABA Format for ""Break fast was PERFECT""**
+
+- **Support 1:** breakfast  
+  - **Contrary:** no evident not-breakfast  
+
+- **Support 2:** perfect  
+  - **Contrary:** no evident not-perfect"
+442,good_food,"1. Support: filling  
+   Contrary: no_evident_not_filling"
+445,bad_food,"1. below -> have_evident_below  
+2. average -> have_evident_average"
+446,bad_food,"Here is the structured ABA format based on your requirements:
+
+1. **Supports:**
+   - not_great_pizza
+   - stodgy_pizza
+
+2. **Contraries:**
+   - have_evident_not_great_pizza
+   - have_evident_stodgy_pizza
+
+3. **Additional Support:**
+   - poor_evening_meal
+
+4. **Counter-Contrary:**
+   - have_evident_poor_evening_meal"
+456,bad_food,"- no_free_breakfast, have_evident_no_free_breakfast  
+- free_breakfast, have_evident_free_breakfast"
+456,good_food,"- good_food: delicious  
+  - Contrary: no_evident_not_delicious"
+458,bad_food,"- limited_food_options  
+- have_evident_limited_food_options"
+465,good_food,"1. tasty_food  
+2. first_floor  
+3. comfortable_restaurant  
+4. cozy_evenings  
+5. calm_work  
+6. escape_heat_midday  
+
+Contrary:  
+7. no_evident_not_tasty_food  
+8. no_evident_not_first_floor  
+9. no_evident_not_comfortable_restaurant  
+10. no_evident_not_cozy_evenings  
+11. no_evident_not_calm_work  
+12. no_evident_not_escape_heat_midday"
+472,good_food,"1. **Support**: huge  
+   - Contrary: no evident not huge  
+
+2. **Support**: delicious  
+   - Contrary: no evident not delicious"
+474,bad_food,"1. **Support**: excellent_meal  
+   **Contrary**: have_evident_excellent_meal  
+
+2. **Support**: poor_lunch_breakfast  
+   **Contrary**: have_evident_poor_lunch_breakfast"
+477,good_food,"Here is the text in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- Supports: delicious_food  
+  Contraries: no_evident_not_delicious_food  
+
+List of all supports and contraries:  
+[""delicious_food"", ""no_evident_not_delicious_food""]"
+479,good_food,"1. good_breakfast_in_hotel  
+2. different_options_up_to_10_eur  
+3. no_evident_not_good_breakfast_in_hotel  
+4. no_evident_not_different_options_up_to_10_eur"
+484,good_food,"- **Claim**: good_food  
+  - **Support**: dinner  
+    - **Contrary**: no evident not dinner  
+  - **Support**: evening  
+    - **Contrary**: no evident not evening"
+490,good_food,"Here is the structured ABA format based on your requirements:
+
+1. tasty_food: Assumption
+   - Contrary: no_evident_not_tasty_food
+
+2. comfortable_restaurant: Assumption
+   - Contrary: no_evident_not_comfortable_restaurant
+
+3. cozy_evenings: Assumption (as part of the restaurant's comfort)
+   - Contrary: no_evident_not_cozy_evenings
+
+4. calm_work: Assumption (as part of the restaurant's comfort)
+   - Contrary: no_evident_not_calm_work
+
+5. excellent_cuisine: Assumption
+   - Contrary: no_evident_not_excellent_cuisine"
+496,good_food,"Here’s the updated text in Assumption Based Argumentation (ABA) format based on your conditions:
+
+1. **Supports**:  
+   - tasty_food  
+   - comfortable_restaurant_for_cozy_evenings  
+   - comfortable_restaurant_for_calm_work  
+   - delicious_breakfast  
+
+2. **Contraries** for each support:  
+   - no_evident_not_tasty_food  
+   - no_evident_not_comfortable_restaurant_for_cozy_evenings  
+   - no_evident_not_comfortable_restaurant_for_calm_work  
+   - no_evident_not_delicious_breakfast  
+
+This maintains the structure where each support is paired with its contrary, and all are listed together without separation."
+497,good_food,"Based on your text ""the restaurant is very varied,"" here's how you can structure it in ABA format with the given conditions:
+
+1. **Claim**: good_food  
+2. **Supports** and their contraries:  
+   - **Varied_restaurant**: The restaurant offers a diverse menu to cater to different tastes.  
+     - **Contrary**: no_evident_not_varied_restaurant  
+   - **Very Varied_restaurant**: The variety of dishes is impressive, making every visit unique.  
+     - **Contrary**: no_evident_not_very_Variated_restaurant  
+
+This integrates the new information while maintaining the ABA structure and conditions you provided."
+501,bad_food,"bad_food, 
+long_time, 
+have_evident_long_time"
+501,good_food,"Here is the text formatted in Assumption-Based Argumentation (ABA) based on your conditions:
+
+- good_restaurant_in_hotel_lobby  
+  no_evident_not_good_restaurant_in_hotel_lobby"
+505,good_food,"- **Supports**:  
+  - restaurant  
+  - coffee  
+
+- **Contraries**:  
+  - no_evident_not_restaurant  
+  - no_evident_not_coffee"
+519,good_food,"1. **Claim**: good_breakfast  
+2. **Supports**:
+   - tasty
+   - comfortable
+3. **Contraries**:
+   - no evident not_tasty
+   - no evident not_comfortable"
+524,good_food,"1. tasty_food  
+   no_evident_not_tasty_food  
+
+2. excellent_food  
+   no_evident_not_excellent_food"
+533,good_food,"Here is the text converted into Assumption Based Argumentation (ABA) format based on your conditions:
+
+- **perfect_food**: affable_cook; no evident not affable_cook  
+- **fast_and_delicious_food**: irreproachable_service; no evident not irreproachable_service"
+534,good_food,"Here is the updated ABA format based on your text:
+
+- **Supports**:  
+  tasty_food, comfortable_restaurant_for_cozy_evenings, comfortable_restaurant_for_calm_work, good_breakfast  
+
+- **Contraries**:  
+  no_evident_not_tasty_food, no_evident_not_comfortable_restaurant_for_cozy_evenings, no_evident_not_comfortable_restaurant_for_calm_work, no_evident_not_good_breakfast"
+536,good_food,"1. **Claim**: good_food  
+2. **Supports**:  
+   - simple  
+   - tasty  
+3. **Contraries**:  
+   - no_evident_not_simple  
+   - no_evident_not_tasty"
+545,good_food,"1. **Supports:**
+   - tasty
+   - comfortable_restaurant_for_cozy_evenings
+   - calm_work_to_escape_the_heat_in_midday
+
+2. **Contraries:**
+   - no_evident_not_tasty
+   - no_evident_not_comfortable_restaurant_for_cozy_evenings
+   - no_evident_not_calm_work_to_escape_the_heat_in_midday"
+548,bad_food,"1. bad_food  
+2. paying_breakfast  
+3. breakfast  
+4. have_evident_paying_breakfast  
+5. have_evident_breakfast"
+548,good_food,"1. **Claim**: good_food  
+2. **Support**: arabic_food  
+3. **Contrary**: no evident not arabic_food"
+556,good_food,"1. tasty  
+2. comfortable  
+3. cozy_evenings  
+4. calm_work  
+5. no_evident_not_tasty  
+6. no_evident_not_comfortable  
+7. no_evident_not_cozy_evenings  
+8. no_evident_not_calm_work"
+557,bad_food,"Here is the structured ABA format for the given text:
+
+- **Supports**:
+  - Breakfast does not correspond (to Cypriot hospitality and gastronomy)
+  - Price is too high
+
+- **Contraries**:
+  - Have evident breakfast does not correspond
+  - Have evident price is too high"
+565,good_food,"- **delicious_breakfasts**  
+  - **Delicious**  
+    - **no_evident_not_delicious**"
+571,good_food,"good_food, breakfast, no_evident_not_breakfast"
+572,good_food,"friendly_people  
+friendly_reception  
+no_evident_not_friendly_reception  
+friendly_restaurant  
+no_evident_not_friendly_restaurant"
+576,good_food,"1. **Support**: very_good  
+   **Contrary**: no_evident_not_very_good  
+
+2. **Support**: varied  
+   **Contrary**: no_evident_not_varied  
+
+3. **Support**: good_prices  
+   **Contrary**: no_evident_not_good_prices"
+578,good_food,"[""they"", ""no evident_not_they""]"
+591,good_food,"1. **Support**: breakfasts  
+   - **Contrary**: no_evident_not_breakfasts  
+
+2. **Support**: hotel_restaurant  
+   - **Contrary**: no_evident_not_hotel_restaurant"
+593,good_food,"1. **Supports**:  
+   - dishes  
+   - recommend_eating_at_jasmine_garden  
+
+2. **Contraries**:  
+   - no_evident_not_dishes  
+   - no_evident_not_recommend_eating_at_jasmine_garden"
+594,good_food,"1. Supports:  
+   - delicious  
+   - hotel_restaurant  
+
+2. Contraries:  
+   - no_evident_not_delicious  
+   - no_evident_not_hotel_restaurant"
+595,bad_food,"**ABA Argument:**
+
+- **Claim**: bad_food
+- **Supports**:
+  - meal is not included in the price.
+  - meal is an extra cost.
+- **Contraries**:
+  - have_evident_meal_is_included_in_the_price.
+  - have_evident_meal_is_not_an_extra_cost."
+597,good_food,"1. **Supports**:  
+   - tasty_food  
+   - comfortable_restaurant_for_cozy_evenings  
+   - comfortable_restaurant_for_calm_work  
+
+2. **Contraries**:  
+   - no_evident_not_tasty_food  
+   - no_evident_not_comfortable_restaurant_for_cozy_evenings  
+   - no_evident_not_comfortable_restaurant_for_calm_work"
+599,good_food,"1. **Support**: delicious_breakfast  
+   - **Contrary**: no_evident_not_delicious_breakfast  
+
+2. **Support**: in_cafe  
+   - **Contrary**: no_evident_not_in_cafe"
+610,good_food,"1. Breakfast  
+2. Terrace  
+3. No evident not breakfast  
+4. No evident not terrace"
+611,good_food,"1. **Claim**: good_quality_of_dishes  
+2. **Supports**:  
+   - restaurant  
+   - good_quality_of_dishes  
+3. **Contraries**:  
+   - no_evident_not_restaurant  
+   - no_evident_not_good_quality_of_dishes"
+613,good_food,"**Claim:** very_good_breakfast  
+**Supports & Contraries:**  
+breakfast  
+no_evident_not_breakfast"
+615,good_food,"1. **Supports:**
+   - nice_staff
+   - restaurant
+   - hotel
+
+2. **Contraries:**
+   - no_evident_not_nice_staff
+   - no_evident_not_restaurant
+   - no_evident_not_hotel"
+619,good_food,"1. **Support**: perfect_dinner  
+   **Contrary**: no_evident_not_perfect_dinner  
+
+2. **Support**: good_dinner  
+   **Contrary**: no_evident_not_good_dinner  
+
+3. **Support**: lovely_waiter  
+   **Contrary**: no_evident_not_lovely_waiter"
+621,bad_food,"1. bad_food  
+2. breakfasts  
+3. have_evident_breakfasts  
+4. tasty  
+5. have_evident_tasty"
+621,good_food,"1. tasty_food  
+2. comfortable_restaurant_for_cozy_evenings  
+3. comfortable_restaurant_for_calm_work  
+4. no_evident_not_tasty_food  
+5. no_evident_not_comfortable_restaurant_for_cozy_evenings  
+6. no_evident_not_comfortable_restaurant_for_calm_work"
+626,good_food,"1. Tasty food (hot)  
+   No evident not hot  
+
+2. Tasty food (tasty)  
+   No evident not tasty  
+
+3. Tasty food (homemade)  
+   No evident not homemade  
+
+4. Tasty food (pasta)  
+   No evident not pasta  
+
+5. Tasty food (pizza)  
+   No evident not pizza  
+
+6. Tasty food (salads)  
+   No evident not salads  
+
+7. Tasty food (burgers)  
+   No evident not burgers"
+636,good_food,"Here’s the updated ABA text based on your query:
+
+- **Support**: tasty_food  
+  - **Contrary**: no_evident_not_tasty_food  
+
+- **Support**: excellent_dinner  
+  - **Contrary**: no_evident_not_excellent_dinner  
+
+- **Support**: chef_gave_personal_touch  
+  - **Contrary**: no_evident_not_chef_gave_personal_touch  
+
+This list includes the new support ""excellent_dinner"" and its corresponding contrary, while maintaining all other conditions."
+639,good_food,"- small_lunch, delicious  
+  - no_evident_not_small_lunch  
+  - no_evident_not_delicious"
+642,good_food,"1. **Support**: delicious_breakfast  
+   **Contrary**: no_evident_not_delicious_breakfast  
+
+2. **Support**: homemade_breakfast  
+   **Contrary**: no_evident_not_homemade_breakfast"
+643,bad_food,"Here is the text formatted according to your instructions:
+
+1. **Support**: have_evident_want_more_variety_breakfast  
+   **Contrary**: breakfast  
+
+2. **Support**: have_evident_price_to_food_ratio_proportionate  
+   **Contrary**: price_to_food_ratio"
+646,good_food,"1. **Claim**: good_food  
+2. **Supports and Contraries**:  
+   - **Support 1**: cheap_breakfast  
+     - **Contrary 1**: no_evident_not_cheap_breakfast  
+   - **Support 2**: affordable_breakfast  
+     - **Contrary 2**: no_evident_not_affordable_breakfast"
+650,good_food,"1. Tasty food is good.  
+   No evident not tasty food is good.  
+
+2. Comfortable restaurant for cozy evenings is good.  
+   No evident not comfortable restaurant for cozy evenings is good.  
+
+3. Comfortable restaurant for calm work is good.  
+   No evident not comfortable restaurant for calm work is good."
+654,good_food,"1. wonderful_cappuccino  
+2. at_any_time  
+3. go_down_to_the_veranda  
+4. at_the_tables  
+5. soft_sofas  
+
+- No evident not at any time  
+- No evident not go down to the veranda  
+- No evident not at the tables  
+- No evident not soft sofas"
+658,good_food,"Here is the text processed in Assumption-Based Argumentation (ABA) format based on your conditions:
+
+Supports:  
+- delicious  
+- comfortable_restaurant_for_cozy_evenings  
+- comfortable_restaurant_for_calm_work  
+
+Contraries:  
+- no_evident_not_delicious  
+- no_evident_not_comfortable_restaurant_for_cozy_evenings  
+- no_evident_not_comfortable_restaurant_for_calm_work  
+
+List of all supports and contraries:  
+1. delicious  
+2. comfortable_restaurant_for_cozy_evenings  
+3. comfortable_restaurant_for_calm_work  
+4. no_evident_not_delicious  
+5. no_evident_not_comfortable_restaurant_for_cozy_evenings  
+6. no_evident_not_comfortable_restaurant_for_calm_work"
+660,good_food,"1. **Claim**: good_food  
+2. **Supports**:
+   - breakfast
+   - very_good
+   - plentiful  
+3. **Contraries**:
+   - no_evident_not_breakfast
+   - no_evident_not_very_good
+   - no_evident_not_plentiful"
+663,good_food,"- Breakfast  
+  - served_on_site  
+  - on_the_ground_floor_in_the_dining_room_with_access_to_the_front_terrace  
+  - delicious  
+  - homemade_greek_taste  
+  - no_evident_not_served_on_site  
+  - no_evident_not_on_the_ground_floor_in_the_dining_room_with_access_to_the_front_terrace  
+  - no_evident_not_delicious  
+  - no_evident_not_homemade_greek_taste"
+665,bad_food,"1. good_breakfast  
+2. not_lavish  
+3. had_to_ask_for_bread  
+
+4. have_evident_good_breakfast  
+5. have_evident_not_lavish  
+6. have_evident_had_to_ask_for_bread"
+665,good_food,"Here is the text converted into Assumption-Based Argumentation (ABA) format based on your conditions:
+
+- **Supports**:  
+  - good_breakfast  
+  - not_lavish  
+
+- **Contraries**:  
+  - no_evident_not_good_breakfast  
+  - no_evident_not_not_lavish"
+669,good_food,"1. Support: delicious_breakfast  
+   Contrary: no_evident_not_delicious_breakfast  
+
+2. Support: breakfast_for_a_fee  
+   Contrary: no_evident_not_breakfast_for_a_fee  
+
+3. Support: good_food  
+   Contrary: no_evident_not_good_food"
+672,good_food,"1. **Support**: breakfast  
+   - **Contrary**: no_evident_not_breakfast  
+
+2. **Support**: good  
+   - **Contrary**: no_evident_not_good"
+673,good_food,"Here is the structured response based on the provided conditions:
+
+- **Claim**: good_food
+- **Supports**:
+  - Breakfast_offered (highly recommended)
+  - Tasty_food (from previous context)
+- **Contraries**:
+  - No evident not breakfast_offered
+  - No evident not tasty_food"
+685,good_food,"1. **Supports**:  
+   - excellent_breakfasts  
+   - cheap_breakfast  
+
+2. **Contraries**:  
+   - no_evident_not_excellent_breakfasts  
+   - no_evident_not_cheap_breakfast"
+687,bad_food,"Here is the ABA-style text based on your conditions:
+
+1. **monotonous_breakfast**  
+2. **have_evident_monotonous_breakfast**"
+696,good_food,"- liked_food  
+  no_evident_not_liked_food"
+702,good_food,"Here is the structured ABA format based on your requirements:
+
+- **Supports:**
+  - tasty_food
+  - comfortable_restaurant_for_cozy_evenings
+  - comfortable_restaurant_for_calm_work
+
+- **Contraries:**
+  - no_evident_not_tasty_food
+  - no_evident_not_comfortable_restaurant_for_cozy_evenings
+  - no_evident_not_comfortable_restaurant_for_calm_work"
+703,good_food,"1. full_breakfast  
+2. served_without_time_limit  
+3. no_evident_not_full_breakfast  
+4. no_evident_not_served_without_time_limit"
+710,good_food,"- good_food  
+  - no_evident_not_good_food"
+722,good_food,"- Claim: good_food  
+  - Supports:  
+    - delicious  
+      - no evident not delicious  
+    - on the veranda  
+      - no evident not on the veranda"
+729,good_food,"Here’s the ABA format for ""excellent breakfast"" based on your conditions:
+
+- **Support**: good_breakfast  
+- **Contrary**: no_evident_not_good_breakfast  
+
+This addition maintains consistency with the existing structure in the list."
+735,good_food,"1. Support: breakfast  
+2. Contrary: no_evident_not_breakfast"
+737,good_food,"1. **Support**: pleasant_breakfast  
+   **Contrary**: no_evident_not_pleasant_breakfast  
+
+2. **Support**: good_food  
+   **Contrary**: no_evident_not_good_food"
+738,good_food,"Here is the structured ABA format incorporating the new information:
+
+Supports:
+- tasty_food
+- comfortable_restaurant_for_cozy_evenings
+- comfortable_restaurant_for_calm_work
+- excellent_breakfast
+
+Contraries:
+- no_evident_not_tasty_food
+- no_evident_not_comfortable_restaurant_for_cozy_evenings
+- no_evident_not_comfortable_restaurant_for_calm_work
+- no_evident_not_excellent_breakfast"
+756,bad_food,"I'm sorry, but I cannot generate Assumption-Based Argumentation (ABA) text for your request because the original text does not directly support the claim ""bad_food."" The statement ""it would be nice if there was a breakfast buffet"" seems to be more of a suggestion or feedback rather than an assertion about food quality being bad. If you'd like, I can help analyze or interpret the text differently!"
+757,bad_food,"Here is the text in Assumption Based Argumentation (ABA) format based on your instructions:
+
+1. **Claim**: bad_food  
+2. **Supports** and **Contraries**:  
+   - long_waiting, have_evident_long_waiting  
+   - half_raw_croissant, have_evident_half_raw_croissant  
+   - watery_cappuccino, have_evident_watery_cappuccino"
+764,good_food,"It seems like your request is incomplete or unclear. Could you please provide more context or clarify what you would like me to do with the text ""Breakfast ok.""?"
+768,bad_food,"1. bad_food: monotonous_breakfasts  
+2. have_evident_bad_food: monotonous_breakfasts"
+771,bad_food,"1. Not_good_breakfast  
+2. have_evident_not_good_breakfast  
+3. not_good_same  
+4. have_evident_not_good_same"
+771,good_food,"1. Support: tasty  
+   Contrary: no evident not tasty  
+
+2. Support: same  
+   Contrary: no evident not same"
+777,good_food,"1. tasty_food  
+   - no_evident_not_tasty_food  
+
+2. comfortable_restaurant_for_cozy_evenings  
+   - no_evident_not_comfortable_restaurant_for_cozy_evenings  
+
+3. comfortable_restaurant_for_calm_work  
+   - no_evident_not_comfortable_restaurant_for_calm_work"
+779,bad_food,"- too frugal  
+  - have evident too frugal  
+- very slow  
+  - have evident very slow"
+781,good_food,"serving_breakfast  
+friendly  
+nice  
+sympathetic  
+no_evident_not_friendly  
+no_evident_not_nice  
+no_evident_not_sympathetic"
+782,good_food,"- Claim: good_food
+- Supports and Contraries:
+  - tasty_food
+    - no_evident_not_tasty_food
+  - comfortable_restaurant_for_cozy_evenings
+    - no_evident_not_comfortable_restaurant_for_cozy_evenings
+  - comfortable_restaurant_for_calm_work
+    - no_evident_not_comfortable_restaurant_for_calm_work
+  - delicious_breakfast
+    - no_evident_not_delicious_breakfast"

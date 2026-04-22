@@ -1,0 +1,1395 @@
+ID,Prompt,Topic,Test 3
+4,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Great Quality/price",good_price,"great_quality_price , no_evident_not_great_quality_price"
+34,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] value for money",good_price,"value_for_money , no_evident_not_value_for_money"
+44,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] The facilities were really good, particularly for the tariff charged.",good_price,"facilities_good_tariff_charged , no_evident_not_facilities_good_tariff_charged"
+46,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Great value for money",good_price,"great_value_for_money , no_evident_not_great_value_for_money"
+47,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Good value for money.",good_price,"good_value_for_money , no_evident_not_good_value_for_money"
+49,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Great value for money.",good_price,"great_value_for_money , no_evident_not_great_value_for_money"
+63,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Exceptional value .",good_price,"exceptional_value , no_evident_not_exceptional_value"
+68,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] good value,",good_price,"good_value , no_evident_not_good_value"
+125,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] all that with quite reasonable price.",good_price,"reasonable_price , no_evident_not_reasonable_price"
+133,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] good value for money",good_price,"good_value_for_money , no_evident_not_good_value_for_money"
+136,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] I did not expect such a beautiful hotel for such a cheap price",good_price,"cheap_price , no_evident_not_cheap_price"
+149,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Great for the price.",good_price,"great_for_price , no_evident_not_great_for_price"
+155,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Excellent value for money",good_price,"excellent_value_for_money , no_evident_not_excellent_value_for_money"
+156,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] very good value for money",good_price,"very_good_value_for_money , no_evident_not_very_good_value_for_money"
+203,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Definitely worth the price.",good_price,"worth_price , no_evident_not_worth_price"
+206,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Good value.",good_price,"good_value , no_evident_not_good_value"
+212,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] and very cheap",good_price,"very_cheap , no_evident_not_very_cheap"
+230,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] and very good value",good_price,"very_good_value , no_evident_not_very_good_value"
+232,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Great for the price and our purpose of a late night flight arrival",good_price,"great_for_price , no_evident_not_great_for_price  
+great_for_purpose , no_evident_not_great_for_purpose  
+late_night_flight_arrival , no_evident_not_late_night_flight_arrival"
+234,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] at a very good rate for the excellent standard of accommodation",good_price,"good_rate_for_standard_of_accommodation , no_evident_not_good_rate_for_standard_of_accommodation"
+241,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""bad_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] For what you get it was a bit expensive.
+
+---
+
+ASSISTANT:
+expensive_for_what_you_get , have_evident_expensive_for_what_you_get
+
+---
+
+USER:
+[Text] for the price that it was, it only had some random unlabeled shampoo dispenser attached to the shower wall. dont know if it was body or hair shampoo but it wasnt very nice at all, and seemed a little cheap considering the hotel cost.",bad_price,"random_unlabeled_shampoo_dispenser , have_evident_random_unlabeled_shampoo_dispenser  
+dont_know_if_body_or_hair_shampoo , have_evident_dont_know_if_body_or_hair_shampoo  
+seemed_cheap_considering_hotel_cost , have_evident_seemed_cheap_considering_hotel_cost"
+265,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] as good a hotel as I’ve stayed at for £50 a night.",good_price,"good_hotel_for_50_night , no_evident_not_good_hotel_for_50_night"
+287,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Good value.",good_price,"good_value , no_evident_not_good_value"
+290,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] The room and location were excellent value for money- I was also upgraded a room free of charge, Lovely balcony view of the ocean.",good_price,"room_value_for_money , no_evident_not_room_value_for_money  
+location_value_for_money , no_evident_not_location_value_for_money  
+upgraded_room_free , no_evident_not_upgraded_room_free  
+balcony_view_ocean , no_evident_not_balcony_view_ocean"
+295,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Worth every Euro you spend.",good_price,"worth_every_euro_spend , no_evident_not_worth_every_euro_spend"
+313,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Fantastic value for money.",good_price,"fantastic_value_for_money , no_evident_not_fantastic_value_for_money"
+323,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] and great value for money.",good_price,"great_value_for_money , no_evident_not_great_value_for_money"
+334,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Very economic .",good_price,"economic , no_evident_not_economic"
+338,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Value for money.",good_price,"value_for_money , no_evident_not_value_for_money"
+340,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Very good value for money,",good_price,"good_value_for_money , no_evident_not_good_value_for_money"
+366,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Moreover,the price of his hotel and the prices of the food are very good and are not expensive.",good_price,"price_good , no_evident_not_price_good  
+food_price_good , no_evident_not_food_price_good"
+396,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] and price was great",good_price,"price_great , no_evident_not_price_great"
+414,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] great value",good_price,"great_value , no_evident_not_great_value"
+416,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Value for money!",good_price,"value_for_money , no_evident_not_value_for_money"
+435,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""bad_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] For what you get it was a bit expensive.
+
+---
+
+ASSISTANT:
+expensive_for_what_you_get , have_evident_expensive_for_what_you_get
+
+---
+
+USER:
+[Text] this is a guesthouse that is priced like a hotel",bad_price,"priced_like_hotel , have_evident_priced_like_hotel"
+436,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""bad_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] For what you get it was a bit expensive.
+
+---
+
+ASSISTANT:
+expensive_for_what_you_get , have_evident_expensive_for_what_you_get
+
+---
+
+USER:
+[Text] For that money for which I used to pay better hotels in Valencia you get one small water bottle.",bad_price,"money_used_to_pay_better_hotels_in_Valencia , have_evident_money_used_to_pay_better_hotels_in_Valencia  
+get_one_small_water_bottle , have_evident_get_one_small_water_bottle"
+437,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""bad_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] For what you get it was a bit expensive.
+
+---
+
+ASSISTANT:
+expensive_for_what_you_get , have_evident_expensive_for_what_you_get
+
+---
+
+USER:
+[Text] For what you get it was a bit expensive.",bad_price,"expensive_for_what_you_get , have_evident_expensive_for_what_you_get"
+460,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""bad_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] For what you get it was a bit expensive.
+
+---
+
+ASSISTANT:
+expensive_for_what_you_get , have_evident_expensive_for_what_you_get
+
+---
+
+USER:
+[Text] Rate was very expensive for what it offered.",bad_price,"expensive_for_what_it_offered , have_evident_expensive_for_what_it_offered"
+471,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Exceptional value for money",good_price,"exceptional_value_for_money , no_evident_not_exceptional_value_for_money"
+474,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""bad_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] For what you get it was a bit expensive.
+
+---
+
+ASSISTANT:
+expensive_for_what_you_get , have_evident_expensive_for_what_you_get
+
+---
+
+USER:
+[Text] Overpriced for its facilities,",bad_price,"overpriced_for_facilities , have_evident_overpriced_for_facilities"
+505,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Price/performance is totally right.",good_price,"price_performance_right , no_evident_not_price_performance_right"
+510,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] cheap",good_price,"cheap , no_evident_not_cheap"
+524,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] A place that gives full value for the price.",good_price,"full_value_for_price , no_evident_not_full_value_for_price"
+527,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] with excellent value for money.",good_price,"excellent_value_for_money , no_evident_not_excellent_value_for_money"
+556,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] but overall a good value for the price we paid.",good_price,"good_value_for_price_paid , no_evident_not_good_value_for_price_paid"
+580,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Super establishment undervalued in my opinion",good_price,"establishment_undervalued , no_evident_not_establishment_undervalued"
+590,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] For a reasonable price,",good_price,"reasonable_price , no_evident_not_reasonable_price"
+595,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""bad_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] For what you get it was a bit expensive.
+
+---
+
+ASSISTANT:
+expensive_for_what_you_get , have_evident_expensive_for_what_you_get
+
+---
+
+USER:
+[Text] The meal is not included in the price",bad_price,"meal_not_included_in_price , have_evident_meal_not_included_in_price"
+596,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] very clean cheap, modern room",good_price,"clean_room, no_evident_not_clean_room  
+cheap_room, no_evident_not_cheap_room  
+modern_room, no_evident_not_modern_room"
+600,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] In general, we were satisfied, corresponds to the price,",good_price,"satisfied , no_evident_not_satisfied  
+corresponds_to_price , no_evident_not_corresponds_to_price"
+609,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""bad_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] For what you get it was a bit expensive.
+
+---
+
+ASSISTANT:
+expensive_for_what_you_get , have_evident_expensive_for_what_you_get
+
+---
+
+USER:
+[Text] The price is perhaps a little high for the comfort that a room gives you that is small as soon as you enter.",bad_price,"high_price_for_comfort , have_evident_high_price_for_comfort  
+small_room , have_evident_small_room"
+611,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Very good value for money",good_price,"good_value_for_money , no_evident_not_good_value_for_money"
+619,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Unbeatable value for money I think.",good_price,"unbeatable_value_for_money , no_evident_not_unbeatable_value_for_money"
+631,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Excellent price/quality ratio",good_price,"excellent_price_quality_ratio , no_evident_not_excellent_price_quality_ratio"
+715,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] worth the price",good_price,"worth_the_price , no_evident_not_worth_the_price"
+737,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Excellent value for money!",good_price,"excellent_value_for_money , no_evident_not_excellent_value_for_money"
+767,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""bad_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""have evident"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] For what you get it was a bit expensive.
+
+---
+
+ASSISTANT:
+expensive_for_what_you_get , have_evident_expensive_for_what_you_get
+
+---
+
+USER:
+[Text] The hotel is average (3 stars) 400 euros for 3 nights a bit expensive.",bad_price,"average_hotel_3_stars , have_evident_average_hotel_3_stars  
+400_euros_3_nights_expensive , have_evident_400_euros_3_nights_expensive"
+770,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] value for money",good_price,"value_for_money , no_evident_not_value_for_money"
+775,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] what we expect for this perfect price!",good_price,"expect_for_price , no_evident_not_expect_for_price"
+778,"SYSTEM:
+Generate text in Assumption Based Argumentation (ABA) format from the given text. Use the following conditions carefully.
+1. Claim is ""good_price"".
+2. Supports are written in short words with no adjectives and no adverbs if it is not necessary for understanding.
+3. For each support, use vocab from the original text. Do not provide synonyms. Check grammar. Do not provide further opinion.
+4. Add a contrary for each support as a new support.
+5. Each contrary must use the same word as presented in the support and each contrary starts with ""no evident not"".
+6. Regarding the format of answer, provide a list of all supports and contraries. Do not separate supports and contraries into separated sections. Do not provide assumptions. Do not provide claims.
+
+---
+
+USER:
+[Text] Great value for money
+
+---
+
+ASSISTANT:
+great_value_for_money , no_evident_not_great_value_for_money
+
+---
+
+USER:
+[Text] Excellent value.",good_price,"excellent_value , no_evident_not_excellent_value"
